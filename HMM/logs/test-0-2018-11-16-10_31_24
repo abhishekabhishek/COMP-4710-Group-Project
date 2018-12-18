@@ -1,0 +1,8 @@
+Dimensions of the training datafame: (123906, 3)
+Dimensions of the test datafame: (103821, 3)
+Estimating the parameters for the model with type: <class 'hmmlearn.hmm.GaussianHMM'>
+A model has already been trained with the following parameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_viterbi_full_10_1_(-1,1).pkl
+A model has already been trained with the following parameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_viterbi_full_11_1_(-1,1).pkl
+A model has already been trained with the followingparameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_map_full_10_1_(-1,1).pkl
+A model has already been trained with the followingparameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_map_full_11_1_(-1,1).pkl
+[[11]]

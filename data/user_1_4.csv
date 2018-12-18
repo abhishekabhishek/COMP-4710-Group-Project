@@ -1,0 +1,9061 @@
+,genre_sequence,unique_genres
+0,chillout,chillout
+1,jazz,jazz
+2,chillwave,chillwave
+3,alternative,alternative
+4,funk,funk
+5,dream pop,dream pop
+6,electronic,electronic
+7,electronic,indie
+8,indie,Lo-Fi
+9,Lo-Fi,rock
+10,dream pop,chill
+11,rock,1Live Fiehe
+12,chill,played
+13,1Live Fiehe,pop
+14,played,folk
+15,electronic,ambient
+16,indie,indie rock
+17,chillwave,britpop
+18,indie,Soundtrack
+19,chillwave,80s
+20,pop,indie pop
+21,indie,trains
+22,indie,House
+23,chillwave,singer-songwriter
+24,folk,latin
+25,dream pop,lizvelrene2010
+26,indie,70s
+27,ambient,dreamwave
+28,indie,BIRP
+29,indie rock,instrumental
+30,indie rock,darkwave
+31,indie,best of 2012
+32,britpop,Calming
+33,indie,experimental
+34,rock,title is a full sentence
+35,Soundtrack,shoegaze
+36,electronic,vugube62
+37,80s,beautiful
+38,indie pop,synth pop
+39,trains,classic rock
+40,ambient,so good i forget to breathe
+41,House,electronica
+42,electronic,Clementine remix
+43,Lo-Fi,somafm
+44,indie,reggae
+45,dream pop,summer
+46,singer-songwriter,synthpop
+47,indie rock,electropop
+48,dream pop,indietronica
+49,indie pop,electro
+50,ambient,span495 - 2
+51,latin,big bills
+52,indie,fun
+53,House,Awesome
+54,dream pop,liked
+55,dream pop,2008
+56,lizvelrene2010,North Carolina
+57,electronic,surf rock
+58,rock,psychedelic pop
+59,70s,ost
+60,electronic,skins us
+61,dreamwave,like2009-2014
+62,BIRP,I thought of you
+63,dream pop,exuberant folk
+64,instrumental,Hip-Hop
+65,electronic,skins
+66,indie,loneliness after dusk
+67,electronic,WKNC
+68,darkwave,featuring
+69,rock,Electro Pop
+70,best of 2012,chill-fi
+71,indie,favorites
+72,indie rock,Love
+73,Calming,best of 2010-lo mejor de 2010
+74,experimental,covers
+75,indie,electrosexy
+76,title is a full sentence,kick your ass
+77,indie,double-ender 16
+78,indie rock,mental
+79,House,psychedelic
+80,shoegaze,if this song were a girl i would fuck her or at least touch her tits
+81,vugube62,End Credits
+82,beautiful,my secret agent lover man
+83,folk,discover
+84,rock,alternative rock
+85,beautiful,cover
+86,indie rock,pop music tag
+87,electronic,afrobeat
+88,indie,american
+89,synth pop,recs I like
+90,lizvelrene2010,female vocals
+91,indie rock,beats
+92,classic rock,funky
+93,electronic,singer-songwritergdchill
+94,electronic,2k11 mix
+95,electronic,melancholy
+96,pop,kbfm
+97,pop,guitar
+98,pop,new girls
+99,pop,funky jazz
+100,pop,Austin Loved Tracks
+101,dream pop,Minneapolis
+102,so good i forget to breathe,Burn One
+103,indie,best remixes
+104,electronica,Disco
+105,electronic,Me gusta
+106,indie,sxsw 2011
+107,dreamwave,rocket shoes mixtapes
+108,indie,new tracks to investigate
+109,Clementine remix,ladytron
+110,indie rock,twee
+111,rock,test
+112,somafm,investigate
+113,Lo-Fi,the prescription
+114,BIRP,female vocalists
+115,reggae,fit
+116,chillwave,garage pop
+117,indie pop,cute
+118,electronic,i want back to the 2010s
+119,electronic,the word miss
+120,summer,autumn
+121,indie,Go drunk eosin cabs
+122,synthpop,austin
+123,electronic,Morose Deep dilate Crimson
+124,indie pop,shut up and have a banana
+125,electropop,needs more cowbell
+126,electronic,low-fi
+127,dreamwave,daytrotter
+128,indie,music to get the pussy wet
+129,electronic,lovedbybeyondwithin
+130,indie,late night
+131,indietronica,no fidelity
+132,singer-songwriter,thesixtyone
+133,ambient,emo
+134,electronic,world
+135,indie,idioteque
+136,electro,sxsw 2009
+137,indie,2006
+138,electronic,psychedelic folk
+139,electronic,normal
+140,electronic,other
+141,indie,stonesoup
+142,alternative,chasing the mean reds
+143,indie pop,pxs: loved
+144,indie,good
+145,indie,bizarre
+146,pop,alternative rap
+147,indie,warm
+148,80s,goodnightmom
+149,chillwave,in 80 days around the world
+150,electronic,stonedbeat
+151,electronic,amazing
+152,indie,heard on Pandora
+153,chillwave,Recent discoveries
+154,indie,Skinhead
+155,Clementine remix,animals
+156,indie rock,elegy
+157,indie pop,Canadian
+158,indie,remix
+159,electronic,hip hop
+160,electronic,ktw
+161,singer-songwriter,posh
+162,somafm,hot lava
+163,indie,C-pop
+164,indie,the dronez
+165,ambient,Background
+166,electronic,hauntingly beautiful
+167,Soundtrack,Live Earth
+168,electronic,post-rock
+169,indie,country
+170,electronic,unfortunately relagated to b-side status
+171,indie,Dreamy
+172,indie,i feel love
+173,singer-songwriter,anti-folk
+174,indie pop,bradford cox is a genius
+175,80s,Garage Rock
+176,experimental,Channel X
+177,indie rock,drinking
+178,Clementine remix,Mellow
+179,indie pop,sweet cooing monks from the eastern seaboard
+180,ambient,pitchfork music festival 2010
+181,indie,audioase
+182,indie,this
+183,dreamwave,cap
+184,electronic,Recs from Mark
+185,chillout,best of 2009
+186,somafm,fip
+187,indie,loved
+188,indie,oldies
+189,indie,Indian
+190,indie,summer sound
+191,dreamwave,60's
+192,chillwave,male vocals
+193,indie,tambourine
+194,pop,favorite songs
+195,experimental,Heartbreaking
+196,electronic,americana
+197,80s,Fan-Fucking-Tastic
+198,span495 - 2,ventnor
+199,indie,happy
+200,big bills,o
+201,fun,indie folk
+202,dream pop,None
+203,electronic,None
+204,electronic,None
+205,fun,None
+206,big bills,None
+207,indie,None
+208,span495 - 2,None
+209,80s,None
+210,electronic,None
+211,experimental,None
+212,pop,None
+213,indie,None
+214,pop,None
+215,indie rock,None
+216,indie,None
+217,Soundtrack,None
+218,indie rock,None
+219,electronic,None
+220,chillout,None
+221,indie,None
+222,indie,None
+223,indie,None
+224,indie,None
+225,80s,None
+226,rock,None
+227,chillwave,None
+228,80s,None
+229,80s,None
+230,indie,None
+231,pop,None
+232,electronic,None
+233,chill,None
+234,pop,None
+235,played,None
+236,indie,None
+237,pop,None
+238,dream pop,None
+239,indie pop,None
+240,electronic,None
+241,indie,None
+242,indie,None
+243,pop,None
+244,indie,None
+245,experimental,None
+246,chillout,None
+247,indie,None
+248,indie,None
+249,indie,None
+250,chillout,None
+251,electronic,None
+252,indie rock,None
+253,Soundtrack,None
+254,indie,None
+255,indie rock,None
+256,indie,None
+257,pop,None
+258,chill,None
+259,indie,None
+260,pop,None
+261,experimental,None
+262,electronic,None
+263,indie,None
+264,pop,None
+265,chill,None
+266,pop,None
+267,indie,None
+268,indie,None
+269,indie rock,None
+270,indie,None
+271,Soundtrack,None
+272,indie rock,None
+273,80s,None
+274,80s,None
+275,span495 - 2,None
+276,indie,None
+277,big bills,None
+278,fun,None
+279,electronic,None
+280,electronic,None
+281,dream pop,None
+282,indie,None
+283,indie,None
+284,electronic,None
+285,ambient,None
+286,indie,None
+287,electronic,None
+288,indie,None
+289,electronic,None
+290,indie,None
+291,indie,None
+292,indie pop,None
+293,Soundtrack,None
+294,indie pop,None
+295,indie,None
+296,electronic,None
+297,experimental,None
+298,pop,None
+299,Lo-Fi,None
+300,Awesome,None
+301,indie rock,None
+302,alternative,None
+303,chill,None
+304,indie pop,None
+305,indie rock,None
+306,alternative,None
+307,alternative,None
+308,liked,None
+309,alternative,None
+310,indie,None
+311,indie rock,None
+312,2008,None
+313,Clementine remix,None
+314,electronic,None
+315,indie rock,None
+316,indie,None
+317,alternative,None
+318,indie rock,None
+319,electronic,None
+320,indie,None
+321,indie rock,None
+322,indie rock,None
+323,indie rock,None
+324,indie rock,None
+325,indie,None
+326,indie rock,None
+327,indie,None
+328,electronic,None
+329,experimental,None
+330,ambient,None
+331,instrumental,None
+332,indie,None
+333,experimental,None
+334,electronic,None
+335,indie,None
+336,electronic,None
+337,indie pop,None
+338,electronic,None
+339,indie,None
+340,ambient,None
+341,experimental,None
+342,electronic,None
+343,Soundtrack,None
+344,indie,None
+345,chillout,None
+346,Lo-Fi,None
+347,indie pop,None
+348,electronic,None
+349,electronic,None
+350,electropop,None
+351,electronic,None
+352,indie,None
+353,alternative,None
+354,electronic,None
+355,Lo-Fi,None
+356,Soundtrack,None
+357,indie,None
+358,chillout,None
+359,indie,None
+360,singer-songwriter,None
+361,indie rock,None
+362,indie,None
+363,rock,None
+364,alternative,None
+365,rock,None
+366,rock,None
+367,rock,None
+368,indie,None
+369,indie,None
+370,best of 2012,None
+371,indie pop,None
+372,Soundtrack,None
+373,fun,None
+374,electronic,None
+375,funk,None
+376,electronic,None
+377,electropop,None
+378,indie,None
+379,Lo-Fi,None
+380,Soundtrack,None
+381,experimental,None
+382,indie,None
+383,indietronica,None
+384,indie,None
+385,rock,None
+386,chillwave,None
+387,indie,None
+388,singer-songwriter,None
+389,indie,None
+390,chillwave,None
+391,rock,None
+392,indie,None
+393,indie,None
+394,indie,None
+395,singer-songwriter,None
+396,indie,None
+397,Lo-Fi,None
+398,indie,None
+399,singer-songwriter,None
+400,indie,None
+401,indie,None
+402,indie,None
+403,rock,None
+404,chillwave,None
+405,indie,None
+406,indie,None
+407,indie,None
+408,singer-songwriter,None
+409,indie,None
+410,indie,None
+411,Lo-Fi,None
+412,chillout,None
+413,indie,None
+414,indie,None
+415,summer,None
+416,Lo-Fi,None
+417,indie,None
+418,rock,None
+419,rock,None
+420,rock,None
+421,alternative,None
+422,electronic,None
+423,electronic,None
+424,indie,None
+425,indie,None
+426,electronic,None
+427,Soundtrack,None
+428,rock,None
+429,indie,None
+430,electropop,None
+431,Lo-Fi,None
+432,indie,None
+433,chillwave,None
+434,Lo-Fi,None
+435,folk,None
+436,Lo-Fi,None
+437,indie,None
+438,electronic,None
+439,chill,None
+440,pop,None
+441,indie,None
+442,indie,None
+443,electropop,None
+444,singer-songwriter,None
+445,electronic,None
+446,Lo-Fi,None
+447,chillwave,None
+448,indie,None
+449,singer-songwriter,None
+450,Lo-Fi,None
+451,Soundtrack,None
+452,rock,None
+453,indie,None
+454,electronic,None
+455,indie,None
+456,alternative,None
+457,summer,None
+458,singer-songwriter,None
+459,Clementine remix,None
+460,experimental,None
+461,indie,None
+462,rock,None
+463,indie rock,None
+464,chillout,None
+465,indie,None
+466,electropop,None
+467,indie,None
+468,electronic,None
+469,indie,None
+470,indie,None
+471,indie,None
+472,indie,None
+473,indie,None
+474,indie,None
+475,electronic,None
+476,North Carolina,None
+477,surf rock,None
+478,indie,None
+479,psychedelic pop,None
+480,electronic,None
+481,ost,None
+482,skins us,None
+483,indie,None
+484,indietronica,None
+485,electronic,None
+486,indie,None
+487,indie,None
+488,indie rock,None
+489,indie,None
+490,indie,None
+491,indie,None
+492,electronic,None
+493,indietronica,None
+494,indie,None
+495,indie,None
+496,indie,None
+497,indie rock,None
+498,indie,None
+499,skins us,None
+500,ost,None
+501,somafm,None
+502,indie,None
+503,indie,None
+504,indie,None
+505,indie,None
+506,indie,None
+507,indie,None
+508,indie,None
+509,indie,None
+510,chill,None
+511,like2009-2014,None
+512,electropop,None
+513,alternative,None
+514,indie,None
+515,electronic,None
+516,indie pop,None
+517,indie pop,None
+518,indie,None
+519,indie,None
+520,indie,None
+521,electronic,None
+522,singer-songwriter,None
+523,indie,None
+524,classic rock,None
+525,rock,None
+526,classic rock,None
+527,classic rock,None
+528,rock,None
+529,classic rock,None
+530,classic rock,None
+531,classic rock,None
+532,rock,None
+533,indie,None
+534,rock,None
+535,experimental,None
+536,electronic,None
+537,electronic,None
+538,pop,None
+539,electronic,None
+540,electronic,None
+541,electronic,None
+542,folk,None
+543,Lo-Fi,None
+544,vugube62,None
+545,indie,None
+546,indie,None
+547,chillout,None
+548,indie,None
+549,indie,None
+550,rock,None
+551,indie,None
+552,rock,None
+553,indie,None
+554,rock,None
+555,indie,None
+556,indie,None
+557,indie rock,None
+558,indie rock,None
+559,pop,None
+560,BIRP,None
+561,rock,None
+562,I thought of you,None
+563,electronic,None
+564,rock,None
+565,vugube62,None
+566,80s,None
+567,singer-songwriter,None
+568,singer-songwriter,None
+569,singer-songwriter,None
+570,folk,None
+571,singer-songwriter,None
+572,classic rock,None
+573,Calming,None
+574,jazz,None
+575,exuberant folk,None
+576,fun,None
+577,Hip-Hop,None
+578,rock,None
+579,electronic,None
+580,electronic,None
+581,indie,None
+582,indie,None
+583,indie,None
+584,indie,None
+585,indie,None
+586,electronic,None
+587,rock,None
+588,indie,None
+589,electronic,None
+590,80s,None
+591,indie rock,None
+592,indie pop,None
+593,electronic,None
+594,ambient,None
+595,ambient,None
+596,BIRP,None
+597,indie,None
+598,experimental,None
+599,indie,None
+600,chillwave,None
+601,electronic,None
+602,indie pop,None
+603,indie,None
+604,indie pop,None
+605,alternative,None
+606,alternative,None
+607,80s,None
+608,electronic,None
+609,synthpop,None
+610,indie,None
+611,electronic,None
+612,Lo-Fi,None
+613,synthpop,None
+614,folk,None
+615,electronic,None
+616,electronic,None
+617,electronic,None
+618,indie,None
+619,folk,None
+620,indie,None
+621,dream pop,None
+622,skins,None
+623,indie,None
+624,chillout,None
+625,alternative,None
+626,BIRP,None
+627,electronic,None
+628,pop,None
+629,chillout,None
+630,Lo-Fi,None
+631,electronic,None
+632,rock,None
+633,indie,None
+634,indie pop,None
+635,1Live Fiehe,None
+636,loneliness after dusk,None
+637,alternative,None
+638,indie,None
+639,chillout,None
+640,indie,None
+641,synthpop,None
+642,chillwave,None
+643,electronic,None
+644,indie,None
+645,indie,None
+646,indie,None
+647,indie,None
+648,synthpop,None
+649,House,None
+650,Awesome,None
+651,WKNC,None
+652,singer-songwriter,None
+653,rock,None
+654,rock,None
+655,Hip-Hop,None
+656,Hip-Hop,None
+657,Hip-Hop,None
+658,Hip-Hop,None
+659,rock,None
+660,alternative,None
+661,rock,None
+662,rock,None
+663,rock,None
+664,indie,None
+665,indie,None
+666,best of 2012,None
+667,pop,None
+668,rock,None
+669,Hip-Hop,None
+670,rock,None
+671,Hip-Hop,None
+672,classic rock,None
+673,classic rock,None
+674,classic rock,None
+675,rock,None
+676,pop,None
+677,rock,None
+678,Hip-Hop,None
+679,pop,None
+680,indie,None
+681,indie,None
+682,shoegaze,None
+683,indie,None
+684,singer-songwriter,None
+685,indie,None
+686,indie,None
+687,indie,None
+688,indie,None
+689,indie,None
+690,folk,None
+691,indie,None
+692,indie,None
+693,indie pop,None
+694,indie,None
+695,indie pop,None
+696,indie pop,None
+697,indie pop,None
+698,rock,None
+699,rock,None
+700,Hip-Hop,None
+701,pop,None
+702,rock,None
+703,rock,None
+704,rock,None
+705,electronic,None
+706,80s,None
+707,indie rock,None
+708,indie pop,None
+709,electronic,None
+710,ambient,None
+711,ambient,None
+712,BIRP,None
+713,indie,None
+714,experimental,None
+715,indie,None
+716,chillwave,None
+717,electronic,None
+718,indie pop,None
+719,alternative,None
+720,rock,None
+721,featuring,None
+722,80s,None
+723,indie,None
+724,pop,None
+725,pop,None
+726,indie pop,None
+727,pop,None
+728,pop,None
+729,rock,None
+730,Lo-Fi,None
+731,indie,None
+732,liked,None
+733,80s,None
+734,latin,None
+735,latin,None
+736,80s,None
+737,singer-songwriter,None
+738,singer-songwriter,None
+739,singer-songwriter,None
+740,indie,None
+741,instrumental,None
+742,indie,None
+743,singer-songwriter,None
+744,indie,None
+745,indie pop,None
+746,indie pop,None
+747,indie pop,None
+748,Lo-Fi,None
+749,indie pop,None
+750,indie,None
+751,indie,None
+752,indie,None
+753,indie,None
+754,indie pop,None
+755,80s,None
+756,pop,None
+757,pop,None
+758,80s,None
+759,Hip-Hop,None
+760,pop,None
+761,indie,None
+762,indie,None
+763,rock,None
+764,rock,None
+765,rock,None
+766,Hip-Hop,None
+767,pop,None
+768,indie,None
+769,folk,None
+770,indie,None
+771,indie,None
+772,rock,None
+773,so good i forget to breathe,None
+774,rock,None
+775,rock,None
+776,BIRP,None
+777,dream pop,None
+778,Soundtrack,None
+779,Hip-Hop,None
+780,Hip-Hop,None
+781,chillwave,None
+782,pop,None
+783,alternative,None
+784,dream pop,None
+785,chillwave,None
+786,Hip-Hop,None
+787,pop,None
+788,chillwave,None
+789,pop,None
+790,indie,None
+791,Electro Pop,None
+792,chill-fi,None
+793,indie pop,None
+794,indie,None
+795,electronic,None
+796,electronic,None
+797,electronic,None
+798,pop,None
+799,dream pop,None
+800,pop,None
+801,electronic,None
+802,electronic,None
+803,electronic,None
+804,electronic,None
+805,electronic,None
+806,folk,None
+807,electronic,None
+808,folk,None
+809,electronic,None
+810,electronic,None
+811,electronic,None
+812,electronic,None
+813,electronic,None
+814,pop,None
+815,indie,None
+816,singer-songwriter,None
+817,folk,None
+818,classic rock,None
+819,folk,None
+820,indie rock,None
+821,folk,None
+822,folk,None
+823,dream pop,None
+824,dream pop,None
+825,dream pop,None
+826,indie,None
+827,rock,None
+828,Hip-Hop,None
+829,indie,None
+830,electronic,None
+831,chillout,None
+832,indie,None
+833,dream pop,None
+834,synthpop,None
+835,electronic,None
+836,synthpop,None
+837,darkwave,None
+838,electronic,None
+839,indie,None
+840,electronic,None
+841,pop,None
+842,rock,None
+843,indie,None
+844,indie,None
+845,singer-songwriter,None
+846,indie,None
+847,indie pop,None
+848,indie,None
+849,indie pop,None
+850,chillout,None
+851,electronic,None
+852,indie,None
+853,singer-songwriter,None
+854,indie,None
+855,indie,None
+856,indie,None
+857,indie,None
+858,indie pop,None
+859,indie,None
+860,indie pop,None
+861,indie,None
+862,singer-songwriter,None
+863,pop,None
+864,Hip-Hop,None
+865,chill,None
+866,indie,None
+867,beautiful,None
+868,indie,None
+869,indie,None
+870,Lo-Fi,None
+871,ambient,None
+872,BIRP,None
+873,indie,None
+874,Lo-Fi,None
+875,ambient,None
+876,indie,None
+877,indie,None
+878,skins us,None
+879,chillout,None
+880,electronic,None
+881,indie,None
+882,indie,None
+883,instrumental,None
+884,indie,None
+885,indie,None
+886,electronic,None
+887,electronic,None
+888,instrumental,None
+889,indie,None
+890,folk,None
+891,folk,None
+892,indie,None
+893,alternative,None
+894,Soundtrack,None
+895,dream pop,None
+896,dream pop,None
+897,dream pop,None
+898,classic rock,None
+899,classic rock,None
+900,classic rock,None
+901,classic rock,None
+902,classic rock,None
+903,folk,None
+904,singer-songwriter,None
+905,folk,None
+906,folk,None
+907,pop,None
+908,pop,None
+909,pop,None
+910,dream pop,None
+911,Soundtrack,None
+912,folk,None
+913,folk,None
+914,Soundtrack,None
+915,dream pop,None
+916,alternative,None
+917,indie,None
+918,classic rock,None
+919,Soundtrack,None
+920,folk,None
+921,indie,None
+922,favorites,None
+923,Love,None
+924,singer-songwriter,None
+925,singer-songwriter,None
+926,singer-songwriter,None
+927,dream pop,None
+928,indie,None
+929,Hip-Hop,None
+930,pop,None
+931,pop,None
+932,pop,None
+933,indie,None
+934,pop,None
+935,folk,None
+936,Hip-Hop,None
+937,alternative,None
+938,folk,None
+939,folk,None
+940,folk,None
+941,indie,None
+942,best of 2012,None
+943,jazz,None
+944,folk,None
+945,indie,None
+946,folk,None
+947,folk,None
+948,folk,None
+949,electropop,None
+950,best of 2010-lo mejor de 2010,None
+951,covers,None
+952,covers,None
+953,folk,None
+954,folk,None
+955,lizvelrene2010,None
+956,folk,None
+957,folk,None
+958,folk,None
+959,folk,None
+960,vugube62,None
+961,Hip-Hop,None
+962,indie,None
+963,Hip-Hop,None
+964,electrosexy,None
+965,vugube62,None
+966,electronic,None
+967,electronic,None
+968,fun,None
+969,indie,None
+970,chillout,None
+971,indie,None
+972,2008,None
+973,electro,None
+974,BIRP,None
+975,Love,None
+976,indie,None
+977,electronic,None
+978,indie,None
+979,indie,None
+980,chillout,None
+981,electronic,None
+982,80s,None
+983,pop,None
+984,pop,None
+985,pop,None
+986,pop,None
+987,vugube62,None
+988,indie,None
+989,rock,None
+990,indie,None
+991,indie,None
+992,indie,None
+993,indie rock,None
+994,indie rock,None
+995,indie,None
+996,rock,None
+997,chillwave,None
+998,BIRP,None
+999,dream pop,None
+1000,1Live Fiehe,None
+1001,indie rock,None
+1002,best of 2012,None
+1003,indie,None
+1004,kick your ass,None
+1005,somafm,None
+1006,double-ender 16,None
+1007,Soundtrack,None
+1008,dream pop,None
+1009,dream pop,None
+1010,ambient,None
+1011,dream pop,None
+1012,indie,None
+1013,indie,None
+1014,indie,None
+1015,folk,None
+1016,indie,None
+1017,indie,None
+1018,indie pop,None
+1019,indie,None
+1020,indie,None
+1021,indie,None
+1022,indie,None
+1023,ambient,None
+1024,electronic,None
+1025,electronic,None
+1026,folk,None
+1027,dream pop,None
+1028,indie,None
+1029,kick your ass,None
+1030,somafm,None
+1031,indie rock,None
+1032,1Live Fiehe,None
+1033,indie rock,None
+1034,best of 2012,None
+1035,indie,None
+1036,singer-songwriter,None
+1037,indie rock,None
+1038,indie,None
+1039,Hip-Hop,None
+1040,indie,None
+1041,dream pop,None
+1042,Soundtrack,None
+1043,dream pop,None
+1044,Soundtrack,None
+1045,Love,None
+1046,alternative,None
+1047,pop,None
+1048,dream pop,None
+1049,dream pop,None
+1050,dream pop,None
+1051,ambient,None
+1052,dream pop,None
+1053,dream pop,None
+1054,indie,None
+1055,indie,None
+1056,indie,None
+1057,indie,None
+1058,indie,None
+1059,indie,None
+1060,indie,None
+1061,indie,None
+1062,indie rock,None
+1063,indie,None
+1064,indie rock,None
+1065,indie,None
+1066,folk,None
+1067,Soundtrack,None
+1068,folk,None
+1069,folk,None
+1070,folk,None
+1071,indie,None
+1072,dream pop,None
+1073,pop,None
+1074,electro,None
+1075,dream pop,None
+1076,dream pop,None
+1077,folk,None
+1078,chillout,None
+1079,chillout,None
+1080,indie rock,None
+1081,dream pop,None
+1082,mental,None
+1083,indietronica,None
+1084,indie rock,None
+1085,pop,None
+1086,psychedelic,None
+1087,ambient,None
+1088,somafm,None
+1089,electronic,None
+1090,alternative,None
+1091,alternative,None
+1092,Soundtrack,None
+1093,jazz,None
+1094,Soundtrack,None
+1095,singer-songwriter,None
+1096,singer-songwriter,None
+1097,singer-songwriter,None
+1098,vugube62,None
+1099,indie,None
+1100,folk,None
+1101,indie,None
+1102,indie,None
+1103,folk,None
+1104,folk,None
+1105,folk,None
+1106,psychedelic,None
+1107,indie,None
+1108,rock,None
+1109,rock,None
+1110,indie,None
+1111,indie rock,None
+1112,1Live Fiehe,None
+1113,indie rock,None
+1114,Hip-Hop,None
+1115,dream pop,None
+1116,dream pop,None
+1117,ambient,None
+1118,dream pop,None
+1119,80s,None
+1120,indie pop,None
+1121,indie rock,None
+1122,best of 2012,None
+1123,indie,None
+1124,kick your ass,None
+1125,somafm,None
+1126,folk,None
+1127,electronica,None
+1128,beautiful,None
+1129,rock,None
+1130,rock,None
+1131,indie,None
+1132,indie rock,None
+1133,best of 2012,None
+1134,indie,None
+1135,lizvelrene2010,None
+1136,experimental,None
+1137,dream pop,None
+1138,dream pop,None
+1139,dream pop,None
+1140,ambient,None
+1141,dream pop,None
+1142,dream pop,None
+1143,electronic,None
+1144,beautiful,None
+1145,ambient,None
+1146,indie pop,None
+1147,electropop,None
+1148,folk,None
+1149,80s,None
+1150,indie pop,None
+1151,indie,None
+1152,rock,None
+1153,rock,None
+1154,rock,None
+1155,rock,None
+1156,indie,None
+1157,indie,None
+1158,indie,None
+1159,indie,None
+1160,pop,None
+1161,BIRP,None
+1162,electronic,None
+1163,funk,None
+1164,indie,None
+1165,electronic,None
+1166,indie,None
+1167,classic rock,None
+1168,chillwave,None
+1169,electronic,None
+1170,chillwave,None
+1171,pop,None
+1172,folk,None
+1173,singer-songwriter,None
+1174,singer-songwriter,None
+1175,singer-songwriter,None
+1176,rock,None
+1177,singer-songwriter,None
+1178,singer-songwriter,None
+1179,singer-songwriter,None
+1180,singer-songwriter,None
+1181,rock,None
+1182,singer-songwriter,None
+1183,dream pop,None
+1184,dream pop,None
+1185,dream pop,None
+1186,dream pop,None
+1187,dream pop,None
+1188,dream pop,None
+1189,dream pop,None
+1190,dream pop,None
+1191,pop,None
+1192,electronic,None
+1193,synthpop,None
+1194,ambient,None
+1195,electronic,None
+1196,indie,None
+1197,indie,None
+1198,summer,None
+1199,electro,None
+1200,electro,None
+1201,electro,None
+1202,indie,None
+1203,electronic,None
+1204,indie,None
+1205,indie,None
+1206,chillout,None
+1207,rock,None
+1208,indie,None
+1209,experimental,None
+1210,chillout,None
+1211,ambient,None
+1212,indie,None
+1213,psychedelic,None
+1214,indie,None
+1215,indie,None
+1216,experimental,None
+1217,indie,None
+1218,indie,None
+1219,indie rock,None
+1220,indie pop,None
+1221,indie pop,None
+1222,electronic,None
+1223,ambient,None
+1224,instrumental,None
+1225,electronic,None
+1226,electronic,None
+1227,chillout,None
+1228,chillout,None
+1229,ambient,None
+1230,electronic,None
+1231,electronic,None
+1232,funk,None
+1233,funk,None
+1234,beautiful,None
+1235,funk,None
+1236,ambient,None
+1237,Lo-Fi,None
+1238,electronic,None
+1239,indie,None
+1240,electronic,None
+1241,synthpop,None
+1242,if this song were a girl i would fuck her or at least touch her tits,None
+1243,indie,None
+1244,End Credits,None
+1245,End Credits,None
+1246,my secret agent lover man,None
+1247,discover,None
+1248,BIRP,None
+1249,indie,None
+1250,singer-songwriter,None
+1251,funk,None
+1252,synthpop,None
+1253,BIRP,None
+1254,ambient,None
+1255,chillout,None
+1256,electronic,None
+1257,indie,None
+1258,pop,None
+1259,pop,None
+1260,rock,None
+1261,80s,None
+1262,classic rock,None
+1263,classic rock,None
+1264,80s,None
+1265,classic rock,None
+1266,alternative rock,None
+1267,indie rock,None
+1268,Hip-Hop,None
+1269,indie,None
+1270,indie pop,None
+1271,indie,None
+1272,shoegaze,None
+1273,Lo-Fi,None
+1274,dream pop,None
+1275,instrumental,None
+1276,chillout,None
+1277,synthpop,None
+1278,dream pop,None
+1279,indie rock,None
+1280,pop,None
+1281,dream pop,None
+1282,indie,None
+1283,ambient,None
+1284,chillout,None
+1285,indie rock,None
+1286,indie rock,None
+1287,indie rock,None
+1288,indie,None
+1289,pop,None
+1290,pop,None
+1291,indie,None
+1292,electronic,None
+1293,pop,None
+1294,experimental,None
+1295,Lo-Fi,None
+1296,indie,None
+1297,indie,None
+1298,BIRP,None
+1299,cover,None
+1300,Hip-Hop,None
+1301,Love,None
+1302,pop,None
+1303,80s,None
+1304,pop,None
+1305,pop,None
+1306,pop,None
+1307,indie,None
+1308,electronic,None
+1309,electronic,None
+1310,Hip-Hop,None
+1311,80s,None
+1312,electronic,None
+1313,electronic,None
+1314,indie,None
+1315,electronic,None
+1316,pop,None
+1317,electronic,None
+1318,ambient,None
+1319,chillout,None
+1320,chillout,None
+1321,electronic,None
+1322,electronic,None
+1323,instrumental,None
+1324,ambient,None
+1325,electronic,None
+1326,electronic,None
+1327,electronic,None
+1328,ambient,None
+1329,chillout,None
+1330,chillout,None
+1331,electronic,None
+1332,electronic,None
+1333,chillout,None
+1334,electronic,None
+1335,electronic,None
+1336,instrumental,None
+1337,ambient,None
+1338,electronic,None
+1339,electronic,None
+1340,instrumental,None
+1341,ambient,None
+1342,electronic,None
+1343,electronic,None
+1344,ambient,None
+1345,chillout,None
+1346,chillout,None
+1347,electronic,None
+1348,electronic,None
+1349,instrumental,None
+1350,ambient,None
+1351,electronic,None
+1352,classic rock,None
+1353,electronic,None
+1354,ambient,None
+1355,instrumental,None
+1356,ambient,None
+1357,electronic,None
+1358,indie,None
+1359,indie rock,None
+1360,electronic,None
+1361,electronic,None
+1362,chillwave,None
+1363,electronic,None
+1364,pop,None
+1365,Love,None
+1366,pop music tag,None
+1367,pop,None
+1368,pop,None
+1369,pop,None
+1370,cover,None
+1371,indie pop,None
+1372,dream pop,None
+1373,indie,None
+1374,electronic,None
+1375,experimental,None
+1376,summer,None
+1377,indie,None
+1378,electronic,None
+1379,indie,None
+1380,indie,None
+1381,electronic,None
+1382,indie,None
+1383,indie,None
+1384,pop music tag,None
+1385,pop,None
+1386,pop,None
+1387,cover,None
+1388,folk,None
+1389,electronic,None
+1390,indie pop,None
+1391,electronic,None
+1392,electronic,None
+1393,rock,None
+1394,singer-songwriter,None
+1395,classic rock,None
+1396,classic rock,None
+1397,classic rock,None
+1398,rock,None
+1399,rock,None
+1400,indie,None
+1401,indie rock,None
+1402,indie rock,None
+1403,title is a full sentence,None
+1404,afrobeat,None
+1405,chill,None
+1406,indie,None
+1407,80s,None
+1408,indie,None
+1409,indie,None
+1410,featuring,None
+1411,dream pop,None
+1412,singer-songwriter,None
+1413,80s,None
+1414,indie,None
+1415,indie,None
+1416,indie,None
+1417,dream pop,None
+1418,electronic,None
+1419,electronic,None
+1420,electronic,None
+1421,electronic,None
+1422,BIRP,None
+1423,shoegaze,None
+1424,shoegaze,None
+1425,rock,None
+1426,indie,None
+1427,indie,None
+1428,electronic,None
+1429,synthpop,None
+1430,electronic,None
+1431,synthpop,None
+1432,pop,None
+1433,indie,None
+1434,alternative,None
+1435,indie,None
+1436,Lo-Fi,None
+1437,alternative,None
+1438,electronic,None
+1439,80s,None
+1440,electronic,None
+1441,rock,None
+1442,indie,None
+1443,indie rock,None
+1444,dream pop,None
+1445,indie,None
+1446,darkwave,None
+1447,electronic,None
+1448,ambient,None
+1449,rock,None
+1450,70s,None
+1451,80s,None
+1452,folk,None
+1453,shoegaze,None
+1454,american,None
+1455,indie,None
+1456,somafm,None
+1457,indietronica,None
+1458,electronic,None
+1459,indie,None
+1460,indie,None
+1461,electronic,None
+1462,featuring,None
+1463,pop,None
+1464,classic rock,None
+1465,synthpop,None
+1466,electronic,None
+1467,Lo-Fi,None
+1468,electronic,None
+1469,BIRP,None
+1470,featuring,None
+1471,indie,None
+1472,indie,None
+1473,indie rock,None
+1474,indie rock,None
+1475,indie rock,None
+1476,electro,None
+1477,electro,None
+1478,electro,None
+1479,electro,None
+1480,electro,None
+1481,electronic,None
+1482,indie rock,None
+1483,dream pop,None
+1484,indie,None
+1485,indie,None
+1486,electronic,None
+1487,Hip-Hop,None
+1488,Hip-Hop,None
+1489,Hip-Hop,None
+1490,Hip-Hop,None
+1491,electronic,None
+1492,electronic,None
+1493,electronic,None
+1494,experimental,None
+1495,indie,None
+1496,folk,None
+1497,experimental,None
+1498,indie,None
+1499,indie,None
+1500,indie,None
+1501,folk,None
+1502,indie,None
+1503,indie,None
+1504,indie,None
+1505,1Live Fiehe,None
+1506,indie,None
+1507,indie,None
+1508,electronic,None
+1509,indie rock,None
+1510,indie,None
+1511,80s,None
+1512,electronic,None
+1513,pop,None
+1514,Lo-Fi,None
+1515,indie pop,None
+1516,indie rock,None
+1517,indie rock,None
+1518,Hip-Hop,None
+1519,electronic,None
+1520,indie,None
+1521,indie,None
+1522,dream pop,None
+1523,dream pop,None
+1524,ambient,None
+1525,dream pop,None
+1526,recs I like,None
+1527,1Live Fiehe,None
+1528,indie,None
+1529,indie rock,None
+1530,indie rock,None
+1531,electronic,None
+1532,electronic,None
+1533,electronic,None
+1534,electronic,None
+1535,80s,None
+1536,electronic,None
+1537,pop,None
+1538,electropop,None
+1539,somafm,None
+1540,somafm,None
+1541,somafm,None
+1542,indie pop,None
+1543,dream pop,None
+1544,electronic,None
+1545,indie,None
+1546,indie,None
+1547,indie,None
+1548,indie,None
+1549,indie,None
+1550,female vocals,None
+1551,dream pop,None
+1552,indie,None
+1553,indie,None
+1554,indie,None
+1555,dream pop,None
+1556,indie,None
+1557,electronic,None
+1558,pop,None
+1559,indie,None
+1560,chillwave,None
+1561,beats,None
+1562,chillwave,None
+1563,indie pop,None
+1564,electronica,None
+1565,Hip-Hop,None
+1566,electronic,None
+1567,folk,None
+1568,electronic,None
+1569,funky,None
+1570,psychedelic,None
+1571,electronic,None
+1572,indie,None
+1573,rock,None
+1574,indie,None
+1575,electronic,None
+1576,electro,None
+1577,electronic,None
+1578,indie pop,None
+1579,indie,None
+1580,pop,None
+1581,chillwave,None
+1582,title is a full sentence,None
+1583,rock,None
+1584,funk,None
+1585,electronic,None
+1586,indie,None
+1587,indie,None
+1588,Lo-Fi,None
+1589,indie,None
+1590,ambient,None
+1591,pop,None
+1592,electronica,None
+1593,Lo-Fi,None
+1594,shoegaze,None
+1595,Hip-Hop,None
+1596,indie pop,None
+1597,singer-songwritergdchill,None
+1598,vugube62,None
+1599,chillwave,None
+1600,chillwave,None
+1601,electronic,None
+1602,electronic,None
+1603,pop,None
+1604,electronic,None
+1605,electronic,None
+1606,electronic,None
+1607,indie,None
+1608,funk,None
+1609,Love,None
+1610,pop,None
+1611,indie,None
+1612,electronic,None
+1613,singer-songwriter,None
+1614,Hip-Hop,None
+1615,rock,None
+1616,indie,None
+1617,chillwave,None
+1618,Hip-Hop,None
+1619,pop,None
+1620,indie pop,None
+1621,BIRP,None
+1622,Hip-Hop,None
+1623,electronic,None
+1624,somafm,None
+1625,electronic,None
+1626,Hip-Hop,None
+1627,2k11 mix,None
+1628,pop,None
+1629,cover,None
+1630,alternative rock,None
+1631,pop,None
+1632,pop,None
+1633,indie rock,None
+1634,lizvelrene2010,None
+1635,pop,None
+1636,melancholy,None
+1637,indie,None
+1638,indie,None
+1639,indie rock,None
+1640,indie,None
+1641,indie pop,None
+1642,chillwave,None
+1643,chillwave,None
+1644,electronic,None
+1645,indie,None
+1646,indie,None
+1647,classic rock,None
+1648,80s,None
+1649,classic rock,None
+1650,pop,None
+1651,indie,None
+1652,electronic,None
+1653,indie,None
+1654,indie,None
+1655,rock,None
+1656,electronic,None
+1657,electronic,None
+1658,indie,None
+1659,indie rock,None
+1660,indie,None
+1661,80s,None
+1662,dream pop,None
+1663,indie,None
+1664,electronica,None
+1665,indie,None
+1666,Love,None
+1667,indie,None
+1668,indie rock,None
+1669,folk,None
+1670,indie pop,None
+1671,kbfm,None
+1672,indie,None
+1673,pop,None
+1674,pop,None
+1675,80s,None
+1676,electronic,None
+1677,Hip-Hop,None
+1678,cover,None
+1679,guitar,None
+1680,ambient,None
+1681,indie,None
+1682,rock,None
+1683,electronic,None
+1684,indie,None
+1685,indie,None
+1686,electronic,None
+1687,Lo-Fi,None
+1688,indie rock,None
+1689,electronic,None
+1690,pop,None
+1691,folk,None
+1692,indie,None
+1693,indie rock,None
+1694,Hip-Hop,None
+1695,indie,None
+1696,ambient,None
+1697,indie,None
+1698,electronic,None
+1699,Love,None
+1700,indie,None
+1701,Lo-Fi,None
+1702,indie rock,None
+1703,electronica,None
+1704,indie,None
+1705,ambient,None
+1706,electronic,None
+1707,rock,None
+1708,rock,None
+1709,indie,None
+1710,dream pop,None
+1711,pop,None
+1712,indie,None
+1713,pop,None
+1714,indie,None
+1715,dream pop,None
+1716,singer-songwriter,None
+1717,electronic,None
+1718,electronic,None
+1719,rock,None
+1720,vugube62,None
+1721,indie,None
+1722,indie rock,None
+1723,electronic,None
+1724,vugube62,None
+1725,Love,None
+1726,ambient,None
+1727,singer-songwriter,None
+1728,Love,None
+1729,electronic,None
+1730,funk,None
+1731,pop,None
+1732,indie,None
+1733,indie,None
+1734,indie,None
+1735,indie,None
+1736,indie,None
+1737,pop,None
+1738,indie rock,None
+1739,indie,None
+1740,indie,None
+1741,indie rock,None
+1742,indie,None
+1743,rock,None
+1744,chillwave,None
+1745,synthpop,None
+1746,indie,None
+1747,indie,None
+1748,indie rock,None
+1749,electronic,None
+1750,indie,None
+1751,pop,None
+1752,indie,None
+1753,rock,None
+1754,pop,None
+1755,electronic,None
+1756,pop,None
+1757,pop,None
+1758,folk,None
+1759,electronic,None
+1760,electronic,None
+1761,indie,None
+1762,synthpop,None
+1763,synthpop,None
+1764,synthpop,None
+1765,electronic,None
+1766,Hip-Hop,None
+1767,folk,None
+1768,folk,None
+1769,folk,None
+1770,folk,None
+1771,folk,None
+1772,instrumental,None
+1773,folk,None
+1774,folk,None
+1775,folk,None
+1776,folk,None
+1777,synthpop,None
+1778,electronic,None
+1779,Hip-Hop,None
+1780,electronic,None
+1781,electronic,None
+1782,ambient,None
+1783,ambient,None
+1784,1Live Fiehe,None
+1785,1Live Fiehe,None
+1786,synthpop,None
+1787,synthpop,None
+1788,electronic,None
+1789,electronic,None
+1790,indie rock,None
+1791,pop,None
+1792,electronic,None
+1793,electronic,None
+1794,electronic,None
+1795,electronic,None
+1796,ambient,None
+1797,ambient,None
+1798,chillwave,None
+1799,1Live Fiehe,None
+1800,pop,None
+1801,pop,None
+1802,electronic,None
+1803,indie,None
+1804,electronic,None
+1805,electronic,None
+1806,electronic,None
+1807,electronic,None
+1808,electronic,None
+1809,electronic,None
+1810,ambient,None
+1811,ambient,None
+1812,indie,None
+1813,rock,None
+1814,rock,None
+1815,rock,None
+1816,rock,None
+1817,rock,None
+1818,rock,None
+1819,rock,None
+1820,rock,None
+1821,rock,None
+1822,rock,None
+1823,rock,None
+1824,rock,None
+1825,rock,None
+1826,rock,None
+1827,rock,None
+1828,alternative,None
+1829,rock,None
+1830,rock,None
+1831,rock,None
+1832,rock,None
+1833,rock,None
+1834,rock,None
+1835,rock,None
+1836,rock,None
+1837,rock,None
+1838,rock,None
+1839,rock,None
+1840,rock,None
+1841,electronic,None
+1842,experimental,None
+1843,electronic,None
+1844,electronic,None
+1845,electronic,None
+1846,electronic,None
+1847,electronic,None
+1848,electronic,None
+1849,electronic,None
+1850,ambient,None
+1851,pop,None
+1852,1Live Fiehe,None
+1853,chillwave,None
+1854,electronic,None
+1855,indie,None
+1856,Hip-Hop,None
+1857,pop,None
+1858,electronic,None
+1859,ambient,None
+1860,electronic,None
+1861,electronic,None
+1862,ambient,None
+1863,electronic,None
+1864,electronic,None
+1865,electronic,None
+1866,electronic,None
+1867,indie,None
+1868,indie rock,None
+1869,alternative,None
+1870,alternative,None
+1871,Lo-Fi,None
+1872,electronic,None
+1873,electronic,None
+1874,electronic,None
+1875,electronic,None
+1876,electronic,None
+1877,experimental,None
+1878,electronic,None
+1879,electronic,None
+1880,electronic,None
+1881,new girls,None
+1882,electronica,None
+1883,rock,None
+1884,indie,None
+1885,rock,None
+1886,1Live Fiehe,None
+1887,rock,None
+1888,indie,None
+1889,rock,None
+1890,rock,None
+1891,rock,None
+1892,1Live Fiehe,None
+1893,ambient,None
+1894,ambient,None
+1895,electronic,None
+1896,electronic,None
+1897,electronic,None
+1898,ambient,None
+1899,ambient,None
+1900,electronic,None
+1901,ambient,None
+1902,ambient,None
+1903,electronica,None
+1904,rock,None
+1905,indie,None
+1906,indie,None
+1907,pop,None
+1908,pop,None
+1909,pop,None
+1910,Lo-Fi,None
+1911,chillwave,None
+1912,Hip-Hop,None
+1913,Hip-Hop,None
+1914,chillout,None
+1915,indie rock,None
+1916,indie,None
+1917,pop,None
+1918,rock,None
+1919,pop,None
+1920,pop,None
+1921,Awesome,None
+1922,Love,None
+1923,electronica,None
+1924,indie pop,None
+1925,indie pop,None
+1926,kick your ass,None
+1927,pop,None
+1928,indie,None
+1929,experimental,None
+1930,dream pop,None
+1931,electronic,None
+1932,electronic,None
+1933,Hip-Hop,None
+1934,indie,None
+1935,indie,None
+1936,1Live Fiehe,None
+1937,rock,None
+1938,electronic,None
+1939,chillout,None
+1940,indie,None
+1941,electronic,None
+1942,electronic,None
+1943,pop,None
+1944,Love,None
+1945,electronic,None
+1946,electronic,None
+1947,electronic,None
+1948,indie,None
+1949,chillout,None
+1950,electronic,None
+1951,chillwave,None
+1952,indie rock,None
+1953,electronic,None
+1954,classic rock,None
+1955,funky jazz,None
+1956,title is a full sentence,None
+1957,pop,None
+1958,vugube62,None
+1959,vugube62,None
+1960,vugube62,None
+1961,pop,None
+1962,electronic,None
+1963,pop,None
+1964,indie rock,None
+1965,indie,None
+1966,indie rock,None
+1967,indie,None
+1968,indie rock,None
+1969,indie rock,None
+1970,indie,None
+1971,pop,None
+1972,electronic,None
+1973,vugube62,None
+1974,dream pop,None
+1975,Hip-Hop,None
+1976,Lo-Fi,None
+1977,alternative,None
+1978,Awesome,None
+1979,Hip-Hop,None
+1980,Hip-Hop,None
+1981,indie,None
+1982,Lo-Fi,None
+1983,indie rock,None
+1984,indie rock,None
+1985,rock,None
+1986,latin,None
+1987,indie rock,None
+1988,indie,None
+1989,pop,None
+1990,indie,None
+1991,electronic,None
+1992,cover,None
+1993,I thought of you,None
+1994,70s,None
+1995,80s,None
+1996,big bills,None
+1997,indie rock,None
+1998,indie,None
+1999,rock,None
+2000,Hip-Hop,None
+2001,beautiful,None
+2002,favorites,None
+2003,indie pop,None
+2004,electronic,None
+2005,instrumental,None
+2006,synthpop,None
+2007,classic rock,None
+2008,electronic,None
+2009,folk,None
+2010,indie,None
+2011,80s,None
+2012,indie,None
+2013,chillout,None
+2014,electronic,None
+2015,Calming,None
+2016,Austin Loved Tracks,None
+2017,indie,None
+2018,indie,None
+2019,indie rock,None
+2020,indie,None
+2021,electronic,None
+2022,rock,None
+2023,indie,None
+2024,indie rock,None
+2025,dream pop,None
+2026,rock,None
+2027,Lo-Fi,None
+2028,synthpop,None
+2029,indie rock,None
+2030,indie,None
+2031,indie,None
+2032,indie rock,None
+2033,indie rock,None
+2034,indie,None
+2035,indie rock,None
+2036,indie,None
+2037,Awesome,None
+2038,indie,None
+2039,Awesome,None
+2040,indie rock,None
+2041,indie,None
+2042,indie rock,None
+2043,indie,None
+2044,Awesome,None
+2045,indie,None
+2046,Awesome,None
+2047,indie,None
+2048,Awesome,None
+2049,indie,None
+2050,indie rock,None
+2051,indie,None
+2052,Awesome,None
+2053,Awesome,None
+2054,alternative,None
+2055,rock,None
+2056,alternative,None
+2057,indie,None
+2058,rock,None
+2059,indie,None
+2060,indie,None
+2061,indie,None
+2062,alternative,None
+2063,indie,None
+2064,indie,None
+2065,indie,None
+2066,Lo-Fi,None
+2067,Lo-Fi,None
+2068,Lo-Fi,None
+2069,Minneapolis,None
+2070,summer,None
+2071,indie rock,None
+2072,dream pop,None
+2073,indie rock,None
+2074,rock,None
+2075,indie,None
+2076,dream pop,None
+2077,electronic,None
+2078,electronic,None
+2079,indie rock,None
+2080,indie,None
+2081,indie,None
+2082,indie,None
+2083,indie rock,None
+2084,indie rock,None
+2085,indie,None
+2086,chillwave,None
+2087,indie,None
+2088,rock,None
+2089,rock,None
+2090,rock,None
+2091,electronic,None
+2092,electronic,None
+2093,electronic,None
+2094,electronic,None
+2095,electronic,None
+2096,electronic,None
+2097,electropop,None
+2098,pop,None
+2099,rock,None
+2100,Hip-Hop,None
+2101,indie,None
+2102,rock,None
+2103,pop,None
+2104,indie,None
+2105,experimental,None
+2106,indie,None
+2107,indie,None
+2108,indie,None
+2109,Hip-Hop,None
+2110,indie,None
+2111,indie,None
+2112,experimental,None
+2113,indie,None
+2114,pop,None
+2115,electropop,None
+2116,electronic,None
+2117,electronic,None
+2118,electronic,None
+2119,electronic,None
+2120,electronic,None
+2121,electronic,None
+2122,electronic,None
+2123,rock,None
+2124,rock,None
+2125,rock,None
+2126,rock,None
+2127,rock,None
+2128,indie,None
+2129,chillwave,None
+2130,jazz,None
+2131,electronic,None
+2132,electronic,None
+2133,alternative,None
+2134,classic rock,None
+2135,electronic,None
+2136,indie pop,None
+2137,electropop,None
+2138,indie,None
+2139,indie rock,None
+2140,indie,None
+2141,indie rock,None
+2142,indie,None
+2143,indie,None
+2144,indie,None
+2145,pop,None
+2146,rock,None
+2147,indie rock,None
+2148,indie,None
+2149,Hip-Hop,None
+2150,rock,None
+2151,electronic,None
+2152,electronic,None
+2153,indie pop,None
+2154,I thought of you,None
+2155,classic rock,None
+2156,indie,None
+2157,indie,None
+2158,title is a full sentence,None
+2159,funky jazz,None
+2160,classic rock,None
+2161,electro,None
+2162,pop,None
+2163,pop,None
+2164,folk,None
+2165,folk,None
+2166,folk,None
+2167,folk,None
+2168,folk,None
+2169,folk,None
+2170,folk,None
+2171,folk,None
+2172,lizvelrene2010,None
+2173,Burn One,None
+2174,singer-songwriter,None
+2175,pop,None
+2176,indie,None
+2177,rock,None
+2178,dream pop,None
+2179,electronic,None
+2180,classic rock,None
+2181,electronic,None
+2182,indie,None
+2183,indie,None
+2184,indie rock,None
+2185,Hip-Hop,None
+2186,indie,None
+2187,pop,None
+2188,indie,None
+2189,indie,None
+2190,rock,None
+2191,Lo-Fi,None
+2192,pop,None
+2193,Hip-Hop,None
+2194,pop,None
+2195,chillwave,None
+2196,pop,None
+2197,folk,None
+2198,electronic,None
+2199,reggae,None
+2200,classic rock,None
+2201,rock,None
+2202,Hip-Hop,None
+2203,Hip-Hop,None
+2204,Hip-Hop,None
+2205,electro,None
+2206,Hip-Hop,None
+2207,Hip-Hop,None
+2208,Hip-Hop,None
+2209,Hip-Hop,None
+2210,Hip-Hop,None
+2211,Hip-Hop,None
+2212,Hip-Hop,None
+2213,Hip-Hop,None
+2214,electro,None
+2215,Hip-Hop,None
+2216,Hip-Hop,None
+2217,indie rock,None
+2218,indie,None
+2219,pop,None
+2220,WKNC,None
+2221,electronic,None
+2222,pop,None
+2223,rock,None
+2224,Hip-Hop,None
+2225,rock,None
+2226,pop,None
+2227,pop,None
+2228,alternative rock,None
+2229,rock,None
+2230,rock,None
+2231,rock,None
+2232,pop,None
+2233,pop,None
+2234,indie pop,None
+2235,pop,None
+2236,chillout,None
+2237,electronic,None
+2238,chillwave,None
+2239,electronic,None
+2240,rock,None
+2241,chillout,None
+2242,Hip-Hop,None
+2243,classic rock,None
+2244,indie,None
+2245,electronic,None
+2246,electronic,None
+2247,electronic,None
+2248,pop,None
+2249,indie pop,None
+2250,electronic,None
+2251,Love,None
+2252,electronic,None
+2253,chillwave,None
+2254,electronic,None
+2255,dream pop,None
+2256,indie,None
+2257,rock,None
+2258,indie rock,None
+2259,indie,None
+2260,indie,None
+2261,chillout,None
+2262,Hip-Hop,None
+2263,vugube62,None
+2264,rock,None
+2265,electronic,None
+2266,indie,None
+2267,indie rock,None
+2268,funky jazz,None
+2269,indie,None
+2270,electronic,None
+2271,indie,None
+2272,I thought of you,None
+2273,classic rock,None
+2274,vugube62,None
+2275,synthpop,None
+2276,pop,None
+2277,pop,None
+2278,electronic,None
+2279,dream pop,None
+2280,pop,None
+2281,indie,None
+2282,electronic,None
+2283,80s,None
+2284,electronic,None
+2285,electronic,None
+2286,dream pop,None
+2287,80s,None
+2288,rock,None
+2289,classic rock,None
+2290,electropop,None
+2291,classic rock,None
+2292,classic rock,None
+2293,pop,None
+2294,indie,None
+2295,80s,None
+2296,rock,None
+2297,rock,None
+2298,rock,None
+2299,rock,None
+2300,rock,None
+2301,rock,None
+2302,rock,None
+2303,pop,None
+2304,Hip-Hop,None
+2305,80s,None
+2306,vugube62,None
+2307,electronic,None
+2308,electropop,None
+2309,best remixes,None
+2310,electronic,None
+2311,electronic,None
+2312,indie,None
+2313,Hip-Hop,None
+2314,electronic,None
+2315,electronic,None
+2316,rock,None
+2317,indie pop,None
+2318,electronic,None
+2319,electronic,None
+2320,indie,None
+2321,dream pop,None
+2322,indie rock,None
+2323,Lo-Fi,None
+2324,80s,None
+2325,pop,None
+2326,pop,None
+2327,80s,None
+2328,Hip-Hop,None
+2329,80s,None
+2330,indie,None
+2331,rock,None
+2332,indie,None
+2333,electronic,None
+2334,80s,None
+2335,electronic,None
+2336,rock,None
+2337,rock,None
+2338,vugube62,None
+2339,dream pop,None
+2340,indie rock,None
+2341,chillwave,None
+2342,electronic,None
+2343,indie,None
+2344,Lo-Fi,None
+2345,electropop,None
+2346,singer-songwriter,None
+2347,electronic,None
+2348,indie,None
+2349,electronic,None
+2350,indie,None
+2351,Hip-Hop,None
+2352,electronic,None
+2353,folk,None
+2354,I thought of you,None
+2355,Love,None
+2356,electronic,None
+2357,Hip-Hop,None
+2358,electronic,None
+2359,indie rock,None
+2360,indie,None
+2361,indie,None
+2362,vugube62,None
+2363,indie,None
+2364,indie pop,None
+2365,Hip-Hop,None
+2366,electronic,None
+2367,electronic,None
+2368,chillout,None
+2369,Lo-Fi,None
+2370,pop,None
+2371,rock,None
+2372,electronic,None
+2373,rock,None
+2374,Love,None
+2375,Hip-Hop,None
+2376,indie,None
+2377,rock,None
+2378,singer-songwriter,None
+2379,folk,None
+2380,classic rock,None
+2381,80s,None
+2382,folk,None
+2383,electronic,None
+2384,indie,None
+2385,classic rock,None
+2386,indie rock,None
+2387,Hip-Hop,None
+2388,indie,None
+2389,pop,None
+2390,pop,None
+2391,Hip-Hop,None
+2392,indie,None
+2393,indie,None
+2394,Hip-Hop,None
+2395,Hip-Hop,None
+2396,Hip-Hop,None
+2397,Hip-Hop,None
+2398,funk,None
+2399,electronic,None
+2400,folk,None
+2401,singer-songwriter,None
+2402,rock,None
+2403,80s,None
+2404,indie,None
+2405,Hip-Hop,None
+2406,electronic,None
+2407,Love,None
+2408,rock,None
+2409,electronic,None
+2410,pop,None
+2411,electronic,None
+2412,indie,None
+2413,Hip-Hop,None
+2414,Hip-Hop,None
+2415,indie,None
+2416,indie,None
+2417,somafm,None
+2418,Hip-Hop,None
+2419,electropop,None
+2420,indie,None
+2421,indie,None
+2422,indie,None
+2423,indie,None
+2424,indie,None
+2425,electronic,None
+2426,alternative,None
+2427,pop,None
+2428,pop,None
+2429,indie,None
+2430,Love,None
+2431,electronic,None
+2432,chillout,None
+2433,electronic,None
+2434,electronic,None
+2435,indie,None
+2436,indie,None
+2437,indie,None
+2438,indie,None
+2439,indie,None
+2440,indie,None
+2441,indie,None
+2442,indie,None
+2443,cover,None
+2444,Disco,None
+2445,Love,None
+2446,pop,None
+2447,Love,None
+2448,Hip-Hop,None
+2449,indie,None
+2450,indie,None
+2451,indie,None
+2452,indie,None
+2453,electronic,None
+2454,electronic,None
+2455,chillout,None
+2456,electronic,None
+2457,1Live Fiehe,None
+2458,Me gusta,None
+2459,electropop,None
+2460,electronic,None
+2461,electronic,None
+2462,electronic,None
+2463,electropop,None
+2464,electronic,None
+2465,electropop,None
+2466,electronic,None
+2467,electronic,None
+2468,Me gusta,None
+2469,folk,None
+2470,somafm,None
+2471,psychedelic,None
+2472,indie rock,None
+2473,sxsw 2011,None
+2474,Love,None
+2475,pop,None
+2476,electronic,None
+2477,electronic,None
+2478,electronic,None
+2479,electropop,None
+2480,indie,None
+2481,cover,None
+2482,Disco,None
+2483,sxsw 2011,None
+2484,Love,None
+2485,electro,None
+2486,Electro Pop,None
+2487,indie,None
+2488,indie,None
+2489,indie rock,None
+2490,chillout,None
+2491,electronic,None
+2492,indie,None
+2493,indie,None
+2494,electronic,None
+2495,electronic,None
+2496,indie rock,None
+2497,indie,None
+2498,Hip-Hop,None
+2499,rock,None
+2500,indie rock,None
+2501,indie,None
+2502,indie,None
+2503,dream pop,None
+2504,80s,None
+2505,indie,None
+2506,indie,None
+2507,Calming,None
+2508,alternative,None
+2509,title is a full sentence,None
+2510,rock,None
+2511,rock,None
+2512,alternative,None
+2513,pop,None
+2514,indie,None
+2515,electronica,None
+2516,chillwave,None
+2517,indie pop,None
+2518,dream pop,None
+2519,dream pop,None
+2520,indie,None
+2521,Hip-Hop,None
+2522,Love,None
+2523,electronic,None
+2524,Hip-Hop,None
+2525,indie,None
+2526,electronic,None
+2527,Love,None
+2528,Love,None
+2529,indie,None
+2530,electronic,None
+2531,cover,None
+2532,indie,None
+2533,Hip-Hop,None
+2534,Love,None
+2535,classic rock,None
+2536,sxsw 2011,None
+2537,Love,None
+2538,rock,None
+2539,electropop,None
+2540,Hip-Hop,None
+2541,Hip-Hop,None
+2542,Love,None
+2543,pop,None
+2544,electronic,None
+2545,indie,None
+2546,dream pop,None
+2547,dream pop,None
+2548,indie pop,None
+2549,indie,None
+2550,electronica,None
+2551,chillwave,None
+2552,pop,None
+2553,pop,None
+2554,electronic,None
+2555,indie,None
+2556,electronic,None
+2557,experimental,None
+2558,electronic,None
+2559,indie,None
+2560,indie,None
+2561,indie,None
+2562,indie,None
+2563,indie,None
+2564,indie,None
+2565,indie,None
+2566,indie,None
+2567,pop,None
+2568,Hip-Hop,None
+2569,cover,None
+2570,indie pop,None
+2571,pop,None
+2572,electronic,None
+2573,electronic,None
+2574,rocket shoes mixtapes,None
+2575,pop,None
+2576,pop,None
+2577,indie,None
+2578,rock,None
+2579,rock,None
+2580,rock,None
+2581,rock,None
+2582,new tracks to investigate,None
+2583,indie pop,None
+2584,BIRP,None
+2585,pop,None
+2586,indie pop,None
+2587,dream pop,None
+2588,indie pop,None
+2589,indie,None
+2590,indie,None
+2591,folk,None
+2592,indie,None
+2593,classic rock,None
+2594,electronic,None
+2595,electronic,None
+2596,indie,None
+2597,electronic,None
+2598,electronic,None
+2599,electronic,None
+2600,indie,None
+2601,dream pop,None
+2602,indie,None
+2603,indie,None
+2604,indie,None
+2605,electronic,None
+2606,electronic,None
+2607,Lo-Fi,None
+2608,pop,None
+2609,electronic,None
+2610,electronic,None
+2611,BIRP,None
+2612,WKNC,None
+2613,somafm,None
+2614,electronica,None
+2615,guitar,None
+2616,electronica,None
+2617,folk,None
+2618,folk,None
+2619,folk,None
+2620,folk,None
+2621,folk,None
+2622,electronic,None
+2623,electronic,None
+2624,70s,None
+2625,80s,None
+2626,electropop,None
+2627,electronic,None
+2628,rock,None
+2629,indie rock,None
+2630,electronic,None
+2631,dream pop,None
+2632,pop,None
+2633,pop,None
+2634,pop,None
+2635,chillwave,None
+2636,indie,None
+2637,funk,None
+2638,pop,None
+2639,indie rock,None
+2640,indie,None
+2641,electronic,None
+2642,indie,None
+2643,electronica,None
+2644,Soundtrack,None
+2645,synthpop,None
+2646,folk,None
+2647,chillwave,None
+2648,pop,None
+2649,Lo-Fi,None
+2650,big bills,None
+2651,cover,None
+2652,indie,None
+2653,indie,None
+2654,folk,None
+2655,indie rock,None
+2656,pop,None
+2657,70s,None
+2658,electronic,None
+2659,electrosexy,None
+2660,title is a full sentence,None
+2661,fun,None
+2662,vugube62,None
+2663,vugube62,None
+2664,Lo-Fi,None
+2665,Lo-Fi,None
+2666,rock,None
+2667,rock,None
+2668,classic rock,None
+2669,classic rock,None
+2670,classic rock,None
+2671,classic rock,None
+2672,rock,None
+2673,rock,None
+2674,classic rock,None
+2675,ladytron,None
+2676,BIRP,None
+2677,synthpop,None
+2678,electronic,None
+2679,electronic,None
+2680,electronic,None
+2681,electronic,None
+2682,indie rock,None
+2683,indie rock,None
+2684,vugube62,None
+2685,vugube62,None
+2686,vugube62,None
+2687,vugube62,None
+2688,vugube62,None
+2689,lizvelrene2010,None
+2690,indie,None
+2691,vugube62,None
+2692,vugube62,None
+2693,folk,None
+2694,Lo-Fi,None
+2695,indie,None
+2696,indie,None
+2697,indie rock,None
+2698,indie rock,None
+2699,dream pop,None
+2700,dream pop,None
+2701,indie pop,None
+2702,indie,None
+2703,electronica,None
+2704,chillwave,None
+2705,pop,None
+2706,dream pop,None
+2707,dream pop,None
+2708,indie pop,None
+2709,indie,None
+2710,electronica,None
+2711,chillwave,None
+2712,pop,None
+2713,indie,None
+2714,indie,None
+2715,chillwave,None
+2716,indie,None
+2717,electronic,None
+2718,electronic,None
+2719,electronic,None
+2720,shoegaze,None
+2721,indie,None
+2722,indie,None
+2723,electronic,None
+2724,indie,None
+2725,dream pop,None
+2726,indie pop,None
+2727,indie,None
+2728,electronica,None
+2729,chillwave,None
+2730,pop,None
+2731,indie rock,None
+2732,dream pop,None
+2733,dream pop,None
+2734,dream pop,None
+2735,indie pop,None
+2736,indie,None
+2737,electronica,None
+2738,chillwave,None
+2739,chillwave,None
+2740,pop,None
+2741,rock,None
+2742,experimental,None
+2743,indie,None
+2744,Hip-Hop,None
+2745,Hip-Hop,None
+2746,experimental,None
+2747,experimental,None
+2748,twee,None
+2749,test,None
+2750,80s,None
+2751,chillwave,None
+2752,indie,None
+2753,investigate,None
+2754,electropop,None
+2755,dream pop,None
+2756,dream pop,None
+2757,indie,None
+2758,chillwave,None
+2759,instrumental,None
+2760,the prescription,None
+2761,singer-songwriter,None
+2762,test,None
+2763,test,None
+2764,indie,None
+2765,electronic,None
+2766,lizvelrene2010,None
+2767,indie,None
+2768,indie,None
+2769,electronic,None
+2770,covers,None
+2771,indie,None
+2772,indie,None
+2773,indie rock,None
+2774,indie rock,None
+2775,indie,None
+2776,indie rock,None
+2777,indie rock,None
+2778,ladytron,None
+2779,BIRP,None
+2780,synthpop,None
+2781,Minneapolis,None
+2782,Love,None
+2783,indie,None
+2784,Love,None
+2785,indie,None
+2786,indie,None
+2787,synthpop,None
+2788,chillwave,None
+2789,electronic,None
+2790,electronic,None
+2791,electronic,None
+2792,indie,None
+2793,electronic,None
+2794,electronic,None
+2795,electronic,None
+2796,electronic,None
+2797,alternative rock,None
+2798,indie,None
+2799,70s,None
+2800,female vocalists,None
+2801,indie,None
+2802,Hip-Hop,None
+2803,classic rock,None
+2804,indie,None
+2805,indie,None
+2806,indie,None
+2807,indie,None
+2808,indie,None
+2809,indie,None
+2810,twee,None
+2811,funk,None
+2812,chillout,None
+2813,indie,None
+2814,indie rock,None
+2815,indie,None
+2816,indie,None
+2817,electronic,None
+2818,synthpop,None
+2819,electronic,None
+2820,indie,None
+2821,britpop,None
+2822,Hip-Hop,None
+2823,classic rock,None
+2824,funk,None
+2825,electropop,None
+2826,indie,None
+2827,indie,None
+2828,electronic,None
+2829,chillwave,None
+2830,synthpop,None
+2831,synthpop,None
+2832,indie,None
+2833,electropop,None
+2834,funk,None
+2835,indie,None
+2836,electropop,None
+2837,indie,None
+2838,electropop,None
+2839,indie,None
+2840,pop,None
+2841,electropop,None
+2842,electronic,None
+2843,indie,None
+2844,electropop,None
+2845,electropop,None
+2846,rock,None
+2847,electronic,None
+2848,funk,None
+2849,indie,None
+2850,rock,None
+2851,indie,None
+2852,indie,None
+2853,indie,None
+2854,indie,None
+2855,indie,None
+2856,indie rock,None
+2857,indie,None
+2858,indie rock,None
+2859,indie,None
+2860,indie rock,None
+2861,indie rock,None
+2862,indie,None
+2863,indie rock,None
+2864,indie rock,None
+2865,indie,None
+2866,indie,None
+2867,indie,None
+2868,indie,None
+2869,indie,None
+2870,indie,None
+2871,indie,None
+2872,indie,None
+2873,80s,None
+2874,indie,None
+2875,indie,None
+2876,chillout,None
+2877,alternative,None
+2878,indie,None
+2879,BIRP,None
+2880,dream pop,None
+2881,indie,None
+2882,electronic,None
+2883,electropop,None
+2884,indie,None
+2885,synthpop,None
+2886,electronic,None
+2887,lizvelrene2010,None
+2888,indie,None
+2889,experimental,None
+2890,ambient,None
+2891,rock,None
+2892,rock,None
+2893,indie,None
+2894,indie,None
+2895,electronic,None
+2896,Lo-Fi,None
+2897,indie rock,None
+2898,electronic,None
+2899,indie,None
+2900,electronic,None
+2901,instrumental,None
+2902,alternative,None
+2903,indie,None
+2904,indie,None
+2905,indie,None
+2906,folk,None
+2907,chillwave,None
+2908,electronic,None
+2909,indie,None
+2910,indie,None
+2911,indie,None
+2912,electronic,None
+2913,fit,None
+2914,chillwave,None
+2915,synthpop,None
+2916,cover,None
+2917,indie,None
+2918,indie rock,None
+2919,indie,None
+2920,indie rock,None
+2921,indie,None
+2922,indie,None
+2923,Hip-Hop,None
+2924,Hip-Hop,None
+2925,test,None
+2926,indie pop,None
+2927,indie rock,None
+2928,chillwave,None
+2929,indie,None
+2930,indie,None
+2931,folk,None
+2932,garage pop,None
+2933,experimental,None
+2934,indie,None
+2935,rock,None
+2936,chillwave,None
+2937,electronic,None
+2938,cute,None
+2939,indie,None
+2940,indie,None
+2941,indie,None
+2942,indie,None
+2943,indie,None
+2944,indie,None
+2945,indie pop,None
+2946,indie,None
+2947,pop,None
+2948,indie,None
+2949,indie,None
+2950,folk,None
+2951,classic rock,None
+2952,vugube62,None
+2953,alternative rock,None
+2954,House,None
+2955,indie,None
+2956,female vocalists,None
+2957,pop,None
+2958,Hip-Hop,None
+2959,indie,None
+2960,Hip-Hop,None
+2961,pop,None
+2962,female vocalists,None
+2963,indie,None
+2964,House,None
+2965,indie,None
+2966,female vocalists,None
+2967,indie,None
+2968,House,None
+2969,pop,None
+2970,House,None
+2971,indie,None
+2972,female vocalists,None
+2973,Hip-Hop,None
+2974,House,None
+2975,indie,None
+2976,pop,None
+2977,electropop,None
+2978,indie,None
+2979,electronic,None
+2980,indie,None
+2981,indie,None
+2982,electronic,None
+2983,70s,None
+2984,electronic,None
+2985,electronic,None
+2986,indie rock,None
+2987,indie rock,None
+2988,beautiful,None
+2989,folk,None
+2990,electronic,None
+2991,electronic,None
+2992,electronic,None
+2993,electropop,None
+2994,electronic,None
+2995,indie,None
+2996,electronic,None
+2997,electronic,None
+2998,electronic,None
+2999,pop,None
+3000,indie pop,None
+3001,Hip-Hop,None
+3002,garage pop,None
+3003,pop,None
+3004,pop,None
+3005,electronic,None
+3006,indie,None
+3007,alternative,None
+3008,pop,None
+3009,shoegaze,None
+3010,indie,None
+3011,folk,None
+3012,indie,None
+3013,indie,None
+3014,folk,None
+3015,indie,None
+3016,indie,None
+3017,vugube62,None
+3018,80s,None
+3019,indie rock,None
+3020,indie,None
+3021,Hip-Hop,None
+3022,classic rock,None
+3023,80s,None
+3024,indie,None
+3025,indie,None
+3026,indie,None
+3027,indie,None
+3028,alternative,None
+3029,Lo-Fi,None
+3030,Hip-Hop,None
+3031,electronic,None
+3032,indie,None
+3033,indie,None
+3034,chillwave,None
+3035,cover,None
+3036,folk,None
+3037,pop,None
+3038,pop,None
+3039,Hip-Hop,None
+3040,electronic,None
+3041,indie,None
+3042,summer,None
+3043,rock,None
+3044,indie,None
+3045,sxsw 2011,None
+3046,vugube62,None
+3047,lizvelrene2010,None
+3048,indie,None
+3049,vugube62,None
+3050,vugube62,None
+3051,vugube62,None
+3052,80s,None
+3053,alternative,None
+3054,Lo-Fi,None
+3055,Hip-Hop,None
+3056,indie,None
+3057,pop,None
+3058,pop,None
+3059,pop,None
+3060,pop,None
+3061,pop,None
+3062,pop,None
+3063,pop,None
+3064,pop,None
+3065,pop,None
+3066,pop,None
+3067,pop,None
+3068,pop,None
+3069,pop,None
+3070,pop,None
+3071,pop,None
+3072,pop,None
+3073,Hip-Hop,None
+3074,BIRP,None
+3075,indie pop,None
+3076,indie,None
+3077,indie rock,None
+3078,electronic,None
+3079,electronic,None
+3080,electronic,None
+3081,electronic,None
+3082,80s,None
+3083,alternative,None
+3084,Lo-Fi,None
+3085,indie,None
+3086,i want back to the 2010s,None
+3087,indie,None
+3088,indie,None
+3089,shoegaze,None
+3090,indie,None
+3091,afrobeat,None
+3092,chill,None
+3093,indie,None
+3094,indie,None
+3095,indie,None
+3096,electronic,None
+3097,electronic,None
+3098,electronic,None
+3099,electronic,None
+3100,electronic,None
+3101,electronic,None
+3102,alternative,None
+3103,electronic,None
+3104,BIRP,None
+3105,rock,None
+3106,indie,None
+3107,indie,None
+3108,Lo-Fi,None
+3109,indie rock,None
+3110,indie rock,None
+3111,indie rock,None
+3112,indie rock,None
+3113,indie rock,None
+3114,indie,None
+3115,indie rock,None
+3116,folk,None
+3117,indie,None
+3118,folk,None
+3119,indie,None
+3120,80s,None
+3121,pop,None
+3122,ambient,None
+3123,80s,None
+3124,the word miss,None
+3125,rock,None
+3126,female vocalists,None
+3127,indie,None
+3128,indie,None
+3129,electronic,None
+3130,indie,None
+3131,indie,None
+3132,80s,None
+3133,electronic,None
+3134,rock,None
+3135,indie rock,None
+3136,summer,None
+3137,indie,None
+3138,alternative rock,None
+3139,indie,None
+3140,Soundtrack,None
+3141,pop,None
+3142,folk,None
+3143,electronic,None
+3144,Lo-Fi,None
+3145,folk,None
+3146,female vocalists,None
+3147,cute,None
+3148,rock,None
+3149,pop,None
+3150,Lo-Fi,None
+3151,pop,None
+3152,indie rock,None
+3153,female vocalists,None
+3154,cute,None
+3155,female vocalists,None
+3156,female vocalists,None
+3157,indie,None
+3158,electronic,None
+3159,vugube62,None
+3160,vugube62,None
+3161,vugube62,None
+3162,indie,None
+3163,vugube62,None
+3164,vugube62,None
+3165,classic rock,None
+3166,electronic,None
+3167,electronic,None
+3168,pop,None
+3169,Lo-Fi,None
+3170,Lo-Fi,None
+3171,Lo-Fi,None
+3172,indie,None
+3173,summer,None
+3174,Lo-Fi,None
+3175,indie,None
+3176,Lo-Fi,None
+3177,pop,None
+3178,80s,None
+3179,pop,None
+3180,pop,None
+3181,pop,None
+3182,80s,None
+3183,80s,None
+3184,80s,None
+3185,indie,None
+3186,electropop,None
+3187,pop,None
+3188,electronic,None
+3189,pop,None
+3190,80s,None
+3191,electronic,None
+3192,indie,None
+3193,rock,None
+3194,Hip-Hop,None
+3195,indie,None
+3196,electronic,None
+3197,female vocalists,None
+3198,electronic,None
+3199,80s,None
+3200,indie rock,None
+3201,ambient,None
+3202,electronic,None
+3203,indie,None
+3204,chillwave,None
+3205,chillwave,None
+3206,chillwave,None
+3207,chillwave,None
+3208,chillwave,None
+3209,electronica,None
+3210,indie,None
+3211,electronic,None
+3212,ambient,None
+3213,electronic,None
+3214,electronic,None
+3215,autumn,None
+3216,indietronica,None
+3217,indie rock,None
+3218,indie rock,None
+3219,indie,None
+3220,1Live Fiehe,None
+3221,pop,None
+3222,indie,None
+3223,electronic,None
+3224,ambient,None
+3225,indie,None
+3226,indie,None
+3227,indie,None
+3228,shoegaze,None
+3229,pop,None
+3230,female vocalists,None
+3231,indie rock,None
+3232,WKNC,None
+3233,indie rock,None
+3234,indie,None
+3235,chillwave,None
+3236,Go drunk eosin cabs,None
+3237,Lo-Fi,None
+3238,chillwave,None
+3239,ambient,None
+3240,electronic,None
+3241,chillwave,None
+3242,ambient,None
+3243,electronic,None
+3244,indie,None
+3245,indie,None
+3246,indie,None
+3247,electronic,None
+3248,indie,None
+3249,indie,None
+3250,Lo-Fi,None
+3251,indie rock,None
+3252,instrumental,None
+3253,experimental,None
+3254,austin,None
+3255,indie,None
+3256,experimental,None
+3257,electronic,None
+3258,indie,None
+3259,experimental,None
+3260,Morose Deep dilate Crimson,None
+3261,shut up and have a banana,None
+3262,electronic,None
+3263,chillout,None
+3264,somafm,None
+3265,somafm,None
+3266,BIRP,None
+3267,garage pop,None
+3268,electronic,None
+3269,pop,None
+3270,80s,None
+3271,electro,None
+3272,electronic,None
+3273,electronic,None
+3274,electronic,None
+3275,alternative,None
+3276,80s,None
+3277,chillwave,None
+3278,chillwave,None
+3279,chillwave,None
+3280,80s,None
+3281,chill,None
+3282,classic rock,None
+3283,80s,None
+3284,indie,None
+3285,electronic,None
+3286,indie,None
+3287,ambient,None
+3288,indie,None
+3289,electronic,None
+3290,pop,None
+3291,chillwave,None
+3292,Hip-Hop,None
+3293,funk,None
+3294,electronic,None
+3295,electronic,None
+3296,indie,None
+3297,chillwave,None
+3298,electronic,None
+3299,Lo-Fi,None
+3300,indie pop,None
+3301,indie,None
+3302,indie,None
+3303,Lo-Fi,None
+3304,indie,None
+3305,indie,None
+3306,Hip-Hop,None
+3307,Lo-Fi,None
+3308,indie,None
+3309,pop,None
+3310,pop,None
+3311,alternative rock,None
+3312,latin,None
+3313,cover,None
+3314,female vocalists,None
+3315,80s,None
+3316,latin,None
+3317,BIRP,None
+3318,indie,None
+3319,folk,None
+3320,rock,None
+3321,folk,None
+3322,electronic,None
+3323,latin,None
+3324,latin,None
+3325,latin,None
+3326,latin,None
+3327,latin,None
+3328,latin,None
+3329,latin,None
+3330,electronic,None
+3331,latin,None
+3332,latin,None
+3333,latin,None
+3334,Hip-Hop,None
+3335,80s,None
+3336,indie,None
+3337,indie,None
+3338,indie,None
+3339,80s,None
+3340,80s,None
+3341,needs more cowbell,None
+3342,chillwave,None
+3343,chillwave,None
+3344,chillwave,None
+3345,1Live Fiehe,None
+3346,1Live Fiehe,None
+3347,indie,None
+3348,80s,None
+3349,electronic,None
+3350,folk,None
+3351,indie,None
+3352,indie,None
+3353,electronic,None
+3354,vugube62,None
+3355,Disco,None
+3356,electronic,None
+3357,electronic,None
+3358,80s,None
+3359,indie,None
+3360,80s,None
+3361,pop,None
+3362,pop,None
+3363,electronic,None
+3364,pop,None
+3365,pop,None
+3366,pop,None
+3367,80s,None
+3368,folk,None
+3369,folk,None
+3370,Soundtrack,None
+3371,folk,None
+3372,folk,None
+3373,instrumental,None
+3374,indie,None
+3375,experimental,None
+3376,indie,None
+3377,indie,None
+3378,indie,None
+3379,electronic,None
+3380,indie pop,None
+3381,ambient,None
+3382,rock,None
+3383,indie pop,None
+3384,singer-songwriter,None
+3385,indie,None
+3386,indie pop,None
+3387,Lo-Fi,None
+3388,indie pop,None
+3389,indie,None
+3390,chillwave,None
+3391,chillwave,None
+3392,low-fi,None
+3393,daytrotter,None
+3394,best of 2010-lo mejor de 2010,None
+3395,dream pop,None
+3396,exuberant folk,None
+3397,indie,None
+3398,Lo-Fi,None
+3399,folk,None
+3400,female vocalists,None
+3401,electronic,None
+3402,indie,None
+3403,cover,None
+3404,exuberant folk,None
+3405,dream pop,None
+3406,best of 2010-lo mejor de 2010,None
+3407,electronic,None
+3408,alternative,None
+3409,electronic,None
+3410,Calming,None
+3411,indie,None
+3412,alternative,None
+3413,indie rock,None
+3414,rock,None
+3415,indie,None
+3416,latin,None
+3417,Hip-Hop,None
+3418,jazz,None
+3419,indie rock,None
+3420,indie,None
+3421,music to get the pussy wet,None
+3422,exuberant folk,None
+3423,music to get the pussy wet,None
+3424,exuberant folk,None
+3425,exuberant folk,None
+3426,cover,None
+3427,indie,None
+3428,indie,None
+3429,indie,None
+3430,synth pop,None
+3431,indie,None
+3432,indie,None
+3433,folk,None
+3434,lizvelrene2010,None
+3435,folk,None
+3436,pop,None
+3437,WKNC,None
+3438,BIRP,None
+3439,electronic,None
+3440,indie,None
+3441,Calming,None
+3442,indie,None
+3443,Burn One,None
+3444,indie,None
+3445,indie,None
+3446,Burn One,None
+3447,indie,None
+3448,indie,None
+3449,Burn One,None
+3450,indie,None
+3451,indie,None
+3452,Calming,None
+3453,folk,None
+3454,Calming,None
+3455,indie,None
+3456,indie,None
+3457,Burn One,None
+3458,indie,None
+3459,folk,None
+3460,Calming,None
+3461,indie,None
+3462,indie,None
+3463,Burn One,None
+3464,indie,None
+3465,Calming,None
+3466,electronic,None
+3467,chillwave,None
+3468,Calming,None
+3469,chillwave,None
+3470,Calming,None
+3471,Calming,None
+3472,Calming,None
+3473,chillwave,None
+3474,Calming,None
+3475,chillwave,None
+3476,Calming,None
+3477,chillwave,None
+3478,Calming,None
+3479,Calming,None
+3480,Lo-Fi,None
+3481,Calming,None
+3482,dream pop,None
+3483,Lo-Fi,None
+3484,Calming,None
+3485,Lo-Fi,None
+3486,Calming,None
+3487,singer-songwriter,None
+3488,chillwave,None
+3489,Calming,None
+3490,Calming,None
+3491,dream pop,None
+3492,folk,None
+3493,chillwave,None
+3494,Calming,None
+3495,80s,None
+3496,pop,None
+3497,electronic,None
+3498,chillwave,None
+3499,Calming,None
+3500,electronic,None
+3501,chillwave,None
+3502,Calming,None
+3503,Calming,None
+3504,chillwave,None
+3505,Calming,None
+3506,80s,None
+3507,electronic,None
+3508,chillwave,None
+3509,Calming,None
+3510,Calming,None
+3511,Calming,None
+3512,singer-songwriter,None
+3513,chillwave,None
+3514,Calming,None
+3515,cover,None
+3516,electronic,None
+3517,Hip-Hop,None
+3518,chillwave,None
+3519,rock,None
+3520,pop,None
+3521,electronic,None
+3522,summer,None
+3523,beautiful,None
+3524,classic rock,None
+3525,alternative,None
+3526,electronic,None
+3527,indie,None
+3528,latin,None
+3529,classic rock,None
+3530,Hip-Hop,None
+3531,indie,None
+3532,folk,None
+3533,indie,None
+3534,cover,None
+3535,indie,None
+3536,indie,None
+3537,lovedbybeyondwithin,None
+3538,chillwave,None
+3539,chillwave,None
+3540,electronic,None
+3541,indie,None
+3542,Lo-Fi,None
+3543,Lo-Fi,None
+3544,indie,None
+3545,psychedelic,None
+3546,Hip-Hop,None
+3547,indie rock,None
+3548,late night,None
+3549,rock,None
+3550,singer-songwritergdchill,None
+3551,folk,None
+3552,indie,None
+3553,indie,None
+3554,rock,None
+3555,Lo-Fi,None
+3556,electronic,None
+3557,Lo-Fi,None
+3558,chillwave,None
+3559,rock,None
+3560,indie,None
+3561,indie rock,None
+3562,Go drunk eosin cabs,None
+3563,chillwave,None
+3564,chillout,None
+3565,Lo-Fi,None
+3566,no fidelity,None
+3567,thesixtyone,None
+3568,electronic,None
+3569,cover,None
+3570,pop,None
+3571,shoegaze,None
+3572,indie,None
+3573,indie rock,None
+3574,indie rock,None
+3575,indie,None
+3576,folk,None
+3577,electronic,None
+3578,electronic,None
+3579,electronic,None
+3580,indie,None
+3581,indie,None
+3582,indie,None
+3583,indie,None
+3584,electronic,None
+3585,electronic,None
+3586,electronic,None
+3587,electronic,None
+3588,electronic,None
+3589,electronic,None
+3590,Soundtrack,None
+3591,classic rock,None
+3592,folk,None
+3593,indie pop,None
+3594,experimental,None
+3595,dream pop,None
+3596,indie,None
+3597,indie,None
+3598,indie,None
+3599,indie,None
+3600,indie,None
+3601,indie,None
+3602,indie,None
+3603,indie,None
+3604,indie,None
+3605,dream pop,None
+3606,dream pop,None
+3607,dream pop,None
+3608,dream pop,None
+3609,dream pop,None
+3610,dream pop,None
+3611,dream pop,None
+3612,folk,None
+3613,folk,None
+3614,chillwave,None
+3615,chillwave,None
+3616,emo,None
+3617,classic rock,None
+3618,classic rock,None
+3619,Lo-Fi,None
+3620,Lo-Fi,None
+3621,Lo-Fi,None
+3622,Lo-Fi,None
+3623,Lo-Fi,None
+3624,pop,None
+3625,80s,None
+3626,Lo-Fi,None
+3627,Lo-Fi,None
+3628,Lo-Fi,None
+3629,pop,None
+3630,indie,None
+3631,indie,None
+3632,electronic,None
+3633,electronic,None
+3634,world,None
+3635,world,None
+3636,idioteque,None
+3637,indie,None
+3638,indie,None
+3639,indie,None
+3640,Hip-Hop,None
+3641,sxsw 2009,None
+3642,classic rock,None
+3643,pop,None
+3644,covers,None
+3645,pop,None
+3646,indie,None
+3647,rock,None
+3648,electronic,None
+3649,electronic,None
+3650,rock,None
+3651,rock,None
+3652,2006,None
+3653,funk,None
+3654,70s,None
+3655,indie pop,None
+3656,Austin Loved Tracks,None
+3657,Austin Loved Tracks,None
+3658,Austin Loved Tracks,None
+3659,rock,None
+3660,indie,None
+3661,70s,None
+3662,classic rock,None
+3663,classic rock,None
+3664,classic rock,None
+3665,classic rock,None
+3666,indie,None
+3667,folk,None
+3668,folk,None
+3669,singer-songwriter,None
+3670,singer-songwriter,None
+3671,kbfm,None
+3672,kbfm,None
+3673,dream pop,None
+3674,alternative,None
+3675,Awesome,None
+3676,indie,None
+3677,indie,None
+3678,Awesome,None
+3679,chillwave,None
+3680,electronic,None
+3681,electronic,None
+3682,80s,None
+3683,electronic,None
+3684,classic rock,None
+3685,80s,None
+3686,singer-songwriter,None
+3687,classic rock,None
+3688,electronic,None
+3689,indie,None
+3690,electronic,None
+3691,pop,None
+3692,pop,None
+3693,pop,None
+3694,pop,None
+3695,summer,None
+3696,psychedelic folk,None
+3697,indie,None
+3698,singer-songwriter,None
+3699,indie,None
+3700,folk,None
+3701,electronic,None
+3702,indie rock,None
+3703,singer-songwriter,None
+3704,electronic,None
+3705,alternative rock,None
+3706,Soundtrack,None
+3707,rock,None
+3708,Hip-Hop,None
+3709,Hip-Hop,None
+3710,indie,None
+3711,indie,None
+3712,rock,None
+3713,pop,None
+3714,folk,None
+3715,Love,None
+3716,indie,None
+3717,beautiful,None
+3718,electropop,None
+3719,indie,None
+3720,indie pop,None
+3721,folk,None
+3722,folk,None
+3723,electronic,None
+3724,80s,None
+3725,alternative,None
+3726,indie,None
+3727,classic rock,None
+3728,chillout,None
+3729,classic rock,None
+3730,indie,None
+3731,classic rock,None
+3732,indie,None
+3733,rock,None
+3734,latin,None
+3735,indie,None
+3736,rock,None
+3737,70s,None
+3738,alternative,None
+3739,alternative,None
+3740,pop,None
+3741,electronic,None
+3742,electronic,None
+3743,indie,None
+3744,indie,None
+3745,indie,None
+3746,indie,None
+3747,singer-songwriter,None
+3748,vugube62,None
+3749,rock,None
+3750,pop,None
+3751,favorites,None
+3752,classic rock,None
+3753,classic rock,None
+3754,electronic,None
+3755,chillout,None
+3756,chillwave,None
+3757,electronic,None
+3758,indie pop,None
+3759,chillwave,None
+3760,indie,None
+3761,folk,None
+3762,classic rock,None
+3763,vugube62,None
+3764,indie,None
+3765,Hip-Hop,None
+3766,indie pop,None
+3767,chillwave,None
+3768,alternative,None
+3769,female vocalists,None
+3770,indie,None
+3771,70s,None
+3772,indie,None
+3773,cover,None
+3774,indie,None
+3775,electronic,None
+3776,vugube62,None
+3777,chill,None
+3778,electronic,None
+3779,dream pop,None
+3780,chillwave,None
+3781,indie,None
+3782,1Live Fiehe,None
+3783,indie,None
+3784,alternative,None
+3785,alternative rock,None
+3786,alternative rock,None
+3787,alternative rock,None
+3788,rock,None
+3789,rock,None
+3790,rock,None
+3791,80s,None
+3792,80s,None
+3793,classic rock,None
+3794,rock,None
+3795,folk,None
+3796,rock,None
+3797,classic rock,None
+3798,Lo-Fi,None
+3799,indie,None
+3800,rock,None
+3801,folk,None
+3802,folk,None
+3803,Hip-Hop,None
+3804,Hip-Hop,None
+3805,indie,None
+3806,indie,None
+3807,electronic,None
+3808,indie,None
+3809,indie,None
+3810,80s,None
+3811,80s,None
+3812,dream pop,None
+3813,electronic,None
+3814,folk,None
+3815,autumn,None
+3816,Lo-Fi,None
+3817,dream pop,None
+3818,dream pop,None
+3819,electronic,None
+3820,alternative,None
+3821,alternative,None
+3822,alternative,None
+3823,electronic,None
+3824,indie,None
+3825,dream pop,None
+3826,chillwave,None
+3827,vugube62,None
+3828,alternative,None
+3829,chillout,None
+3830,dream pop,None
+3831,classic rock,None
+3832,Lo-Fi,None
+3833,electronic,None
+3834,indie rock,None
+3835,female vocalists,None
+3836,indie,None
+3837,normal,None
+3838,indie,None
+3839,indie,None
+3840,indie,None
+3841,indie,None
+3842,indie,None
+3843,indie,None
+3844,indie,None
+3845,Lo-Fi,None
+3846,electronic,None
+3847,indie rock,None
+3848,folk,None
+3849,autumn,None
+3850,Lo-Fi,None
+3851,dream pop,None
+3852,dream pop,None
+3853,electronic,None
+3854,dream pop,None
+3855,folk,None
+3856,folk,None
+3857,folk,None
+3858,indie,None
+3859,folk,None
+3860,indie,None
+3861,folk,None
+3862,Lo-Fi,None
+3863,Lo-Fi,None
+3864,Lo-Fi,None
+3865,Lo-Fi,None
+3866,Lo-Fi,None
+3867,Lo-Fi,None
+3868,Lo-Fi,None
+3869,Lo-Fi,None
+3870,Lo-Fi,None
+3871,Lo-Fi,None
+3872,Lo-Fi,None
+3873,Lo-Fi,None
+3874,Lo-Fi,None
+3875,folk,None
+3876,folk,None
+3877,classic rock,None
+3878,other,None
+3879,classic rock,None
+3880,classic rock,None
+3881,instrumental,None
+3882,dream pop,None
+3883,indie,None
+3884,indie,None
+3885,indie,None
+3886,70s,None
+3887,70s,None
+3888,electronic,None
+3889,vugube62,None
+3890,indie,None
+3891,vugube62,None
+3892,experimental,None
+3893,beautiful,None
+3894,folk,None
+3895,folk,None
+3896,electro,None
+3897,electronic,None
+3898,electronic,None
+3899,Lo-Fi,None
+3900,Lo-Fi,None
+3901,dream pop,None
+3902,dream pop,None
+3903,indie,None
+3904,britpop,None
+3905,music to get the pussy wet,None
+3906,stonesoup,None
+3907,music to get the pussy wet,None
+3908,chasing the mean reds,None
+3909,classic rock,None
+3910,70s,None
+3911,classic rock,None
+3912,classic rock,None
+3913,70s,None
+3914,electronic,None
+3915,Hip-Hop,None
+3916,Hip-Hop,None
+3917,pop,None
+3918,alternative,None
+3919,pxs: loved,None
+3920,pop,None
+3921,Lo-Fi,None
+3922,Lo-Fi,None
+3923,Lo-Fi,None
+3924,Lo-Fi,None
+3925,Lo-Fi,None
+3926,dream pop,None
+3927,dream pop,None
+3928,dream pop,None
+3929,dream pop,None
+3930,dream pop,None
+3931,Lo-Fi,None
+3932,Lo-Fi,None
+3933,pop,None
+3934,shoegaze,None
+3935,good,None
+3936,dream pop,None
+3937,dream pop,None
+3938,Lo-Fi,None
+3939,Lo-Fi,None
+3940,Lo-Fi,None
+3941,Lo-Fi,None
+3942,indie rock,None
+3943,dream pop,None
+3944,dream pop,None
+3945,Lo-Fi,None
+3946,chillwave,None
+3947,Lo-Fi,None
+3948,BIRP,None
+3949,pop,None
+3950,female vocalists,None
+3951,vugube62,None
+3952,indie rock,None
+3953,chillwave,None
+3954,indie,None
+3955,pop,None
+3956,pop,None
+3957,pop,None
+3958,indie,None
+3959,title is a full sentence,None
+3960,summer,None
+3961,indie,None
+3962,rock,None
+3963,rock,None
+3964,electronic,None
+3965,electronic,None
+3966,dream pop,None
+3967,indie,None
+3968,BIRP,None
+3969,pop,None
+3970,chillwave,None
+3971,electronic,None
+3972,Lo-Fi,None
+3973,Lo-Fi,None
+3974,Lo-Fi,None
+3975,Lo-Fi,None
+3976,Lo-Fi,None
+3977,indie,None
+3978,rock,None
+3979,female vocalists,None
+3980,electronic,None
+3981,pop,None
+3982,Lo-Fi,None
+3983,Lo-Fi,None
+3984,Lo-Fi,None
+3985,dream pop,None
+3986,Hip-Hop,None
+3987,pop,None
+3988,Lo-Fi,None
+3989,Lo-Fi,None
+3990,Lo-Fi,None
+3991,dream pop,None
+3992,dream pop,None
+3993,indie rock,None
+3994,dream pop,None
+3995,indie,None
+3996,indie,None
+3997,Lo-Fi,None
+3998,dream pop,None
+3999,indie,None
+4000,dream pop,None
+4001,Lo-Fi,None
+4002,psychedelic folk,None
+4003,electronic,None
+4004,singer-songwriter,None
+4005,indie,None
+4006,indie,None
+4007,dream pop,None
+4008,rock,None
+4009,emo,None
+4010,emo,None
+4011,Austin Loved Tracks,None
+4012,electronic,None
+4013,electronic,None
+4014,electronic,None
+4015,electronic,None
+4016,indie,None
+4017,indie,None
+4018,electronic,None
+4019,cover,None
+4020,bizarre,None
+4021,electronic,None
+4022,electronic,None
+4023,electronic,None
+4024,electronic,None
+4025,indie rock,None
+4026,80s,None
+4027,indie,None
+4028,indie,None
+4029,dream pop,None
+4030,indie,None
+4031,Hip-Hop,None
+4032,classic rock,None
+4033,electronic,None
+4034,electronic,None
+4035,chill,None
+4036,indie rock,None
+4037,indie,None
+4038,indie rock,None
+4039,indie,None
+4040,electronic,None
+4041,dream pop,None
+4042,electronic,None
+4043,world,None
+4044,electronic,None
+4045,electronic,None
+4046,electronic,None
+4047,electronic,None
+4048,chill,None
+4049,chill,None
+4050,pop,None
+4051,alternative rap,None
+4052,electronic,None
+4053,world,None
+4054,electro,None
+4055,indie,None
+4056,indie,None
+4057,80s,None
+4058,electronic,None
+4059,electronic,None
+4060,electronic,None
+4061,rock,None
+4062,indie,None
+4063,indie,None
+4064,Lo-Fi,None
+4065,70s,None
+4066,britpop,None
+4067,80s,None
+4068,favorites,None
+4069,indie,None
+4070,electronic,None
+4071,electronic,None
+4072,Lo-Fi,None
+4073,Hip-Hop,None
+4074,Lo-Fi,None
+4075,pop,None
+4076,Lo-Fi,None
+4077,Lo-Fi,None
+4078,warm,None
+4079,70s,None
+4080,world,None
+4081,indie,None
+4082,indie,None
+4083,britpop,None
+4084,warm,None
+4085,pop,None
+4086,Hip-Hop,None
+4087,BIRP,None
+4088,britpop,None
+4089,Hip-Hop,None
+4090,indie,None
+4091,indie,None
+4092,electronic,None
+4093,world,None
+4094,70s,None
+4095,britpop,None
+4096,BIRP,None
+4097,Hip-Hop,None
+4098,pop,None
+4099,warm,None
+4100,Lo-Fi,None
+4101,Lo-Fi,None
+4102,indie,None
+4103,indie,None
+4104,Lo-Fi,None
+4105,indie,None
+4106,indie,None
+4107,Lo-Fi,None
+4108,Hip-Hop,None
+4109,indie,None
+4110,Hip-Hop,None
+4111,Hip-Hop,None
+4112,rock,None
+4113,rock,None
+4114,rock,None
+4115,rock,None
+4116,rock,None
+4117,rock,None
+4118,indie,None
+4119,indie,None
+4120,indie rock,None
+4121,Lo-Fi,None
+4122,electronic,None
+4123,chillwave,None
+4124,electronic,None
+4125,indie,None
+4126,chillwave,None
+4127,dream pop,None
+4128,chillwave,None
+4129,indie,None
+4130,electronic,None
+4131,britpop,None
+4132,Hip-Hop,None
+4133,pop,None
+4134,pop,None
+4135,classic rock,None
+4136,favorites,None
+4137,80s,None
+4138,vugube62,None
+4139,Disco,None
+4140,experimental,None
+4141,pop,None
+4142,indie,None
+4143,indie,None
+4144,pop,None
+4145,rock,None
+4146,rock,None
+4147,rock,None
+4148,alternative,None
+4149,rock,None
+4150,pop,None
+4151,pop,None
+4152,pop,None
+4153,indie,None
+4154,pop,None
+4155,pop,None
+4156,pop,None
+4157,pop,None
+4158,indie,None
+4159,indie,None
+4160,indie,None
+4161,Hip-Hop,None
+4162,indie,None
+4163,Hip-Hop,None
+4164,Hip-Hop,None
+4165,BIRP,None
+4166,Hip-Hop,None
+4167,britpop,None
+4168,world,None
+4169,70s,None
+4170,britpop,None
+4171,BIRP,None
+4172,Lo-Fi,None
+4173,electronic,None
+4174,chillwave,None
+4175,Lo-Fi,None
+4176,chillwave,None
+4177,pop,None
+4178,WKNC,None
+4179,folk,None
+4180,folk,None
+4181,female vocalists,None
+4182,female vocalists,None
+4183,vugube62,None
+4184,female vocalists,None
+4185,female vocalists,None
+4186,indie,None
+4187,indie,None
+4188,emo,None
+4189,emo,None
+4190,emo,None
+4191,emo,None
+4192,emo,None
+4193,emo,None
+4194,emo,None
+4195,rock,None
+4196,70s,None
+4197,indie,None
+4198,dream pop,None
+4199,classic rock,None
+4200,indie,None
+4201,chillwave,None
+4202,indie,None
+4203,electronic,None
+4204,jazz,None
+4205,folk,None
+4206,indie,None
+4207,70s,None
+4208,experimental,None
+4209,chillwave,None
+4210,ambient,None
+4211,indie pop,None
+4212,electronic,None
+4213,pop,None
+4214,experimental,None
+4215,indie,None
+4216,indie,None
+4217,Hip-Hop,None
+4218,Hip-Hop,None
+4219,indie,None
+4220,Hip-Hop,None
+4221,indie,None
+4222,indie,None
+4223,Hip-Hop,None
+4224,Hip-Hop,None
+4225,indie,None
+4226,Hip-Hop,None
+4227,indie,None
+4228,Hip-Hop,None
+4229,chillwave,None
+4230,chillwave,None
+4231,title is a full sentence,None
+4232,electronic,None
+4233,Hip-Hop,None
+4234,Hip-Hop,None
+4235,indie,None
+4236,electronic,None
+4237,electro,None
+4238,electronic,None
+4239,electronic,None
+4240,electronic,None
+4241,indie rock,None
+4242,summer,None
+4243,summer,None
+4244,indie,None
+4245,cover,None
+4246,jazz,None
+4247,Love,None
+4248,indie,None
+4249,80s,None
+4250,folk,None
+4251,indie,None
+4252,pop,None
+4253,80s,None
+4254,indie,None
+4255,electronic,None
+4256,classic rock,None
+4257,pop,None
+4258,alternative rock,None
+4259,Hip-Hop,None
+4260,dream pop,None
+4261,80s,None
+4262,80s,None
+4263,pop,None
+4264,indie,None
+4265,rock,None
+4266,cover,None
+4267,indie,None
+4268,emo,None
+4269,chillout,None
+4270,indie,None
+4271,indie rock,None
+4272,vugube62,None
+4273,indie,None
+4274,indie,None
+4275,folk,None
+4276,indie,None
+4277,electronic,None
+4278,indie,None
+4279,indie,None
+4280,rock,None
+4281,Hip-Hop,None
+4282,indie,None
+4283,80s,None
+4284,pop,None
+4285,dream pop,None
+4286,pxs: loved,None
+4287,indie,None
+4288,Hip-Hop,None
+4289,indie,None
+4290,favorites,None
+4291,indie,None
+4292,indie rock,None
+4293,shoegaze,None
+4294,folk,None
+4295,indie,None
+4296,classic rock,None
+4297,electronic,None
+4298,classic rock,None
+4299,folk,None
+4300,indie,None
+4301,rock,None
+4302,indie,None
+4303,indie,None
+4304,electronic,None
+4305,indie,None
+4306,electronic,None
+4307,chillwave,None
+4308,indie rock,None
+4309,folk,None
+4310,Hip-Hop,None
+4311,dream pop,None
+4312,Lo-Fi,None
+4313,psychedelic,None
+4314,electronic,None
+4315,indie,None
+4316,indie,None
+4317,goodnightmom,None
+4318,chillout,None
+4319,indie,None
+4320,shoegaze,None
+4321,Lo-Fi,None
+4322,electronic,None
+4323,indie,None
+4324,electronic,None
+4325,electronic,None
+4326,folk,None
+4327,jazz,None
+4328,in 80 days around the world,None
+4329,electronic,None
+4330,dream pop,None
+4331,electronic,None
+4332,Lo-Fi,None
+4333,Lo-Fi,None
+4334,80s,None
+4335,80s,None
+4336,Lo-Fi,None
+4337,indie,None
+4338,indie,None
+4339,warm,None
+4340,Lo-Fi,None
+4341,Lo-Fi,None
+4342,Lo-Fi,None
+4343,Lo-Fi,None
+4344,folk,None
+4345,summer,None
+4346,summer,None
+4347,summer,None
+4348,summer,None
+4349,vugube62,None
+4350,Hip-Hop,None
+4351,pop,None
+4352,folk,None
+4353,indie,None
+4354,Hip-Hop,None
+4355,indie,None
+4356,indie,None
+4357,indie,None
+4358,indie,None
+4359,indie,None
+4360,summer,None
+4361,Lo-Fi,None
+4362,Lo-Fi,None
+4363,Lo-Fi,None
+4364,Lo-Fi,None
+4365,cover,None
+4366,folk,None
+4367,electronic,None
+4368,chillwave,None
+4369,Lo-Fi,None
+4370,indie,None
+4371,indie rock,None
+4372,rock,None
+4373,indie,None
+4374,folk,None
+4375,80s,None
+4376,electronic,None
+4377,indie rock,None
+4378,indie rock,None
+4379,melancholy,None
+4380,indie,None
+4381,chill,None
+4382,80s,None
+4383,chill,None
+4384,80s,None
+4385,folk,None
+4386,stonedbeat,None
+4387,cover,None
+4388,pop,None
+4389,indie,None
+4390,Love,None
+4391,indie,None
+4392,indie,None
+4393,indie,None
+4394,covers,None
+4395,indie,None
+4396,female vocalists,None
+4397,female vocalists,None
+4398,female vocalists,None
+4399,indie,None
+4400,Hip-Hop,None
+4401,indie,None
+4402,Disco,None
+4403,indie,None
+4404,Disco,None
+4405,Disco,None
+4406,Hip-Hop,None
+4407,indie,None
+4408,summer,None
+4409,Hip-Hop,None
+4410,indie,None
+4411,Hip-Hop,None
+4412,summer,None
+4413,indie,None
+4414,indie,None
+4415,alternative,None
+4416,favorites,None
+4417,indie pop,None
+4418,dream pop,None
+4419,indie,None
+4420,Hip-Hop,None
+4421,indie,None
+4422,Disco,None
+4423,indie,None
+4424,Disco,None
+4425,synth pop,None
+4426,Disco,None
+4427,psychedelic,None
+4428,indie,None
+4429,indie,None
+4430,Disco,None
+4431,Hip-Hop,None
+4432,indie,None
+4433,electro,None
+4434,synth pop,None
+4435,thesixtyone,None
+4436,Disco,None
+4437,indie,None
+4438,indie,None
+4439,Disco,None
+4440,indie,None
+4441,indie,None
+4442,summer,None
+4443,psychedelic,None
+4444,Lo-Fi,None
+4445,classic rock,None
+4446,cover,None
+4447,synth pop,None
+4448,indie,None
+4449,synth pop,None
+4450,indie,None
+4451,classic rock,None
+4452,indie pop,None
+4453,thesixtyone,None
+4454,rock,None
+4455,Lo-Fi,None
+4456,electronic,None
+4457,Lo-Fi,None
+4458,indie rock,None
+4459,experimental,None
+4460,rock,None
+4461,80s,None
+4462,indie rock,None
+4463,80s,None
+4464,classic rock,None
+4465,rock,None
+4466,rock,None
+4467,pop,None
+4468,Lo-Fi,None
+4469,experimental,None
+4470,classic rock,None
+4471,cover,None
+4472,dream pop,None
+4473,dream pop,None
+4474,classic rock,None
+4475,alternative,None
+4476,electronic,None
+4477,electronic,None
+4478,classic rock,None
+4479,classic rock,None
+4480,alternative,None
+4481,indie,None
+4482,indie,None
+4483,indie,None
+4484,indie,None
+4485,alternative,None
+4486,alternative,None
+4487,alternative,None
+4488,alternative,None
+4489,alternative,None
+4490,Lo-Fi,None
+4491,Lo-Fi,None
+4492,indie,None
+4493,dream pop,None
+4494,dream pop,None
+4495,dream pop,None
+4496,dream pop,None
+4497,dream pop,None
+4498,dream pop,None
+4499,dream pop,None
+4500,dream pop,None
+4501,dream pop,None
+4502,dream pop,None
+4503,classic rock,None
+4504,indie,None
+4505,indie,None
+4506,indie,None
+4507,indie,None
+4508,indie,None
+4509,indie,None
+4510,electronic,None
+4511,indie,None
+4512,indie,None
+4513,indie,None
+4514,Austin Loved Tracks,None
+4515,vugube62,None
+4516,indie rock,None
+4517,indie,None
+4518,indie,None
+4519,indie,None
+4520,dream pop,None
+4521,dream pop,None
+4522,indie pop,None
+4523,electronic,None
+4524,electronic,None
+4525,Lo-Fi,None
+4526,Lo-Fi,None
+4527,Lo-Fi,None
+4528,Lo-Fi,None
+4529,Lo-Fi,None
+4530,Lo-Fi,None
+4531,Lo-Fi,None
+4532,Lo-Fi,None
+4533,Lo-Fi,None
+4534,Lo-Fi,None
+4535,Lo-Fi,None
+4536,Lo-Fi,None
+4537,Lo-Fi,None
+4538,Lo-Fi,None
+4539,Lo-Fi,None
+4540,Lo-Fi,None
+4541,Lo-Fi,None
+4542,Lo-Fi,None
+4543,Lo-Fi,None
+4544,Lo-Fi,None
+4545,Lo-Fi,None
+4546,Lo-Fi,None
+4547,Lo-Fi,None
+4548,Lo-Fi,None
+4549,Lo-Fi,None
+4550,Lo-Fi,None
+4551,Lo-Fi,None
+4552,favorites,None
+4553,favorites,None
+4554,favorites,None
+4555,alternative,None
+4556,indie,None
+4557,rock,None
+4558,rock,None
+4559,indie pop,None
+4560,indie,None
+4561,indie,None
+4562,Hip-Hop,None
+4563,Hip-Hop,None
+4564,indie,None
+4565,experimental,None
+4566,indie,None
+4567,psychedelic,None
+4568,indie,None
+4569,indie,None
+4570,classic rock,None
+4571,alternative rock,None
+4572,rock,None
+4573,80s,None
+4574,pop,None
+4575,pop,None
+4576,pop,None
+4577,pop,None
+4578,pop,None
+4579,pop,None
+4580,amazing,None
+4581,amazing,None
+4582,amazing,None
+4583,heard on Pandora,None
+4584,indie pop,None
+4585,indie,None
+4586,indie,None
+4587,indie,None
+4588,Recent discoveries,None
+4589,indie,None
+4590,classic rock,None
+4591,dream pop,None
+4592,dream pop,None
+4593,dream pop,None
+4594,dream pop,None
+4595,dream pop,None
+4596,dream pop,None
+4597,Hip-Hop,None
+4598,indie pop,None
+4599,rock,None
+4600,folk,None
+4601,pop,None
+4602,indie,None
+4603,alternative rock,None
+4604,pop,None
+4605,summer,None
+4606,indie,None
+4607,indie,None
+4608,folk,None
+4609,folk,None
+4610,folk,None
+4611,the word miss,None
+4612,title is a full sentence,None
+4613,experimental,None
+4614,Hip-Hop,None
+4615,folk,None
+4616,experimental,None
+4617,Lo-Fi,None
+4618,Lo-Fi,None
+4619,Lo-Fi,None
+4620,Lo-Fi,None
+4621,summer,None
+4622,indie,None
+4623,indie,None
+4624,indie,None
+4625,Lo-Fi,None
+4626,indie,None
+4627,indie,None
+4628,indie rock,None
+4629,rock,None
+4630,rock,None
+4631,indie,None
+4632,80s,None
+4633,rock,None
+4634,indie,None
+4635,classic rock,None
+4636,chillwave,None
+4637,indie,None
+4638,folk,None
+4639,indie,None
+4640,indie,None
+4641,electronic,None
+4642,rock,None
+4643,indie,None
+4644,80s,None
+4645,rock,None
+4646,80s,None
+4647,pop,None
+4648,pop,None
+4649,pop,None
+4650,70s,None
+4651,70s,None
+4652,Hip-Hop,None
+4653,Hip-Hop,None
+4654,Hip-Hop,None
+4655,indie,None
+4656,Hip-Hop,None
+4657,Skinhead,None
+4658,indie,None
+4659,singer-songwriter,None
+4660,indie,None
+4661,indie,None
+4662,80s,None
+4663,indie,None
+4664,Austin Loved Tracks,None
+4665,Austin Loved Tracks,None
+4666,electronic,None
+4667,animals,None
+4668,electronic,None
+4669,indie,None
+4670,indie,None
+4671,indie,None
+4672,80s,None
+4673,vugube62,None
+4674,indie,None
+4675,indie,None
+4676,indie,None
+4677,electronic,None
+4678,so good i forget to breathe,None
+4679,singer-songwriter,None
+4680,indie,None
+4681,rock,None
+4682,indie pop,None
+4683,indie rock,None
+4684,electronic,None
+4685,indie,None
+4686,rock,None
+4687,indie,None
+4688,indie,None
+4689,electronic,None
+4690,elegy,None
+4691,electronic,None
+4692,electronic,None
+4693,dream pop,None
+4694,dream pop,None
+4695,favorites,None
+4696,Hip-Hop,None
+4697,Hip-Hop,None
+4698,electronic,None
+4699,classic rock,None
+4700,classic rock,None
+4701,indie,None
+4702,indie,None
+4703,Canadian,None
+4704,indie,None
+4705,indie,None
+4706,indie,None
+4707,indie,None
+4708,alternative,None
+4709,indie rock,None
+4710,indie rock,None
+4711,remix,None
+4712,indie,None
+4713,I thought of you,None
+4714,indie,None
+4715,electronic,None
+4716,rock,None
+4717,rock,None
+4718,rock,None
+4719,latin,None
+4720,title is a full sentence,None
+4721,indie,None
+4722,the word miss,None
+4723,title is a full sentence,None
+4724,indie,None
+4725,Hip-Hop,None
+4726,Hip-Hop,None
+4727,indie,None
+4728,pop,None
+4729,vugube62,None
+4730,electronic,None
+4731,80s,None
+4732,Hip-Hop,None
+4733,hip hop,None
+4734,80s,None
+4735,80s,None
+4736,pop,None
+4737,indie,None
+4738,classic rock,None
+4739,electronic,None
+4740,indie,None
+4741,indie,None
+4742,indie,None
+4743,indie,None
+4744,indie,None
+4745,indie,None
+4746,indie,None
+4747,indie,None
+4748,folk,None
+4749,indie,None
+4750,80s,None
+4751,80s,None
+4752,female vocalists,None
+4753,indie rock,None
+4754,electronic,None
+4755,latin,None
+4756,latin,None
+4757,Hip-Hop,None
+4758,indie,None
+4759,indie,None
+4760,beautiful,None
+4761,indie,None
+4762,2008,None
+4763,indie,None
+4764,indie,None
+4765,indie,None
+4766,chillout,None
+4767,electronic,None
+4768,indie,None
+4769,80s,None
+4770,indie rock,None
+4771,dream pop,None
+4772,electronic,None
+4773,electronic,None
+4774,Lo-Fi,None
+4775,indie,None
+4776,alternative,None
+4777,indie,None
+4778,folk,None
+4779,electronic,None
+4780,electronic,None
+4781,electronic,None
+4782,american,None
+4783,Lo-Fi,None
+4784,warm,None
+4785,indie,None
+4786,Lo-Fi,None
+4787,electronic,None
+4788,electronic,None
+4789,electronic,None
+4790,electronic,None
+4791,indie,None
+4792,indie,None
+4793,indie,None
+4794,indie,None
+4795,indie,None
+4796,indie,None
+4797,indie,None
+4798,Hip-Hop,None
+4799,Hip-Hop,None
+4800,Hip-Hop,None
+4801,Hip-Hop,None
+4802,Hip-Hop,None
+4803,Hip-Hop,None
+4804,indie,None
+4805,Hip-Hop,None
+4806,Hip-Hop,None
+4807,Hip-Hop,None
+4808,experimental,None
+4809,experimental,None
+4810,experimental,None
+4811,experimental,None
+4812,experimental,None
+4813,experimental,None
+4814,latin,None
+4815,indie,None
+4816,indie,None
+4817,indie,None
+4818,indie,None
+4819,indie,None
+4820,indie,None
+4821,indie,None
+4822,Hip-Hop,None
+4823,Hip-Hop,None
+4824,electronic,None
+4825,rock,None
+4826,80s,None
+4827,indie,None
+4828,indie,None
+4829,electronic,None
+4830,indie,None
+4831,alternative,None
+4832,electronic,None
+4833,electronic,None
+4834,experimental,None
+4835,experimental,None
+4836,latin,None
+4837,Hip-Hop,None
+4838,alternative,None
+4839,indie,None
+4840,indie,None
+4841,electronic,None
+4842,indie,None
+4843,rock,None
+4844,rock,None
+4845,indie,None
+4846,indie,None
+4847,pop,None
+4848,rock,None
+4849,indie,None
+4850,classic rock,None
+4851,indie pop,None
+4852,Austin Loved Tracks,None
+4853,classic rock,None
+4854,folk,None
+4855,folk,None
+4856,folk,None
+4857,folk,None
+4858,folk,None
+4859,folk,None
+4860,folk,None
+4861,dream pop,None
+4862,dream pop,None
+4863,dream pop,None
+4864,indie,None
+4865,singer-songwriter,None
+4866,singer-songwriter,None
+4867,dream pop,None
+4868,alternative rock,None
+4869,folk,None
+4870,pop,None
+4871,indie,None
+4872,psychedelic folk,None
+4873,rock,None
+4874,indie,None
+4875,rock,None
+4876,folk,None
+4877,classic rock,None
+4878,cover,None
+4879,Hip-Hop,None
+4880,indie rock,None
+4881,beautiful,None
+4882,folk,None
+4883,80s,None
+4884,lizvelrene2010,None
+4885,indie,None
+4886,electro,None
+4887,vugube62,None
+4888,electro,None
+4889,indie pop,None
+4890,vugube62,None
+4891,vugube62,None
+4892,vugube62,None
+4893,vugube62,None
+4894,vugube62,None
+4895,folk,None
+4896,indie pop,None
+4897,electronic,None
+4898,electronic,None
+4899,electronic,None
+4900,summer,None
+4901,indie,None
+4902,indie,None
+4903,summer,None
+4904,electronic,None
+4905,summer,None
+4906,electronic,None
+4907,electronic,None
+4908,indie,None
+4909,electronic,None
+4910,summer,None
+4911,electronic,None
+4912,electronic,None
+4913,indie,None
+4914,electronic,None
+4915,indie,None
+4916,indie,None
+4917,indie,None
+4918,indie,None
+4919,indie,None
+4920,indie,None
+4921,chillwave,None
+4922,chillwave,None
+4923,folk,None
+4924,ktw,None
+4925,indie,None
+4926,pxs: loved,None
+4927,rock,None
+4928,alternative rock,None
+4929,posh,None
+4930,rock,None
+4931,indie,None
+4932,rock,None
+4933,folk,None
+4934,pop,None
+4935,pop,None
+4936,pop,None
+4937,pop,None
+4938,pop,None
+4939,rock,None
+4940,pop,None
+4941,pop,None
+4942,indie,None
+4943,folk,None
+4944,indie,None
+4945,indie,None
+4946,indie,None
+4947,indie,None
+4948,indie,None
+4949,hot lava,None
+4950,hot lava,None
+4951,alternative rap,None
+4952,alternative rap,None
+4953,cover,None
+4954,alternative,None
+4955,chillwave,None
+4956,chillwave,None
+4957,chillwave,None
+4958,indie,None
+4959,cover,None
+4960,cover,None
+4961,cover,None
+4962,indie rock,None
+4963,indie rock,None
+4964,indie pop,None
+4965,indie pop,None
+4966,indie,None
+4967,indie,None
+4968,rock,None
+4969,electronic,None
+4970,electronic,None
+4971,folk,None
+4972,folk,None
+4973,folk,None
+4974,80s,None
+4975,pxs: loved,None
+4976,alternative,None
+4977,alternative,None
+4978,alternative,None
+4979,electronic,None
+4980,indie,None
+4981,alternative,None
+4982,alternative,None
+4983,indie,None
+4984,dream pop,None
+4985,Hip-Hop,None
+4986,sxsw 2009,None
+4987,80s,None
+4988,rock,None
+4989,electronic,None
+4990,rock,None
+4991,indie rock,None
+4992,indie rock,None
+4993,vugube62,None
+4994,vugube62,None
+4995,electronic,None
+4996,indie rock,None
+4997,emo,None
+4998,emo,None
+4999,dream pop,None
+5000,liked,None
+5001,alternative,None
+5002,80s,None
+5003,80s,None
+5004,indie,None
+5005,indie rock,None
+5006,indie rock,None
+5007,Lo-Fi,None
+5008,indie,None
+5009,pop,None
+5010,vugube62,None
+5011,pop,None
+5012,pop,None
+5013,somafm,None
+5014,somafm,None
+5015,70s,None
+5016,indie,None
+5017,Hip-Hop,None
+5018,rock,None
+5019,rock,None
+5020,rock,None
+5021,rock,None
+5022,indie,None
+5023,indie,None
+5024,indie,None
+5025,indie,None
+5026,pop,None
+5027,pop,None
+5028,beautiful,None
+5029,classic rock,None
+5030,classic rock,None
+5031,classic rock,None
+5032,classic rock,None
+5033,classic rock,None
+5034,classic rock,None
+5035,classic rock,None
+5036,indie,None
+5037,Love,None
+5038,rock,None
+5039,electronic,None
+5040,electronic,None
+5041,Austin Loved Tracks,None
+5042,indie,None
+5043,indie,None
+5044,indie,None
+5045,C-pop,None
+5046,electronic,None
+5047,2006,None
+5048,rock,None
+5049,Hip-Hop,None
+5050,rock,None
+5051,folk,None
+5052,folk,None
+5053,80s,None
+5054,Soundtrack,None
+5055,electronic,None
+5056,alternative rock,None
+5057,electronic,None
+5058,classic rock,None
+5059,rock,None
+5060,indie,None
+5061,indie,None
+5062,pop,None
+5063,classic rock,None
+5064,indie,None
+5065,pop,None
+5066,indie,None
+5067,big bills,None
+5068,electronic,None
+5069,chillwave,None
+5070,indie,None
+5071,indie,None
+5072,Canadian,None
+5073,indie,None
+5074,dream pop,None
+5075,cover,None
+5076,indie,None
+5077,folk,None
+5078,vugube62,None
+5079,Lo-Fi,None
+5080,rocket shoes mixtapes,None
+5081,indie,None
+5082,indie rock,None
+5083,indie,None
+5084,indie,None
+5085,indie,None
+5086,Love,None
+5087,Lo-Fi,None
+5088,Lo-Fi,None
+5089,chill,None
+5090,fun,None
+5091,fun,None
+5092,psychedelic folk,None
+5093,Lo-Fi,None
+5094,indie,None
+5095,indie,None
+5096,indie,None
+5097,the dronez,None
+5098,indie,None
+5099,experimental,None
+5100,indie,None
+5101,indie,None
+5102,80s,None
+5103,Love,None
+5104,80s,None
+5105,electronic,None
+5106,indie,None
+5107,electronic,None
+5108,80s,None
+5109,experimental,None
+5110,80s,None
+5111,indie,None
+5112,folk,None
+5113,indie,None
+5114,indie,None
+5115,chillout,None
+5116,britpop,None
+5117,electronic,None
+5118,rock,None
+5119,rock,None
+5120,singer-songwriter,None
+5121,pop,None
+5122,indie rock,None
+5123,Background,None
+5124,indie,None
+5125,indie,None
+5126,classic rock,None
+5127,indie,None
+5128,electronic,None
+5129,ambient,None
+5130,electronic,None
+5131,alternative,None
+5132,electro,None
+5133,electro,None
+5134,indie,None
+5135,indie,None
+5136,instrumental,None
+5137,rock,None
+5138,electronic,None
+5139,rock,None
+5140,female vocalists,None
+5141,Hip-Hop,None
+5142,alternative rock,None
+5143,hauntingly beautiful,None
+5144,indie,None
+5145,Go drunk eosin cabs,None
+5146,female vocalists,None
+5147,indie,None
+5148,folk,None
+5149,pop,None
+5150,70s,None
+5151,indie rock,None
+5152,rock,None
+5153,electronic,None
+5154,Live Earth,None
+5155,indie,None
+5156,singer-songwriter,None
+5157,indie,None
+5158,indie,None
+5159,psychedelic,None
+5160,shoegaze,None
+5161,post-rock,None
+5162,singer-songwriter,None
+5163,classic rock,None
+5164,alternative,None
+5165,Awesome,None
+5166,indie pop,None
+5167,electronic,None
+5168,indie,None
+5169,electronic,None
+5170,remix,None
+5171,jazz,None
+5172,rock,None
+5173,somafm,None
+5174,dream pop,None
+5175,indie,None
+5176,alternative,None
+5177,folk,None
+5178,indie,None
+5179,electronic,None
+5180,post-rock,None
+5181,Hip-Hop,None
+5182,indie,None
+5183,folk,None
+5184,alternative rock,None
+5185,indie,None
+5186,chillout,None
+5187,folk,None
+5188,jazz,None
+5189,folk,None
+5190,indie,None
+5191,singer-songwriter,None
+5192,played,None
+5193,singer-songwritergdchill,None
+5194,classic rock,None
+5195,70s,None
+5196,electronic,None
+5197,country,None
+5198,rock,None
+5199,rock,None
+5200,rock,None
+5201,folk,None
+5202,vugube62,None
+5203,indie rock,None
+5204,indie,None
+5205,indie,None
+5206,indietronica,None
+5207,covers,None
+5208,indie,None
+5209,electronic,None
+5210,Hip-Hop,None
+5211,indie,None
+5212,unfortunately relagated to b-side status,None
+5213,indie,None
+5214,indie pop,None
+5215,vugube62,None
+5216,folk,None
+5217,indie,None
+5218,indie,None
+5219,indie,None
+5220,country,None
+5221,funk,None
+5222,funk,None
+5223,rock,None
+5224,cover,None
+5225,cover,None
+5226,cover,None
+5227,folk,None
+5228,singer-songwriter,None
+5229,indie,None
+5230,singer-songwriter,None
+5231,Dreamy,None
+5232,indie,None
+5233,cover,None
+5234,electronic,None
+5235,indie,None
+5236,indie,None
+5237,indie,None
+5238,indie,None
+5239,indie,None
+5240,electronic,None
+5241,80s,None
+5242,summer,None
+5243,indie,None
+5244,indie,None
+5245,emo,None
+5246,electronic,None
+5247,indie rock,None
+5248,indie rock,None
+5249,indie rock,None
+5250,alternative,None
+5251,indie,None
+5252,vugube62,None
+5253,rock,None
+5254,cute,None
+5255,electronic,None
+5256,country,None
+5257,Soundtrack,None
+5258,classic rock,None
+5259,i feel love,None
+5260,pop,None
+5261,reggae,None
+5262,Hip-Hop,None
+5263,indie,None
+5264,animals,None
+5265,anti-folk,None
+5266,indie rock,None
+5267,indie rock,None
+5268,indie rock,None
+5269,indie,None
+5270,electronic,None
+5271,indie,None
+5272,indie,None
+5273,bradford cox is a genius,None
+5274,guitar,None
+5275,indie,None
+5276,indie,None
+5277,covers,None
+5278,folk,None
+5279,classic rock,None
+5280,indie,None
+5281,rock,None
+5282,indie,None
+5283,rock,None
+5284,Garage Rock,None
+5285,pop,None
+5286,indie rock,None
+5287,indie,None
+5288,electronic,None
+5289,trains,None
+5290,indie,None
+5291,indie pop,None
+5292,electronic,None
+5293,cover,None
+5294,Hip-Hop,None
+5295,Hip-Hop,None
+5296,cover,None
+5297,indie rock,None
+5298,indie rock,None
+5299,indie,None
+5300,Channel X,None
+5301,indie,None
+5302,somafm,None
+5303,britpop,None
+5304,indie,None
+5305,singer-songwriter,None
+5306,indie pop,None
+5307,electronic,None
+5308,Hip-Hop,None
+5309,electronic,None
+5310,rock,None
+5311,indie rock,None
+5312,rock,None
+5313,rock,None
+5314,indie,None
+5315,Minneapolis,None
+5316,folk,None
+5317,rock,None
+5318,rock,None
+5319,rock,None
+5320,electronic,None
+5321,indie,None
+5322,indie,None
+5323,female vocalists,None
+5324,folk,None
+5325,rock,None
+5326,bizarre,None
+5327,bizarre,None
+5328,indie,None
+5329,indie,None
+5330,alternative,None
+5331,electronic,None
+5332,electronic,None
+5333,indie rock,None
+5334,folk,None
+5335,alternative,None
+5336,folk,None
+5337,folk,None
+5338,folk,None
+5339,indie,None
+5340,folk,None
+5341,indie,None
+5342,folk,None
+5343,Minneapolis,None
+5344,indie,None
+5345,indie,None
+5346,rock,None
+5347,indie,None
+5348,indie,None
+5349,female vocalists,None
+5350,electronic,None
+5351,drinking,None
+5352,drinking,None
+5353,indie rock,None
+5354,80s,None
+5355,80s,None
+5356,alternative,None
+5357,80s,None
+5358,Lo-Fi,None
+5359,folk,None
+5360,electronica,None
+5361,experimental,None
+5362,cover,None
+5363,80s,None
+5364,electronic,None
+5365,rock,None
+5366,folk,None
+5367,indie,None
+5368,Hip-Hop,None
+5369,latin,None
+5370,indie,None
+5371,indie,None
+5372,indie,None
+5373,indie,None
+5374,indie,None
+5375,indie,None
+5376,indie,None
+5377,indie,None
+5378,electronic,None
+5379,alternative rap,None
+5380,alternative rap,None
+5381,alternative rap,None
+5382,alternative,None
+5383,alternative,None
+5384,alternative,None
+5385,electronica,None
+5386,rock,None
+5387,rock,None
+5388,emo,None
+5389,emo,None
+5390,emo,None
+5391,Hip-Hop,None
+5392,Hip-Hop,None
+5393,dream pop,None
+5394,dream pop,None
+5395,dream pop,None
+5396,80s,None
+5397,80s,None
+5398,70s,None
+5399,classic rock,None
+5400,classic rock,None
+5401,pop,None
+5402,pop,None
+5403,chillwave,None
+5404,pop,None
+5405,singer-songwriter,None
+5406,indie,None
+5407,indie,None
+5408,shoegaze,None
+5409,folk,None
+5410,indie,None
+5411,Lo-Fi,None
+5412,electronic,None
+5413,folk,None
+5414,electronic,None
+5415,indie,None
+5416,rock,None
+5417,80s,None
+5418,80s,None
+5419,electronic,None
+5420,indie,None
+5421,electronic,None
+5422,rock,None
+5423,indie,None
+5424,classic rock,None
+5425,alternative,None
+5426,cover,None
+5427,cover,None
+5428,cover,None
+5429,beautiful,None
+5430,Mellow,None
+5431,indie rock,None
+5432,indie rock,None
+5433,indie,None
+5434,dream pop,None
+5435,indie,None
+5436,electronic,None
+5437,indie rock,None
+5438,indie,None
+5439,indie,None
+5440,indie,None
+5441,indie,None
+5442,indie,None
+5443,folk,None
+5444,chillwave,None
+5445,indie rock,None
+5446,rocket shoes mixtapes,None
+5447,Mellow,None
+5448,indie,None
+5449,electronic,None
+5450,indie rock,None
+5451,Lo-Fi,None
+5452,electronic,None
+5453,electronic,None
+5454,classic rock,None
+5455,classic rock,None
+5456,alternative,None
+5457,Lo-Fi,None
+5458,dream pop,None
+5459,dream pop,None
+5460,dream pop,None
+5461,electronic,None
+5462,electronic,None
+5463,indie,None
+5464,indie rock,None
+5465,indie rock,None
+5466,emo,None
+5467,indie rock,None
+5468,indie,None
+5469,indie rock,None
+5470,vugube62,None
+5471,indie,None
+5472,lizvelrene2010,None
+5473,electronic,None
+5474,Lo-Fi,None
+5475,indie rock,None
+5476,dream pop,None
+5477,indie,None
+5478,rocket shoes mixtapes,None
+5479,electronic,None
+5480,indie rock,None
+5481,chillwave,None
+5482,indie,None
+5483,sxsw 2009,None
+5484,covers,None
+5485,indie rock,None
+5486,indie rock,None
+5487,indie rock,None
+5488,electronic,None
+5489,electronic,None
+5490,electronic,None
+5491,pop,None
+5492,electronic,None
+5493,Mellow,None
+5494,electronic,None
+5495,electronic,None
+5496,electronic,None
+5497,chillwave,None
+5498,dream pop,None
+5499,indie,None
+5500,world,None
+5501,dream pop,None
+5502,electronic,None
+5503,electronic,None
+5504,indie,None
+5505,Mellow,None
+5506,chillout,None
+5507,indie,None
+5508,indie,None
+5509,indie,None
+5510,electronic,None
+5511,dream pop,None
+5512,dream pop,None
+5513,electronic,None
+5514,indie,None
+5515,electronic,None
+5516,folk,None
+5517,electronic,None
+5518,electronic,None
+5519,electronic,None
+5520,electronic,None
+5521,indie,None
+5522,Soundtrack,None
+5523,indie rock,None
+5524,80s,None
+5525,80s,None
+5526,rock,None
+5527,rock,None
+5528,rock,None
+5529,rock,None
+5530,alternative rock,None
+5531,alternative rock,None
+5532,alternative,None
+5533,rock,None
+5534,rock,None
+5535,rock,None
+5536,alternative rap,None
+5537,rock,None
+5538,Lo-Fi,None
+5539,Lo-Fi,None
+5540,Lo-Fi,None
+5541,electronic,None
+5542,electronic,None
+5543,electronic,None
+5544,electronic,None
+5545,electronic,None
+5546,electronic,None
+5547,electronic,None
+5548,electronic,None
+5549,electronic,None
+5550,electronic,None
+5551,electronic,None
+5552,indie,None
+5553,indie,None
+5554,80s,None
+5555,80s,None
+5556,80s,None
+5557,80s,None
+5558,80s,None
+5559,80s,None
+5560,Lo-Fi,None
+5561,Lo-Fi,None
+5562,Lo-Fi,None
+5563,indie,None
+5564,indie,None
+5565,indie,None
+5566,indie,None
+5567,indie,None
+5568,indie,None
+5569,indie,None
+5570,indie,None
+5571,pop,None
+5572,pop,None
+5573,pop,None
+5574,pop,None
+5575,vugube62,None
+5576,indie,None
+5577,electronic,None
+5578,electronic,None
+5579,indie pop,None
+5580,folk,None
+5581,folk,None
+5582,Hip-Hop,None
+5583,Hip-Hop,None
+5584,alternative rap,None
+5585,Lo-Fi,None
+5586,folk,None
+5587,folk,None
+5588,rocket shoes mixtapes,None
+5589,rock,None
+5590,rock,None
+5591,singer-songwriter,None
+5592,singer-songwriter,None
+5593,electronic,None
+5594,lizvelrene2010,None
+5595,rock,None
+5596,indie rock,None
+5597,electronic,None
+5598,indie,None
+5599,chillwave,None
+5600,pop,None
+5601,chillwave,None
+5602,indie rock,None
+5603,Mellow,None
+5604,indie,None
+5605,chillout,None
+5606,70s,None
+5607,80s,None
+5608,favorites,None
+5609,folk,None
+5610,covers,None
+5611,indie,None
+5612,80s,None
+5613,70s,None
+5614,electropop,None
+5615,Hip-Hop,None
+5616,Recent discoveries,None
+5617,alternative,None
+5618,indie,None
+5619,electronic,None
+5620,classic rock,None
+5621,indie,None
+5622,classic rock,None
+5623,electronic,None
+5624,folk,None
+5625,rock,None
+5626,indie,None
+5627,rock,None
+5628,rock,None
+5629,indie,None
+5630,electronic,None
+5631,rock,None
+5632,indie,None
+5633,pop,None
+5634,experimental,None
+5635,chillwave,None
+5636,pop,None
+5637,folk,None
+5638,electronic,None
+5639,electronic,None
+5640,electronic,None
+5641,electronic,None
+5642,electronic,None
+5643,lizvelrene2010,None
+5644,lizvelrene2010,None
+5645,electronic,None
+5646,C-pop,None
+5647,singer-songwriter,None
+5648,electronic,None
+5649,indie,None
+5650,indie,None
+5651,rock,None
+5652,indie,None
+5653,indie,None
+5654,rock,None
+5655,rock,None
+5656,rock,None
+5657,rock,None
+5658,pop,None
+5659,folk,None
+5660,chillout,None
+5661,indie,None
+5662,chillout,None
+5663,indie,None
+5664,indie,None
+5665,indie,None
+5666,electronic,None
+5667,alternative,None
+5668,somafm,None
+5669,indie,None
+5670,electronica,None
+5671,electronic,None
+5672,rock,None
+5673,electronic,None
+5674,electronic,None
+5675,rock,None
+5676,rock,None
+5677,pxs: loved,None
+5678,pxs: loved,None
+5679,pxs: loved,None
+5680,pxs: loved,None
+5681,pxs: loved,None
+5682,indie rock,None
+5683,indie rock,None
+5684,indie rock,None
+5685,indie rock,None
+5686,rock,None
+5687,rock,None
+5688,electronic,None
+5689,electronic,None
+5690,electronic,None
+5691,electronic,None
+5692,electronic,None
+5693,indie,None
+5694,electronic,None
+5695,electronic,None
+5696,electronic,None
+5697,electronic,None
+5698,electronic,None
+5699,classic rock,None
+5700,70s,None
+5701,70s,None
+5702,70s,None
+5703,70s,None
+5704,70s,None
+5705,70s,None
+5706,70s,None
+5707,70s,None
+5708,70s,None
+5709,70s,None
+5710,70s,None
+5711,70s,None
+5712,70s,None
+5713,70s,None
+5714,folk,None
+5715,70s,None
+5716,70s,None
+5717,indie,None
+5718,indie,None
+5719,indie,None
+5720,indie,None
+5721,indie,None
+5722,indie,None
+5723,indie,None
+5724,indie,None
+5725,70s,None
+5726,indie,None
+5727,cover,None
+5728,cover,None
+5729,indie,None
+5730,cover,None
+5731,psychedelic folk,None
+5732,indie rock,None
+5733,indie rock,None
+5734,indie rock,None
+5735,indie,None
+5736,indie rock,None
+5737,classic rock,None
+5738,classic rock,None
+5739,indie rock,None
+5740,classic rock,None
+5741,2006,None
+5742,2006,None
+5743,indie,None
+5744,experimental,None
+5745,indie,None
+5746,indie,None
+5747,beautiful,None
+5748,psychedelic folk,None
+5749,beautiful,None
+5750,indie pop,None
+5751,indie pop,None
+5752,indie pop,None
+5753,indie,None
+5754,indie,None
+5755,indie,None
+5756,indie,None
+5757,indie,None
+5758,indie,None
+5759,indie,None
+5760,indie,None
+5761,sxsw 2009,None
+5762,sxsw 2009,None
+5763,sxsw 2009,None
+5764,sxsw 2009,None
+5765,Hip-Hop,None
+5766,Hip-Hop,None
+5767,funk,None
+5768,electronic,None
+5769,electronic,None
+5770,electronic,None
+5771,indie,None
+5772,indie,None
+5773,indie,None
+5774,indie,None
+5775,indie,None
+5776,dream pop,None
+5777,classic rock,None
+5778,classic rock,None
+5779,classic rock,None
+5780,classic rock,None
+5781,classic rock,None
+5782,classic rock,None
+5783,classic rock,None
+5784,electronic,None
+5785,folk,None
+5786,folk,None
+5787,folk,None
+5788,indie,None
+5789,indie,None
+5790,indie,None
+5791,electronic,None
+5792,electronic,None
+5793,electronic,None
+5794,rock,None
+5795,rock,None
+5796,rock,None
+5797,Hip-Hop,None
+5798,Hip-Hop,None
+5799,Hip-Hop,None
+5800,electronic,None
+5801,electronic,None
+5802,rock,None
+5803,rock,None
+5804,chillwave,None
+5805,emo,None
+5806,emo,None
+5807,emo,None
+5808,amazing,None
+5809,indie,None
+5810,indie,None
+5811,indie,None
+5812,indie,None
+5813,experimental,None
+5814,electronic,None
+5815,electronic,None
+5816,electronic,None
+5817,electronic,None
+5818,indie,None
+5819,indie,None
+5820,indie,None
+5821,indie rock,None
+5822,classic rock,None
+5823,indie rock,None
+5824,Disco,None
+5825,electronic,None
+5826,rock,None
+5827,rock,None
+5828,rock,None
+5829,rock,None
+5830,rock,None
+5831,vugube62,None
+5832,rock,None
+5833,vugube62,None
+5834,vugube62,None
+5835,Lo-Fi,None
+5836,singer-songwriter,None
+5837,singer-songwriter,None
+5838,singer-songwriter,None
+5839,singer-songwriter,None
+5840,folk,None
+5841,singer-songwriter,None
+5842,singer-songwriter,None
+5843,rock,None
+5844,Canadian,None
+5845,indie rock,None
+5846,indie rock,None
+5847,classic rock,None
+5848,electronic,None
+5849,indie rock,None
+5850,indie rock,None
+5851,indie,None
+5852,Lo-Fi,None
+5853,indie rock,None
+5854,indie rock,None
+5855,indie rock,None
+5856,indie rock,None
+5857,indie,None
+5858,rock,None
+5859,rock,None
+5860,indie,None
+5861,indie,None
+5862,indie,None
+5863,indie,None
+5864,indie,None
+5865,indie,None
+5866,indie,None
+5867,indie rock,None
+5868,indie rock,None
+5869,indie,None
+5870,indie,None
+5871,indie,None
+5872,indie,None
+5873,indie,None
+5874,indie,None
+5875,indie,None
+5876,indie,None
+5877,indie,None
+5878,indie,None
+5879,hip hop,None
+5880,hip hop,None
+5881,hip hop,None
+5882,pop,None
+5883,pop,None
+5884,pop,None
+5885,electronic,None
+5886,electronic,None
+5887,electronic,None
+5888,electronic,None
+5889,indie pop,None
+5890,indie,None
+5891,indie,None
+5892,indie pop,None
+5893,classic rock,None
+5894,classic rock,None
+5895,indie,None
+5896,classic rock,None
+5897,classic rock,None
+5898,classic rock,None
+5899,classic rock,None
+5900,classic rock,None
+5901,classic rock,None
+5902,classic rock,None
+5903,classic rock,None
+5904,cover,None
+5905,classic rock,None
+5906,classic rock,None
+5907,classic rock,None
+5908,classic rock,None
+5909,classic rock,None
+5910,classic rock,None
+5911,classic rock,None
+5912,classic rock,None
+5913,classic rock,None
+5914,classic rock,None
+5915,classic rock,None
+5916,classic rock,None
+5917,classic rock,None
+5918,classic rock,None
+5919,classic rock,None
+5920,classic rock,None
+5921,classic rock,None
+5922,classic rock,None
+5923,classic rock,None
+5924,classic rock,None
+5925,classic rock,None
+5926,classic rock,None
+5927,classic rock,None
+5928,cover,None
+5929,classic rock,None
+5930,classic rock,None
+5931,classic rock,None
+5932,classic rock,None
+5933,rock,None
+5934,rock,None
+5935,rock,None
+5936,indie,None
+5937,indie,None
+5938,indie,None
+5939,electronic,None
+5940,electronic,None
+5941,80s,None
+5942,indie,None
+5943,cover,None
+5944,Hip-Hop,None
+5945,rock,None
+5946,classic rock,None
+5947,classic rock,None
+5948,rock,None
+5949,classic rock,None
+5950,classic rock,None
+5951,classic rock,None
+5952,classic rock,None
+5953,classic rock,None
+5954,classic rock,None
+5955,classic rock,None
+5956,classic rock,None
+5957,classic rock,None
+5958,classic rock,None
+5959,electronic,None
+5960,electronic,None
+5961,electronic,None
+5962,electronic,None
+5963,electronic,None
+5964,indie,None
+5965,indie,None
+5966,folk,None
+5967,folk,None
+5968,folk,None
+5969,folk,None
+5970,folk,None
+5971,indie rock,None
+5972,indie rock,None
+5973,hip hop,None
+5974,hip hop,None
+5975,indie,None
+5976,indie,None
+5977,electro,None
+5978,electro,None
+5979,electro,None
+5980,classic rock,None
+5981,classic rock,None
+5982,classic rock,None
+5983,classic rock,None
+5984,sweet cooing monks from the eastern seaboard,None
+5985,sweet cooing monks from the eastern seaboard,None
+5986,rock,None
+5987,rock,None
+5988,electronic,None
+5989,summer,None
+5990,classic rock,None
+5991,indie,None
+5992,pop,None
+5993,pop,None
+5994,pop,None
+5995,rock,None
+5996,indie rock,None
+5997,indie rock,None
+5998,indie rock,None
+5999,70s,None
+6000,70s,None
+6001,classic rock,None
+6002,classic rock,None
+6003,70s,None
+6004,indie,None
+6005,indie,None
+6006,indie,None
+6007,80s,None
+6008,80s,None
+6009,dream pop,None
+6010,dream pop,None
+6011,Love,None
+6012,Love,None
+6013,indie,None
+6014,indie,None
+6015,pop,None
+6016,pop,None
+6017,Canadian,None
+6018,pop,None
+6019,Hip-Hop,None
+6020,Mellow,None
+6021,Mellow,None
+6022,covers,None
+6023,covers,None
+6024,covers,None
+6025,80s,None
+6026,80s,None
+6027,emo,None
+6028,emo,None
+6029,indie,None
+6030,indie,None
+6031,indie,None
+6032,indie,None
+6033,rock,None
+6034,rock,None
+6035,rock,None
+6036,female vocalists,None
+6037,electronic,None
+6038,C-pop,None
+6039,indie,None
+6040,indie,None
+6041,electronic,None
+6042,indie,None
+6043,indie,None
+6044,rock,None
+6045,rock,None
+6046,rock,None
+6047,rock,None
+6048,rock,None
+6049,rock,None
+6050,rock,None
+6051,rock,None
+6052,indie rock,None
+6053,70s,None
+6054,classic rock,None
+6055,cover,None
+6056,sxsw 2009,None
+6057,dream pop,None
+6058,dream pop,None
+6059,dream pop,None
+6060,dream pop,None
+6061,dream pop,None
+6062,dream pop,None
+6063,dream pop,None
+6064,indie,None
+6065,indie,None
+6066,indie,None
+6067,indie,None
+6068,indie,None
+6069,indie,None
+6070,indie,None
+6071,indie,None
+6072,Soundtrack,None
+6073,Soundtrack,None
+6074,Soundtrack,None
+6075,Soundtrack,None
+6076,indie,None
+6077,indie,None
+6078,indie,None
+6079,electro,None
+6080,electro,None
+6081,rock,None
+6082,rock,None
+6083,indie rock,None
+6084,indie rock,None
+6085,70s,None
+6086,70s,None
+6087,big bills,None
+6088,big bills,None
+6089,indie rock,None
+6090,indie rock,None
+6091,indie rock,None
+6092,indie,None
+6093,classic rock,None
+6094,classic rock,None
+6095,classic rock,None
+6096,classic rock,None
+6097,electronic,None
+6098,electronic,None
+6099,electronic,None
+6100,indie pop,None
+6101,indie pop,None
+6102,indie pop,None
+6103,indie pop,None
+6104,80s,None
+6105,pop,None
+6106,pop,None
+6107,pop,None
+6108,rock,None
+6109,rock,None
+6110,rock,None
+6111,rock,None
+6112,electronic,None
+6113,electronic,None
+6114,electronic,None
+6115,electronic,None
+6116,electronic,None
+6117,electronic,None
+6118,indie,None
+6119,pop,None
+6120,pop,None
+6121,pop,None
+6122,rock,None
+6123,rock,None
+6124,classic rock,None
+6125,classic rock,None
+6126,rock,None
+6127,indie,None
+6128,indie,None
+6129,indie,None
+6130,70s,None
+6131,70s,None
+6132,70s,None
+6133,70s,None
+6134,pxs: loved,None
+6135,pxs: loved,None
+6136,70s,None
+6137,rock,None
+6138,rock,None
+6139,classic rock,None
+6140,classic rock,None
+6141,electronic,None
+6142,electronic,None
+6143,reggae,None
+6144,reggae,None
+6145,indie rock,None
+6146,indie rock,None
+6147,pop,None
+6148,pop,None
+6149,Hip-Hop,None
+6150,Hip-Hop,None
+6151,classic rock,None
+6152,classic rock,None
+6153,classic rock,None
+6154,pop,None
+6155,pop,None
+6156,pop,None
+6157,hip hop,None
+6158,hip hop,None
+6159,80s,None
+6160,80s,None
+6161,electronic,None
+6162,electronic,None
+6163,indie,None
+6164,indie,None
+6165,indie,None
+6166,indie,None
+6167,electronic,None
+6168,electronic,None
+6169,rock,None
+6170,rock,None
+6171,cover,None
+6172,cover,None
+6173,sxsw 2009,None
+6174,sxsw 2009,None
+6175,sxsw 2009,None
+6176,sxsw 2009,None
+6177,summer,None
+6178,summer,None
+6179,classic rock,None
+6180,classic rock,None
+6181,classic rock,None
+6182,emo,None
+6183,emo,None
+6184,classic rock,None
+6185,classic rock,None
+6186,classic rock,None
+6187,classic rock,None
+6188,classic rock,None
+6189,rock,None
+6190,rock,None
+6191,rock,None
+6192,rock,None
+6193,indie,None
+6194,indie,None
+6195,indie,None
+6196,indie,None
+6197,indie rock,None
+6198,indie rock,None
+6199,indie rock,None
+6200,dream pop,None
+6201,dream pop,None
+6202,dream pop,None
+6203,alternative rock,None
+6204,pop,None
+6205,pop,None
+6206,pop,None
+6207,rock,None
+6208,rock,None
+6209,rock,None
+6210,Austin Loved Tracks,None
+6211,Austin Loved Tracks,None
+6212,Austin Loved Tracks,None
+6213,electronic,None
+6214,electronic,None
+6215,indie,None
+6216,indie,None
+6217,covers,None
+6218,electronic,None
+6219,funk,None
+6220,electronic,None
+6221,Hip-Hop,None
+6222,classic rock,None
+6223,indie,None
+6224,rock,None
+6225,electronic,None
+6226,electronic,None
+6227,rock,None
+6228,indie pop,None
+6229,rock,None
+6230,electronic,None
+6231,electronic,None
+6232,chillwave,None
+6233,rock,None
+6234,rock,None
+6235,classic rock,None
+6236,electronic,None
+6237,electronic,None
+6238,electronic,None
+6239,rock,None
+6240,classic rock,None
+6241,indie,None
+6242,2006,None
+6243,2006,None
+6244,electronic,None
+6245,indie,None
+6246,Hip-Hop,None
+6247,indie,None
+6248,indie,None
+6249,indie,None
+6250,indie,None
+6251,indie,None
+6252,rock,None
+6253,rock,None
+6254,classic rock,None
+6255,pop,None
+6256,indie,None
+6257,indie,None
+6258,indie,None
+6259,indie rock,None
+6260,alternative rap,None
+6261,rock,None
+6262,Soundtrack,None
+6263,Soundtrack,None
+6264,indie,None
+6265,70s,None
+6266,classic rock,None
+6267,classic rock,None
+6268,classic rock,None
+6269,2006,None
+6270,classic rock,None
+6271,rock,None
+6272,electro,None
+6273,alternative rock,None
+6274,pxs: loved,None
+6275,indie,None
+6276,classic rock,None
+6277,Hip-Hop,None
+6278,indie pop,None
+6279,Austin Loved Tracks,None
+6280,indie,None
+6281,electronic,None
+6282,funk,None
+6283,pop,None
+6284,remix,None
+6285,Austin Loved Tracks,None
+6286,electronic,None
+6287,cover,None
+6288,80s,None
+6289,indie,None
+6290,rock,None
+6291,indie,None
+6292,classic rock,None
+6293,80s,None
+6294,emo,None
+6295,rock,None
+6296,big bills,None
+6297,indie pop,None
+6298,classic rock,None
+6299,electronic,None
+6300,pop,None
+6301,dream pop,None
+6302,rock,None
+6303,indie,None
+6304,80s,None
+6305,electronic,None
+6306,Hip-Hop,None
+6307,indie rock,None
+6308,classic rock,None
+6309,electronic,None
+6310,electronic,None
+6311,electronic,None
+6312,electronic,None
+6313,electronic,None
+6314,electronic,None
+6315,dream pop,None
+6316,dream pop,None
+6317,dream pop,None
+6318,dream pop,None
+6319,dream pop,None
+6320,dream pop,None
+6321,dream pop,None
+6322,dream pop,None
+6323,dream pop,None
+6324,dream pop,None
+6325,dream pop,None
+6326,dream pop,None
+6327,dream pop,None
+6328,classic rock,None
+6329,dream pop,None
+6330,pxs: loved,None
+6331,70s,None
+6332,70s,None
+6333,classic rock,None
+6334,electronic,None
+6335,classic rock,None
+6336,classic rock,None
+6337,electronic,None
+6338,classic rock,None
+6339,classic rock,None
+6340,classic rock,None
+6341,indie,None
+6342,70s,None
+6343,rock,None
+6344,classic rock,None
+6345,cover,None
+6346,rock,None
+6347,rock,None
+6348,rock,None
+6349,dream pop,None
+6350,dream pop,None
+6351,dream pop,None
+6352,electronic,None
+6353,rock,None
+6354,rock,None
+6355,rock,None
+6356,rock,None
+6357,electronic,None
+6358,indie rock,None
+6359,classic rock,None
+6360,Lo-Fi,None
+6361,indie,None
+6362,alternative,None
+6363,Soundtrack,None
+6364,cover,None
+6365,dream pop,None
+6366,Austin Loved Tracks,None
+6367,Austin Loved Tracks,None
+6368,Austin Loved Tracks,None
+6369,Austin Loved Tracks,None
+6370,Austin Loved Tracks,None
+6371,Austin Loved Tracks,None
+6372,Austin Loved Tracks,None
+6373,Austin Loved Tracks,None
+6374,Austin Loved Tracks,None
+6375,indie,None
+6376,classic rock,None
+6377,indie,None
+6378,rock,None
+6379,Soundtrack,None
+6380,Hip-Hop,None
+6381,Hip-Hop,None
+6382,alternative rap,None
+6383,alternative rap,None
+6384,pop,None
+6385,pop,None
+6386,indie,None
+6387,indie,None
+6388,indie,None
+6389,electronic,None
+6390,indie,None
+6391,indie,None
+6392,indie,None
+6393,indie,None
+6394,rock,None
+6395,rock,None
+6396,rock,None
+6397,indie,None
+6398,indie,None
+6399,indie,None
+6400,electronic,None
+6401,indie,None
+6402,electronic,None
+6403,indie,None
+6404,electronic,None
+6405,indie,None
+6406,electronic,None
+6407,electronic,None
+6408,indie rock,None
+6409,electronic,None
+6410,Hip-Hop,None
+6411,electronic,None
+6412,pop,None
+6413,hip hop,None
+6414,big bills,None
+6415,indie,None
+6416,indie,None
+6417,indie,None
+6418,Hip-Hop,None
+6419,Hip-Hop,None
+6420,2006,None
+6421,indie,None
+6422,electronic,None
+6423,sweet cooing monks from the eastern seaboard,None
+6424,thesixtyone,None
+6425,C-pop,None
+6426,electronic,None
+6427,indie,None
+6428,indie,None
+6429,indie,None
+6430,indie,None
+6431,alternative,None
+6432,80s,None
+6433,surf rock,None
+6434,Lo-Fi,None
+6435,electronic,None
+6436,indie,None
+6437,pop,None
+6438,pop,None
+6439,Hip-Hop,None
+6440,rock,None
+6441,rock,None
+6442,rock,None
+6443,pop,None
+6444,rock,None
+6445,2008,None
+6446,2008,None
+6447,classic rock,None
+6448,rock,None
+6449,rock,None
+6450,ambient,None
+6451,chillwave,None
+6452,dream pop,None
+6453,indie rock,None
+6454,ambient,None
+6455,chillwave,None
+6456,dream pop,None
+6457,pxs: loved,None
+6458,vugube62,None
+6459,Hip-Hop,None
+6460,chillwave,None
+6461,dream pop,None
+6462,electronic,None
+6463,rock,None
+6464,rock,None
+6465,80s,None
+6466,indie rock,None
+6467,indie,None
+6468,electronic,None
+6469,alternative rap,None
+6470,alternative rap,None
+6471,80s,None
+6472,dream pop,None
+6473,dream pop,None
+6474,dream pop,None
+6475,dream pop,None
+6476,chillwave,None
+6477,dream pop,None
+6478,bradford cox is a genius,None
+6479,instrumental,None
+6480,chillwave,None
+6481,dream pop,None
+6482,experimental,None
+6483,Hip-Hop,None
+6484,Hip-Hop,None
+6485,indie,None
+6486,indie,None
+6487,indie pop,None
+6488,lizvelrene2010,None
+6489,experimental,None
+6490,folk,None
+6491,indie,None
+6492,indie,None
+6493,chillwave,None
+6494,dream pop,None
+6495,dream pop,None
+6496,shoegaze,None
+6497,indie rock,None
+6498,Lo-Fi,None
+6499,chillwave,None
+6500,pitchfork music festival 2010,None
+6501,indie pop,None
+6502,dream pop,None
+6503,audioase,None
+6504,indie,None
+6505,electronica,None
+6506,indie pop,None
+6507,indie pop,None
+6508,Hip-Hop,None
+6509,funk,None
+6510,electronic,None
+6511,electronic,None
+6512,indie,None
+6513,electronic,None
+6514,indie,None
+6515,Hip-Hop,None
+6516,indie,None
+6517,Hip-Hop,None
+6518,emo,None
+6519,80s,None
+6520,thesixtyone,None
+6521,indie,None
+6522,electronic,None
+6523,70s,None
+6524,rock,None
+6525,Hip-Hop,None
+6526,indie,None
+6527,Love,None
+6528,80s,None
+6529,electronic,None
+6530,electronic,None
+6531,Skinhead,None
+6532,pop,None
+6533,chillout,None
+6534,electronic,None
+6535,indie rock,None
+6536,indie,None
+6537,electronic,None
+6538,folk,None
+6539,electronic,None
+6540,indie,None
+6541,indie,None
+6542,indie,None
+6543,indie,None
+6544,indie rock,None
+6545,indie rock,None
+6546,indie rock,None
+6547,Lo-Fi,None
+6548,indie rock,None
+6549,somafm,None
+6550,Lo-Fi,None
+6551,indie rock,None
+6552,dream pop,None
+6553,dream pop,None
+6554,rock,None
+6555,rock,None
+6556,electronic,None
+6557,80s,None
+6558,indie,None
+6559,BIRP,None
+6560,alternative rap,None
+6561,indie,None
+6562,Mellow,None
+6563,electronic,None
+6564,Hip-Hop,None
+6565,alternative rap,None
+6566,Hip-Hop,None
+6567,BIRP,None
+6568,vugube62,None
+6569,electronic,None
+6570,american,None
+6571,american,None
+6572,indie pop,None
+6573,indie pop,None
+6574,indie pop,None
+6575,indie pop,None
+6576,indie pop,None
+6577,indie pop,None
+6578,indie pop,None
+6579,electronic,None
+6580,electronic,None
+6581,indie,None
+6582,Hip-Hop,None
+6583,Hip-Hop,None
+6584,electronic,None
+6585,electronic,None
+6586,electronic,None
+6587,electronic,None
+6588,electronic,None
+6589,electronic,None
+6590,electronic,None
+6591,electronic,None
+6592,indie,None
+6593,Mellow,None
+6594,indie,None
+6595,Disco,None
+6596,electronic,None
+6597,electronic,None
+6598,electronic,None
+6599,Hip-Hop,None
+6600,Hip-Hop,None
+6601,Hip-Hop,None
+6602,Hip-Hop,None
+6603,alternative rap,None
+6604,indie,None
+6605,indie,None
+6606,experimental,None
+6607,Lo-Fi,None
+6608,Lo-Fi,None
+6609,electronic,None
+6610,electronic,None
+6611,electronic,None
+6612,covers,None
+6613,indie pop,None
+6614,covers,None
+6615,indie,None
+6616,indie pop,None
+6617,indie pop,None
+6618,dream pop,None
+6619,dream pop,None
+6620,dream pop,None
+6621,dream pop,None
+6622,dream pop,None
+6623,dream pop,None
+6624,Lo-Fi,None
+6625,Lo-Fi,None
+6626,vugube62,None
+6627,Disco,None
+6628,vugube62,None
+6629,vugube62,None
+6630,vugube62,None
+6631,indie,None
+6632,Garage Rock,None
+6633,electronic,None
+6634,electronica,None
+6635,pop,None
+6636,electronic,None
+6637,WKNC,None
+6638,Hip-Hop,None
+6639,indie,None
+6640,thesixtyone,None
+6641,electronic,None
+6642,electronic,None
+6643,Lo-Fi,None
+6644,indie,None
+6645,indie,None
+6646,indie,None
+6647,electronic,None
+6648,vugube62,None
+6649,lizvelrene2010,None
+6650,Hip-Hop,None
+6651,indie rock,None
+6652,indie,None
+6653,somafm,None
+6654,Electro Pop,None
+6655,dream pop,None
+6656,Lo-Fi,None
+6657,this,None
+6658,Hip-Hop,None
+6659,electronic,None
+6660,folk,None
+6661,indie pop,None
+6662,indie pop,None
+6663,indie pop,None
+6664,electronic,None
+6665,electronic,None
+6666,electronic,None
+6667,electronic,None
+6668,Lo-Fi,None
+6669,indie,None
+6670,indie,None
+6671,indie rock,None
+6672,electronic,None
+6673,electronic,None
+6674,electronic,None
+6675,experimental,None
+6676,Hip-Hop,None
+6677,electrosexy,None
+6678,Hip-Hop,None
+6679,indie,None
+6680,Hip-Hop,None
+6681,chillwave,None
+6682,electronic,None
+6683,female vocalists,None
+6684,classic rock,None
+6685,electronic,None
+6686,folk,None
+6687,indie pop,None
+6688,electronic,None
+6689,electronic,None
+6690,female vocalists,None
+6691,electronic,None
+6692,Hip-Hop,None
+6693,dream pop,None
+6694,80s,None
+6695,80s,None
+6696,dream pop,None
+6697,vugube62,None
+6698,Hip-Hop,None
+6699,indie,None
+6700,indie,None
+6701,indie rock,None
+6702,electronic,None
+6703,vugube62,None
+6704,Hip-Hop,None
+6705,rock,None
+6706,electronic,None
+6707,indie,None
+6708,electronic,None
+6709,vugube62,None
+6710,vugube62,None
+6711,dream pop,None
+6712,dream pop,None
+6713,dream pop,None
+6714,vugube62,None
+6715,vugube62,None
+6716,electronic,None
+6717,indie,None
+6718,electronic,None
+6719,rock,None
+6720,Hip-Hop,None
+6721,vugube62,None
+6722,indie,None
+6723,Hip-Hop,None
+6724,vugube62,None
+6725,vugube62,None
+6726,Hip-Hop,None
+6727,electronic,None
+6728,chillout,None
+6729,indie rock,None
+6730,indie,None
+6731,indie,None
+6732,Hip-Hop,None
+6733,vugube62,None
+6734,vugube62,None
+6735,vugube62,None
+6736,electronic,None
+6737,indie,None
+6738,electronic,None
+6739,indie,None
+6740,electronic,None
+6741,electronic,None
+6742,somafm,None
+6743,rock,None
+6744,chillout,None
+6745,indie rock,None
+6746,indie,None
+6747,indie,None
+6748,electronic,None
+6749,electronic,None
+6750,chillwave,None
+6751,Lo-Fi,None
+6752,indie,None
+6753,indie,None
+6754,indie rock,None
+6755,Hip-Hop,None
+6756,indie,None
+6757,indie pop,None
+6758,indie,None
+6759,electronic,None
+6760,chillout,None
+6761,indie,None
+6762,indie,None
+6763,indie pop,None
+6764,electronic,None
+6765,rock,None
+6766,Lo-Fi,None
+6767,BIRP,None
+6768,indie,None
+6769,vugube62,None
+6770,vugube62,None
+6771,vugube62,None
+6772,electronic,None
+6773,indie,None
+6774,electronic,None
+6775,chillout,None
+6776,indie rock,None
+6777,indie,None
+6778,indie,None
+6779,Electro Pop,None
+6780,vugube62,None
+6781,vugube62,None
+6782,vugube62,None
+6783,vugube62,None
+6784,electronic,None
+6785,indie,None
+6786,electronic,None
+6787,chillout,None
+6788,indie rock,None
+6789,indie,None
+6790,indie,None
+6791,Electro Pop,None
+6792,electronic,None
+6793,indie,None
+6794,electronic,None
+6795,chillout,None
+6796,indie rock,None
+6797,indie,None
+6798,indie,None
+6799,Electro Pop,None
+6800,electronic,None
+6801,funk,None
+6802,Hip-Hop,None
+6803,experimental,None
+6804,Hip-Hop,None
+6805,indie,None
+6806,vugube62,None
+6807,electrosexy,None
+6808,Hip-Hop,None
+6809,indie,None
+6810,Hip-Hop,None
+6811,vugube62,None
+6812,dream pop,None
+6813,indie pop,None
+6814,indie,None
+6815,electronic,None
+6816,chillout,None
+6817,indie,None
+6818,indie,None
+6819,electronic,None
+6820,vugube62,None
+6821,vugube62,None
+6822,autumn,None
+6823,indie,None
+6824,indie,None
+6825,vugube62,None
+6826,vugube62,None
+6827,vugube62,None
+6828,BIRP,None
+6829,electronic,None
+6830,indie,None
+6831,electronic,None
+6832,chillout,None
+6833,indie rock,None
+6834,indie,None
+6835,indie,None
+6836,indie,None
+6837,electronic,None
+6838,indie,None
+6839,indie,None
+6840,indie rock,None
+6841,indie rock,None
+6842,classic rock,None
+6843,classic rock,None
+6844,pop,None
+6845,rock,None
+6846,Hip-Hop,None
+6847,indie,None
+6848,indie,None
+6849,indie,None
+6850,classic rock,None
+6851,electronic,None
+6852,alternative,None
+6853,electronica,None
+6854,rock,None
+6855,Hip-Hop,None
+6856,thesixtyone,None
+6857,Hip-Hop,None
+6858,pop,None
+6859,chillout,None
+6860,electronic,None
+6861,funk,None
+6862,indie,None
+6863,indie,None
+6864,indie,None
+6865,classic rock,None
+6866,rock,None
+6867,pop,None
+6868,late night,None
+6869,thesixtyone,None
+6870,Hip-Hop,None
+6871,pop,None
+6872,chillout,None
+6873,electronic,None
+6874,funk,None
+6875,indie,None
+6876,indie,None
+6877,electronic,None
+6878,rock,None
+6879,Hip-Hop,None
+6880,electronic,None
+6881,electronic,None
+6882,sweet cooing monks from the eastern seaboard,None
+6883,pop,None
+6884,rock,None
+6885,Hip-Hop,None
+6886,rock,None
+6887,alternative,None
+6888,indie,None
+6889,chillout,None
+6890,chillwave,None
+6891,indie rock,None
+6892,indie,None
+6893,indie,None
+6894,electronic,None
+6895,rock,None
+6896,indie rock,None
+6897,indie,None
+6898,alternative,None
+6899,Hip-Hop,None
+6900,electronic,None
+6901,electronic,None
+6902,indie,None
+6903,Hip-Hop,None
+6904,rock,None
+6905,electronic,None
+6906,classic rock,None
+6907,classic rock,None
+6908,indie,None
+6909,indie,None
+6910,funk,None
+6911,Hip-Hop,None
+6912,C-pop,None
+6913,electronic,None
+6914,chillout,None
+6915,rock,None
+6916,pop,None
+6917,rock,None
+6918,pop,None
+6919,indie,None
+6920,electronic,None
+6921,indie pop,None
+6922,electronic,None
+6923,chillwave,None
+6924,C-pop,None
+6925,sweet cooing monks from the eastern seaboard,None
+6926,cap,None
+6927,classic rock,None
+6928,alternative,None
+6929,late night,None
+6930,indie,None
+6931,Hip-Hop,None
+6932,indie rock,None
+6933,classic rock,None
+6934,rock,None
+6935,classic rock,None
+6936,rock,None
+6937,electronic,None
+6938,Hip-Hop,None
+6939,electronic,None
+6940,indie,None
+6941,remix,None
+6942,Hip-Hop,None
+6943,indie,None
+6944,electronic,None
+6945,indie,None
+6946,chillout,None
+6947,funk,None
+6948,indie,None
+6949,indie,None
+6950,electronic,None
+6951,rock,None
+6952,indie,None
+6953,electronic,None
+6954,pop,None
+6955,indie,None
+6956,thesixtyone,None
+6957,Hip-Hop,None
+6958,Hip-Hop,None
+6959,Hip-Hop,None
+6960,Hip-Hop,None
+6961,Hip-Hop,None
+6962,Hip-Hop,None
+6963,funk,None
+6964,Hip-Hop,None
+6965,electronic,None
+6966,Hip-Hop,None
+6967,funk,None
+6968,electronic,None
+6969,Hip-Hop,None
+6970,chillout,None
+6971,chillout,None
+6972,chillout,None
+6973,chillout,None
+6974,chillout,None
+6975,rock,None
+6976,rock,None
+6977,rock,None
+6978,rock,None
+6979,rock,None
+6980,rock,None
+6981,rock,None
+6982,rock,None
+6983,rock,None
+6984,rock,None
+6985,indie,None
+6986,indie,None
+6987,indie,None
+6988,indie,None
+6989,indie,None
+6990,indie,None
+6991,indie,None
+6992,indie,None
+6993,indie,None
+6994,folk,None
+6995,electronic,None
+6996,electronic,None
+6997,electronic,None
+6998,electronic,None
+6999,electronic,None
+7000,electronic,None
+7001,electronic,None
+7002,electronic,None
+7003,electronic,None
+7004,electronic,None
+7005,electronic,None
+7006,electronic,None
+7007,electronic,None
+7008,electronic,None
+7009,electronic,None
+7010,electronic,None
+7011,electronic,None
+7012,electronic,None
+7013,electronic,None
+7014,electronic,None
+7015,electronic,None
+7016,electronic,None
+7017,electronic,None
+7018,electronic,None
+7019,electronic,None
+7020,cover,None
+7021,cover,None
+7022,cover,None
+7023,indie,None
+7024,indie,None
+7025,indie,None
+7026,indie rock,None
+7027,indie rock,None
+7028,indie rock,None
+7029,indie rock,None
+7030,indie rock,None
+7031,indie rock,None
+7032,80s,None
+7033,80s,None
+7034,indie,None
+7035,indie,None
+7036,indie,None
+7037,indie,None
+7038,indie,None
+7039,indie,None
+7040,indie,None
+7041,indie,None
+7042,indie,None
+7043,indie,None
+7044,indie,None
+7045,indie,None
+7046,electronic,None
+7047,electronic,None
+7048,electronic,None
+7049,electronic,None
+7050,electronic,None
+7051,electronic,None
+7052,electronic,None
+7053,electronic,None
+7054,electronic,None
+7055,electronic,None
+7056,electronic,None
+7057,electronic,None
+7058,electronic,None
+7059,electronic,None
+7060,electronic,None
+7061,electronic,None
+7062,electronic,None
+7063,electronic,None
+7064,electronic,None
+7065,electronic,None
+7066,electronic,None
+7067,electronic,None
+7068,covers,None
+7069,female vocalists,None
+7070,female vocalists,None
+7071,female vocalists,None
+7072,female vocalists,None
+7073,female vocalists,None
+7074,female vocalists,None
+7075,female vocalists,None
+7076,female vocalists,None
+7077,female vocalists,None
+7078,female vocalists,None
+7079,rock,None
+7080,rock,None
+7081,rock,None
+7082,rock,None
+7083,indie,None
+7084,indie,None
+7085,indie,None
+7086,indie,None
+7087,indie,None
+7088,indie,None
+7089,indie,None
+7090,indie,None
+7091,indie,None
+7092,indie,None
+7093,Austin Loved Tracks,None
+7094,Austin Loved Tracks,None
+7095,Austin Loved Tracks,None
+7096,Austin Loved Tracks,None
+7097,Austin Loved Tracks,None
+7098,Austin Loved Tracks,None
+7099,rock,None
+7100,rock,None
+7101,rock,None
+7102,Lo-Fi,None
+7103,Lo-Fi,None
+7104,Lo-Fi,None
+7105,Lo-Fi,None
+7106,Lo-Fi,None
+7107,Lo-Fi,None
+7108,Lo-Fi,None
+7109,Lo-Fi,None
+7110,Lo-Fi,None
+7111,indie,None
+7112,indie,None
+7113,indie,None
+7114,indie,None
+7115,indie,None
+7116,Austin Loved Tracks,None
+7117,Austin Loved Tracks,None
+7118,Austin Loved Tracks,None
+7119,Austin Loved Tracks,None
+7120,classic rock,None
+7121,classic rock,None
+7122,classic rock,None
+7123,classic rock,None
+7124,electronic,None
+7125,electronic,None
+7126,electronic,None
+7127,indietronica,None
+7128,indietronica,None
+7129,indietronica,None
+7130,indietronica,None
+7131,reggae,None
+7132,indie,None
+7133,indie,None
+7134,indie,None
+7135,indie,None
+7136,indie,None
+7137,indie,None
+7138,indie,None
+7139,indie,None
+7140,indie,None
+7141,indie,None
+7142,indie,None
+7143,indie,None
+7144,indie,None
+7145,indie,None
+7146,indie,None
+7147,indie,None
+7148,indie,None
+7149,indie,None
+7150,indie,None
+7151,indie pop,None
+7152,indie pop,None
+7153,indie pop,None
+7154,indie pop,None
+7155,indie,None
+7156,indie,None
+7157,indie,None
+7158,indie pop,None
+7159,indie,None
+7160,indie,None
+7161,singer-songwriter,None
+7162,80s,None
+7163,electronic,None
+7164,folk,None
+7165,indie,None
+7166,indie,None
+7167,Love,None
+7168,80s,None
+7169,rock,None
+7170,electronic,None
+7171,rock,None
+7172,classic rock,None
+7173,indie,None
+7174,indie,None
+7175,indie,None
+7176,indie rock,None
+7177,indie rock,None
+7178,indie,None
+7179,singer-songwriter,None
+7180,folk,None
+7181,indie pop,None
+7182,indie,None
+7183,indie pop,None
+7184,indie rock,None
+7185,indie,None
+7186,reggae,None
+7187,rock,None
+7188,singer-songwriter,None
+7189,electronic,None
+7190,country,None
+7191,pop,None
+7192,rock,None
+7193,indie,None
+7194,indie,None
+7195,indie,None
+7196,hot lava,None
+7197,country,None
+7198,country,None
+7199,country,None
+7200,country,None
+7201,country,None
+7202,experimental,None
+7203,indie,None
+7204,indie,None
+7205,indie rock,None
+7206,country,None
+7207,indie,None
+7208,cover,None
+7209,cover,None
+7210,cover,None
+7211,indie rock,None
+7212,chillwave,None
+7213,shoegaze,None
+7214,cover,None
+7215,cover,None
+7216,cover,None
+7217,cover,None
+7218,80s,None
+7219,electronic,None
+7220,country,None
+7221,Lo-Fi,None
+7222,indie,None
+7223,electronic,None
+7224,indie,None
+7225,electronic,None
+7226,electronic,None
+7227,indie,None
+7228,folk,None
+7229,rock,None
+7230,indie,None
+7231,rock,None
+7232,alternative,None
+7233,indie,None
+7234,indie,None
+7235,folk,None
+7236,trains,None
+7237,rock,None
+7238,classic rock,None
+7239,Love,None
+7240,Hip-Hop,None
+7241,indie,None
+7242,electronic,None
+7243,electronic,None
+7244,80s,None
+7245,indie rock,None
+7246,electronic,None
+7247,electronic,None
+7248,electronic,None
+7249,electronic,None
+7250,classic rock,None
+7251,folk,None
+7252,80s,None
+7253,rock,None
+7254,indie,None
+7255,covers,None
+7256,indie pop,None
+7257,80s,None
+7258,80s,None
+7259,80s,None
+7260,80s,None
+7261,80s,None
+7262,80s,None
+7263,rock,None
+7264,psychedelic folk,None
+7265,indie pop,None
+7266,indie pop,None
+7267,Canadian,None
+7268,Lo-Fi,None
+7269,80s,None
+7270,80s,None
+7271,pop,None
+7272,pop,None
+7273,pop,None
+7274,pop,None
+7275,Garage Rock,None
+7276,covers,None
+7277,indie,None
+7278,indie,None
+7279,indie,None
+7280,indie,None
+7281,indie,None
+7282,indie,None
+7283,indie rock,None
+7284,indie rock,None
+7285,indie rock,None
+7286,indie rock,None
+7287,indie rock,None
+7288,indie rock,None
+7289,indie rock,None
+7290,indie rock,None
+7291,country,None
+7292,indie,None
+7293,Lo-Fi,None
+7294,80s,None
+7295,80s,None
+7296,80s,None
+7297,80s,None
+7298,folk,None
+7299,alternative,None
+7300,rock,None
+7301,rock,None
+7302,rock,None
+7303,rock,None
+7304,rock,None
+7305,indie,None
+7306,electronic,None
+7307,indie,None
+7308,classic rock,None
+7309,indie,None
+7310,rock,None
+7311,rock,None
+7312,rock,None
+7313,indie,None
+7314,indie,None
+7315,indie,None
+7316,folk,None
+7317,indie,None
+7318,indie,None
+7319,indie,None
+7320,indie,None
+7321,Hip-Hop,None
+7322,psychedelic folk,None
+7323,electronic,None
+7324,rock,None
+7325,rock,None
+7326,shoegaze,None
+7327,electronic,None
+7328,female vocalists,None
+7329,electronic,None
+7330,folk,None
+7331,indie,None
+7332,Hip-Hop,None
+7333,Austin Loved Tracks,None
+7334,indie,None
+7335,rock,None
+7336,rock,None
+7337,rock,None
+7338,rock,None
+7339,chillwave,None
+7340,electronic,None
+7341,rock,None
+7342,electronic,None
+7343,80s,None
+7344,rock,None
+7345,classic rock,None
+7346,cover,None
+7347,folk,None
+7348,female vocalists,None
+7349,female vocalists,None
+7350,vugube62,None
+7351,80s,None
+7352,pop,None
+7353,indie,None
+7354,indie,None
+7355,80s,None
+7356,electronic,None
+7357,rock,None
+7358,classic rock,None
+7359,80s,None
+7360,covers,None
+7361,covers,None
+7362,indie,None
+7363,indie,None
+7364,indie pop,None
+7365,indie pop,None
+7366,indie pop,None
+7367,indie pop,None
+7368,indie pop,None
+7369,indie pop,None
+7370,indie pop,None
+7371,cover,None
+7372,cover,None
+7373,indie,None
+7374,electronic,None
+7375,electronic,None
+7376,electronic,None
+7377,electronic,None
+7378,female vocalists,None
+7379,rock,None
+7380,rock,None
+7381,chillout,None
+7382,indie,None
+7383,folk,None
+7384,rock,None
+7385,electronic,None
+7386,shoegaze,None
+7387,indie,None
+7388,indie,None
+7389,Love,None
+7390,Love,None
+7391,80s,None
+7392,80s,None
+7393,covers,None
+7394,Hip-Hop,None
+7395,Austin Loved Tracks,None
+7396,rock,None
+7397,rock,None
+7398,electronic,None
+7399,classic rock,None
+7400,chillwave,None
+7401,indie,None
+7402,electronic,None
+7403,electronica,None
+7404,vugube62,None
+7405,vugube62,None
+7406,dream pop,None
+7407,Hip-Hop,None
+7408,classic rock,None
+7409,WKNC,None
+7410,rock,None
+7411,rock,None
+7412,rock,None
+7413,classic rock,None
+7414,indie,None
+7415,folk,None
+7416,the dronez,None
+7417,somafm,None
+7418,classic rock,None
+7419,classic rock,None
+7420,indie,None
+7421,female vocalists,None
+7422,emo,None
+7423,indie,None
+7424,electronic,None
+7425,female vocalists,None
+7426,C-pop,None
+7427,C-pop,None
+7428,pop,None
+7429,cover,None
+7430,indie,None
+7431,indie,None
+7432,electronic,None
+7433,favorites,None
+7434,indie,None
+7435,indie,None
+7436,electronic,None
+7437,electronic,None
+7438,chillwave,None
+7439,electronic,None
+7440,rock,None
+7441,rock,None
+7442,rock,None
+7443,rock,None
+7444,rock,None
+7445,classic rock,None
+7446,Austin Loved Tracks,None
+7447,indie rock,None
+7448,indie rock,None
+7449,1Live Fiehe,None
+7450,chillwave,None
+7451,singer-songwriter,None
+7452,2006,None
+7453,indie,None
+7454,indie,None
+7455,folk,None
+7456,covers,None
+7457,indie,None
+7458,electronic,None
+7459,80s,None
+7460,cover,None
+7461,cover,None
+7462,2006,None
+7463,indie pop,None
+7464,singer-songwriter,None
+7465,indie,None
+7466,Lo-Fi,None
+7467,Canadian,None
+7468,indie,None
+7469,2006,None
+7470,female vocalists,None
+7471,indie pop,None
+7472,Hip-Hop,None
+7473,electronic,None
+7474,electronic,None
+7475,electronic,None
+7476,80s,None
+7477,1Live Fiehe,None
+7478,indie pop,None
+7479,covers,None
+7480,indie pop,None
+7481,rock,None
+7482,indie,None
+7483,indie,None
+7484,indie,None
+7485,indie,None
+7486,Hip-Hop,None
+7487,indie,None
+7488,indie,None
+7489,indie,None
+7490,indie,None
+7491,covers,None
+7492,rock,None
+7493,BIRP,None
+7494,pop,None
+7495,80s,None
+7496,electronic,None
+7497,indie,None
+7498,Hip-Hop,None
+7499,chillwave,None
+7500,chillwave,None
+7501,rock,None
+7502,rock,None
+7503,rock,None
+7504,electronic,None
+7505,electronic,None
+7506,electronic,None
+7507,electronic,None
+7508,electronic,None
+7509,electronic,None
+7510,electronic,None
+7511,electronic,None
+7512,electronic,None
+7513,electronic,None
+7514,electronic,None
+7515,electronic,None
+7516,electronic,None
+7517,electronic,None
+7518,indie,None
+7519,indie rock,None
+7520,indie,None
+7521,indie,None
+7522,electropop,None
+7523,country,None
+7524,country,None
+7525,indie,None
+7526,indie,None
+7527,the dronez,None
+7528,indie,None
+7529,pop,None
+7530,electronic,None
+7531,indie pop,None
+7532,chillwave,None
+7533,electronic,None
+7534,classic rock,None
+7535,indie,None
+7536,emo,None
+7537,emo,None
+7538,emo,None
+7539,indie,None
+7540,electronic,None
+7541,rock,None
+7542,electronic,None
+7543,electronic,None
+7544,electronic,None
+7545,electronic,None
+7546,indie rock,None
+7547,indie rock,None
+7548,indie,None
+7549,indie,None
+7550,indie,None
+7551,classic rock,None
+7552,indie,None
+7553,rock,None
+7554,Hip-Hop,None
+7555,Love,None
+7556,indie,None
+7557,classic rock,None
+7558,classic rock,None
+7559,indie pop,None
+7560,indietronica,None
+7561,indie,None
+7562,indie,None
+7563,indie,None
+7564,indie,None
+7565,classic rock,None
+7566,indie,None
+7567,electronic,None
+7568,folk,None
+7569,classic rock,None
+7570,indie,None
+7571,rock,None
+7572,Recs from Mark,None
+7573,rock,None
+7574,electro,None
+7575,indie,None
+7576,indie rock,None
+7577,indie rock,None
+7578,electronica,None
+7579,indie,None
+7580,rock,None
+7581,indie,None
+7582,rock,None
+7583,classic rock,None
+7584,indie,None
+7585,indie,None
+7586,psychedelic folk,None
+7587,best of 2009,None
+7588,folk,None
+7589,Hip-Hop,None
+7590,House,None
+7591,House,None
+7592,chillwave,None
+7593,chillwave,None
+7594,indie rock,None
+7595,classic rock,None
+7596,psychedelic,None
+7597,indie,None
+7598,fip,None
+7599,electronic,None
+7600,indie,None
+7601,indie pop,None
+7602,alternative,None
+7603,rock,None
+7604,singer-songwriter,None
+7605,80s,None
+7606,electronic,None
+7607,country,None
+7608,Soundtrack,None
+7609,Soundtrack,None
+7610,indie,None
+7611,1Live Fiehe,None
+7612,rock,None
+7613,electronic,None
+7614,70s,None
+7615,Hip-Hop,None
+7616,female vocalists,None
+7617,rock,None
+7618,rock,None
+7619,female vocalists,None
+7620,female vocalists,None
+7621,female vocalists,None
+7622,beautiful,None
+7623,electronic,None
+7624,indie,None
+7625,Austin Loved Tracks,None
+7626,indietronica,None
+7627,WKNC,None
+7628,classic rock,None
+7629,indie,None
+7630,indie,None
+7631,rock,None
+7632,rock,None
+7633,indie,None
+7634,indie,None
+7635,indie,None
+7636,post-rock,None
+7637,remix,None
+7638,indie,None
+7639,pop,None
+7640,rock,None
+7641,indie,None
+7642,indie,None
+7643,indie,None
+7644,indie,None
+7645,classic rock,None
+7646,electronica,None
+7647,electronica,None
+7648,classic rock,None
+7649,indie,None
+7650,rock,None
+7651,indie,None
+7652,rock,None
+7653,indie,None
+7654,indie,None
+7655,electronic,None
+7656,Austin Loved Tracks,None
+7657,chillwave,None
+7658,cover,None
+7659,electronic,None
+7660,Canadian,None
+7661,classic rock,None
+7662,singer-songwriter,None
+7663,rock,None
+7664,indie,None
+7665,Austin Loved Tracks,None
+7666,female vocalists,None
+7667,electronic,None
+7668,electronic,None
+7669,ambient,None
+7670,ambient,None
+7671,indie,None
+7672,electronic,None
+7673,indie,None
+7674,electronic,None
+7675,indie pop,None
+7676,indie,None
+7677,alternative,None
+7678,cover,None
+7679,80s,None
+7680,80s,None
+7681,rock,None
+7682,singer-songwriter,None
+7683,indie,None
+7684,indie,None
+7685,daytrotter,None
+7686,classic rock,None
+7687,singer-songwriter,None
+7688,loved,None
+7689,indie,None
+7690,rock,None
+7691,somafm,None
+7692,somafm,None
+7693,cover,None
+7694,oldies,None
+7695,rock,None
+7696,electronic,None
+7697,chillout,None
+7698,rock,None
+7699,electronic,None
+7700,indie,None
+7701,indie,None
+7702,indie rock,None
+7703,indie,None
+7704,electronic,None
+7705,pop,None
+7706,electronic,None
+7707,indie,None
+7708,electronic,None
+7709,oldies,None
+7710,electronic,None
+7711,electronic,None
+7712,indie,None
+7713,female vocalists,None
+7714,electronic,None
+7715,electronic,None
+7716,indie,None
+7717,folk,None
+7718,folk,None
+7719,alternative,None
+7720,alternative,None
+7721,electronic,None
+7722,rock,None
+7723,folk,None
+7724,indie rock,None
+7725,electronic,None
+7726,indie,None
+7727,Indian,None
+7728,rock,None
+7729,electronic,None
+7730,Lo-Fi,None
+7731,alternative,None
+7732,chillwave,None
+7733,chillwave,None
+7734,indie,None
+7735,electronic,None
+7736,electronic,None
+7737,rock,None
+7738,electronic,None
+7739,indie,None
+7740,indie,None
+7741,indie,None
+7742,electronic,None
+7743,Hip-Hop,None
+7744,Hip-Hop,None
+7745,Garage Rock,None
+7746,folk,None
+7747,Austin Loved Tracks,None
+7748,summer sound,None
+7749,singer-songwriter,None
+7750,1Live Fiehe,None
+7751,electronic,None
+7752,rock,None
+7753,indie,None
+7754,indie,None
+7755,chillwave,None
+7756,indie,None
+7757,electronic,None
+7758,80s,None
+7759,somafm,None
+7760,singer-songwriter,None
+7761,indie,None
+7762,cover,None
+7763,electronic,None
+7764,indie pop,None
+7765,indie,None
+7766,indie,None
+7767,indie,None
+7768,electronic,None
+7769,indie,None
+7770,electronic,None
+7771,vugube62,None
+7772,electronic,None
+7773,electronic,None
+7774,indie,None
+7775,folk,None
+7776,classic rock,None
+7777,indie,None
+7778,Soundtrack,None
+7779,80s,None
+7780,indie,None
+7781,late night,None
+7782,indie,None
+7783,electronic,None
+7784,electronic,None
+7785,indietronica,None
+7786,electronic,None
+7787,cover,None
+7788,indie,None
+7789,cover,None
+7790,electronic,None
+7791,indie,None
+7792,electronic,None
+7793,indie,None
+7794,indie,None
+7795,indie,None
+7796,cover,None
+7797,indie,None
+7798,indie,None
+7799,indie,None
+7800,indie,None
+7801,classic rock,None
+7802,electronic,None
+7803,indie,None
+7804,indie,None
+7805,classic rock,None
+7806,summer,None
+7807,classic rock,None
+7808,indietronica,None
+7809,electronic,None
+7810,House,None
+7811,cover,None
+7812,electronic,None
+7813,electronic,None
+7814,electronic,None
+7815,electronic,None
+7816,electronic,None
+7817,electronic,None
+7818,electronic,None
+7819,electronic,None
+7820,electronic,None
+7821,electronic,None
+7822,Austin Loved Tracks,None
+7823,Austin Loved Tracks,None
+7824,chillout,None
+7825,chillout,None
+7826,electronic,None
+7827,indie,None
+7828,electro,None
+7829,indie,None
+7830,classic rock,None
+7831,remix,None
+7832,alternative,None
+7833,rock,None
+7834,Recs from Mark,None
+7835,rock,None
+7836,electronic,None
+7837,Lo-Fi,None
+7838,60's,None
+7839,singer-songwriter,None
+7840,indie,None
+7841,indie,None
+7842,indie,None
+7843,beautiful,None
+7844,indie,None
+7845,dream pop,None
+7846,indie,None
+7847,big bills,None
+7848,big bills,None
+7849,electronic,None
+7850,indie,None
+7851,80s,None
+7852,oldies,None
+7853,indie,None
+7854,cover,None
+7855,alternative,None
+7856,rock,None
+7857,indie,None
+7858,Mellow,None
+7859,indie rock,None
+7860,indie rock,None
+7861,electronic,None
+7862,folk,None
+7863,indie,None
+7864,daytrotter,None
+7865,cover,None
+7866,summer sound,None
+7867,Indian,None
+7868,chillwave,None
+7869,indie,None
+7870,electronic,None
+7871,electronic,None
+7872,electronic,None
+7873,electronic,None
+7874,electronic,None
+7875,indie,None
+7876,electronic,None
+7877,electronic,None
+7878,rock,None
+7879,electronic,None
+7880,indie pop,None
+7881,indie,None
+7882,indie rock,None
+7883,indie,None
+7884,indie,None
+7885,indie,None
+7886,indie,None
+7887,indie,None
+7888,indie,None
+7889,indie,None
+7890,indie,None
+7891,chillwave,None
+7892,summer,None
+7893,chillwave,None
+7894,electronic,None
+7895,electronic,None
+7896,chillwave,None
+7897,chillwave,None
+7898,chillwave,None
+7899,summer,None
+7900,chillwave,None
+7901,chillwave,None
+7902,electronic,None
+7903,electronic,None
+7904,electronic,None
+7905,electronic,None
+7906,indie,None
+7907,cover,None
+7908,indie,None
+7909,indietronica,None
+7910,electronic,None
+7911,indie,None
+7912,cover,None
+7913,electronic,None
+7914,indie,None
+7915,electronic,None
+7916,electronic,None
+7917,electronic,None
+7918,electronic,None
+7919,electronic,None
+7920,electronic,None
+7921,loved,None
+7922,electronic,None
+7923,chillwave,None
+7924,chillwave,None
+7925,indie,None
+7926,indie,None
+7927,indie,None
+7928,indie,None
+7929,indie,None
+7930,indie,None
+7931,indie,None
+7932,electronic,None
+7933,electronic,None
+7934,electronic,None
+7935,electronic,None
+7936,rock,None
+7937,rock,None
+7938,electronic,None
+7939,indie,None
+7940,electronic,None
+7941,electronic,None
+7942,electronic,None
+7943,electronic,None
+7944,electronic,None
+7945,electronic,None
+7946,big bills,None
+7947,big bills,None
+7948,big bills,None
+7949,big bills,None
+7950,big bills,None
+7951,big bills,None
+7952,big bills,None
+7953,big bills,None
+7954,big bills,None
+7955,pop,None
+7956,indie,None
+7957,electronic,None
+7958,electronic,None
+7959,indie,None
+7960,indie,None
+7961,indie,None
+7962,indie,None
+7963,indie,None
+7964,indie,None
+7965,electronica,None
+7966,electronica,None
+7967,indie rock,None
+7968,indie rock,None
+7969,electronic,None
+7970,electronic,None
+7971,electronic,None
+7972,electronic,None
+7973,electronic,None
+7974,electronic,None
+7975,electronic,None
+7976,indie,None
+7977,indie,None
+7978,indie,None
+7979,indie,None
+7980,indie,None
+7981,indie,None
+7982,indie,None
+7983,indie,None
+7984,electronic,None
+7985,electronic,None
+7986,Austin Loved Tracks,None
+7987,Austin Loved Tracks,None
+7988,Austin Loved Tracks,None
+7989,electronic,None
+7990,electronic,None
+7991,electronic,None
+7992,Austin Loved Tracks,None
+7993,Austin Loved Tracks,None
+7994,Austin Loved Tracks,None
+7995,Austin Loved Tracks,None
+7996,pop,None
+7997,indie,None
+7998,indie,None
+7999,indie,None
+8000,electro,None
+8001,indie,None
+8002,indie,None
+8003,Hip-Hop,None
+8004,hip hop,None
+8005,hip hop,None
+8006,Hip-Hop,None
+8007,dream pop,None
+8008,Hip-Hop,None
+8009,indie rock,None
+8010,singer-songwriter,None
+8011,singer-songwriter,None
+8012,Love,None
+8013,Love,None
+8014,C-pop,None
+8015,C-pop,None
+8016,C-pop,None
+8017,Lo-Fi,None
+8018,singer-songwriter,None
+8019,singer-songwriter,None
+8020,country,None
+8021,indie,None
+8022,1Live Fiehe,None
+8023,electronic,None
+8024,electronic,None
+8025,electronic,None
+8026,electronic,None
+8027,Austin Loved Tracks,None
+8028,pop,None
+8029,indie,None
+8030,indie rock,None
+8031,electronic,None
+8032,electronic,None
+8033,electronic,None
+8034,rock,None
+8035,rock,None
+8036,alternative,None
+8037,indie,None
+8038,electronica,None
+8039,rock,None
+8040,indie,None
+8041,big bills,None
+8042,electronic,None
+8043,electronic,None
+8044,Austin Loved Tracks,None
+8045,electronic,None
+8046,Austin Loved Tracks,None
+8047,electro,None
+8048,electronic,None
+8049,indie,None
+8050,electronic,None
+8051,rock,None
+8052,electronic,None
+8053,electronic,None
+8054,electronic,None
+8055,indie,None
+8056,indie,None
+8057,rock,None
+8058,indie,None
+8059,electronic,None
+8060,big bills,None
+8061,electronic,None
+8062,indie,None
+8063,electronic,None
+8064,rock,None
+8065,indie rock,None
+8066,indie rock,None
+8067,indie rock,None
+8068,indie rock,None
+8069,indie rock,None
+8070,indie rock,None
+8071,indie rock,None
+8072,indie rock,None
+8073,indie rock,None
+8074,rock,None
+8075,rock,None
+8076,indie rock,None
+8077,indie rock,None
+8078,indie rock,None
+8079,indie rock,None
+8080,indie,None
+8081,indie,None
+8082,indie,None
+8083,indie,None
+8084,electronic,None
+8085,electronic,None
+8086,electronic,None
+8087,electronic,None
+8088,indie,None
+8089,electronic,None
+8090,rock,None
+8091,indie,None
+8092,indie,None
+8093,indie,None
+8094,indie,None
+8095,electronic,None
+8096,indie,None
+8097,indie,None
+8098,indie,None
+8099,big bills,None
+8100,pop,None
+8101,rock,None
+8102,electronic,None
+8103,electronic,None
+8104,electro,None
+8105,indie,None
+8106,Austin Loved Tracks,None
+8107,Austin Loved Tracks,None
+8108,indie rock,None
+8109,indie rock,None
+8110,rock,None
+8111,rock,None
+8112,rock,None
+8113,rock,None
+8114,rock,None
+8115,rock,None
+8116,Hip-Hop,None
+8117,rock,None
+8118,electronic,None
+8119,indie,None
+8120,indie rock,None
+8121,electronic,None
+8122,rock,None
+8123,big bills,None
+8124,indie,None
+8125,electronic,None
+8126,electronic,None
+8127,electronic,None
+8128,electronic,None
+8129,electronic,None
+8130,electronic,None
+8131,electronic,None
+8132,electronic,None
+8133,electronic,None
+8134,electronic,None
+8135,electronic,None
+8136,indie,None
+8137,rock,None
+8138,indie,None
+8139,folk,None
+8140,indie,None
+8141,indie pop,None
+8142,male vocals,None
+8143,pop,None
+8144,best of 2009,None
+8145,indie,None
+8146,alternative,None
+8147,Garage Rock,None
+8148,country,None
+8149,electronic,None
+8150,oldies,None
+8151,oldies,None
+8152,rock,None
+8153,country,None
+8154,ambient,None
+8155,ambient,None
+8156,pop,None
+8157,electronic,None
+8158,indie,None
+8159,80s,None
+8160,country,None
+8161,electronic,None
+8162,oldies,None
+8163,Lo-Fi,None
+8164,indie,None
+8165,indie,None
+8166,Austin Loved Tracks,None
+8167,Austin Loved Tracks,None
+8168,Austin Loved Tracks,None
+8169,Austin Loved Tracks,None
+8170,Austin Loved Tracks,None
+8171,folk,None
+8172,Canadian,None
+8173,rock,None
+8174,rock,None
+8175,rock,None
+8176,rock,None
+8177,rock,None
+8178,rock,None
+8179,rock,None
+8180,classic rock,None
+8181,rock,None
+8182,Austin Loved Tracks,None
+8183,rock,None
+8184,rock,None
+8185,classic rock,None
+8186,classic rock,None
+8187,classic rock,None
+8188,rock,None
+8189,indie pop,None
+8190,folk,None
+8191,indie,None
+8192,indie,None
+8193,singer-songwriter,None
+8194,indie,None
+8195,classic rock,None
+8196,female vocalists,None
+8197,indie rock,None
+8198,country,None
+8199,dream pop,None
+8200,indie,None
+8201,Canadian,None
+8202,folk,None
+8203,folk,None
+8204,folk,None
+8205,folk,None
+8206,folk,None
+8207,folk,None
+8208,indie,None
+8209,indie,None
+8210,indie,None
+8211,folk,None
+8212,indie,None
+8213,electronic,None
+8214,indie pop,None
+8215,indie,None
+8216,Hip-Hop,None
+8217,indie rock,None
+8218,folk,None
+8219,electronic,None
+8220,indie,None
+8221,indie,None
+8222,indie,None
+8223,Mellow,None
+8224,indie,None
+8225,indie rock,None
+8226,dream pop,None
+8227,indie pop,None
+8228,folk,None
+8229,rock,None
+8230,indie,None
+8231,indie,None
+8232,Hip-Hop,None
+8233,covers,None
+8234,vugube62,None
+8235,vugube62,None
+8236,vugube62,None
+8237,beautiful,None
+8238,beautiful,None
+8239,beautiful,None
+8240,indie rock,None
+8241,indie rock,None
+8242,indie rock,None
+8243,alternative,None
+8244,alternative,None
+8245,experimental,None
+8246,experimental,None
+8247,pop,None
+8248,pop,None
+8249,pop,None
+8250,dream pop,None
+8251,dream pop,None
+8252,dream pop,None
+8253,dream pop,None
+8254,indie,None
+8255,indie,None
+8256,indie,None
+8257,indie,None
+8258,Mellow,None
+8259,Mellow,None
+8260,female vocalists,None
+8261,female vocalists,None
+8262,female vocalists,None
+8263,dream pop,None
+8264,dream pop,None
+8265,dream pop,None
+8266,dream pop,None
+8267,indie,None
+8268,indie,None
+8269,alternative,None
+8270,alternative,None
+8271,folk,None
+8272,folk,None
+8273,indie,None
+8274,indie,None
+8275,folk,None
+8276,folk,None
+8277,post-rock,None
+8278,indie,None
+8279,indie,None
+8280,dream pop,None
+8281,dream pop,None
+8282,dream pop,None
+8283,indie,None
+8284,indie,None
+8285,indie,None
+8286,vugube62,None
+8287,indie rock,None
+8288,indie,None
+8289,electronic,None
+8290,indie,None
+8291,indie,None
+8292,oldies,None
+8293,oldies,None
+8294,dream pop,None
+8295,electro,None
+8296,rock,None
+8297,Hip-Hop,None
+8298,indie rock,None
+8299,electronic,None
+8300,indie,None
+8301,indie,None
+8302,dream pop,None
+8303,indie,None
+8304,indie rock,None
+8305,tambourine,None
+8306,rock,None
+8307,indie,None
+8308,rock,None
+8309,oldies,None
+8310,vugube62,None
+8311,indie rock,None
+8312,electronic,None
+8313,dream pop,None
+8314,dream pop,None
+8315,dream pop,None
+8316,dream pop,None
+8317,dream pop,None
+8318,dream pop,None
+8319,folk,None
+8320,covers,None
+8321,indie,None
+8322,indie rock,None
+8323,indie rock,None
+8324,electronic,None
+8325,alternative,None
+8326,indie,None
+8327,folk,None
+8328,indie,None
+8329,folk,None
+8330,female vocalists,None
+8331,vugube62,None
+8332,vugube62,None
+8333,indie rock,None
+8334,oldies,None
+8335,psychedelic pop,None
+8336,indie rock,None
+8337,Austin Loved Tracks,None
+8338,electronic,None
+8339,female vocalists,None
+8340,oldies,None
+8341,Hip-Hop,None
+8342,electronic,None
+8343,pop,None
+8344,indie,None
+8345,indie,None
+8346,indie,None
+8347,indie,None
+8348,electronic,None
+8349,dream pop,None
+8350,psychedelic folk,None
+8351,indie,None
+8352,indie rock,None
+8353,classic rock,None
+8354,indie,None
+8355,indie rock,None
+8356,shoegaze,None
+8357,electronic,None
+8358,folk,None
+8359,indie,None
+8360,indie,None
+8361,rock,None
+8362,Canadian,None
+8363,classic rock,None
+8364,rock,None
+8365,indie,None
+8366,indie,None
+8367,indie rock,None
+8368,rock,None
+8369,singer-songwriter,None
+8370,rock,None
+8371,indie rock,None
+8372,indie rock,None
+8373,indie rock,None
+8374,indie rock,None
+8375,indie rock,None
+8376,indie rock,None
+8377,indie rock,None
+8378,indie rock,None
+8379,indie rock,None
+8380,indie rock,None
+8381,indie rock,None
+8382,indie rock,None
+8383,indie rock,None
+8384,indie rock,None
+8385,indie rock,None
+8386,indie rock,None
+8387,indie rock,None
+8388,indie rock,None
+8389,indie rock,None
+8390,Mellow,None
+8391,oldies,None
+8392,indie,None
+8393,indie,None
+8394,indie,None
+8395,indie,None
+8396,rock,None
+8397,indie,None
+8398,indie pop,None
+8399,electronic,None
+8400,electronic,None
+8401,indie,None
+8402,folk,None
+8403,indie,None
+8404,rock,None
+8405,electronic,None
+8406,folk,None
+8407,jazz,None
+8408,folk,None
+8409,fun,None
+8410,shoegaze,None
+8411,folk,None
+8412,indie,None
+8413,chasing the mean reds,None
+8414,indie,None
+8415,indie,None
+8416,oldies,None
+8417,rock,None
+8418,electronic,None
+8419,electronic,None
+8420,classic rock,None
+8421,Awesome,None
+8422,psychedelic folk,None
+8423,indie,None
+8424,indie rock,None
+8425,folk,None
+8426,electronic,None
+8427,indie,None
+8428,indie,None
+8429,jazz,None
+8430,indie,None
+8431,country,None
+8432,indie,None
+8433,beautiful,None
+8434,indie,None
+8435,Hip-Hop,None
+8436,folk,None
+8437,indie,None
+8438,Hip-Hop,None
+8439,Hip-Hop,None
+8440,indie rock,None
+8441,rock,None
+8442,indie,None
+8443,female vocalists,None
+8444,electropop,None
+8445,Austin Loved Tracks,None
+8446,Austin Loved Tracks,None
+8447,Austin Loved Tracks,None
+8448,Austin Loved Tracks,None
+8449,Austin Loved Tracks,None
+8450,Austin Loved Tracks,None
+8451,Austin Loved Tracks,None
+8452,Austin Loved Tracks,None
+8453,Austin Loved Tracks,None
+8454,Austin Loved Tracks,None
+8455,Austin Loved Tracks,None
+8456,Austin Loved Tracks,None
+8457,Austin Loved Tracks,None
+8458,Austin Loved Tracks,None
+8459,Austin Loved Tracks,None
+8460,Austin Loved Tracks,None
+8461,rock,None
+8462,folk,None
+8463,indie rock,None
+8464,covers,None
+8465,fun,None
+8466,Austin Loved Tracks,None
+8467,indie,None
+8468,indie,None
+8469,hip hop,None
+8470,chill,None
+8471,classic rock,None
+8472,Canadian,None
+8473,folk,None
+8474,cover,None
+8475,cover,None
+8476,classic rock,None
+8477,rock,None
+8478,indie pop,None
+8479,classic rock,None
+8480,indie,None
+8481,favorite songs,None
+8482,country,None
+8483,indie pop,None
+8484,indie,None
+8485,indie,None
+8486,indie,None
+8487,indie,None
+8488,indie,None
+8489,indie,None
+8490,indie,None
+8491,indie,None
+8492,indie,None
+8493,indie,None
+8494,indie rock,None
+8495,indie,None
+8496,indie,None
+8497,rock,None
+8498,indie,None
+8499,indie,None
+8500,indie,None
+8501,indie,None
+8502,indie,None
+8503,female vocalists,None
+8504,indie,None
+8505,indie rock,None
+8506,indie,None
+8507,indie,None
+8508,indie,None
+8509,indie,None
+8510,indie,None
+8511,female vocalists,None
+8512,female vocalists,None
+8513,indie,None
+8514,indie,None
+8515,indie,None
+8516,indie,None
+8517,indie,None
+8518,indie,None
+8519,indie,None
+8520,indie,None
+8521,indie,None
+8522,indie,None
+8523,indie,None
+8524,indie,None
+8525,Heartbreaking,None
+8526,cover,None
+8527,indie,None
+8528,indie,None
+8529,indie,None
+8530,female vocalists,None
+8531,indie,None
+8532,indie,None
+8533,indie,None
+8534,Lo-Fi,None
+8535,indie,None
+8536,indie,None
+8537,indie,None
+8538,pop,None
+8539,indie,None
+8540,Hip-Hop,None
+8541,Hip-Hop,None
+8542,chill,None
+8543,indie rock,None
+8544,singer-songwriter,None
+8545,pop,None
+8546,indie,None
+8547,indie,None
+8548,electronic,None
+8549,rock,None
+8550,indie,None
+8551,synthpop,None
+8552,folk,None
+8553,indie,None
+8554,indie,None
+8555,female vocalists,None
+8556,classic rock,None
+8557,indie,None
+8558,indie,None
+8559,rock,None
+8560,electronic,None
+8561,electronic,None
+8562,Soundtrack,None
+8563,indie,None
+8564,electronic,None
+8565,indie,None
+8566,electronic,None
+8567,folk,None
+8568,rock,None
+8569,melancholy,None
+8570,electronic,None
+8571,classic rock,None
+8572,indie,None
+8573,electronic,None
+8574,electronic,None
+8575,folk,None
+8576,cover,None
+8577,folk,None
+8578,indie,None
+8579,shoegaze,None
+8580,indie rock,None
+8581,indie,None
+8582,female vocalists,None
+8583,rock,None
+8584,indie rock,None
+8585,indie,None
+8586,classic rock,None
+8587,electronic,None
+8588,americana,None
+8589,Austin Loved Tracks,None
+8590,folk,None
+8591,80s,None
+8592,indie rock,None
+8593,pop,None
+8594,sweet cooing monks from the eastern seaboard,None
+8595,folk,None
+8596,indie pop,None
+8597,indie rock,None
+8598,indie,None
+8599,chasing the mean reds,None
+8600,indie,None
+8601,indie rock,None
+8602,female vocalists,None
+8603,electronic,None
+8604,covers,None
+8605,singer-songwriter,None
+8606,singer-songwriter,None
+8607,electronic,None
+8608,electronic,None
+8609,electronic,None
+8610,electronic,None
+8611,electronic,None
+8612,electronic,None
+8613,electronic,None
+8614,electronic,None
+8615,electronic,None
+8616,folk,None
+8617,indie rock,None
+8618,Hip-Hop,None
+8619,country,None
+8620,country,None
+8621,country,None
+8622,country,None
+8623,americana,None
+8624,americana,None
+8625,Fan-Fucking-Tastic,None
+8626,rock,None
+8627,indie,None
+8628,Hip-Hop,None
+8629,indie,None
+8630,indie,None
+8631,experimental,None
+8632,remix,None
+8633,electronic,None
+8634,indie rock,None
+8635,the dronez,None
+8636,indie rock,None
+8637,indie,None
+8638,folk,None
+8639,alternative,None
+8640,indie rock,None
+8641,chill,None
+8642,indie,None
+8643,indie,None
+8644,indie rock,None
+8645,electronic,None
+8646,Hip-Hop,None
+8647,cover,None
+8648,Hip-Hop,None
+8649,cover,None
+8650,cover,None
+8651,cover,None
+8652,cover,None
+8653,indie,None
+8654,indie,None
+8655,indie,None
+8656,indie,None
+8657,indie,None
+8658,indie,None
+8659,indie,None
+8660,indie,None
+8661,indie,None
+8662,indie,None
+8663,indie,None
+8664,indie,None
+8665,pop,None
+8666,indie,None
+8667,Love,None
+8668,electronic,None
+8669,folk,None
+8670,jazz,None
+8671,indie,None
+8672,electronic,None
+8673,indie rock,None
+8674,shoegaze,None
+8675,70s,None
+8676,folk,None
+8677,electronic,None
+8678,indie,None
+8679,chillout,None
+8680,indie,None
+8681,indie,None
+8682,electronic,None
+8683,shoegaze,None
+8684,indie,None
+8685,indie,None
+8686,indie,None
+8687,singer-songwriter,None
+8688,electro,None
+8689,indie,None
+8690,indie,None
+8691,indie,None
+8692,chillout,None
+8693,favorite songs,None
+8694,funk,None
+8695,instrumental,None
+8696,instrumental,None
+8697,alternative,None
+8698,indie rock,None
+8699,classic rock,None
+8700,Hip-Hop,None
+8701,indie,None
+8702,electronic,None
+8703,folk,None
+8704,indie,None
+8705,indie,None
+8706,folk,None
+8707,favorites,None
+8708,rocket shoes mixtapes,None
+8709,music to get the pussy wet,None
+8710,Love,None
+8711,rock,None
+8712,indie,None
+8713,indie,None
+8714,ventnor,None
+8715,indie,None
+8716,electronic,None
+8717,folk,None
+8718,electronic,None
+8719,favorites,None
+8720,indie,None
+8721,electronic,None
+8722,pop,None
+8723,indie,None
+8724,singer-songwriter,None
+8725,indie,None
+8726,indie rock,None
+8727,indie pop,None
+8728,indie,None
+8729,shoegaze,None
+8730,indie,None
+8731,singer-songwriter,None
+8732,Love,None
+8733,emo,None
+8734,female vocalists,None
+8735,indie,None
+8736,electronic,None
+8737,indie rock,None
+8738,electronic,None
+8739,electronic,None
+8740,alternative rock,None
+8741,indie,None
+8742,dream pop,None
+8743,electronic,None
+8744,indie,None
+8745,indie rock,None
+8746,electronic,None
+8747,indie,None
+8748,chillout,None
+8749,cover,None
+8750,rock,None
+8751,indie rock,None
+8752,indie pop,None
+8753,sxsw 2009,None
+8754,folk,None
+8755,happy,None
+8756,favorite songs,None
+8757,classic rock,None
+8758,Hip-Hop,None
+8759,singer-songwriter,None
+8760,indie,None
+8761,rock,None
+8762,classic rock,None
+8763,indie,None
+8764,country,None
+8765,indie rock,None
+8766,alternative rock,None
+8767,favorites,None
+8768,folk,None
+8769,vugube62,None
+8770,indie,None
+8771,Hip-Hop,None
+8772,singer-songwriter,None
+8773,folk,None
+8774,70s,None
+8775,alternative,None
+8776,folk,None
+8777,female vocalists,None
+8778,rock,None
+8779,indie rock,None
+8780,indie,None
+8781,folk,None
+8782,80s,None
+8783,indie pop,None
+8784,folk,None
+8785,post-rock,None
+8786,pop,None
+8787,80s,None
+8788,indie,None
+8789,indie,None
+8790,folk,None
+8791,classic rock,None
+8792,Hip-Hop,None
+8793,electronic,None
+8794,80s,None
+8795,indie rock,None
+8796,Mellow,None
+8797,indie rock,None
+8798,classic rock,None
+8799,classic rock,None
+8800,classic rock,None
+8801,classic rock,None
+8802,classic rock,None
+8803,classic rock,None
+8804,classic rock,None
+8805,sweet cooing monks from the eastern seaboard,None
+8806,sweet cooing monks from the eastern seaboard,None
+8807,sweet cooing monks from the eastern seaboard,None
+8808,sweet cooing monks from the eastern seaboard,None
+8809,sweet cooing monks from the eastern seaboard,None
+8810,so good i forget to breathe,None
+8811,Soundtrack,None
+8812,Soundtrack,None
+8813,rock,None
+8814,rock,None
+8815,rock,None
+8816,rock,None
+8817,pop,None
+8818,pop,None
+8819,pop,None
+8820,pop,None
+8821,80s,None
+8822,indie,None
+8823,indie rock,None
+8824,indie,None
+8825,psychedelic folk,None
+8826,indie pop,None
+8827,ambient,None
+8828,indie,None
+8829,indie,None
+8830,female vocalists,None
+8831,singer-songwriter,None
+8832,indie,None
+8833,Hip-Hop,None
+8834,oldies,None
+8835,oldies,None
+8836,electronic,None
+8837,indie rock,None
+8838,cover,None
+8839,rock,None
+8840,alternative,None
+8841,cover,None
+8842,indie,None
+8843,ambient,None
+8844,indie,None
+8845,female vocalists,None
+8846,indie pop,None
+8847,rock,None
+8848,electronic,None
+8849,synthpop,None
+8850,singer-songwriter,None
+8851,cover,None
+8852,Lo-Fi,None
+8853,electronic,None
+8854,electronic,None
+8855,indie,None
+8856,indie,None
+8857,cover,None
+8858,Soundtrack,None
+8859,indie rock,None
+8860,o,None
+8861,dream pop,None
+8862,dream pop,None
+8863,dream pop,None
+8864,dream pop,None
+8865,dream pop,None
+8866,dream pop,None
+8867,jazz,None
+8868,Soundtrack,None
+8869,singer-songwritergdchill,None
+8870,beautiful,None
+8871,alternative rock,None
+8872,electronic,None
+8873,indie rock,None
+8874,oldies,None
+8875,remix,None
+8876,indie,None
+8877,folk,None
+8878,indie,None
+8879,indie,None
+8880,indie,None
+8881,rock,None
+8882,indie,None
+8883,country,None
+8884,indie pop,None
+8885,indie,None
+8886,Hip-Hop,None
+8887,indie,None
+8888,indie,None
+8889,indie rock,None
+8890,Hip-Hop,None
+8891,classic rock,None
+8892,indie,None
+8893,chillout,None
+8894,singer-songwriter,None
+8895,indie folk,None
+8896,indie,None
+8897,indie,None
+8898,indie,None
+8899,indie,None
+8900,rock,None
+8901,indie,None
+8902,Hip-Hop,None
+8903,80s,None
+8904,Hip-Hop,None
+8905,singer-songwritergdchill,None
+8906,folk,None
+8907,pop,None
+8908,hip hop,None
+8909,WKNC,None
+8910,Hip-Hop,None
+8911,indie,None
+8912,indie,None
+8913,alternative rock,None
+8914,folk,None
+8915,pop,None
+8916,country,None
+8917,pop,None
+8918,electronic,None
+8919,electronic,None
+8920,electronic,None
+8921,electronic,None
+8922,indie rock,None
+8923,Hip-Hop,None
+8924,indie,None
+8925,indie,None
+8926,1Live Fiehe,None
+8927,indie,None
+8928,indie,None
+8929,indie,None
+8930,80s,None
+8931,80s,None
+8932,anti-folk,None
+8933,alternative,None
+8934,instrumental,None
+8935,classic rock,None
+8936,classic rock,None
+8937,classic rock,None
+8938,Soundtrack,None
+8939,indie,None
+8940,indie,None
+8941,indie,None
+8942,rock,None
+8943,cover,None
+8944,chillwave,None
+8945,psychedelic folk,None
+8946,jazz,None
+8947,kbfm,None
+8948,cover,None
+8949,electronic,None
+8950,electronic,None
+8951,indie,None
+8952,folk,None
+8953,covers,None
+8954,indie,None
+8955,indie,None
+8956,rock,None
+8957,indie,None
+8958,indie pop,None
+8959,indie,None
+8960,indie pop,None
+8961,indie folk,None
+8962,folk,None
+8963,folk,None
+8964,indie,None
+8965,electronic,None
+8966,Hip-Hop,None
+8967,folk,None
+8968,folk,None
+8969,70s,None
+8970,indie rock,None
+8971,80s,None
+8972,rock,None
+8973,electronic,None
+8974,jazz,None
+8975,rock,None
+8976,indie rock,None
+8977,indie,None
+8978,alternative,None
+8979,alternative,None
+8980,folk,None
+8981,folk,None
+8982,folk,None
+8983,folk,None
+8984,folk,None
+8985,electronic,None
+8986,indie,None
+8987,80s,None
+8988,electronic,None
+8989,indie,None
+8990,indie,None
+8991,animals,None
+8992,animals,None
+8993,indie,None
+8994,indie,None
+8995,pop,None
+8996,pop,None
+8997,pop,None
+8998,pop,None
+8999,pop,None
+9000,indie,None
+9001,indie,None
+9002,indie,None
+9003,indie,None
+9004,1Live Fiehe,None
+9005,electronic,None
+9006,indie,None
+9007,electronica,None
+9008,electronica,None
+9009,singer-songwriter,None
+9010,singer-songwriter,None
+9011,indie,None
+9012,indie,None
+9013,indie,None
+9014,indie,None
+9015,indie,None
+9016,folk,None
+9017,oldies,None
+9018,oldies,None
+9019,indie rock,None
+9020,indie rock,None
+9021,indie rock,None
+9022,indie rock,None
+9023,indie rock,None
+9024,indie,None
+9025,indie,None
+9026,alternative rock,None
+9027,chill,None
+9028,chill,None
+9029,chill,None
+9030,indie,None
+9031,indie,None
+9032,electronic,None
+9033,electronic,None
+9034,electronic,None
+9035,indie rock,None
+9036,indie rock,None
+9037,indie,None
+9038,indie,None
+9039,indie,None
+9040,indie,None
+9041,indie,None
+9042,indie,None
+9043,indie rock,None
+9044,indie rock,None
+9045,indie,None
+9046,somafm,None
+9047,electronic,None
+9048,electronic,None
+9049,electronic,None
+9050,dream pop,None
+9051,oldies,None
+9052,funk,None
+9053,electro,None
+9054,Hip-Hop,None
+9055,world,None
+9056,indie pop,None
+9057,indie pop,None
+9058,country,None
+9059,female vocalists,None

@@ -1,0 +1,7 @@
+Testing the initial implementation of the HMM
+_BaseHMM(algorithm='viterbi',
+     init_params='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ',
+     n_components=1, n_iter=10,
+     params='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ',
+     random_state=None, startprob_prior=1.0, tol=0.01, transmat_prior=1.0,
+     verbose=False)

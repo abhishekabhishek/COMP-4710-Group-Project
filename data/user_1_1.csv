@@ -1,0 +1,8091 @@
+,genre_sequence,unique_genres
+0,male vocalist,male vocalist
+1,death metal,death metal
+2,death metal,deathgrind
+3,death metal,grindcore
+4,death metal,metal
+5,death metal,goregrind
+6,death metal,metalcore
+7,death metal,punk
+8,deathgrind,experimental
+9,grindcore,mathcore
+10,metal,industrial
+11,goregrind,pop
+12,metalcore,punk rock
+13,death metal,hardcore
+14,goregrind,rap
+15,goregrind,alternative
+16,death metal,water
+17,death metal,industrial metal
+18,goregrind,heavy metal
+19,goregrind,Nu Metal
+20,grindcore,rnb
+21,grindcore,chillwave
+22,grindcore,summer
+23,grindcore,new wave
+24,grindcore,lo-fi as hell
+25,grindcore,music
+26,grindcore,fip
+27,grindcore,creaky
+28,grindcore,epic
+29,grindcore,noise rock
+30,grindcore,noisecore
+31,punk,noise
+32,grindcore,deathcore
+33,grindcore,cancionero
+34,experimental,Hip-Hop
+35,mathcore,Lo-Fi
+36,mathcore,Brutal Death Metal
+37,industrial,indie
+38,industrial,funk
+39,industrial,indie pop
+40,pop,electronic
+41,punk rock,90s
+42,hardcore,Canadian
+43,hardcore,hip hop
+44,rap,orange
+45,rap,Wiz Khalifa
+46,alternative,Progressive rock
+47,alternative,screamo
+48,alternative,dissonant
+49,alternative,horror punk
+50,water,american
+51,alternative,Psychedelia
+52,alternative,chill
+53,alternative,House
+54,alternative,2010s
+55,alternative,pretty damn good
+56,alternative,deep house
+57,alternative,emo
+58,industrial,personal favourites
+59,industrial,synthpop
+60,industrial,instrumental
+61,industrial,party
+62,industrial metal,haunting
+63,industrial,listen to yr body
+64,industrial metal,me too
+65,industrial metal,mamo gdzie moje leki
+66,industrial,chamber pop
+67,industrial,anna of the north
+68,industrial,played
+69,industrial,2017 single
+70,heavy metal,relax
+71,heavy metal,motherfuckin rabbits ejaculating sunshine
+72,Nu Metal,Love
+73,metal,ost
+74,Nu Metal,boys name
+75,Nu Metal,shoegaze
+76,Nu Metal,downtempo
+77,mathcore,lovedbybeyondwithin
+78,metalcore,Roctronik
+79,rnb,postrock
+80,rnb,wirround
+81,rnb,hands
+82,chillwave,neo-psych
+83,chillwave,Neo Soul
+84,chillwave,spacing-out
+85,chillwave,college rock
+86,chillwave,alternative rock
+87,chillwave,nu jazz
+88,chillwave,nu-disco
+89,summer,swedish
+90,chillwave,rock
+91,chillwave,soft
+92,chillwave,a song to listen to in december
+93,summer,Emo Diaries
+94,chillwave,post-rock
+95,chillwave,tlr
+96,chillwave,outer space
+97,new wave,favorites
+98,lo-fi as hell,post-hardcore
+99,experimental,bouncy
+100,music,underground hip-hop
+101,alternative,The Brave Little Toaster
+102,fip,abstract
+103,hardcore,Angular
+104,creaky,perfect
+105,mathcore,luvedtrax
+106,metalcore,washington
+107,mathcore,jazz fusion
+108,mathcore,chillout
+109,grindcore,Anderson paak
+110,mathcore,detroit
+111,metal,psychopathic
+112,mathcore,mix
+113,mathcore,better than my boyfriend
+114,mathcore,seen live
+115,epic,hallucination music
+116,mathcore,pink
+117,mathcore,hip hop tag
+118,mathcore,jay-z
+119,mathcore,4 of 10 stars
+120,grindcore,tribal
+121,Nu Metal,math rock
+122,Nu Metal,edgy
+123,metal,electronica
+124,grindcore,G-funk
+125,noise rock,my fuckin gangsta rap dawg
+126,hardcore,r&b
+127,noisecore,digitalis
+128,noisecore,Die Geilste Band der Welt
+129,noisecore,real post-hardcore
+130,noisecore,2018 single
+131,hardcore,good
+132,hardcore,loved
+133,hardcore,heben wollen
+134,noisecore,ska
+135,metal,Awesome
+136,mathcore,weird
+137,mathcore,life and death
+138,mathcore,indie rock
+139,grindcore,favorite songs
+140,grindcore,shit
+141,grindcore,RB
+142,noise,Soundtrack
+143,mathcore,Hard
+144,mathcore,last fm mistake
+145,grindcore,Neo-Soul
+146,grindcore,inspirational
+147,mathcore,psychedelic pop
+148,Nu Metal,best of 2018
+149,Nu Metal,featuring
+150,metal,Spacedog
+151,Nu Metal,a
+152,Nu Metal,timbaland production
+153,metal,dj premier
+154,deathcore,video game music
+155,noise rock,xlowpunk
+156,grindcore,a subtle use of vocal harmony
+157,grindcore,ambient
+158,cancionero,lyrics
+159,grindcore,FM4
+160,grindcore,hiphop
+161,grindcore,banned
+162,grindcore,Mellow
+163,grindcore,Dance  DJ
+164,grindcore,Rex Orange County
+165,grindcore,chilled
+166,grindcore,Estelle
+167,mathcore,jaden smith
+168,hardcore,TLC Waterfalls
+169,grindcore,Bagel
+170,mathcore,prog rock
+171,grindcore,dance
+172,grindcore,old school
+173,grindcore,classic
+174,Hip-Hop,frogs
+175,Lo-Fi,Why
+176,Lo-Fi,food
+177,fip,wow
+178,Brutal Death Metal,dont play my bassline wrong dickhead
+179,deathcore,My Playlist
+180,deathcore,reggae
+181,deathcore,Rap  Hip-Hop
+182,grindcore,take a look
+183,grindcore,soft music
+184,indie,live
+185,indie,smokey
+186,chillwave,schrockstar
+187,chillwave,Gangsta Rap
+188,chillwave,80s
+189,chillwave,christmas
+190,indie,casiotones
+191,chillwave,japanski kaos predivan
+192,chillwave,groovesalad
+193,funk,soul
+194,chillwave,None
+195,indie pop,None
+196,funk,None
+197,indie,None
+198,alternative,None
+199,alternative,None
+200,alternative,None
+201,alternative,None
+202,alternative,None
+203,alternative,None
+204,alternative,None
+205,alternative,None
+206,alternative,None
+207,alternative,None
+208,alternative,None
+209,alternative,None
+210,alternative,None
+211,electronic,None
+212,90s,None
+213,Canadian,None
+214,Canadian,None
+215,rap,None
+216,death metal,None
+217,experimental,None
+218,grindcore,None
+219,grindcore,None
+220,grindcore,None
+221,hip hop,None
+222,hip hop,None
+223,hip hop,None
+224,rap,None
+225,hip hop,None
+226,orange,None
+227,orange,None
+228,orange,None
+229,Wiz Khalifa,None
+230,Wiz Khalifa,None
+231,Wiz Khalifa,None
+232,Progressive rock,None
+233,Hip-Hop,None
+234,Hip-Hop,None
+235,electronic,None
+236,electronic,None
+237,deathcore,None
+238,grindcore,None
+239,grindcore,None
+240,metalcore,None
+241,hardcore,None
+242,metalcore,None
+243,hardcore,None
+244,hardcore,None
+245,hardcore,None
+246,hardcore,None
+247,hardcore,None
+248,hardcore,None
+249,hardcore,None
+250,hardcore,None
+251,hardcore,None
+252,hardcore,None
+253,hardcore,None
+254,hardcore,None
+255,hardcore,None
+256,hardcore,None
+257,hardcore,None
+258,hardcore,None
+259,hardcore,None
+260,hardcore,None
+261,hardcore,None
+262,Hip-Hop,None
+263,Hip-Hop,None
+264,metalcore,None
+265,metalcore,None
+266,mathcore,None
+267,screamo,None
+268,mathcore,None
+269,experimental,None
+270,grindcore,None
+271,grindcore,None
+272,grindcore,None
+273,grindcore,None
+274,grindcore,None
+275,grindcore,None
+276,grindcore,None
+277,grindcore,None
+278,deathcore,None
+279,deathcore,None
+280,experimental,None
+281,deathcore,None
+282,grindcore,None
+283,metalcore,None
+284,dissonant,None
+285,grindcore,None
+286,hardcore,None
+287,electronic,None
+288,grindcore,None
+289,mathcore,None
+290,deathcore,None
+291,deathcore,None
+292,grindcore,None
+293,deathcore,None
+294,grindcore,None
+295,grindcore,None
+296,grindcore,None
+297,grindcore,None
+298,grindcore,None
+299,grindcore,None
+300,grindcore,None
+301,deathcore,None
+302,deathcore,None
+303,experimental,None
+304,deathcore,None
+305,grindcore,None
+306,metalcore,None
+307,Lo-Fi,None
+308,Lo-Fi,None
+309,indie,None
+310,horror punk,None
+311,horror punk,None
+312,indie,None
+313,alternative,None
+314,alternative,None
+315,Progressive rock,None
+316,metalcore,None
+317,grindcore,None
+318,grindcore,None
+319,grindcore,None
+320,grindcore,None
+321,grindcore,None
+322,grindcore,None
+323,deathcore,None
+324,deathcore,None
+325,experimental,None
+326,deathcore,None
+327,grindcore,None
+328,metalcore,None
+329,metalcore,None
+330,dissonant,None
+331,grindcore,None
+332,hardcore,None
+333,indie,None
+334,funk,None
+335,Hip-Hop,None
+336,electronic,None
+337,hardcore,None
+338,metalcore,None
+339,mathcore,None
+340,hardcore,None
+341,mathcore,None
+342,electronic,None
+343,electronic,None
+344,electronic,None
+345,electronic,None
+346,fip,None
+347,Hip-Hop,None
+348,Hip-Hop,None
+349,indie,None
+350,funk,None
+351,Hip-Hop,None
+352,electronic,None
+353,electronic,None
+354,electronic,None
+355,electronic,None
+356,deathcore,None
+357,grindcore,None
+358,grindcore,None
+359,hardcore,None
+360,hardcore,None
+361,funk,None
+362,rnb,None
+363,rnb,None
+364,punk rock,None
+365,electronic,None
+366,indie,None
+367,Progressive rock,None
+368,Progressive rock,None
+369,alternative,None
+370,indie,None
+371,electronic,None
+372,indie,None
+373,electronic,None
+374,electronic,None
+375,electronic,None
+376,electronic,None
+377,electronic,None
+378,electronic,None
+379,electronic,None
+380,pop,None
+381,american,None
+382,Psychedelia,None
+383,indie,None
+384,electronic,None
+385,indie,None
+386,electronic,None
+387,electronic,None
+388,electronic,None
+389,electronic,None
+390,electronic,None
+391,electronic,None
+392,electronic,None
+393,screamo,None
+394,metalcore,None
+395,metalcore,None
+396,metalcore,None
+397,indie,None
+398,indie,None
+399,rnb,None
+400,rnb,None
+401,electronic,None
+402,chillwave,None
+403,chillwave,None
+404,indie,None
+405,chillwave,None
+406,chillwave,None
+407,funk,None
+408,chillwave,None
+409,chillwave,None
+410,chillwave,None
+411,chillwave,None
+412,chillwave,None
+413,chillwave,None
+414,summer,None
+415,chillwave,None
+416,chillwave,None
+417,chillwave,None
+418,chillwave,None
+419,chillwave,None
+420,chillwave,None
+421,chillwave,None
+422,chillwave,None
+423,chillwave,None
+424,summer,None
+425,chillwave,None
+426,chillwave,None
+427,chillwave,None
+428,chillwave,None
+429,chillwave,None
+430,summer,None
+431,chillwave,None
+432,chillwave,None
+433,chillwave,None
+434,chillwave,None
+435,chill,None
+436,House,None
+437,2010s,None
+438,pretty damn good,None
+439,deep house,None
+440,electronic,None
+441,electronic,None
+442,electronic,None
+443,electronic,None
+444,indie,None
+445,chill,None
+446,indie,None
+447,electronic,None
+448,electronic,None
+449,electronic,None
+450,electronic,None
+451,electronic,None
+452,electronic,None
+453,electronic,None
+454,electronic,None
+455,metal,None
+456,metal,None
+457,heavy metal,None
+458,electronic,None
+459,electronic,None
+460,Progressive rock,None
+461,alternative,None
+462,electronic,None
+463,electronic,None
+464,electronic,None
+465,electronic,None
+466,electronic,None
+467,electronic,None
+468,electronic,None
+469,electronic,None
+470,electronic,None
+471,electronic,None
+472,alternative,None
+473,Lo-Fi,None
+474,Lo-Fi,None
+475,indie,None
+476,indie,None
+477,Lo-Fi,None
+478,Lo-Fi,None
+479,indie,None
+480,indie,None
+481,indie,None
+482,indie,None
+483,emo,None
+484,emo,None
+485,personal favourites,None
+486,indie,None
+487,synthpop,None
+488,emo,None
+489,indie,None
+490,indie,None
+491,indie,None
+492,electronic,None
+493,electronic,None
+494,electronic,None
+495,electronic,None
+496,indie,None
+497,indie,None
+498,indie,None
+499,indie,None
+500,alternative,None
+501,chill,None
+502,chill,None
+503,indie,None
+504,indie,None
+505,indie,None
+506,indie,None
+507,indie,None
+508,indie,None
+509,Lo-Fi,None
+510,Lo-Fi,None
+511,pop,None
+512,indie,None
+513,indie,None
+514,Lo-Fi,None
+515,emo,None
+516,emo,None
+517,emo,None
+518,emo,None
+519,emo,None
+520,emo,None
+521,indie,None
+522,indie,None
+523,indie,None
+524,new wave,None
+525,pop,None
+526,fip,None
+527,alternative,None
+528,alternative,None
+529,alternative,None
+530,alternative,None
+531,alternative,None
+532,alternative,None
+533,alternative,None
+534,alternative,None
+535,alternative,None
+536,alternative,None
+537,alternative,None
+538,alternative,None
+539,instrumental,None
+540,90s,None
+541,90s,None
+542,90s,None
+543,90s,None
+544,90s,None
+545,Progressive rock,None
+546,Progressive rock,None
+547,Progressive rock,None
+548,Progressive rock,None
+549,Progressive rock,None
+550,Hip-Hop,None
+551,Hip-Hop,None
+552,rap,None
+553,rap,None
+554,electronic,None
+555,electronic,None
+556,electronic,None
+557,electronic,None
+558,electronic,None
+559,electronic,None
+560,electronic,None
+561,new wave,None
+562,new wave,None
+563,pop,None
+564,pop,None
+565,alternative,None
+566,instrumental,None
+567,indie,None
+568,indie,None
+569,indie,None
+570,indie,None
+571,indie,None
+572,chill,None
+573,Nu Metal,None
+574,Nu Metal,None
+575,Nu Metal,None
+576,alternative,None
+577,Hip-Hop,None
+578,Hip-Hop,None
+579,Hip-Hop,None
+580,party,None
+581,Hip-Hop,None
+582,90s,None
+583,90s,None
+584,90s,None
+585,90s,None
+586,90s,None
+587,90s,None
+588,90s,None
+589,alternative,None
+590,alternative,None
+591,alternative,None
+592,alternative,None
+593,alternative,None
+594,alternative,None
+595,alternative,None
+596,alternative,None
+597,alternative,None
+598,haunting,None
+599,Lo-Fi,None
+600,indie,None
+601,orange,None
+602,orange,None
+603,electronic,None
+604,electronic,None
+605,electronic,None
+606,indie pop,None
+607,indie,None
+608,listen to yr body,None
+609,indie,None
+610,Progressive rock,None
+611,Progressive rock,None
+612,me too,None
+613,alternative,None
+614,lo-fi as hell,None
+615,noise,None
+616,new wave,None
+617,indie,None
+618,indie,None
+619,indie,None
+620,indie,None
+621,chill,None
+622,synthpop,None
+623,synthpop,None
+624,listen to yr body,None
+625,Lo-Fi,None
+626,electronic,None
+627,synthpop,None
+628,mamo gdzie moje leki,None
+629,indie,None
+630,alternative,None
+631,alternative,None
+632,alternative,None
+633,alternative,None
+634,indie,None
+635,chamber pop,None
+636,electronic,None
+637,alternative,None
+638,electronic,None
+639,fip,None
+640,electronic,None
+641,alternative,None
+642,alternative,None
+643,alternative,None
+644,alternative,None
+645,alternative,None
+646,alternative,None
+647,alternative,None
+648,alternative,None
+649,alternative,None
+650,alternative,None
+651,alternative,None
+652,alternative,None
+653,Progressive rock,None
+654,indie,None
+655,indie,None
+656,indie,None
+657,indie,None
+658,indie,None
+659,indie,None
+660,indie,None
+661,indie,None
+662,new wave,None
+663,indie,None
+664,indie,None
+665,alternative,None
+666,music,None
+667,chill,None
+668,indie,None
+669,new wave,None
+670,Progressive rock,None
+671,Progressive rock,None
+672,Progressive rock,None
+673,Progressive rock,None
+674,metalcore,None
+675,hardcore,None
+676,metalcore,None
+677,metalcore,None
+678,anna of the north,None
+679,rap,None
+680,played,None
+681,rnb,None
+682,fip,None
+683,2017 single,None
+684,Lo-Fi,None
+685,indie,None
+686,indie,None
+687,indie,None
+688,Hip-Hop,None
+689,alternative,None
+690,alternative,None
+691,alternative,None
+692,alternative,None
+693,alternative,None
+694,alternative,None
+695,alternative,None
+696,alternative,None
+697,alternative,None
+698,alternative,None
+699,alternative,None
+700,alternative,None
+701,alternative,None
+702,alternative,None
+703,alternative,None
+704,alternative,None
+705,alternative,None
+706,alternative,None
+707,alternative,None
+708,alternative,None
+709,alternative,None
+710,alternative,None
+711,alternative,None
+712,alternative,None
+713,alternative,None
+714,alternative,None
+715,alternative,None
+716,alternative,None
+717,alternative,None
+718,alternative,None
+719,alternative,None
+720,indie,None
+721,indie,None
+722,electronic,None
+723,emo,None
+724,indie,None
+725,Lo-Fi,None
+726,Lo-Fi,None
+727,indie,None
+728,emo,None
+729,Wiz Khalifa,None
+730,Wiz Khalifa,None
+731,Wiz Khalifa,None
+732,Wiz Khalifa,None
+733,emo,None
+734,instrumental,None
+735,alternative,None
+736,emo,None
+737,emo,None
+738,emo,None
+739,alternative,None
+740,alternative,None
+741,emo,None
+742,alternative,None
+743,electronic,None
+744,electronic,None
+745,electronic,None
+746,electronic,None
+747,electronic,None
+748,electronic,None
+749,electronic,None
+750,electronic,None
+751,electronic,None
+752,electronic,None
+753,electronic,None
+754,electronic,None
+755,electronic,None
+756,electronic,None
+757,electronic,None
+758,electronic,None
+759,electronic,None
+760,electronic,None
+761,electronic,None
+762,electronic,None
+763,orange,None
+764,electronic,None
+765,electronic,None
+766,electronic,None
+767,electronic,None
+768,electronic,None
+769,electronic,None
+770,electronic,None
+771,electronic,None
+772,electronic,None
+773,electronic,None
+774,electronic,None
+775,electronic,None
+776,electronic,None
+777,indie,None
+778,indie,None
+779,indie,None
+780,indie,None
+781,indie,None
+782,relax,None
+783,Lo-Fi,None
+784,Lo-Fi,None
+785,motherfuckin rabbits ejaculating sunshine,None
+786,Hip-Hop,None
+787,hip hop,None
+788,Hip-Hop,None
+789,Hip-Hop,None
+790,fip,None
+791,heavy metal,None
+792,metal,None
+793,Hip-Hop,None
+794,Hip-Hop,None
+795,Lo-Fi,None
+796,Lo-Fi,None
+797,instrumental,None
+798,indie,None
+799,indie,None
+800,Hip-Hop,None
+801,Hip-Hop,None
+802,Hip-Hop,None
+803,Hip-Hop,None
+804,Hip-Hop,None
+805,indie,None
+806,indie,None
+807,alternative,None
+808,motherfuckin rabbits ejaculating sunshine,None
+809,motherfuckin rabbits ejaculating sunshine,None
+810,Lo-Fi,None
+811,indie,None
+812,indie,None
+813,Wiz Khalifa,None
+814,Wiz Khalifa,None
+815,Wiz Khalifa,None
+816,Wiz Khalifa,None
+817,Wiz Khalifa,None
+818,instrumental,None
+819,instrumental,None
+820,indie,None
+821,indie,None
+822,indie,None
+823,Lo-Fi,None
+824,Lo-Fi,None
+825,indie,None
+826,indie,None
+827,indie,None
+828,indie,None
+829,indie,None
+830,indie,None
+831,indie,None
+832,indie,None
+833,indie,None
+834,indie,None
+835,indie,None
+836,indie,None
+837,indie,None
+838,indie,None
+839,indie,None
+840,indie,None
+841,indie,None
+842,indie,None
+843,indie,None
+844,chillwave,None
+845,experimental,None
+846,electronic,None
+847,Lo-Fi,None
+848,Love,None
+849,Lo-Fi,None
+850,Lo-Fi,None
+851,indie,None
+852,Lo-Fi,None
+853,ost,None
+854,boys name,None
+855,Hip-Hop,None
+856,pop,None
+857,new wave,None
+858,lo-fi as hell,None
+859,Lo-Fi,None
+860,Lo-Fi,None
+861,rnb,None
+862,indie,None
+863,Hip-Hop,None
+864,Wiz Khalifa,None
+865,Wiz Khalifa,None
+866,Wiz Khalifa,None
+867,Wiz Khalifa,None
+868,Lo-Fi,None
+869,indie,None
+870,Lo-Fi,None
+871,alternative,None
+872,alternative,None
+873,alternative,None
+874,indie,None
+875,indie,None
+876,indie,None
+877,Lo-Fi,None
+878,Lo-Fi,None
+879,new wave,None
+880,pop,None
+881,new wave,None
+882,pop,None
+883,pop,None
+884,new wave,None
+885,lo-fi as hell,None
+886,experimental,None
+887,new wave,None
+888,new wave,None
+889,lo-fi as hell,None
+890,experimental,None
+891,alternative,None
+892,alternative,None
+893,alternative,None
+894,alternative,None
+895,punk,None
+896,punk,None
+897,punk,None
+898,shoegaze,None
+899,indie,None
+900,indie,None
+901,indie,None
+902,shoegaze,None
+903,hardcore,None
+904,indie,None
+905,indie,None
+906,indie,None
+907,indie,None
+908,indie,None
+909,indie,None
+910,indie,None
+911,indie,None
+912,noisecore,None
+913,experimental,None
+914,hardcore,None
+915,hardcore,None
+916,indie,None
+917,indie,None
+918,indie,None
+919,experimental,None
+920,experimental,None
+921,electronic,None
+922,indie,None
+923,electronic,None
+924,indie,None
+925,electronic,None
+926,electronic,None
+927,electronic,None
+928,downtempo,None
+929,lovedbybeyondwithin,None
+930,ost,None
+931,boys name,None
+932,electronic,None
+933,electronic,None
+934,electronic,None
+935,Lo-Fi,None
+936,chill,None
+937,Love,None
+938,indie,None
+939,indie,None
+940,indie,None
+941,indie,None
+942,indie,None
+943,indie,None
+944,indie,None
+945,indie,None
+946,indie,None
+947,indie,None
+948,indie,None
+949,indie,None
+950,indie,None
+951,indie,None
+952,indie,None
+953,indie,None
+954,indie,None
+955,indie,None
+956,indie,None
+957,indie,None
+958,Roctronik,None
+959,shoegaze,None
+960,motherfuckin rabbits ejaculating sunshine,None
+961,indie,None
+962,indie,None
+963,indie,None
+964,indie,None
+965,indie,None
+966,indie,None
+967,indie,None
+968,indie,None
+969,emo,None
+970,postrock,None
+971,wirround,None
+972,hands,None
+973,emo,None
+974,Roctronik,None
+975,wirround,None
+976,emo,None
+977,hip hop,None
+978,Hip-Hop,None
+979,alternative,None
+980,alternative,None
+981,neo-psych,None
+982,hip hop,None
+983,hip hop,None
+984,hip hop,None
+985,electronic,None
+986,electronic,None
+987,electronic,None
+988,electronic,None
+989,electronic,None
+990,indie,None
+991,indie,None
+992,indie,None
+993,indie,None
+994,indie,None
+995,indie,None
+996,indie,None
+997,indie,None
+998,indie,None
+999,indie,None
+1000,indie,None
+1001,indie,None
+1002,Neo Soul,None
+1003,hip hop,None
+1004,hip hop,None
+1005,hip hop,None
+1006,indie,None
+1007,indie,None
+1008,indie,None
+1009,Hip-Hop,None
+1010,hip hop,None
+1011,Hip-Hop,None
+1012,Hip-Hop,None
+1013,Hip-Hop,None
+1014,rap,None
+1015,Wiz Khalifa,None
+1016,Wiz Khalifa,None
+1017,Wiz Khalifa,None
+1018,Wiz Khalifa,None
+1019,punk,None
+1020,alternative,None
+1021,funk,None
+1022,funk,None
+1023,funk,None
+1024,emo,None
+1025,emo,None
+1026,emo,None
+1027,Hip-Hop,None
+1028,Hip-Hop,None
+1029,hip hop,None
+1030,electronic,None
+1031,electronic,None
+1032,electronic,None
+1033,electronic,None
+1034,indie,None
+1035,indie,None
+1036,indie,None
+1037,Lo-Fi,None
+1038,Lo-Fi,None
+1039,Lo-Fi,None
+1040,Lo-Fi,None
+1041,spacing-out,None
+1042,Lo-Fi,None
+1043,Lo-Fi,None
+1044,Lo-Fi,None
+1045,Lo-Fi,None
+1046,Lo-Fi,None
+1047,experimental,None
+1048,Lo-Fi,None
+1049,Lo-Fi,None
+1050,indie,None
+1051,indie,None
+1052,indie,None
+1053,indie,None
+1054,Lo-Fi,None
+1055,indie,None
+1056,Lo-Fi,None
+1057,Lo-Fi,None
+1058,rnb,None
+1059,alternative,None
+1060,college rock,None
+1061,alternative rock,None
+1062,alternative rock,None
+1063,Wiz Khalifa,None
+1064,Wiz Khalifa,None
+1065,Wiz Khalifa,None
+1066,alternative,None
+1067,alternative,None
+1068,alternative,None
+1069,alternative,None
+1070,alternative,None
+1071,alternative,None
+1072,alternative,None
+1073,alternative,None
+1074,alternative,None
+1075,alternative,None
+1076,chill,None
+1077,Love,None
+1078,pop,None
+1079,chill,None
+1080,Love,None
+1081,chill,None
+1082,Love,None
+1083,indie,None
+1084,instrumental,None
+1085,indie,None
+1086,indie,None
+1087,indie,None
+1088,indie,None
+1089,indie,None
+1090,indie,None
+1091,alternative,None
+1092,alternative,None
+1093,fip,None
+1094,emo,None
+1095,alternative,None
+1096,alternative,None
+1097,alternative,None
+1098,alternative,None
+1099,alternative,None
+1100,alternative,None
+1101,alternative,None
+1102,alternative,None
+1103,alternative,None
+1104,alternative,None
+1105,alternative,None
+1106,alternative,None
+1107,Hip-Hop,None
+1108,Hip-Hop,None
+1109,Hip-Hop,None
+1110,death metal,None
+1111,death metal,None
+1112,death metal,None
+1113,death metal,None
+1114,death metal,None
+1115,death metal,None
+1116,death metal,None
+1117,death metal,None
+1118,death metal,None
+1119,indie,None
+1120,indie,None
+1121,emo,None
+1122,indie,None
+1123,indie,None
+1124,alternative,None
+1125,Hip-Hop,None
+1126,Hip-Hop,None
+1127,downtempo,None
+1128,nu jazz,None
+1129,nu-disco,None
+1130,nu jazz,None
+1131,downtempo,None
+1132,nu-disco,None
+1133,downtempo,None
+1134,downtempo,None
+1135,downtempo,None
+1136,downtempo,None
+1137,emo,None
+1138,swedish,None
+1139,emo,None
+1140,alternative,None
+1141,emo,None
+1142,alternative,None
+1143,emo,None
+1144,emo,None
+1145,rock,None
+1146,soft,None
+1147,Love,None
+1148,indie,None
+1149,a song to listen to in december,None
+1150,Emo Diaries,None
+1151,indie,None
+1152,indie,None
+1153,indie,None
+1154,indie,None
+1155,indie,None
+1156,rnb,None
+1157,rnb,None
+1158,rnb,None
+1159,rnb,None
+1160,hip hop,None
+1161,rock,None
+1162,alternative rock,None
+1163,alternative rock,None
+1164,emo,None
+1165,Lo-Fi,None
+1166,Lo-Fi,None
+1167,Lo-Fi,None
+1168,indie,None
+1169,emo,None
+1170,hands,None
+1171,rock,None
+1172,Roctronik,None
+1173,wirround,None
+1174,Lo-Fi,None
+1175,Lo-Fi,None
+1176,instrumental,None
+1177,indie,None
+1178,indie,None
+1179,Lo-Fi,None
+1180,indie,None
+1181,rock,None
+1182,indie,None
+1183,experimental,None
+1184,indie,None
+1185,post-rock,None
+1186,tlr,None
+1187,outer space,None
+1188,emo,None
+1189,emo,None
+1190,indie,None
+1191,indie,None
+1192,indie,None
+1193,metalcore,None
+1194,alternative rock,None
+1195,favorites,None
+1196,metalcore,None
+1197,rock,None
+1198,rock,None
+1199,metalcore,None
+1200,post-hardcore,None
+1201,metal,None
+1202,hip hop,None
+1203,Hip-Hop,None
+1204,hip hop,None
+1205,Hip-Hop,None
+1206,rap,None
+1207,hip hop,None
+1208,hip hop,None
+1209,Hip-Hop,None
+1210,Hip-Hop,None
+1211,hip hop,None
+1212,Hip-Hop,None
+1213,Hip-Hop,None
+1214,Hip-Hop,None
+1215,Hip-Hop,None
+1216,Wiz Khalifa,None
+1217,Wiz Khalifa,None
+1218,Wiz Khalifa,None
+1219,Wiz Khalifa,None
+1220,downtempo,None
+1221,downtempo,None
+1222,electronic,None
+1223,downtempo,None
+1224,electronic,None
+1225,downtempo,None
+1226,electronic,None
+1227,electronic,None
+1228,bouncy,None
+1229,downtempo,None
+1230,electronic,None
+1231,electronic,None
+1232,downtempo,None
+1233,downtempo,None
+1234,instrumental,None
+1235,fip,None
+1236,Wiz Khalifa,None
+1237,Wiz Khalifa,None
+1238,Wiz Khalifa,None
+1239,Hip-Hop,None
+1240,played,None
+1241,Hip-Hop,None
+1242,instrumental,None
+1243,underground hip-hop,None
+1244,The Brave Little Toaster,None
+1245,electronic,None
+1246,hip hop,None
+1247,abstract,None
+1248,Angular,None
+1249,perfect,None
+1250,luvedtrax,None
+1251,luvedtrax,None
+1252,instrumental,None
+1253,fip,None
+1254,washington,None
+1255,indie,None
+1256,indie,None
+1257,indie,None
+1258,indie,None
+1259,indie,None
+1260,indie,None
+1261,indie,None
+1262,indie,None
+1263,indie,None
+1264,Hip-Hop,None
+1265,Hip-Hop,None
+1266,Wiz Khalifa,None
+1267,Wiz Khalifa,None
+1268,Wiz Khalifa,None
+1269,Wiz Khalifa,None
+1270,Wiz Khalifa,None
+1271,Wiz Khalifa,None
+1272,post-hardcore,None
+1273,post-hardcore,None
+1274,post-hardcore,None
+1275,post-hardcore,None
+1276,pop,None
+1277,epic,None
+1278,metal,None
+1279,death metal,None
+1280,death metal,None
+1281,death metal,None
+1282,death metal,None
+1283,metal,None
+1284,metal,None
+1285,death metal,None
+1286,death metal,None
+1287,death metal,None
+1288,death metal,None
+1289,death metal,None
+1290,death metal,None
+1291,Hip-Hop,None
+1292,motherfuckin rabbits ejaculating sunshine,None
+1293,indie,None
+1294,funk,None
+1295,funk,None
+1296,Hip-Hop,None
+1297,Lo-Fi,None
+1298,indie,None
+1299,experimental,None
+1300,indie,None
+1301,indie,None
+1302,indie,None
+1303,indie,None
+1304,indie,None
+1305,indie,None
+1306,indie,None
+1307,experimental,None
+1308,hip hop,None
+1309,indie,None
+1310,indie,None
+1311,chill,None
+1312,Hip-Hop,None
+1313,metalcore,None
+1314,metalcore,None
+1315,hardcore,None
+1316,metalcore,None
+1317,hardcore,None
+1318,metalcore,None
+1319,electronic,None
+1320,jazz fusion,None
+1321,Hip-Hop,None
+1322,electronic,None
+1323,Hip-Hop,None
+1324,Hip-Hop,None
+1325,Progressive rock,None
+1326,Hip-Hop,None
+1327,Wiz Khalifa,None
+1328,Wiz Khalifa,None
+1329,Wiz Khalifa,None
+1330,Wiz Khalifa,None
+1331,Wiz Khalifa,None
+1332,Wiz Khalifa,None
+1333,Wiz Khalifa,None
+1334,Hip-Hop,None
+1335,Hip-Hop,None
+1336,fip,None
+1337,alternative,None
+1338,Lo-Fi,None
+1339,Lo-Fi,None
+1340,indie,None
+1341,Lo-Fi,None
+1342,Hip-Hop,None
+1343,Hip-Hop,None
+1344,Hip-Hop,None
+1345,Hip-Hop,None
+1346,rap,None
+1347,Hip-Hop,None
+1348,alternative rock,None
+1349,alternative rock,None
+1350,funk,None
+1351,jazz fusion,None
+1352,Lo-Fi,None
+1353,indie,None
+1354,indie,None
+1355,indie,None
+1356,Lo-Fi,None
+1357,instrumental,None
+1358,indie,None
+1359,indie,None
+1360,Lo-Fi,None
+1361,rock,None
+1362,rock,None
+1363,punk,None
+1364,emo,None
+1365,chillout,None
+1366,chillout,None
+1367,downtempo,None
+1368,electronic,None
+1369,chillout,None
+1370,electronic,None
+1371,rnb,None
+1372,Hip-Hop,None
+1373,chill,None
+1374,Hip-Hop,None
+1375,hip hop,None
+1376,Hip-Hop,None
+1377,punk,None
+1378,experimental,None
+1379,emo,None
+1380,emo,None
+1381,emo,None
+1382,emo,None
+1383,chill,None
+1384,Wiz Khalifa,None
+1385,Wiz Khalifa,None
+1386,funk,None
+1387,funk,None
+1388,pop,None
+1389,funk,None
+1390,funk,None
+1391,funk,None
+1392,pop,None
+1393,funk,None
+1394,funk,None
+1395,funk,None
+1396,pop,None
+1397,pop,None
+1398,pop,None
+1399,funk,None
+1400,alternative rock,None
+1401,alternative rock,None
+1402,funk,None
+1403,alternative rock,None
+1404,rock,None
+1405,indie,None
+1406,alternative rock,None
+1407,alternative rock,None
+1408,Hip-Hop,None
+1409,Hip-Hop,None
+1410,Hip-Hop,None
+1411,Hip-Hop,None
+1412,chillout,None
+1413,chillout,None
+1414,chill,None
+1415,chill,None
+1416,chillout,None
+1417,rock,None
+1418,relax,None
+1419,male vocalist,None
+1420,chillout,None
+1421,chill,None
+1422,pop,None
+1423,chill,None
+1424,Love,None
+1425,chillout,None
+1426,chill,None
+1427,chill,None
+1428,rock,None
+1429,chillout,None
+1430,chill,None
+1431,Love,None
+1432,chillout,None
+1433,Love,None
+1434,pop,None
+1435,Lo-Fi,None
+1436,indie,None
+1437,instrumental,None
+1438,Lo-Fi,None
+1439,Canadian,None
+1440,hardcore,None
+1441,hardcore,None
+1442,hardcore,None
+1443,hardcore,None
+1444,hardcore,None
+1445,hardcore,None
+1446,experimental,None
+1447,Hip-Hop,None
+1448,Progressive rock,None
+1449,Progressive rock,None
+1450,Progressive rock,None
+1451,Progressive rock,None
+1452,Progressive rock,None
+1453,Progressive rock,None
+1454,Progressive rock,None
+1455,Progressive rock,None
+1456,pop,None
+1457,Anderson paak,None
+1458,Anderson paak,None
+1459,Hip-Hop,None
+1460,rnb,None
+1461,rnb,None
+1462,rnb,None
+1463,rnb,None
+1464,indie,None
+1465,indie,None
+1466,electronic,None
+1467,electronic,None
+1468,alternative rock,None
+1469,Wiz Khalifa,None
+1470,favorites,None
+1471,funk,None
+1472,Hip-Hop,None
+1473,Hip-Hop,None
+1474,Hip-Hop,None
+1475,electronic,None
+1476,Wiz Khalifa,None
+1477,Hip-Hop,None
+1478,Wiz Khalifa,None
+1479,Hip-Hop,None
+1480,Hip-Hop,None
+1481,Wiz Khalifa,None
+1482,Wiz Khalifa,None
+1483,Wiz Khalifa,None
+1484,Wiz Khalifa,None
+1485,Wiz Khalifa,None
+1486,Wiz Khalifa,None
+1487,rock,None
+1488,grindcore,None
+1489,grindcore,None
+1490,grindcore,None
+1491,grindcore,None
+1492,grindcore,None
+1493,grindcore,None
+1494,detroit,None
+1495,detroit,None
+1496,detroit,None
+1497,psychopathic,None
+1498,indie,None
+1499,indie,None
+1500,Lo-Fi,None
+1501,mix,None
+1502,better than my boyfriend,None
+1503,seen live,None
+1504,noise rock,None
+1505,noise,None
+1506,hallucination music,None
+1507,pink,None
+1508,Lo-Fi,None
+1509,Lo-Fi,None
+1510,Lo-Fi,None
+1511,Lo-Fi,None
+1512,instrumental,None
+1513,indie,None
+1514,Lo-Fi,None
+1515,personal favourites,None
+1516,personal favourites,None
+1517,Wiz Khalifa,None
+1518,Wiz Khalifa,None
+1519,Wiz Khalifa,None
+1520,Wiz Khalifa,None
+1521,Hip-Hop,None
+1522,Wiz Khalifa,None
+1523,Wiz Khalifa,None
+1524,Hip-Hop,None
+1525,rap,None
+1526,Hip-Hop,None
+1527,hip hop tag,None
+1528,Hip-Hop,None
+1529,Hip-Hop,None
+1530,rap,None
+1531,Hip-Hop,None
+1532,underground hip-hop,None
+1533,Wiz Khalifa,None
+1534,hip hop,None
+1535,Wiz Khalifa,None
+1536,rap,None
+1537,hardcore,None
+1538,hardcore,None
+1539,hardcore,None
+1540,hardcore,None
+1541,hardcore,None
+1542,post-hardcore,None
+1543,noise rock,None
+1544,post-hardcore,None
+1545,indie,None
+1546,post-hardcore,None
+1547,instrumental,None
+1548,experimental,None
+1549,instrumental,None
+1550,instrumental,None
+1551,experimental,None
+1552,instrumental,None
+1553,hip hop,None
+1554,jay-z,None
+1555,rap,None
+1556,jay-z,None
+1557,Hip-Hop,None
+1558,Hip-Hop,None
+1559,Hip-Hop,None
+1560,Hip-Hop,None
+1561,Lo-Fi,None
+1562,instrumental,None
+1563,indie,None
+1564,metal,None
+1565,metal,None
+1566,metal,None
+1567,alternative,None
+1568,alternative,None
+1569,alternative,None
+1570,alternative,None
+1571,alternative,None
+1572,personal favourites,None
+1573,personal favourites,None
+1574,psychopathic,None
+1575,psychopathic,None
+1576,psychopathic,None
+1577,4 of 10 stars,None
+1578,4 of 10 stars,None
+1579,chillout,None
+1580,chillout,None
+1581,chillout,None
+1582,tribal,None
+1583,electronic,None
+1584,chillout,None
+1585,rap,None
+1586,Hip-Hop,None
+1587,Hip-Hop,None
+1588,Hip-Hop,None
+1589,Hip-Hop,None
+1590,Hip-Hop,None
+1591,Hip-Hop,None
+1592,Hip-Hop,None
+1593,Hip-Hop,None
+1594,Hip-Hop,None
+1595,hip hop,None
+1596,Hip-Hop,None
+1597,Wiz Khalifa,None
+1598,Wiz Khalifa,None
+1599,rap,None
+1600,Wiz Khalifa,None
+1601,Wiz Khalifa,None
+1602,grindcore,None
+1603,rnb,None
+1604,rnb,None
+1605,electronic,None
+1606,electronic,None
+1607,Hip-Hop,None
+1608,hip hop,None
+1609,punk rock,None
+1610,fip,None
+1611,alternative,None
+1612,alternative,None
+1613,alternative,None
+1614,alternative,None
+1615,alternative,None
+1616,alternative,None
+1617,alternative,None
+1618,alternative,None
+1619,alternative,None
+1620,Lo-Fi,None
+1621,math rock,None
+1622,instrumental,None
+1623,rap,None
+1624,rap,None
+1625,rap,None
+1626,Hip-Hop,None
+1627,Hip-Hop,None
+1628,Hip-Hop,None
+1629,anna of the north,None
+1630,rap,None
+1631,rap,None
+1632,indie,None
+1633,electronic,None
+1634,indie,None
+1635,emo,None
+1636,emo,None
+1637,Wiz Khalifa,None
+1638,Wiz Khalifa,None
+1639,Wiz Khalifa,None
+1640,lo-fi as hell,None
+1641,indie,None
+1642,indie,None
+1643,Hip-Hop,None
+1644,Hip-Hop,None
+1645,rap,None
+1646,indie,None
+1647,rock,None
+1648,rock,None
+1649,water,None
+1650,alternative,None
+1651,alternative,None
+1652,alternative,None
+1653,alternative,None
+1654,alternative,None
+1655,alternative,None
+1656,alternative,None
+1657,Anderson paak,None
+1658,Anderson paak,None
+1659,rnb,None
+1660,Anderson paak,None
+1661,Anderson paak,None
+1662,Anderson paak,None
+1663,Anderson paak,None
+1664,Anderson paak,None
+1665,funk,None
+1666,Anderson paak,None
+1667,Anderson paak,None
+1668,Anderson paak,None
+1669,funk,None
+1670,Anderson paak,None
+1671,Anderson paak,None
+1672,Anderson paak,None
+1673,Anderson paak,None
+1674,Anderson paak,None
+1675,Anderson paak,None
+1676,funk,None
+1677,funk,None
+1678,Hip-Hop,None
+1679,detroit,None
+1680,post-hardcore,None
+1681,alternative,None
+1682,rnb,None
+1683,rnb,None
+1684,funk,None
+1685,funk,None
+1686,funk,None
+1687,rock,None
+1688,rock,None
+1689,rock,None
+1690,pop,None
+1691,funk,None
+1692,Wiz Khalifa,None
+1693,Wiz Khalifa,None
+1694,Wiz Khalifa,None
+1695,rap,None
+1696,Wiz Khalifa,None
+1697,Wiz Khalifa,None
+1698,Wiz Khalifa,None
+1699,Wiz Khalifa,None
+1700,Wiz Khalifa,None
+1701,Wiz Khalifa,None
+1702,Wiz Khalifa,None
+1703,rap,None
+1704,Wiz Khalifa,None
+1705,Wiz Khalifa,None
+1706,alternative,None
+1707,alternative,None
+1708,alternative,None
+1709,alternative,None
+1710,alternative,None
+1711,alternative,None
+1712,punk rock,None
+1713,emo,None
+1714,Progressive rock,None
+1715,edgy,None
+1716,rap,None
+1717,rap,None
+1718,indie,None
+1719,emo,None
+1720,indie,None
+1721,90s,None
+1722,90s,None
+1723,pop,None
+1724,pop,None
+1725,Hip-Hop,None
+1726,post-hardcore,None
+1727,Hip-Hop,None
+1728,electronic,None
+1729,electronic,None
+1730,electronic,None
+1731,indie,None
+1732,Hip-Hop,None
+1733,Hip-Hop,None
+1734,90s,None
+1735,rock,None
+1736,rock,None
+1737,chill,None
+1738,indie,None
+1739,shoegaze,None
+1740,rock,None
+1741,rock,None
+1742,indie,None
+1743,Lo-Fi,None
+1744,rock,None
+1745,rock,None
+1746,90s,None
+1747,Hip-Hop,None
+1748,hip hop,None
+1749,rap,None
+1750,hip hop,None
+1751,hip hop,None
+1752,rap,None
+1753,electronica,None
+1754,electronica,None
+1755,pop,None
+1756,instrumental,None
+1757,alternative,None
+1758,alternative,None
+1759,alternative,None
+1760,alternative,None
+1761,alternative,None
+1762,electronic,None
+1763,funk,None
+1764,seen live,None
+1765,Hip-Hop,None
+1766,post-hardcore,None
+1767,post-hardcore,None
+1768,new wave,None
+1769,Lo-Fi,None
+1770,Lo-Fi,None
+1771,experimental,None
+1772,Lo-Fi,None
+1773,Lo-Fi,None
+1774,experimental,None
+1775,indie,None
+1776,Lo-Fi,None
+1777,Lo-Fi,None
+1778,Lo-Fi,None
+1779,Lo-Fi,None
+1780,Lo-Fi,None
+1781,Lo-Fi,None
+1782,Lo-Fi,None
+1783,party,None
+1784,G-funk,None
+1785,G-funk,None
+1786,G-funk,None
+1787,rap,None
+1788,party,None
+1789,G-funk,None
+1790,my fuckin gangsta rap dawg,None
+1791,rap,None
+1792,Hip-Hop,None
+1793,rap,None
+1794,alternative rock,None
+1795,r&b,None
+1796,jazz fusion,None
+1797,jazz fusion,None
+1798,jazz fusion,None
+1799,jazz fusion,None
+1800,jazz fusion,None
+1801,electronic,None
+1802,jazz fusion,None
+1803,jazz fusion,None
+1804,motherfuckin rabbits ejaculating sunshine,None
+1805,Lo-Fi,None
+1806,Lo-Fi,None
+1807,indie,None
+1808,indie,None
+1809,noise rock,None
+1810,noise,None
+1811,hallucination music,None
+1812,pink,None
+1813,Lo-Fi,None
+1814,Lo-Fi,None
+1815,Lo-Fi,None
+1816,metal,None
+1817,rock,None
+1818,rock,None
+1819,rock,None
+1820,electronic,None
+1821,electronic,None
+1822,electronic,None
+1823,motherfuckin rabbits ejaculating sunshine,None
+1824,motherfuckin rabbits ejaculating sunshine,None
+1825,Lo-Fi,None
+1826,Lo-Fi,None
+1827,instrumental,None
+1828,indie,None
+1829,indie,None
+1830,indie,None
+1831,indie,None
+1832,chill,None
+1833,digitalis,None
+1834,deathcore,None
+1835,rock,None
+1836,rock,None
+1837,heavy metal,None
+1838,rock,None
+1839,indie,None
+1840,post-hardcore,None
+1841,rock,None
+1842,punk,None
+1843,alternative,None
+1844,alternative,None
+1845,indie,None
+1846,rock,None
+1847,rock,None
+1848,rock,None
+1849,rock,None
+1850,rock,None
+1851,rock,None
+1852,rock,None
+1853,indie,None
+1854,indie,None
+1855,indie,None
+1856,rock,None
+1857,Hip-Hop,None
+1858,Hip-Hop,None
+1859,Hip-Hop,None
+1860,Die Geilste Band der Welt,None
+1861,noise,None
+1862,noise,None
+1863,noisecore,None
+1864,metalcore,None
+1865,hardcore,None
+1866,post-hardcore,None
+1867,experimental,None
+1868,punk,None
+1869,experimental,None
+1870,experimental,None
+1871,post-hardcore,None
+1872,noise,None
+1873,experimental,None
+1874,real post-hardcore,None
+1875,industrial,None
+1876,industrial,None
+1877,industrial,None
+1878,boys name,None
+1879,2018 single,None
+1880,Lo-Fi,None
+1881,Progressive rock,None
+1882,Progressive rock,None
+1883,Progressive rock,None
+1884,Progressive rock,None
+1885,indie,None
+1886,indie,None
+1887,indie,None
+1888,indie,None
+1889,punk,None
+1890,punk,None
+1891,punk,None
+1892,punk,None
+1893,Hip-Hop,None
+1894,hip hop,None
+1895,hip hop,None
+1896,Hip-Hop,None
+1897,hip hop,None
+1898,Hip-Hop,None
+1899,Wiz Khalifa,None
+1900,Wiz Khalifa,None
+1901,Wiz Khalifa,None
+1902,Wiz Khalifa,None
+1903,rap,None
+1904,Wiz Khalifa,None
+1905,Wiz Khalifa,None
+1906,post-hardcore,None
+1907,post-hardcore,None
+1908,post-hardcore,None
+1909,indie,None
+1910,alternative,None
+1911,alternative,None
+1912,alternative,None
+1913,experimental,None
+1914,experimental,None
+1915,experimental,None
+1916,experimental,None
+1917,experimental,None
+1918,indie,None
+1919,Lo-Fi,None
+1920,instrumental,None
+1921,indie,None
+1922,Lo-Fi,None
+1923,indie,None
+1924,indie,None
+1925,good,None
+1926,punk rock,None
+1927,punk rock,None
+1928,alternative rock,None
+1929,post-hardcore,None
+1930,indie,None
+1931,indie,None
+1932,indie,None
+1933,motherfuckin rabbits ejaculating sunshine,None
+1934,Lo-Fi,None
+1935,chillout,None
+1936,chillout,None
+1937,electronic,None
+1938,nu jazz,None
+1939,electronic,None
+1940,electronic,None
+1941,electronic,None
+1942,electronic,None
+1943,electronic,None
+1944,electronic,None
+1945,chillout,None
+1946,instrumental,None
+1947,instrumental,None
+1948,downtempo,None
+1949,metal,None
+1950,metal,None
+1951,Nu Metal,None
+1952,Nu Metal,None
+1953,Nu Metal,None
+1954,Nu Metal,None
+1955,Nu Metal,None
+1956,Nu Metal,None
+1957,metal,None
+1958,Nu Metal,None
+1959,Nu Metal,None
+1960,metal,None
+1961,metal,None
+1962,pop,None
+1963,pop,None
+1964,Progressive rock,None
+1965,Progressive rock,None
+1966,Wiz Khalifa,None
+1967,Wiz Khalifa,None
+1968,alternative,None
+1969,alternative,None
+1970,alternative,None
+1971,alternative,None
+1972,post-hardcore,None
+1973,indie,None
+1974,indie,None
+1975,rap,None
+1976,emo,None
+1977,noise,None
+1978,pop,None
+1979,lo-fi as hell,None
+1980,lo-fi as hell,None
+1981,lo-fi as hell,None
+1982,fip,None
+1983,alternative,None
+1984,alternative,None
+1985,indie,None
+1986,indie,None
+1987,indie,None
+1988,electronic,None
+1989,electronic,None
+1990,rock,None
+1991,rock,None
+1992,rock,None
+1993,rock,None
+1994,rock,None
+1995,rock,None
+1996,rock,None
+1997,rock,None
+1998,rock,None
+1999,seen live,None
+2000,punk,None
+2001,punk,None
+2002,Hip-Hop,None
+2003,rap,None
+2004,hip hop,None
+2005,Hip-Hop,None
+2006,Wiz Khalifa,None
+2007,Wiz Khalifa,None
+2008,Wiz Khalifa,None
+2009,Wiz Khalifa,None
+2010,Wiz Khalifa,None
+2011,Lo-Fi,None
+2012,indie,None
+2013,alternative,None
+2014,neo-psych,None
+2015,personal favourites,None
+2016,indie,None
+2017,seen live,None
+2018,indie,None
+2019,emo,None
+2020,emo,None
+2021,emo,None
+2022,indie,None
+2023,chill,None
+2024,chill,None
+2025,punk,None
+2026,chill,None
+2027,chill,None
+2028,emo,None
+2029,emo,None
+2030,emo,None
+2031,Hip-Hop,None
+2032,indie,None
+2033,indie,None
+2034,personal favourites,None
+2035,Lo-Fi,None
+2036,alternative,None
+2037,alternative,None
+2038,alternative,None
+2039,alternative rock,None
+2040,Progressive rock,None
+2041,experimental,None
+2042,noise,None
+2043,fip,None
+2044,punk rock,None
+2045,metalcore,None
+2046,hip hop,None
+2047,chill,None
+2048,Hip-Hop,None
+2049,death metal,None
+2050,death metal,None
+2051,death metal,None
+2052,death metal,None
+2053,death metal,None
+2054,death metal,None
+2055,death metal,None
+2056,death metal,None
+2057,deathcore,None
+2058,grindcore,None
+2059,Wiz Khalifa,None
+2060,Wiz Khalifa,None
+2061,indie,None
+2062,indie,None
+2063,indie,None
+2064,indie,None
+2065,indie,None
+2066,indie,None
+2067,indie,None
+2068,90s,None
+2069,90s,None
+2070,experimental,None
+2071,experimental,None
+2072,experimental,None
+2073,post-hardcore,None
+2074,screamo,None
+2075,post-hardcore,None
+2076,screamo,None
+2077,post-hardcore,None
+2078,screamo,None
+2079,post-hardcore,None
+2080,electronic,None
+2081,electronic,None
+2082,alternative,None
+2083,rap,None
+2084,Hip-Hop,None
+2085,indie,None
+2086,indie,None
+2087,indie,None
+2088,alternative,None
+2089,punk rock,None
+2090,loved,None
+2091,rock,None
+2092,Hip-Hop,None
+2093,electronic,None
+2094,shoegaze,None
+2095,chillout,None
+2096,indie,None
+2097,shoegaze,None
+2098,chillout,None
+2099,shoegaze,None
+2100,chillout,None
+2101,chillout,None
+2102,indie,None
+2103,indie,None
+2104,favorites,None
+2105,electronic,None
+2106,electronic,None
+2107,chillout,None
+2108,chill,None
+2109,chill,None
+2110,electronic,None
+2111,electronic,None
+2112,deathcore,None
+2113,hardcore,None
+2114,indie,None
+2115,indie,None
+2116,indie,None
+2117,indie,None
+2118,indie,None
+2119,indie,None
+2120,indie,None
+2121,indie,None
+2122,indie,None
+2123,indie,None
+2124,indie,None
+2125,chill,None
+2126,indie,None
+2127,indie,None
+2128,indie,None
+2129,indie,None
+2130,indie,None
+2131,indie,None
+2132,electronic,None
+2133,electronic,None
+2134,electronic,None
+2135,electronic,None
+2136,electronic,None
+2137,electronic,None
+2138,electronic,None
+2139,electronic,None
+2140,electronic,None
+2141,electronic,None
+2142,electronic,None
+2143,electronic,None
+2144,electronic,None
+2145,electronic,None
+2146,electronic,None
+2147,electronic,None
+2148,electronic,None
+2149,electronic,None
+2150,electronic,None
+2151,electronic,None
+2152,electronic,None
+2153,electronic,None
+2154,chillout,None
+2155,electronica,None
+2156,electronic,None
+2157,electronic,None
+2158,Lo-Fi,None
+2159,Lo-Fi,None
+2160,instrumental,None
+2161,indie,None
+2162,indie,None
+2163,experimental,None
+2164,experimental,None
+2165,Lo-Fi,None
+2166,indie,None
+2167,rock,None
+2168,indie,None
+2169,experimental,None
+2170,music,None
+2171,Lo-Fi,None
+2172,Lo-Fi,None
+2173,fip,None
+2174,2017 single,None
+2175,alternative,None
+2176,neo-psych,None
+2177,electronic,None
+2178,Lo-Fi,None
+2179,Love,None
+2180,heben wollen,None
+2181,chill,None
+2182,instrumental,None
+2183,instrumental,None
+2184,chillout,None
+2185,chill,None
+2186,chill,None
+2187,mathcore,None
+2188,grindcore,None
+2189,grindcore,None
+2190,grindcore,None
+2191,noise,None
+2192,mathcore,None
+2193,mathcore,None
+2194,grindcore,None
+2195,grindcore,None
+2196,mathcore,None
+2197,electronic,None
+2198,electronic,None
+2199,chillout,None
+2200,electronic,None
+2201,chillout,None
+2202,electronic,None
+2203,chillout,None
+2204,Progressive rock,None
+2205,heben wollen,None
+2206,chill,None
+2207,instrumental,None
+2208,chillout,None
+2209,chill,None
+2210,chill,None
+2211,rap,None
+2212,post-hardcore,None
+2213,post-hardcore,None
+2214,indie,None
+2215,indie,None
+2216,Lo-Fi,None
+2217,indie,None
+2218,indie,None
+2219,indie,None
+2220,indie,None
+2221,Hip-Hop,None
+2222,Hip-Hop,None
+2223,Wiz Khalifa,None
+2224,Wiz Khalifa,None
+2225,Wiz Khalifa,None
+2226,Wiz Khalifa,None
+2227,rap,None
+2228,Wiz Khalifa,None
+2229,Wiz Khalifa,None
+2230,alternative,None
+2231,alternative,None
+2232,alternative,None
+2233,alternative,None
+2234,alternative,None
+2235,alternative,None
+2236,alternative,None
+2237,alternative,None
+2238,rap,None
+2239,rap,None
+2240,post-hardcore,None
+2241,metal,None
+2242,electronic,None
+2243,metal,None
+2244,metal,None
+2245,Nu Metal,None
+2246,metal,None
+2247,metal,None
+2248,metal,None
+2249,metal,None
+2250,metal,None
+2251,metal,None
+2252,metal,None
+2253,metal,None
+2254,metal,None
+2255,metal,None
+2256,metal,None
+2257,metal,None
+2258,metal,None
+2259,metal,None
+2260,hip hop,None
+2261,pop,None
+2262,post-hardcore,None
+2263,post-hardcore,None
+2264,post-hardcore,None
+2265,post-hardcore,None
+2266,post-hardcore,None
+2267,post-hardcore,None
+2268,metal,None
+2269,Hip-Hop,None
+2270,Hip-Hop,None
+2271,Hip-Hop,None
+2272,Hip-Hop,None
+2273,Hip-Hop,None
+2274,hip hop,None
+2275,metal,None
+2276,metal,None
+2277,metal,None
+2278,alternative rock,None
+2279,alternative rock,None
+2280,rock,None
+2281,alternative rock,None
+2282,alternative rock,None
+2283,rock,None
+2284,pop,None
+2285,ska,None
+2286,ska,None
+2287,ska,None
+2288,ska,None
+2289,hip hop,None
+2290,Hip-Hop,None
+2291,hip hop,None
+2292,hip hop,None
+2293,Hip-Hop,None
+2294,hip hop,None
+2295,hip hop,None
+2296,Hip-Hop,None
+2297,hip hop,None
+2298,Hip-Hop,None
+2299,Hip-Hop,None
+2300,hip hop,None
+2301,hip hop,None
+2302,Hip-Hop,None
+2303,hip hop,None
+2304,Hip-Hop,None
+2305,hip hop,None
+2306,hip hop,None
+2307,Hip-Hop,None
+2308,hip hop,None
+2309,Hip-Hop,None
+2310,Hip-Hop,None
+2311,Hip-Hop,None
+2312,Hip-Hop,None
+2313,Hip-Hop,None
+2314,hip hop,None
+2315,hip hop,None
+2316,Hip-Hop,None
+2317,hip hop,None
+2318,Hip-Hop,None
+2319,hip hop,None
+2320,hip hop,None
+2321,Hip-Hop,None
+2322,ska,None
+2323,ska,None
+2324,ska,None
+2325,ska,None
+2326,rnb,None
+2327,ska,None
+2328,hip hop,None
+2329,Hip-Hop,None
+2330,Hip-Hop,None
+2331,Hip-Hop,None
+2332,psychopathic,None
+2333,Hip-Hop,None
+2334,2017 single,None
+2335,alternative,None
+2336,neo-psych,None
+2337,ska,None
+2338,ska,None
+2339,ska,None
+2340,ska,None
+2341,ska,None
+2342,ska,None
+2343,ska,None
+2344,ska,None
+2345,ska,None
+2346,ska,None
+2347,ska,None
+2348,Lo-Fi,None
+2349,Lo-Fi,None
+2350,chillout,None
+2351,chillout,None
+2352,Lo-Fi,None
+2353,experimental,None
+2354,experimental,None
+2355,Lo-Fi,None
+2356,personal favourites,None
+2357,personal favourites,None
+2358,personal favourites,None
+2359,lo-fi as hell,None
+2360,new wave,None
+2361,lo-fi as hell,None
+2362,pop,None
+2363,motherfuckin rabbits ejaculating sunshine,None
+2364,Awesome,None
+2365,pink,None
+2366,weird,None
+2367,Lo-Fi,None
+2368,Lo-Fi,None
+2369,Lo-Fi,None
+2370,relax,None
+2371,Lo-Fi,None
+2372,Lo-Fi,None
+2373,noise,None
+2374,Lo-Fi,None
+2375,Lo-Fi,None
+2376,Lo-Fi,None
+2377,spacing-out,None
+2378,Lo-Fi,None
+2379,Lo-Fi,None
+2380,instrumental,None
+2381,indie,None
+2382,indie,None
+2383,experimental,None
+2384,experimental,None
+2385,Lo-Fi,None
+2386,indie,None
+2387,rock,None
+2388,indie,None
+2389,experimental,None
+2390,90s,None
+2391,rnb,None
+2392,rnb,None
+2393,90s,None
+2394,90s,None
+2395,90s,None
+2396,alternative,None
+2397,ska,None
+2398,ska,None
+2399,ska,None
+2400,ska,None
+2401,ska,None
+2402,ska,None
+2403,ska,None
+2404,punk,None
+2405,punk,None
+2406,ska,None
+2407,ska,None
+2408,ska,None
+2409,ska,None
+2410,ska,None
+2411,indie,None
+2412,indie,None
+2413,indie,None
+2414,Hip-Hop,None
+2415,Wiz Khalifa,None
+2416,Wiz Khalifa,None
+2417,Wiz Khalifa,None
+2418,Wiz Khalifa,None
+2419,rap,None
+2420,Wiz Khalifa,None
+2421,Wiz Khalifa,None
+2422,played,None
+2423,funk,None
+2424,electronic,None
+2425,electronic,None
+2426,funk,None
+2427,electronic,None
+2428,funk,None
+2429,mathcore,None
+2430,experimental,None
+2431,life and death,None
+2432,hip hop,None
+2433,Hip-Hop,None
+2434,hip hop,None
+2435,Hip-Hop,None
+2436,Hip-Hop,None
+2437,hip hop,None
+2438,hip hop,None
+2439,Hip-Hop,None
+2440,hip hop,None
+2441,Hip-Hop,None
+2442,hip hop,None
+2443,Hip-Hop,None
+2444,hip hop,None
+2445,Hip-Hop,None
+2446,Hip-Hop,None
+2447,hip hop,None
+2448,hip hop,None
+2449,Hip-Hop,None
+2450,hip hop,None
+2451,Hip-Hop,None
+2452,hip hop,None
+2453,hip hop,None
+2454,Hip-Hop,None
+2455,hip hop,None
+2456,ska,None
+2457,ska,None
+2458,rnb,None
+2459,Wiz Khalifa,None
+2460,Wiz Khalifa,None
+2461,Wiz Khalifa,None
+2462,Wiz Khalifa,None
+2463,rnb,None
+2464,Hip-Hop,None
+2465,alternative rock,None
+2466,alternative rock,None
+2467,indie,None
+2468,indie,None
+2469,rock,None
+2470,alternative,None
+2471,rock,None
+2472,alternative,None
+2473,alternative,None
+2474,rock,None
+2475,alternative rock,None
+2476,ska,None
+2477,indie,None
+2478,electronic,None
+2479,electronic,None
+2480,electronic,None
+2481,electronic,None
+2482,indie,None
+2483,indie,None
+2484,post-hardcore,None
+2485,post-hardcore,None
+2486,post-hardcore,None
+2487,post-hardcore,None
+2488,post-hardcore,None
+2489,post-hardcore,None
+2490,emo,None
+2491,post-hardcore,None
+2492,post-hardcore,None
+2493,post-hardcore,None
+2494,rock,None
+2495,post-hardcore,None
+2496,hip hop,None
+2497,Hip-Hop,None
+2498,ska,None
+2499,metal,None
+2500,metal,None
+2501,metal,None
+2502,metal,None
+2503,metal,None
+2504,metal,None
+2505,metalcore,None
+2506,indie,None
+2507,alternative rock,None
+2508,post-hardcore,None
+2509,post-hardcore,None
+2510,seen live,None
+2511,ska,None
+2512,ska,None
+2513,ska,None
+2514,ska,None
+2515,funk,None
+2516,lo-fi as hell,None
+2517,downtempo,None
+2518,chillout,None
+2519,chillout,None
+2520,chillout,None
+2521,chillout,None
+2522,electronic,None
+2523,electronic,None
+2524,electronic,None
+2525,rap,None
+2526,rap,None
+2527,ska,None
+2528,ska,None
+2529,ska,None
+2530,ska,None
+2531,ska,None
+2532,ska,None
+2533,ska,None
+2534,ska,None
+2535,ska,None
+2536,ska,None
+2537,ska,None
+2538,ska,None
+2539,ska,None
+2540,ska,None
+2541,favorites,None
+2542,fip,None
+2543,2017 single,None
+2544,2017 single,None
+2545,ska,None
+2546,ska,None
+2547,ska,None
+2548,post-hardcore,None
+2549,post-hardcore,None
+2550,post-hardcore,None
+2551,hip hop,None
+2552,post-hardcore,None
+2553,metalcore,None
+2554,metalcore,None
+2555,metalcore,None
+2556,metalcore,None
+2557,metalcore,None
+2558,hardcore,None
+2559,metalcore,None
+2560,pop,None
+2561,pop,None
+2562,rap,None
+2563,hip hop,None
+2564,rock,None
+2565,indie,None
+2566,indie,None
+2567,indie,None
+2568,indie,None
+2569,indie,None
+2570,indie rock,None
+2571,indie,None
+2572,indie rock,None
+2573,indie,None
+2574,indie rock,None
+2575,indie,None
+2576,indie,None
+2577,metalcore,None
+2578,punk rock,None
+2579,ska,None
+2580,ska,None
+2581,ska,None
+2582,ska,None
+2583,ska,None
+2584,hardcore,None
+2585,ska,None
+2586,ska,None
+2587,favorite songs,None
+2588,ska,None
+2589,ska,None
+2590,ska,None
+2591,ska,None
+2592,ska,None
+2593,ska,None
+2594,ska,None
+2595,ska,None
+2596,ska,None
+2597,ska,None
+2598,ska,None
+2599,seen live,None
+2600,ska,None
+2601,ska,None
+2602,seen live,None
+2603,punk rock,None
+2604,alternative,None
+2605,alternative,None
+2606,alternative,None
+2607,electronic,None
+2608,electronic,None
+2609,experimental,None
+2610,deathcore,None
+2611,emo,None
+2612,emo,None
+2613,indie,None
+2614,jay-z,None
+2615,ska,None
+2616,ska,None
+2617,ska,None
+2618,ska,None
+2619,ska,None
+2620,shit,None
+2621,ska,None
+2622,rock,None
+2623,shit,None
+2624,shit,None
+2625,ska,None
+2626,ska,None
+2627,shit,None
+2628,deathcore,None
+2629,electronic,None
+2630,chillout,None
+2631,chillout,None
+2632,chillout,None
+2633,electronic,None
+2634,electronic,None
+2635,electronic,None
+2636,electronic,None
+2637,electronic,None
+2638,ska,None
+2639,ska,None
+2640,ska,None
+2641,ska,None
+2642,ska,None
+2643,ska,None
+2644,ska,None
+2645,shit,None
+2646,ska,None
+2647,rock,None
+2648,shit,None
+2649,ska,None
+2650,ska,None
+2651,shit,None
+2652,bouncy,None
+2653,downtempo,None
+2654,electronic,None
+2655,electronic,None
+2656,chillout,None
+2657,chillout,None
+2658,electronic,None
+2659,chillout,None
+2660,chillout,None
+2661,rock,None
+2662,experimental,None
+2663,experimental,None
+2664,punk rock,None
+2665,Hip-Hop,None
+2666,indie,None
+2667,motherfuckin rabbits ejaculating sunshine,None
+2668,chillout,None
+2669,downtempo,None
+2670,downtempo,None
+2671,downtempo,None
+2672,chillout,None
+2673,chillout,None
+2674,downtempo,None
+2675,chillout,None
+2676,electronic,None
+2677,chillout,None
+2678,chillout,None
+2679,downtempo,None
+2680,electronic,None
+2681,chillout,None
+2682,electronic,None
+2683,chillout,None
+2684,electronic,None
+2685,downtempo,None
+2686,electronic,None
+2687,electronic,None
+2688,downtempo,None
+2689,electronic,None
+2690,electronic,None
+2691,chillout,None
+2692,chillout,None
+2693,Hip-Hop,None
+2694,indie,None
+2695,math rock,None
+2696,math rock,None
+2697,Hip-Hop,None
+2698,experimental,None
+2699,math rock,None
+2700,experimental,None
+2701,Hip-Hop,None
+2702,hip hop,None
+2703,Hip-Hop,None
+2704,Hip-Hop,None
+2705,hip hop,None
+2706,hip hop,None
+2707,Hip-Hop,None
+2708,hip hop,None
+2709,Hip-Hop,None
+2710,hip hop,None
+2711,hip hop,None
+2712,Hip-Hop,None
+2713,hip hop,None
+2714,Hip-Hop,None
+2715,Hip-Hop,None
+2716,Hip-Hop,None
+2717,Hip-Hop,None
+2718,Hip-Hop,None
+2719,metal,None
+2720,alternative,None
+2721,metal,None
+2722,boys name,None
+2723,hip hop,None
+2724,hip hop,None
+2725,hip hop,None
+2726,Hip-Hop,None
+2727,hip hop,None
+2728,rock,None
+2729,rock,None
+2730,rock,None
+2731,funk,None
+2732,funk,None
+2733,funk,None
+2734,jazz fusion,None
+2735,jazz fusion,None
+2736,jazz fusion,None
+2737,metalcore,None
+2738,metalcore,None
+2739,pop,None
+2740,rock,None
+2741,ska,None
+2742,rock,None
+2743,grindcore,None
+2744,hardcore,None
+2745,hardcore,None
+2746,Hip-Hop,None
+2747,alternative,None
+2748,90s,None
+2749,90s,None
+2750,indie,None
+2751,Hip-Hop,None
+2752,rock,None
+2753,deathcore,None
+2754,fip,None
+2755,alternative rock,None
+2756,ska,None
+2757,punk rock,None
+2758,emo,None
+2759,emo,None
+2760,emo,None
+2761,rnb,None
+2762,rnb,None
+2763,post-hardcore,None
+2764,Wiz Khalifa,None
+2765,Wiz Khalifa,None
+2766,Hip-Hop,None
+2767,Lo-Fi,None
+2768,alternative rock,None
+2769,alternative,None
+2770,alternative rock,None
+2771,Hip-Hop,None
+2772,Hip-Hop,None
+2773,boys name,None
+2774,RB,None
+2775,rnb,None
+2776,rnb,None
+2777,rnb,None
+2778,post-hardcore,None
+2779,rock,None
+2780,Wiz Khalifa,None
+2781,emo,None
+2782,emo,None
+2783,favorites,None
+2784,better than my boyfriend,None
+2785,seen live,None
+2786,noise rock,None
+2787,noise,None
+2788,hallucination music,None
+2789,pink,None
+2790,Lo-Fi,None
+2791,Lo-Fi,None
+2792,Lo-Fi,None
+2793,indie rock,None
+2794,indie,None
+2795,indie,None
+2796,indie,None
+2797,indie,None
+2798,indie,None
+2799,rock,None
+2800,indie,None
+2801,indie,None
+2802,Hip-Hop,None
+2803,rap,None
+2804,Hip-Hop,None
+2805,indie,None
+2806,instrumental,None
+2807,motherfuckin rabbits ejaculating sunshine,None
+2808,Lo-Fi,None
+2809,experimental,None
+2810,experimental,None
+2811,experimental,None
+2812,funk,None
+2813,Lo-Fi,None
+2814,Lo-Fi,None
+2815,indie,None
+2816,indie,None
+2817,Lo-Fi,None
+2818,motherfuckin rabbits ejaculating sunshine,None
+2819,2018 single,None
+2820,boys name,None
+2821,Hip-Hop,None
+2822,hip hop,None
+2823,Hip-Hop,None
+2824,Hip-Hop,None
+2825,Hip-Hop,None
+2826,hip hop,None
+2827,funk,None
+2828,pop,None
+2829,pop,None
+2830,Hip-Hop,None
+2831,Hip-Hop,None
+2832,Hip-Hop,None
+2833,hip hop,None
+2834,rnb,None
+2835,funk,None
+2836,alternative rock,None
+2837,post-hardcore,None
+2838,post-hardcore,None
+2839,post-hardcore,None
+2840,post-hardcore,None
+2841,90s,None
+2842,90s,None
+2843,post-hardcore,None
+2844,screamo,None
+2845,hardcore,None
+2846,post-hardcore,None
+2847,screamo,None
+2848,experimental,None
+2849,post-hardcore,None
+2850,experimental,None
+2851,post-hardcore,None
+2852,punk,None
+2853,hardcore,None
+2854,hardcore,None
+2855,hardcore,None
+2856,hardcore,None
+2857,indie,None
+2858,indie,None
+2859,indie,None
+2860,alternative,None
+2861,alternative,None
+2862,alternative,None
+2863,alternative,None
+2864,pop,None
+2865,pop,None
+2866,pop,None
+2867,pop,None
+2868,Hip-Hop,None
+2869,emo,None
+2870,post-hardcore,None
+2871,post-hardcore,None
+2872,post-hardcore,None
+2873,post-hardcore,None
+2874,post-hardcore,None
+2875,emo,None
+2876,emo,None
+2877,post-hardcore,None
+2878,post-hardcore,None
+2879,post-hardcore,None
+2880,post-hardcore,None
+2881,emo,None
+2882,Progressive rock,None
+2883,Wiz Khalifa,None
+2884,Wiz Khalifa,None
+2885,boys name,None
+2886,Hip-Hop,None
+2887,Wiz Khalifa,None
+2888,Wiz Khalifa,None
+2889,rap,None
+2890,Wiz Khalifa,None
+2891,Wiz Khalifa,None
+2892,Hip-Hop,None
+2893,orange,None
+2894,Lo-Fi,None
+2895,Lo-Fi,None
+2896,indie,None
+2897,rock,None
+2898,indie,None
+2899,experimental,None
+2900,indie,None
+2901,boys name,None
+2902,Lo-Fi,None
+2903,Lo-Fi,None
+2904,Lo-Fi,None
+2905,indie,None
+2906,experimental,None
+2907,indie,None
+2908,motherfuckin rabbits ejaculating sunshine,None
+2909,Lo-Fi,None
+2910,Lo-Fi,None
+2911,electronic,None
+2912,electronic,None
+2913,electronic,None
+2914,electronic,None
+2915,electronic,None
+2916,electronic,None
+2917,electronic,None
+2918,electronic,None
+2919,electronic,None
+2920,electronic,None
+2921,electronic,None
+2922,electronic,None
+2923,electronic,None
+2924,electronic,None
+2925,electronic,None
+2926,industrial,None
+2927,industrial,None
+2928,industrial,None
+2929,industrial,None
+2930,industrial,None
+2931,industrial,None
+2932,alternative rock,None
+2933,boys name,None
+2934,epic,None
+2935,indie rock,None
+2936,indie rock,None
+2937,indie,None
+2938,rock,None
+2939,indie,None
+2940,indie rock,None
+2941,indie rock,None
+2942,indie rock,None
+2943,indie rock,None
+2944,chillout,None
+2945,boys name,None
+2946,Hip-Hop,None
+2947,Hip-Hop,None
+2948,hip hop,None
+2949,hip hop,None
+2950,Hip-Hop,None
+2951,hip hop,None
+2952,Hip-Hop,None
+2953,Hip-Hop,None
+2954,Hip-Hop,None
+2955,punk rock,None
+2956,90s,None
+2957,Hip-Hop,None
+2958,indie,None
+2959,post-hardcore,None
+2960,Progressive rock,None
+2961,Progressive rock,None
+2962,emo,None
+2963,emo,None
+2964,motherfuckin rabbits ejaculating sunshine,None
+2965,Lo-Fi,None
+2966,emo,None
+2967,indie rock,None
+2968,alternative,None
+2969,alternative,None
+2970,rock,None
+2971,hip hop,None
+2972,indie,None
+2973,hip hop,None
+2974,hip hop,None
+2975,ska,None
+2976,rock,None
+2977,electronic,None
+2978,alternative rock,None
+2979,alternative rock,None
+2980,alternative rock,None
+2981,party,None
+2982,party,None
+2983,instrumental,None
+2984,electronic,None
+2985,alternative rock,None
+2986,post-hardcore,None
+2987,funk,None
+2988,punk,None
+2989,punk,None
+2990,punk,None
+2991,punk,None
+2992,noisecore,None
+2993,noisecore,None
+2994,grindcore,None
+2995,noisecore,None
+2996,noise rock,None
+2997,punk,None
+2998,grindcore,None
+2999,grindcore,None
+3000,Hip-Hop,None
+3001,Hip-Hop,None
+3002,indie,None
+3003,indie,None
+3004,indie,None
+3005,indie,None
+3006,emo,None
+3007,emo,None
+3008,emo,None
+3009,emo,None
+3010,emo,None
+3011,metalcore,None
+3012,funk,None
+3013,funk,None
+3014,funk,None
+3015,funk,None
+3016,funk,None
+3017,hip hop,None
+3018,hip hop,None
+3019,post-hardcore,None
+3020,hardcore,None
+3021,hardcore,None
+3022,hardcore,None
+3023,hardcore,None
+3024,hardcore,None
+3025,metalcore,None
+3026,hardcore,None
+3027,rock,None
+3028,alternative rock,None
+3029,alternative rock,None
+3030,alternative rock,None
+3031,alternative rock,None
+3032,funk,None
+3033,funk,None
+3034,Hip-Hop,None
+3035,pop,None
+3036,pop,None
+3037,pop,None
+3038,Love,None
+3039,Love,None
+3040,Love,None
+3041,pop,None
+3042,Hip-Hop,None
+3043,Hip-Hop,None
+3044,funk,None
+3045,funk,None
+3046,2018 single,None
+3047,Hip-Hop,None
+3048,hip hop,None
+3049,Hip-Hop,None
+3050,Hip-Hop,None
+3051,hip hop,None
+3052,new wave,None
+3053,hardcore,None
+3054,hardcore,None
+3055,synthpop,None
+3056,alternative rock,None
+3057,Hip-Hop,None
+3058,Hip-Hop,None
+3059,experimental,None
+3060,experimental,None
+3061,indie,None
+3062,experimental,None
+3063,Hip-Hop,None
+3064,alternative rock,None
+3065,alternative rock,None
+3066,alternative rock,None
+3067,alternative rock,None
+3068,hip hop,None
+3069,hip hop,None
+3070,screamo,None
+3071,post-hardcore,None
+3072,post-hardcore,None
+3073,screamo,None
+3074,emo,None
+3075,emo,None
+3076,Hip-Hop,None
+3077,Hip-Hop,None
+3078,Wiz Khalifa,None
+3079,Wiz Khalifa,None
+3080,fip,None
+3081,noise,None
+3082,new wave,None
+3083,pop,None
+3084,lo-fi as hell,None
+3085,Hip-Hop,None
+3086,rap,None
+3087,motherfuckin rabbits ejaculating sunshine,None
+3088,rock,None
+3089,rock,None
+3090,rock,None
+3091,hip hop,None
+3092,Hip-Hop,None
+3093,rock,None
+3094,metal,None
+3095,rock,None
+3096,punk rock,None
+3097,rock,None
+3098,Hip-Hop,None
+3099,punk rock,None
+3100,punk rock,None
+3101,Soundtrack,None
+3102,electronic,None
+3103,funk,None
+3104,rap,None
+3105,electronica,None
+3106,electronic,None
+3107,electronic,None
+3108,electronic,None
+3109,noise,None
+3110,electronic,None
+3111,instrumental,None
+3112,electronic,None
+3113,electronic,None
+3114,electronic,None
+3115,electronic,None
+3116,electronic,None
+3117,electronic,None
+3118,electronic,None
+3119,new wave,None
+3120,lo-fi as hell,None
+3121,alternative,None
+3122,fip,None
+3123,emo,None
+3124,emo,None
+3125,emo,None
+3126,Hip-Hop,None
+3127,pop,None
+3128,punk rock,None
+3129,electronic,None
+3130,electronic,None
+3131,electronic,None
+3132,electronic,None
+3133,electronic,None
+3134,emo,None
+3135,indie,None
+3136,indie,None
+3137,rap,None
+3138,rap,None
+3139,electronic,None
+3140,hardcore,None
+3141,hardcore,None
+3142,mathcore,None
+3143,hardcore,None
+3144,hardcore,None
+3145,hardcore,None
+3146,mathcore,None
+3147,mathcore,None
+3148,mathcore,None
+3149,hardcore,None
+3150,mathcore,None
+3151,hardcore,None
+3152,hardcore,None
+3153,Hip-Hop,None
+3154,Hip-Hop,None
+3155,Hip-Hop,None
+3156,Hip-Hop,None
+3157,Hip-Hop,None
+3158,Hip-Hop,None
+3159,hip hop,None
+3160,psychopathic,None
+3161,psychopathic,None
+3162,Hip-Hop,None
+3163,pop,None
+3164,new wave,None
+3165,lo-fi as hell,None
+3166,alternative,None
+3167,alternative,None
+3168,alternative,None
+3169,emo,None
+3170,emo,None
+3171,emo,None
+3172,Hip-Hop,None
+3173,Hip-Hop,None
+3174,indie rock,None
+3175,indie rock,None
+3176,indie,None
+3177,horror punk,None
+3178,horror punk,None
+3179,horror punk,None
+3180,hardcore,None
+3181,hardcore,None
+3182,hardcore,None
+3183,hardcore,None
+3184,hardcore,None
+3185,hardcore,None
+3186,Hip-Hop,None
+3187,hardcore,None
+3188,Hard,None
+3189,metalcore,None
+3190,last fm mistake,None
+3191,mathcore,None
+3192,hardcore,None
+3193,hardcore,None
+3194,hardcore,None
+3195,mathcore,None
+3196,mathcore,None
+3197,mathcore,None
+3198,hardcore,None
+3199,mathcore,None
+3200,Love,None
+3201,Neo-Soul,None
+3202,Love,None
+3203,personal favourites,None
+3204,inspirational,None
+3205,psychedelic pop,None
+3206,best of 2018,None
+3207,pop,None
+3208,electronic,None
+3209,industrial,None
+3210,electronic,None
+3211,electronic,None
+3212,electronic,None
+3213,alternative rock,None
+3214,Hip-Hop,None
+3215,Hip-Hop,None
+3216,Hip-Hop,None
+3217,Hip-Hop,None
+3218,Hip-Hop,None
+3219,Hip-Hop,None
+3220,Hip-Hop,None
+3221,Hip-Hop,None
+3222,Hip-Hop,None
+3223,Hip-Hop,None
+3224,Hip-Hop,None
+3225,Hip-Hop,None
+3226,hip hop,None
+3227,Hip-Hop,None
+3228,Hip-Hop,None
+3229,deathcore,None
+3230,grindcore,None
+3231,grindcore,None
+3232,grindcore,None
+3233,grindcore,None
+3234,grindcore,None
+3235,grindcore,None
+3236,grindcore,None
+3237,deathcore,None
+3238,deathcore,None
+3239,experimental,None
+3240,deathcore,None
+3241,grindcore,None
+3242,metalcore,None
+3243,dissonant,None
+3244,90s,None
+3245,post-hardcore,None
+3246,alternative rock,None
+3247,alternative rock,None
+3248,alternative rock,None
+3249,alternative rock,None
+3250,alternative rock,None
+3251,metal,None
+3252,metal,None
+3253,metal,None
+3254,pop,None
+3255,pop,None
+3256,fip,None
+3257,2017 single,None
+3258,hardcore,None
+3259,hardcore,None
+3260,hardcore,None
+3261,hardcore,None
+3262,hardcore,None
+3263,hardcore,None
+3264,hardcore,None
+3265,hardcore,None
+3266,hardcore,None
+3267,hardcore,None
+3268,hardcore,None
+3269,rap,None
+3270,psychopathic,None
+3271,Hip-Hop,None
+3272,detroit,None
+3273,90s,None
+3274,funk,None
+3275,jazz fusion,None
+3276,jazz fusion,None
+3277,experimental,None
+3278,shoegaze,None
+3279,shoegaze,None
+3280,shoegaze,None
+3281,chillout,None
+3282,favorites,None
+3283,Nu Metal,None
+3284,Nu Metal,None
+3285,Nu Metal,None
+3286,Nu Metal,None
+3287,Nu Metal,None
+3288,Nu Metal,None
+3289,Nu Metal,None
+3290,Nu Metal,None
+3291,Nu Metal,None
+3292,alternative rock,None
+3293,alternative rock,None
+3294,alternative rock,None
+3295,alternative rock,None
+3296,indie,None
+3297,Lo-Fi,None
+3298,Hip-Hop,None
+3299,Wiz Khalifa,None
+3300,electronic,None
+3301,electronic,None
+3302,electronic,None
+3303,electronic,None
+3304,electronic,None
+3305,rap,None
+3306,hip hop,None
+3307,hip hop,None
+3308,Hip-Hop,None
+3309,rnb,None
+3310,rnb,None
+3311,Progressive rock,None
+3312,Progressive rock,None
+3313,Progressive rock,None
+3314,chill,None
+3315,Hip-Hop,None
+3316,Hip-Hop,None
+3317,Hip-Hop,None
+3318,Hip-Hop,None
+3319,Hip-Hop,None
+3320,Hip-Hop,None
+3321,hip hop,None
+3322,Hip-Hop,None
+3323,hip hop,None
+3324,Hip-Hop,None
+3325,hip hop,None
+3326,Hip-Hop,None
+3327,hip hop,None
+3328,Hip-Hop,None
+3329,hip hop,None
+3330,Hip-Hop,None
+3331,Hip-Hop,None
+3332,favorites,None
+3333,favorites,None
+3334,shoegaze,None
+3335,goregrind,None
+3336,psychopathic,None
+3337,goregrind,None
+3338,experimental,None
+3339,experimental,None
+3340,Hip-Hop,None
+3341,Hip-Hop,None
+3342,Hip-Hop,None
+3343,Hip-Hop,None
+3344,motherfuckin rabbits ejaculating sunshine,None
+3345,new wave,None
+3346,favorites,None
+3347,Hip-Hop,None
+3348,indie,None
+3349,indie,None
+3350,indie,None
+3351,alternative rock,None
+3352,alternative rock,None
+3353,alternative rock,None
+3354,alternative rock,None
+3355,Hip-Hop,None
+3356,Hip-Hop,None
+3357,experimental,None
+3358,Lo-Fi,None
+3359,Lo-Fi,None
+3360,indie,None
+3361,indie,None
+3362,horror punk,None
+3363,jazz fusion,None
+3364,psychopathic,None
+3365,psychopathic,None
+3366,edgy,None
+3367,rap,None
+3368,alternative rock,None
+3369,Hip-Hop,None
+3370,hip hop,None
+3371,industrial metal,None
+3372,industrial metal,None
+3373,electronic,None
+3374,electronic,None
+3375,electronic,None
+3376,electronic,None
+3377,electronic,None
+3378,90s,None
+3379,rock,None
+3380,post-hardcore,None
+3381,Progressive rock,None
+3382,Progressive rock,None
+3383,Lo-Fi,None
+3384,indie,None
+3385,indie,None
+3386,lo-fi as hell,None
+3387,noise,None
+3388,pop,None
+3389,new wave,None
+3390,lo-fi as hell,None
+3391,favorites,None
+3392,rnb,None
+3393,chillout,None
+3394,alternative,None
+3395,alternative,None
+3396,alternative,None
+3397,alternative,None
+3398,hip hop,None
+3399,Hip-Hop,None
+3400,Hip-Hop,None
+3401,Hip-Hop,None
+3402,hip hop,None
+3403,Hip-Hop,None
+3404,Hip-Hop,None
+3405,chillout,None
+3406,Progressive rock,None
+3407,Hip-Hop,None
+3408,pop,None
+3409,pop,None
+3410,pop,None
+3411,Progressive rock,None
+3412,Progressive rock,None
+3413,indie,None
+3414,indie,None
+3415,Lo-Fi,None
+3416,indie,None
+3417,Progressive rock,None
+3418,Progressive rock,None
+3419,Progressive rock,None
+3420,Lo-Fi,None
+3421,Lo-Fi,None
+3422,Lo-Fi,None
+3423,Lo-Fi,None
+3424,Lo-Fi,None
+3425,indie,None
+3426,favorites,None
+3427,shoegaze,None
+3428,pop,None
+3429,pop,None
+3430,pop,None
+3431,pop,None
+3432,pop,None
+3433,Hip-Hop,None
+3434,emo,None
+3435,emo,None
+3436,new wave,None
+3437,lo-fi as hell,None
+3438,Wiz Khalifa,None
+3439,Wiz Khalifa,None
+3440,Hip-Hop,None
+3441,Hip-Hop,None
+3442,Hip-Hop,None
+3443,hip hop,None
+3444,chillout,None
+3445,Hip-Hop,None
+3446,indie,None
+3447,indie,None
+3448,indie,None
+3449,rap,None
+3450,rap,None
+3451,rap,None
+3452,rap,None
+3453,rap,None
+3454,rap,None
+3455,rap,None
+3456,rap,None
+3457,rap,None
+3458,Hip-Hop,None
+3459,Hip-Hop,None
+3460,Hip-Hop,None
+3461,Hip-Hop,None
+3462,Hip-Hop,None
+3463,Hip-Hop,None
+3464,Hip-Hop,None
+3465,Hip-Hop,None
+3466,Hip-Hop,None
+3467,hip hop,None
+3468,indie,None
+3469,indie,None
+3470,alternative,None
+3471,alternative,None
+3472,alternative,None
+3473,Hip-Hop,None
+3474,hip hop,None
+3475,hip hop,None
+3476,post-hardcore,None
+3477,post-hardcore,None
+3478,post-hardcore,None
+3479,jazz fusion,None
+3480,jazz fusion,None
+3481,metal,None
+3482,metal,None
+3483,electronic,None
+3484,electronic,None
+3485,electronic,None
+3486,electronic,None
+3487,electronic,None
+3488,post-hardcore,None
+3489,post-hardcore,None
+3490,post-hardcore,None
+3491,post-hardcore,None
+3492,alternative,None
+3493,alternative,None
+3494,alternative,None
+3495,alternative,None
+3496,best of 2018,None
+3497,rock,None
+3498,G-funk,None
+3499,Progressive rock,None
+3500,alternative,None
+3501,alternative,None
+3502,Hip-Hop,None
+3503,rock,None
+3504,featuring,None
+3505,Hip-Hop,None
+3506,Progressive rock,None
+3507,Progressive rock,None
+3508,electronic,None
+3509,new wave,None
+3510,Lo-Fi,None
+3511,indie,None
+3512,alternative,None
+3513,Progressive rock,None
+3514,Hip-Hop,None
+3515,Hip-Hop,None
+3516,Hip-Hop,None
+3517,Hip-Hop,None
+3518,Hip-Hop,None
+3519,Hip-Hop,None
+3520,Hip-Hop,None
+3521,rock,None
+3522,rock,None
+3523,rock,None
+3524,rock,None
+3525,rock,None
+3526,90s,None
+3527,90s,None
+3528,ska,None
+3529,ska,None
+3530,ska,None
+3531,alternative,None
+3532,alternative,None
+3533,Hip-Hop,None
+3534,Hip-Hop,None
+3535,indie,None
+3536,indie,None
+3537,indie,None
+3538,90s,None
+3539,rock,None
+3540,rock,None
+3541,indie,None
+3542,shoegaze,None
+3543,chillout,None
+3544,shoegaze,None
+3545,shoegaze,None
+3546,chillout,None
+3547,Hip-Hop,None
+3548,Hip-Hop,None
+3549,Hip-Hop,None
+3550,party,None
+3551,chill,None
+3552,metalcore,None
+3553,shoegaze,None
+3554,hip hop,None
+3555,Hip-Hop,None
+3556,rap,None
+3557,Hip-Hop,None
+3558,rap,None
+3559,rap,None
+3560,rap,None
+3561,rap,None
+3562,rap,None
+3563,rap,None
+3564,edgy,None
+3565,rap,None
+3566,rap,None
+3567,rap,None
+3568,rap,None
+3569,party,None
+3570,indie,None
+3571,Lo-Fi,None
+3572,indie,None
+3573,Lo-Fi,None
+3574,indie,None
+3575,indie,None
+3576,rnb,None
+3577,alternative,None
+3578,ska,None
+3579,chillout,None
+3580,rap,None
+3581,rap,None
+3582,emo,None
+3583,emo,None
+3584,emo,None
+3585,emo,None
+3586,emo,None
+3587,emo,None
+3588,Progressive rock,None
+3589,Progressive rock,None
+3590,metal,None
+3591,metal,None
+3592,metal,None
+3593,metal,None
+3594,alternative,None
+3595,metal,None
+3596,alternative,None
+3597,alternative,None
+3598,rap,None
+3599,hip hop,None
+3600,hip hop,None
+3601,metal,None
+3602,metal,None
+3603,metal,None
+3604,metal,None
+3605,rnb,None
+3606,rnb,None
+3607,emo,None
+3608,emo,None
+3609,emo,None
+3610,emo,None
+3611,indie,None
+3612,indie,None
+3613,Hip-Hop,None
+3614,Hip-Hop,None
+3615,Hip-Hop,None
+3616,Hip-Hop,None
+3617,Hip-Hop,None
+3618,Hip-Hop,None
+3619,Spacedog,None
+3620,rap,None
+3621,rock,None
+3622,Hip-Hop,None
+3623,90s,None
+3624,rock,None
+3625,pop,None
+3626,rnb,None
+3627,a,None
+3628,psychopathic,None
+3629,goregrind,None
+3630,goregrind,None
+3631,psychopathic,None
+3632,psychopathic,None
+3633,goregrind,None
+3634,epic,None
+3635,death metal,None
+3636,death metal,None
+3637,death metal,None
+3638,jazz fusion,None
+3639,chillout,None
+3640,Hip-Hop,None
+3641,rap,None
+3642,Hip-Hop,None
+3643,Hip-Hop,None
+3644,Hip-Hop,None
+3645,emo,None
+3646,grindcore,None
+3647,grindcore,None
+3648,cancionero,None
+3649,fip,None
+3650,fip,None
+3651,2017 single,None
+3652,alternative,None
+3653,alternative,None
+3654,Progressive rock,None
+3655,Progressive rock,None
+3656,Hip-Hop,None
+3657,Hip-Hop,None
+3658,hip hop,None
+3659,indie,None
+3660,electronic,None
+3661,timbaland production,None
+3662,jay-z,None
+3663,rap,None
+3664,jay-z,None
+3665,Hip-Hop,None
+3666,dj premier,None
+3667,video game music,None
+3668,downtempo,None
+3669,chillout,None
+3670,chillout,None
+3671,chillout,None
+3672,chillout,None
+3673,chillout,None
+3674,chillout,None
+3675,psychopathic,None
+3676,rap,None
+3677,Wiz Khalifa,None
+3678,Wiz Khalifa,None
+3679,indie rock,None
+3680,alternative,None
+3681,alternative,None
+3682,instrumental,None
+3683,electronic,None
+3684,rock,None
+3685,water,None
+3686,alternative,None
+3687,alternative,None
+3688,goregrind,None
+3689,psychopathic,None
+3690,emo,None
+3691,rock,None
+3692,indie,None
+3693,indie rock,None
+3694,indie,None
+3695,emo,None
+3696,emo,None
+3697,indie,None
+3698,ska,None
+3699,ska,None
+3700,alternative rock,None
+3701,alternative rock,None
+3702,Hip-Hop,None
+3703,psychopathic,None
+3704,ska,None
+3705,emo,None
+3706,post-hardcore,None
+3707,post-hardcore,None
+3708,xlowpunk,None
+3709,rock,None
+3710,rock,None
+3711,rock,None
+3712,Wiz Khalifa,None
+3713,Wiz Khalifa,None
+3714,electronic,None
+3715,indie,None
+3716,electronic,None
+3717,alternative,None
+3718,emo,None
+3719,Nu Metal,None
+3720,metal,None
+3721,metal,None
+3722,horror punk,None
+3723,horror punk,None
+3724,punk,None
+3725,Hip-Hop,None
+3726,Hip-Hop,None
+3727,goregrind,None
+3728,rap,None
+3729,alternative,None
+3730,Hip-Hop,None
+3731,indie,None
+3732,hip hop,None
+3733,jay-z,None
+3734,Hip-Hop,None
+3735,horror punk,None
+3736,horror punk,None
+3737,alternative,None
+3738,alternative,None
+3739,alternative,None
+3740,psychopathic,None
+3741,rnb,None
+3742,Wiz Khalifa,None
+3743,electronic,None
+3744,electronic,None
+3745,electronic,None
+3746,emo,None
+3747,metalcore,None
+3748,post-hardcore,None
+3749,experimental,None
+3750,hardcore,None
+3751,hardcore,None
+3752,post-hardcore,None
+3753,screamo,None
+3754,post-hardcore,None
+3755,hardcore,None
+3756,post-hardcore,None
+3757,hardcore,None
+3758,post-hardcore,None
+3759,post-hardcore,None
+3760,alternative,None
+3761,alternative,None
+3762,alternative,None
+3763,a subtle use of vocal harmony,None
+3764,alternative,None
+3765,alternative,None
+3766,alternative,None
+3767,alternative,None
+3768,alternative,None
+3769,alternative,None
+3770,alternative,None
+3771,alternative,None
+3772,alternative,None
+3773,Hip-Hop,None
+3774,post-hardcore,None
+3775,hip hop,None
+3776,post-hardcore,None
+3777,post-hardcore,None
+3778,Hip-Hop,None
+3779,90s,None
+3780,ska,None
+3781,indie,None
+3782,indie,None
+3783,emo,None
+3784,anna of the north,None
+3785,rap,None
+3786,played,None
+3787,detroit,None
+3788,electronic,None
+3789,post-hardcore,None
+3790,instrumental,None
+3791,rock,None
+3792,post-hardcore,None
+3793,post-hardcore,None
+3794,post-hardcore,None
+3795,chill,None
+3796,alternative rock,None
+3797,alternative rock,None
+3798,alternative rock,None
+3799,alternative rock,None
+3800,grindcore,None
+3801,horror punk,None
+3802,Hip-Hop,None
+3803,Hip-Hop,None
+3804,ambient,None
+3805,ambient,None
+3806,digitalis,None
+3807,metal,None
+3808,Nu Metal,None
+3809,goregrind,None
+3810,rap,None
+3811,heavy metal,None
+3812,heavy metal,None
+3813,rock,None
+3814,rock,None
+3815,Hip-Hop,None
+3816,rnb,None
+3817,rnb,None
+3818,90s,None
+3819,90s,None
+3820,Hip-Hop,None
+3821,Hip-Hop,None
+3822,Hip-Hop,None
+3823,emo,None
+3824,alternative,None
+3825,alternative,None
+3826,pop,None
+3827,electronic,None
+3828,rnb,None
+3829,rnb,None
+3830,Hip-Hop,None
+3831,Hip-Hop,None
+3832,hip hop,None
+3833,ska,None
+3834,G-funk,None
+3835,G-funk,None
+3836,G-funk,None
+3837,G-funk,None
+3838,electronic,None
+3839,electronic,None
+3840,electronic,None
+3841,pop,None
+3842,pop,None
+3843,electronic,None
+3844,indie,None
+3845,electronic,None
+3846,chillwave,None
+3847,electronic,None
+3848,chillwave,None
+3849,indie,None
+3850,indie,None
+3851,electronic,None
+3852,electronic,None
+3853,ambient,None
+3854,rnb,None
+3855,rnb,None
+3856,rnb,None
+3857,rnb,None
+3858,2017 single,None
+3859,pop,None
+3860,hip hop,None
+3861,Hip-Hop,None
+3862,metal,None
+3863,Hip-Hop,None
+3864,Wiz Khalifa,None
+3865,Hip-Hop,None
+3866,post-hardcore,None
+3867,post-hardcore,None
+3868,post-hardcore,None
+3869,Hip-Hop,None
+3870,alternative rock,None
+3871,alternative rock,None
+3872,alternative rock,None
+3873,alternative rock,None
+3874,alternative rock,None
+3875,alternative rock,None
+3876,emo,None
+3877,emo,None
+3878,lyrics,None
+3879,emo,None
+3880,emo,None
+3881,emo,None
+3882,punk,None
+3883,math rock,None
+3884,Nu Metal,None
+3885,alternative,None
+3886,alternative,None
+3887,alternative,None
+3888,alternative,None
+3889,alternative,None
+3890,alternative,None
+3891,alternative,None
+3892,alternative,None
+3893,alternative,None
+3894,alternative,None
+3895,alternative,None
+3896,alternative,None
+3897,alternative,None
+3898,alternative,None
+3899,alternative,None
+3900,electronic,None
+3901,alternative,None
+3902,alternative,None
+3903,alternative,None
+3904,alternative,None
+3905,alternative,None
+3906,a subtle use of vocal harmony,None
+3907,alternative,None
+3908,alternative,None
+3909,alternative,None
+3910,alternative,None
+3911,Hip-Hop,None
+3912,post-hardcore,None
+3913,post-hardcore,None
+3914,rock,None
+3915,alternative,None
+3916,alternative,None
+3917,electronic,None
+3918,alternative,None
+3919,alternative,None
+3920,alternative,None
+3921,alternative,None
+3922,alternative,None
+3923,alternative,None
+3924,electronic,None
+3925,alternative,None
+3926,alternative,None
+3927,Hip-Hop,None
+3928,Hip-Hop,None
+3929,indie,None
+3930,indie,None
+3931,indie,None
+3932,indie,None
+3933,indie,None
+3934,rnb,None
+3935,fip,None
+3936,alternative,None
+3937,alternative,None
+3938,alternative,None
+3939,alternative,None
+3940,alternative,None
+3941,alternative,None
+3942,alternative rock,None
+3943,alternative,None
+3944,alternative,None
+3945,alternative,None
+3946,alternative,None
+3947,electronic,None
+3948,Nu Metal,None
+3949,metal,None
+3950,Nu Metal,None
+3951,Nu Metal,None
+3952,Nu Metal,None
+3953,rock,None
+3954,rock,None
+3955,rock,None
+3956,G-funk,None
+3957,hip hop,None
+3958,Hip-Hop,None
+3959,Hip-Hop,None
+3960,Wiz Khalifa,None
+3961,Wiz Khalifa,None
+3962,ska,None
+3963,90s,None
+3964,alternative,None
+3965,alternative,None
+3966,alternative,None
+3967,alternative,None
+3968,alternative,None
+3969,alternative,None
+3970,alternative,None
+3971,alternative,None
+3972,electronic,None
+3973,Nu Metal,None
+3974,Nu Metal,None
+3975,Nu Metal,None
+3976,metal,None
+3977,metal,None
+3978,metal,None
+3979,Nu Metal,None
+3980,Nu Metal,None
+3981,Nu Metal,None
+3982,Nu Metal,None
+3983,Nu Metal,None
+3984,Nu Metal,None
+3985,metal,None
+3986,Nu Metal,None
+3987,Nu Metal,None
+3988,metal,None
+3989,metal,None
+3990,metal,None
+3991,metal,None
+3992,Nu Metal,None
+3993,chillout,None
+3994,Lo-Fi,None
+3995,Lo-Fi,None
+3996,motherfuckin rabbits ejaculating sunshine,None
+3997,indie,None
+3998,alternative,None
+3999,emo,None
+4000,emo,None
+4001,alternative,None
+4002,alternative,None
+4003,alternative,None
+4004,alternative,None
+4005,alternative,None
+4006,alternative,None
+4007,a subtle use of vocal harmony,None
+4008,emo,None
+4009,emo,None
+4010,emo,None
+4011,punk rock,None
+4012,punk rock,None
+4013,punk rock,None
+4014,2017 single,None
+4015,indie,None
+4016,electronic,None
+4017,indie,None
+4018,electronic,None
+4019,electronic,None
+4020,electronic,None
+4021,electronic,None
+4022,electronic,None
+4023,electronic,None
+4024,electronic,None
+4025,indie,None
+4026,electronic,None
+4027,indie,None
+4028,electronic,None
+4029,indie,None
+4030,electronic,None
+4031,electronic,None
+4032,electronic,None
+4033,electronic,None
+4034,electronic,None
+4035,post-hardcore,None
+4036,alternative,None
+4037,alternative,None
+4038,alternative,None
+4039,alternative,None
+4040,alternative,None
+4041,alternative rock,None
+4042,alternative,None
+4043,alternative rock,None
+4044,alternative,None
+4045,instrumental,None
+4046,alternative,None
+4047,alternative,None
+4048,instrumental,None
+4049,Hip-Hop,None
+4050,Hip-Hop,None
+4051,Hip-Hop,None
+4052,chill,None
+4053,chill,None
+4054,pop,None
+4055,Love,None
+4056,pop,None
+4057,Hip-Hop,None
+4058,hip hop,None
+4059,fip,None
+4060,rock,None
+4061,rock,None
+4062,rock,None
+4063,rock,None
+4064,electronic,None
+4065,indie,None
+4066,indie,None
+4067,emo,None
+4068,emo,None
+4069,emo,None
+4070,emo,None
+4071,indie rock,None
+4072,emo,None
+4073,emo,None
+4074,alternative rock,None
+4075,alternative rock,None
+4076,emo,None
+4077,emo,None
+4078,hip hop,None
+4079,post-hardcore,None
+4080,post-hardcore,None
+4081,metal,None
+4082,metal,None
+4083,Nu Metal,None
+4084,Nu Metal,None
+4085,Nu Metal,None
+4086,Nu Metal,None
+4087,metal,None
+4088,metal,None
+4089,metal,None
+4090,rap,None
+4091,rap,None
+4092,post-hardcore,None
+4093,post-hardcore,None
+4094,post-hardcore,None
+4095,post-hardcore,None
+4096,post-hardcore,None
+4097,post-hardcore,None
+4098,punk rock,None
+4099,motherfuckin rabbits ejaculating sunshine,None
+4100,Lo-Fi,None
+4101,emo,None
+4102,post-hardcore,None
+4103,rock,None
+4104,indie,None
+4105,alternative rock,None
+4106,rock,None
+4107,indie,None
+4108,alternative rock,None
+4109,2017 single,None
+4110,ambient,None
+4111,electronic,None
+4112,chillwave,None
+4113,electronic,None
+4114,chillwave,None
+4115,synthpop,None
+4116,ambient,None
+4117,fip,None
+4118,Hip-Hop,None
+4119,alternative,None
+4120,alternative,None
+4121,indie,None
+4122,electronic,None
+4123,electronic,None
+4124,electronic,None
+4125,Hip-Hop,None
+4126,alternative rock,None
+4127,alternative rock,None
+4128,Hip-Hop,None
+4129,rnb,None
+4130,Hip-Hop,None
+4131,metal,None
+4132,metal,None
+4133,metal,None
+4134,pop,None
+4135,indie,None
+4136,indie,None
+4137,indie,None
+4138,alternative,None
+4139,indie,None
+4140,indie,None
+4141,indie,None
+4142,indie,None
+4143,indie rock,None
+4144,indie,None
+4145,indie,None
+4146,electronic,None
+4147,90s,None
+4148,90s,None
+4149,emo,None
+4150,emo,None
+4151,emo,None
+4152,rnb,None
+4153,rnb,None
+4154,rnb,None
+4155,indie,None
+4156,indie,None
+4157,indie,None
+4158,indie,None
+4159,Hip-Hop,None
+4160,Hip-Hop,None
+4161,Hip-Hop,None
+4162,Hip-Hop,None
+4163,alternative rock,None
+4164,alternative rock,None
+4165,alternative rock,None
+4166,alternative rock,None
+4167,chill,None
+4168,emo,None
+4169,punk rock,None
+4170,pop,None
+4171,lo-fi as hell,None
+4172,2017 single,None
+4173,fip,None
+4174,Lo-Fi,None
+4175,emo,None
+4176,emo,None
+4177,emo,None
+4178,mathcore,None
+4179,mathcore,None
+4180,grindcore,None
+4181,grindcore,None
+4182,grindcore,None
+4183,noise,None
+4184,mathcore,None
+4185,mathcore,None
+4186,grindcore,None
+4187,grindcore,None
+4188,mathcore,None
+4189,experimental,None
+4190,Hip-Hop,None
+4191,hip hop,None
+4192,emo,None
+4193,emo,None
+4194,emo,None
+4195,emo,None
+4196,emo,None
+4197,emo,None
+4198,emo,None
+4199,emo,None
+4200,emo,None
+4201,emo,None
+4202,emo,None
+4203,ska,None
+4204,alternative,None
+4205,alternative,None
+4206,alternative,None
+4207,alternative,None
+4208,alternative,None
+4209,alternative,None
+4210,alternative,None
+4211,a subtle use of vocal harmony,None
+4212,alternative,None
+4213,ska,None
+4214,experimental,None
+4215,post-hardcore,None
+4216,Nu Metal,None
+4217,Hip-Hop,None
+4218,Hip-Hop,None
+4219,rap,None
+4220,Hip-Hop,None
+4221,rap,None
+4222,Hip-Hop,None
+4223,indie,None
+4224,motherfuckin rabbits ejaculating sunshine,None
+4225,rock,None
+4226,rock,None
+4227,rock,None
+4228,emo,None
+4229,FM4,None
+4230,indie,None
+4231,alternative,None
+4232,indie,None
+4233,indie,None
+4234,motherfuckin rabbits ejaculating sunshine,None
+4235,Lo-Fi,None
+4236,fip,None
+4237,indie pop,None
+4238,indie rock,None
+4239,FM4,None
+4240,indie,None
+4241,alternative,None
+4242,Progressive rock,None
+4243,Progressive rock,None
+4244,alternative,None
+4245,alternative,None
+4246,alternative,None
+4247,electronic,None
+4248,emo,None
+4249,Lo-Fi,None
+4250,noise,None
+4251,Lo-Fi,None
+4252,Lo-Fi,None
+4253,Lo-Fi,None
+4254,spacing-out,None
+4255,Lo-Fi,None
+4256,indie,None
+4257,pop,None
+4258,weird,None
+4259,Lo-Fi,None
+4260,Awesome,None
+4261,spacing-out,None
+4262,indie,None
+4263,motherfuckin rabbits ejaculating sunshine,None
+4264,Lo-Fi,None
+4265,experimental,None
+4266,fip,None
+4267,indie,None
+4268,indie,None
+4269,indie,None
+4270,Hip-Hop,None
+4271,Hip-Hop,None
+4272,Hip-Hop,None
+4273,rap,None
+4274,rap,None
+4275,Hip-Hop,None
+4276,rap,None
+4277,played,None
+4278,Hip-Hop,None
+4279,rock,None
+4280,90s,None
+4281,pop,None
+4282,indie,None
+4283,Hip-Hop,None
+4284,Hip-Hop,None
+4285,alternative,None
+4286,alternative,None
+4287,alternative,None
+4288,metal,None
+4289,metal,None
+4290,Nu Metal,None
+4291,Nu Metal,None
+4292,Progressive rock,None
+4293,fip,None
+4294,hip hop,None
+4295,hip hop,None
+4296,hip hop,None
+4297,hiphop,None
+4298,alternative,None
+4299,rock,None
+4300,alternative,None
+4301,punk rock,None
+4302,punk rock,None
+4303,alternative,None
+4304,alternative,None
+4305,industrial,None
+4306,emo,None
+4307,emo,None
+4308,pop,None
+4309,lo-fi as hell,None
+4310,rock,None
+4311,rock,None
+4312,rock,None
+4313,rock,None
+4314,alternative,None
+4315,alternative,None
+4316,alternative,None
+4317,alternative,None
+4318,alternative,None
+4319,alternative,None
+4320,alternative,None
+4321,alternative,None
+4322,alternative,None
+4323,alternative,None
+4324,alternative,None
+4325,alternative,None
+4326,alternative,None
+4327,alternative,None
+4328,alternative,None
+4329,alternative,None
+4330,alternative,None
+4331,alternative,None
+4332,alternative,None
+4333,ska,None
+4334,played,None
+4335,rap,None
+4336,rock,None
+4337,rock,None
+4338,rock,None
+4339,rock,None
+4340,rap,None
+4341,lo-fi as hell,None
+4342,lo-fi as hell,None
+4343,pop,None
+4344,indie,None
+4345,indie,None
+4346,emo,None
+4347,rap,None
+4348,rap,None
+4349,rap,None
+4350,indie,None
+4351,hip hop,None
+4352,experimental,None
+4353,funk,None
+4354,funk,None
+4355,rap,None
+4356,played,None
+4357,pop,None
+4358,pop,None
+4359,pop,None
+4360,pop,None
+4361,pop,None
+4362,funk,None
+4363,90s,None
+4364,new wave,None
+4365,new wave,None
+4366,new wave,None
+4367,new wave,None
+4368,new wave,None
+4369,new wave,None
+4370,ambient,None
+4371,Hip-Hop,None
+4372,Hip-Hop,None
+4373,rock,None
+4374,alternative,None
+4375,alternative rock,None
+4376,Hip-Hop,None
+4377,post-hardcore,None
+4378,post-hardcore,None
+4379,post-hardcore,None
+4380,electronic,None
+4381,Hip-Hop,None
+4382,emo,None
+4383,Hip-Hop,None
+4384,rap,None
+4385,experimental,None
+4386,screamo,None
+4387,screamo,None
+4388,post-hardcore,None
+4389,experimental,None
+4390,experimental,None
+4391,experimental,None
+4392,experimental,None
+4393,experimental,None
+4394,experimental,None
+4395,Hip-Hop,None
+4396,played,None
+4397,played,None
+4398,banned,None
+4399,emo,None
+4400,screamo,None
+4401,post-hardcore,None
+4402,punk rock,None
+4403,punk rock,None
+4404,punk rock,None
+4405,punk rock,None
+4406,punk rock,None
+4407,punk rock,None
+4408,punk rock,None
+4409,punk rock,None
+4410,punk rock,None
+4411,emo,None
+4412,alternative,None
+4413,alternative,None
+4414,new wave,None
+4415,jazz fusion,None
+4416,funk,None
+4417,rap,None
+4418,emo,None
+4419,emo,None
+4420,rap,None
+4421,rap,None
+4422,emo,None
+4423,emo,None
+4424,emo,None
+4425,Hip-Hop,None
+4426,Hip-Hop,None
+4427,Hip-Hop,None
+4428,Hip-Hop,None
+4429,Hip-Hop,None
+4430,rock,None
+4431,rock,None
+4432,rock,None
+4433,alternative,None
+4434,alternative,None
+4435,alternative,None
+4436,alternative,None
+4437,alternative,None
+4438,indie,None
+4439,indie,None
+4440,indie,None
+4441,punk rock,None
+4442,punk rock,None
+4443,punk rock,None
+4444,electronic,None
+4445,electronic,None
+4446,indie,None
+4447,jazz fusion,None
+4448,funk,None
+4449,hip hop tag,None
+4450,Hip-Hop,None
+4451,Hip-Hop,None
+4452,Hip-Hop,None
+4453,rap,None
+4454,hip hop,None
+4455,hip hop,None
+4456,Hip-Hop,None
+4457,noise,None
+4458,new wave,None
+4459,pop,None
+4460,new wave,None
+4461,lo-fi as hell,None
+4462,Lo-Fi,None
+4463,experimental,None
+4464,indie,None
+4465,Hip-Hop,None
+4466,Hip-Hop,None
+4467,electronic,None
+4468,ambient,None
+4469,ambient,None
+4470,ambient,None
+4471,rap,None
+4472,rap,None
+4473,indie,None
+4474,indie,None
+4475,rock,None
+4476,rock,None
+4477,2017 single,None
+4478,rap,None
+4479,rap,None
+4480,Hip-Hop,None
+4481,electronic,None
+4482,indie,None
+4483,tribal,None
+4484,electronic,None
+4485,alternative,None
+4486,alternative,None
+4487,rock,None
+4488,water,None
+4489,alternative,None
+4490,alternative,None
+4491,alternative,None
+4492,alternative,None
+4493,alternative,None
+4494,alternative,None
+4495,alternative,None
+4496,alternative,None
+4497,alternative,None
+4498,rock,None
+4499,water,None
+4500,alternative,None
+4501,alternative,None
+4502,alternative,None
+4503,alternative,None
+4504,alternative,None
+4505,alternative,None
+4506,alternative,None
+4507,alternative,None
+4508,Hip-Hop,None
+4509,pop,None
+4510,Hip-Hop,None
+4511,rap,None
+4512,rap,None
+4513,Hip-Hop,None
+4514,rap,None
+4515,Hip-Hop,None
+4516,hip hop,None
+4517,Mellow,None
+4518,Hip-Hop,None
+4519,hip hop,None
+4520,hip hop,None
+4521,hip hop,None
+4522,rap,None
+4523,Hip-Hop,None
+4524,hip hop,None
+4525,indie,None
+4526,indie,None
+4527,indie,None
+4528,rnb,None
+4529,emo,None
+4530,indie,None
+4531,alternative,None
+4532,Hip-Hop,None
+4533,hip hop tag,None
+4534,Hip-Hop,None
+4535,Hip-Hop,None
+4536,Hip-Hop,None
+4537,hip hop,None
+4538,rap,None
+4539,alternative,None
+4540,Hip-Hop,None
+4541,rap,None
+4542,post-hardcore,None
+4543,alternative,None
+4544,alternative,None
+4545,alternative,None
+4546,alternative,None
+4547,alternative,None
+4548,alternative,None
+4549,alternative,None
+4550,alternative,None
+4551,indie,None
+4552,hip hop,None
+4553,Hip-Hop,None
+4554,rap,None
+4555,alternative,None
+4556,alternative,None
+4557,alternative rock,None
+4558,alternative rock,None
+4559,jazz fusion,None
+4560,jazz fusion,None
+4561,Hip-Hop,None
+4562,hip hop,None
+4563,hip hop,None
+4564,indie,None
+4565,emo,None
+4566,emo,None
+4567,emo,None
+4568,emo,None
+4569,math rock,None
+4570,math rock,None
+4571,indie,None
+4572,emo,None
+4573,emo,None
+4574,emo,None
+4575,alternative,None
+4576,alternative,None
+4577,Lo-Fi,None
+4578,rap,None
+4579,indie,None
+4580,experimental,None
+4581,post-hardcore,None
+4582,noise,None
+4583,experimental,None
+4584,party,None
+4585,Hip-Hop,None
+4586,Hip-Hop,None
+4587,Hip-Hop,None
+4588,indie,None
+4589,indie,None
+4590,funk,None
+4591,indie,None
+4592,indie,None
+4593,indie rock,None
+4594,experimental,None
+4595,Hip-Hop,None
+4596,Hip-Hop,None
+4597,Hip-Hop,None
+4598,hip hop,None
+4599,alternative,None
+4600,alternative,None
+4601,emo,None
+4602,electronic,None
+4603,electronic,None
+4604,emo,None
+4605,indie,None
+4606,indie,None
+4607,indie,None
+4608,alternative,None
+4609,alternative,None
+4610,alternative,None
+4611,alternative,None
+4612,alternative,None
+4613,alternative,None
+4614,alternative,None
+4615,experimental,None
+4616,experimental,None
+4617,punk rock,None
+4618,rock,None
+4619,ska,None
+4620,emo,None
+4621,ambient,None
+4622,electronic,None
+4623,electronic,None
+4624,ambient,None
+4625,electronic,None
+4626,electronic,None
+4627,electronic,None
+4628,electronic,None
+4629,electronic,None
+4630,ambient,None
+4631,electronic,None
+4632,hip hop,None
+4633,hip hop,None
+4634,ska,None
+4635,indie,None
+4636,rock,None
+4637,Hip-Hop,None
+4638,indie,None
+4639,indie,None
+4640,indie,None
+4641,emo,None
+4642,Hip-Hop,None
+4643,Hip-Hop,None
+4644,indie,None
+4645,indie,None
+4646,indie,None
+4647,psychopathic,None
+4648,psychopathic,None
+4649,psychopathic,None
+4650,psychopathic,None
+4651,Hip-Hop,None
+4652,experimental,None
+4653,ska,None
+4654,ska,None
+4655,punk rock,None
+4656,punk rock,None
+4657,punk rock,None
+4658,Hip-Hop,None
+4659,Hip-Hop,None
+4660,pop,None
+4661,post-hardcore,None
+4662,indie,None
+4663,indie rock,None
+4664,indie,None
+4665,indie rock,None
+4666,alternative,None
+4667,alternative,None
+4668,alternative,None
+4669,Hip-Hop,None
+4670,hip hop,None
+4671,Lo-Fi,None
+4672,Hip-Hop,None
+4673,emo,None
+4674,jazz fusion,None
+4675,jazz fusion,None
+4676,funk,None
+4677,orange,None
+4678,electronic,None
+4679,electronic,None
+4680,pop,None
+4681,Hip-Hop,None
+4682,Hip-Hop,None
+4683,jazz fusion,None
+4684,funk,None
+4685,fip,None
+4686,emo,None
+4687,hip hop,None
+4688,hip hop,None
+4689,hip hop,None
+4690,rap,None
+4691,Hip-Hop,None
+4692,Hip-Hop,None
+4693,ska,None
+4694,indie,None
+4695,indie rock,None
+4696,indie,None
+4697,alternative,None
+4698,alternative,None
+4699,alternative,None
+4700,alternative,None
+4701,experimental,None
+4702,experimental,None
+4703,experimental,None
+4704,experimental,None
+4705,indie,None
+4706,indie,None
+4707,indie,None
+4708,indie,None
+4709,indie,None
+4710,Hip-Hop,None
+4711,indie,None
+4712,ska,None
+4713,alternative,None
+4714,alternative,None
+4715,alternative,None
+4716,water,None
+4717,rock,None
+4718,Wiz Khalifa,None
+4719,Wiz Khalifa,None
+4720,90s,None
+4721,Hip-Hop,None
+4722,electronic,None
+4723,Hip-Hop,None
+4724,noise,None
+4725,lo-fi as hell,None
+4726,Lo-Fi,None
+4727,fip,None
+4728,alternative,None
+4729,metalcore,None
+4730,anna of the north,None
+4731,rap,None
+4732,rap,None
+4733,alternative,None
+4734,alternative,None
+4735,rock,None
+4736,water,None
+4737,alternative,None
+4738,alternative,None
+4739,alternative,None
+4740,alternative,None
+4741,alternative,None
+4742,alternative,None
+4743,alternative,None
+4744,chillwave,None
+4745,alternative,None
+4746,alternative,None
+4747,Lo-Fi,None
+4748,ost,None
+4749,rnb,None
+4750,rnb,None
+4751,punk rock,None
+4752,pop,None
+4753,chillout,None
+4754,Lo-Fi,None
+4755,chillout,None
+4756,alternative,None
+4757,water,None
+4758,water,None
+4759,alternative,None
+4760,indie,None
+4761,alternative,None
+4762,indie,None
+4763,indie,None
+4764,indie rock,None
+4765,indie rock,None
+4766,indie,None
+4767,rock,None
+4768,alternative,None
+4769,alternative,None
+4770,alternative,None
+4771,alternative,None
+4772,alternative,None
+4773,alternative,None
+4774,alternative,None
+4775,funk,None
+4776,indie rock,None
+4777,Hip-Hop,None
+4778,hip hop,None
+4779,Progressive rock,None
+4780,Progressive rock,None
+4781,indie,None
+4782,electronic,None
+4783,post-hardcore,None
+4784,90s,None
+4785,90s,None
+4786,lo-fi as hell,None
+4787,fip,None
+4788,fip,None
+4789,alternative,None
+4790,rap,None
+4791,rock,None
+4792,90s,None
+4793,Dance  DJ,None
+4794,indie,None
+4795,indie,None
+4796,indie,None
+4797,indie,None
+4798,indie,None
+4799,alternative,None
+4800,indie,None
+4801,indie,None
+4802,indie,None
+4803,indie,None
+4804,indie,None
+4805,indie,None
+4806,ska,None
+4807,ska,None
+4808,ska,None
+4809,indie,None
+4810,electronic,None
+4811,funk,None
+4812,rnb,None
+4813,rnb,None
+4814,electronic,None
+4815,electronic,None
+4816,alternative,None
+4817,alternative,None
+4818,alternative,None
+4819,alternative,None
+4820,alternative,None
+4821,funk,None
+4822,fip,None
+4823,2017 single,None
+4824,rock,None
+4825,rock,None
+4826,rock,None
+4827,rock,None
+4828,rock,None
+4829,rock,None
+4830,rock,None
+4831,90s,None
+4832,rock,None
+4833,alternative rock,None
+4834,90s,None
+4835,90s,None
+4836,chill,None
+4837,indie,None
+4838,indie,None
+4839,electronic,None
+4840,indie pop,None
+4841,electronic,None
+4842,electronic,None
+4843,ska,None
+4844,rnb,None
+4845,rnb,None
+4846,hip hop,None
+4847,hip hop,None
+4848,hip hop,None
+4849,rnb,None
+4850,hip hop,None
+4851,rnb,None
+4852,Hip-Hop,None
+4853,indie,None
+4854,indie,None
+4855,indie,None
+4856,alternative,None
+4857,alternative,None
+4858,alternative,None
+4859,chillout,None
+4860,indie,None
+4861,indie,None
+4862,indie,None
+4863,indie,None
+4864,indie,None
+4865,indie,None
+4866,indie,None
+4867,indie,None
+4868,indie,None
+4869,indie,None
+4870,indie,None
+4871,alternative,None
+4872,indie,None
+4873,indie,None
+4874,indie,None
+4875,indie,None
+4876,indie,None
+4877,indie,None
+4878,indie,None
+4879,alternative,None
+4880,indie,None
+4881,indie,None
+4882,indie,None
+4883,indie,None
+4884,indie rock,None
+4885,indie,None
+4886,indie,None
+4887,indie,None
+4888,alternative,None
+4889,indie,None
+4890,indie,None
+4891,indie,None
+4892,indie,None
+4893,indie rock,None
+4894,indie,None
+4895,indie,None
+4896,alternative,None
+4897,indie,None
+4898,indie,None
+4899,indie,None
+4900,indie,None
+4901,indie,None
+4902,new wave,None
+4903,new wave,None
+4904,lo-fi as hell,None
+4905,pop,None
+4906,noise,None
+4907,fip,None
+4908,2017 single,None
+4909,alternative,None
+4910,alternative,None
+4911,alternative,None
+4912,alternative,None
+4913,alternative,None
+4914,alternative,None
+4915,rap,None
+4916,rap,None
+4917,Hip-Hop,None
+4918,played,None
+4919,Rex Orange County,None
+4920,Hip-Hop,None
+4921,Hip-Hop,None
+4922,pop,None
+4923,punk rock,None
+4924,punk rock,None
+4925,punk rock,None
+4926,punk rock,None
+4927,indie,None
+4928,fip,None
+4929,Progressive rock,None
+4930,Progressive rock,None
+4931,ska,None
+4932,electronic,None
+4933,electronic,None
+4934,electronic,None
+4935,punk rock,None
+4936,punk rock,None
+4937,punk rock,None
+4938,punk rock,None
+4939,Hip-Hop,None
+4940,rap,None
+4941,rap,None
+4942,Hip-Hop,None
+4943,psychopathic,None
+4944,indie,None
+4945,indie,None
+4946,indie,None
+4947,indie,None
+4948,indie rock,None
+4949,indie rock,None
+4950,indie,None
+4951,indie,None
+4952,rock,None
+4953,Hip-Hop,None
+4954,Hip-Hop,None
+4955,funk,None
+4956,Hip-Hop,None
+4957,Hip-Hop,None
+4958,rap,None
+4959,rap,None
+4960,Hip-Hop,None
+4961,alternative rock,None
+4962,emo,None
+4963,emo,None
+4964,emo,None
+4965,pop,None
+4966,indie,None
+4967,fip,None
+4968,2017 single,None
+4969,alternative,None
+4970,orange,None
+4971,orange,None
+4972,orange,None
+4973,electronic,None
+4974,electronic,None
+4975,electronic,None
+4976,orange,None
+4977,Wiz Khalifa,None
+4978,Wiz Khalifa,None
+4979,pop,None
+4980,pop,None
+4981,rap,None
+4982,chilled,None
+4983,rap,None
+4984,Hip-Hop,None
+4985,rap,None
+4986,Hip-Hop,None
+4987,rap,None
+4988,chilled,None
+4989,rap,None
+4990,rap,None
+4991,Hip-Hop,None
+4992,rap,None
+4993,Hip-Hop,None
+4994,Hip-Hop,None
+4995,rap,None
+4996,rap,None
+4997,rap,None
+4998,Hip-Hop,None
+4999,rap,None
+5000,rap,None
+5001,rap,None
+5002,anna of the north,None
+5003,Estelle,None
+5004,jaden smith,None
+5005,rap,None
+5006,rap,None
+5007,Hip-Hop,None
+5008,played,None
+5009,Rex Orange County,None
+5010,emo,None
+5011,emo,None
+5012,post-hardcore,None
+5013,post-hardcore,None
+5014,post-hardcore,None
+5015,music,None
+5016,Lo-Fi,None
+5017,Lo-Fi,None
+5018,fip,None
+5019,2017 single,None
+5020,alternative,None
+5021,neo-psych,None
+5022,hardcore,None
+5023,post-hardcore,None
+5024,math rock,None
+5025,post-hardcore,None
+5026,indie,None
+5027,post-hardcore,None
+5028,rock,None
+5029,rock,None
+5030,rock,None
+5031,rock,None
+5032,electronic,None
+5033,electronic,None
+5034,electronic,None
+5035,indie,None
+5036,indie,None
+5037,indie,None
+5038,alternative,None
+5039,alternative,None
+5040,alternative,None
+5041,alternative,None
+5042,alternative,None
+5043,alternative,None
+5044,alternative,None
+5045,alternative,None
+5046,alternative,None
+5047,alternative,None
+5048,alternative,None
+5049,alternative,None
+5050,emo,None
+5051,emo,None
+5052,ska,None
+5053,post-hardcore,None
+5054,post-hardcore,None
+5055,post-hardcore,None
+5056,post-hardcore,None
+5057,indie rock,None
+5058,indie rock,None
+5059,indie rock,None
+5060,indie rock,None
+5061,indie,None
+5062,indie rock,None
+5063,indie,None
+5064,indie,None
+5065,indie,None
+5066,indie,None
+5067,Hip-Hop,None
+5068,Hip-Hop,None
+5069,rap,None
+5070,indie,None
+5071,indie,None
+5072,indie,None
+5073,electronic,None
+5074,indie,None
+5075,indie rock,None
+5076,indie,None
+5077,indie,None
+5078,indie,None
+5079,indie,None
+5080,electronic,None
+5081,Estelle,None
+5082,jaden smith,None
+5083,rap,None
+5084,rap,None
+5085,Hip-Hop,None
+5086,played,None
+5087,Rex Orange County,None
+5088,anna of the north,None
+5089,anna of the north,None
+5090,anna of the north,None
+5091,rap,None
+5092,rap,None
+5093,hip hop,None
+5094,Hip-Hop,None
+5095,Canadian,None
+5096,rock,None
+5097,rock,None
+5098,grindcore,None
+5099,noise rock,None
+5100,hardcore,None
+5101,noisecore,None
+5102,noisecore,None
+5103,noisecore,None
+5104,noisecore,None
+5105,hardcore,None
+5106,mathcore,None
+5107,mathcore,None
+5108,grindcore,None
+5109,grindcore,None
+5110,mathcore,None
+5111,rock,None
+5112,rock,None
+5113,hip hop,None
+5114,hip hop,None
+5115,hip hop,None
+5116,hip hop,None
+5117,hip hop,None
+5118,Wiz Khalifa,None
+5119,Wiz Khalifa,None
+5120,Wiz Khalifa,None
+5121,punk rock,None
+5122,punk rock,None
+5123,pop,None
+5124,pop,None
+5125,indie,None
+5126,indie,None
+5127,pop,None
+5128,Hip-Hop,None
+5129,rap,None
+5130,anna of the north,None
+5131,rap,None
+5132,rap,None
+5133,Hip-Hop,None
+5134,played,None
+5135,Rex Orange County,None
+5136,rap,None
+5137,post-hardcore,None
+5138,post-hardcore,None
+5139,post-hardcore,None
+5140,indie,None
+5141,indie,None
+5142,indie,None
+5143,indie,None
+5144,indie,None
+5145,indie,None
+5146,Estelle,None
+5147,jaden smith,None
+5148,rap,None
+5149,rap,None
+5150,Hip-Hop,None
+5151,Hip-Hop,None
+5152,pop,None
+5153,indie,None
+5154,indie,None
+5155,emo,None
+5156,alternative rock,None
+5157,emo,None
+5158,Lo-Fi,None
+5159,indie,None
+5160,lo-fi as hell,None
+5161,rock,None
+5162,rock,None
+5163,electronic,None
+5164,electronic,None
+5165,electronic,None
+5166,electronic,None
+5167,orange,None
+5168,indie,None
+5169,indie,None
+5170,indie,None
+5171,Hip-Hop,None
+5172,Hip-Hop,None
+5173,Hip-Hop,None
+5174,Hip-Hop,None
+5175,indie,None
+5176,screamo,None
+5177,post-hardcore,None
+5178,post-hardcore,None
+5179,post-hardcore,None
+5180,post-hardcore,None
+5181,alternative rock,None
+5182,emo,None
+5183,emo,None
+5184,indie rock,None
+5185,punk rock,None
+5186,punk rock,None
+5187,punk rock,None
+5188,indie,None
+5189,indie,None
+5190,indie,None
+5191,indie,None
+5192,indie,None
+5193,indie,None
+5194,indie,None
+5195,indie,None
+5196,experimental,None
+5197,Lo-Fi,None
+5198,hardcore,None
+5199,Hip-Hop,None
+5200,Hip-Hop,None
+5201,Wiz Khalifa,None
+5202,Wiz Khalifa,None
+5203,Wiz Khalifa,None
+5204,Wiz Khalifa,None
+5205,rap,None
+5206,Wiz Khalifa,None
+5207,Wiz Khalifa,None
+5208,pop,None
+5209,alternative,None
+5210,alternative,None
+5211,alternative,None
+5212,alternative,None
+5213,alternative,None
+5214,rock,None
+5215,90s,None
+5216,hip hop,None
+5217,rnb,None
+5218,90s,None
+5219,90s,None
+5220,TLC Waterfalls,None
+5221,90s,None
+5222,ambient,None
+5223,Hip-Hop,None
+5224,pop,None
+5225,pop,None
+5226,90s,None
+5227,rnb,None
+5228,Wiz Khalifa,None
+5229,rap,None
+5230,Wiz Khalifa,None
+5231,Wiz Khalifa,None
+5232,rap,None
+5233,rap,None
+5234,experimental,None
+5235,alternative,None
+5236,alternative,None
+5237,emo,None
+5238,emo,None
+5239,psychopathic,None
+5240,psychopathic,None
+5241,psychopathic,None
+5242,lo-fi as hell,None
+5243,hip hop,None
+5244,hip hop,None
+5245,alternative,None
+5246,Wiz Khalifa,None
+5247,Wiz Khalifa,None
+5248,rap,None
+5249,anna of the north,None
+5250,Wiz Khalifa,None
+5251,Wiz Khalifa,None
+5252,Wiz Khalifa,None
+5253,Wiz Khalifa,None
+5254,Wiz Khalifa,None
+5255,rap,None
+5256,Wiz Khalifa,None
+5257,Wiz Khalifa,None
+5258,indie,None
+5259,indie,None
+5260,indie,None
+5261,indie,None
+5262,indie,None
+5263,indie,None
+5264,indie,None
+5265,Progressive rock,None
+5266,Progressive rock,None
+5267,rock,None
+5268,rock,None
+5269,indie,None
+5270,indie,None
+5271,indie,None
+5272,rap,None
+5273,rap,None
+5274,alternative rock,None
+5275,rock,None
+5276,emo,None
+5277,emo,None
+5278,emo,None
+5279,indie rock,None
+5280,indie,None
+5281,indie,None
+5282,rock,None
+5283,punk rock,None
+5284,mathcore,None
+5285,mathcore,None
+5286,rnb,None
+5287,indie rock,None
+5288,experimental,None
+5289,Bagel,None
+5290,prog rock,None
+5291,90s,None
+5292,Hip-Hop,None
+5293,Hip-Hop,None
+5294,Hip-Hop,None
+5295,electronic,None
+5296,psychopathic,None
+5297,detroit,None
+5298,pop,None
+5299,pop,None
+5300,electronic,None
+5301,electronic,None
+5302,electronic,None
+5303,electronic,None
+5304,electronic,None
+5305,electronic,None
+5306,electronic,None
+5307,electronic,None
+5308,electronic,None
+5309,electronic,None
+5310,electronic,None
+5311,electronic,None
+5312,punk rock,None
+5313,noise,None
+5314,pop,None
+5315,new wave,None
+5316,new wave,None
+5317,lo-fi as hell,None
+5318,fip,None
+5319,2017 single,None
+5320,experimental,None
+5321,rock,None
+5322,rock,None
+5323,rock,None
+5324,rock,None
+5325,alternative rock,None
+5326,emo,None
+5327,emo,None
+5328,alternative rock,None
+5329,emo,None
+5330,alternative rock,None
+5331,alternative rock,None
+5332,alternative rock,None
+5333,emo,None
+5334,emo,None
+5335,indie rock,None
+5336,hip hop,None
+5337,Hip-Hop,None
+5338,post-hardcore,None
+5339,alternative,None
+5340,alternative,None
+5341,alternative,None
+5342,indie,None
+5343,indie,None
+5344,indie,None
+5345,indie,None
+5346,indie,None
+5347,indie,None
+5348,indie,None
+5349,indie,None
+5350,indie,None
+5351,Lo-Fi,None
+5352,indie,None
+5353,chillout,None
+5354,punk rock,None
+5355,alternative,None
+5356,alternative,None
+5357,alternative,None
+5358,alternative,None
+5359,alternative,None
+5360,90s,None
+5361,dance,None
+5362,pop,None
+5363,rock,None
+5364,90s,None
+5365,old school,None
+5366,rnb,None
+5367,90s,None
+5368,rap,None
+5369,post-hardcore,None
+5370,noise,None
+5371,lo-fi as hell,None
+5372,noise,None
+5373,fip,None
+5374,Lo-Fi,None
+5375,fip,None
+5376,90s,None
+5377,90s,None
+5378,pop,None
+5379,old school,None
+5380,90s,None
+5381,90s,None
+5382,rnb,None
+5383,instrumental,None
+5384,instrumental,None
+5385,Lo-Fi,None
+5386,indie,None
+5387,indie,None
+5388,Lo-Fi,None
+5389,indie,None
+5390,indie,None
+5391,2017 single,None
+5392,fip,None
+5393,synthpop,None
+5394,fip,None
+5395,fip,None
+5396,alternative,None
+5397,Hip-Hop,None
+5398,pop,None
+5399,rock,None
+5400,rock,None
+5401,ambient,None
+5402,ambient,None
+5403,Lo-Fi,None
+5404,Lo-Fi,None
+5405,indie,None
+5406,indie,None
+5407,indie,None
+5408,indie,None
+5409,psychopathic,None
+5410,detroit,None
+5411,chill,None
+5412,rnb,None
+5413,ska,None
+5414,emo,None
+5415,emo,None
+5416,rnb,None
+5417,90s,None
+5418,pop,None
+5419,rnb,None
+5420,Hip-Hop,None
+5421,rap,None
+5422,rock,None
+5423,90s,None
+5424,electronic,None
+5425,psychopathic,None
+5426,Hip-Hop,None
+5427,indie,None
+5428,indie,None
+5429,electronic,None
+5430,electronic,None
+5431,electronic,None
+5432,emo,None
+5433,pop,None
+5434,instrumental,None
+5435,electronica,None
+5436,electronic,None
+5437,rock,None
+5438,metalcore,None
+5439,2017 single,None
+5440,2017 single,None
+5441,alternative,None
+5442,fip,None
+5443,hip hop,None
+5444,Hip-Hop,None
+5445,electronica,None
+5446,industrial,None
+5447,Lo-Fi,None
+5448,indie,None
+5449,indie,None
+5450,indie,None
+5451,indie,None
+5452,indie,None
+5453,indie,None
+5454,indie,None
+5455,indie,None
+5456,rap,None
+5457,rap,None
+5458,emo,None
+5459,indie,None
+5460,G-funk,None
+5461,indie,None
+5462,indie,None
+5463,indie,None
+5464,90s,None
+5465,rock,None
+5466,chillout,None
+5467,Lo-Fi,None
+5468,indie,None
+5469,instrumental,None
+5470,better than my boyfriend,None
+5471,Love,None
+5472,experimental,None
+5473,alternative,None
+5474,alternative,None
+5475,metalcore,None
+5476,Hip-Hop,None
+5477,hardcore,None
+5478,screamo,None
+5479,post-hardcore,None
+5480,post-hardcore,None
+5481,noise,None
+5482,new wave,None
+5483,pop,None
+5484,new wave,None
+5485,lo-fi as hell,None
+5486,Lo-Fi,None
+5487,experimental,None
+5488,punk rock,None
+5489,punk rock,None
+5490,punk rock,None
+5491,punk rock,None
+5492,punk rock,None
+5493,punk rock,None
+5494,indie,None
+5495,indie,None
+5496,experimental,None
+5497,Lo-Fi,None
+5498,indie,None
+5499,rock,None
+5500,indie,None
+5501,experimental,None
+5502,Lo-Fi,None
+5503,Lo-Fi,None
+5504,spacing-out,None
+5505,indie,None
+5506,indie,None
+5507,indie,None
+5508,indie rock,None
+5509,indie,None
+5510,Hip-Hop,None
+5511,Hip-Hop,None
+5512,hip hop,None
+5513,metal,None
+5514,Nu Metal,None
+5515,metal,None
+5516,Hip-Hop,None
+5517,Hip-Hop,None
+5518,Hip-Hop,None
+5519,Lo-Fi,None
+5520,Lo-Fi,None
+5521,emo,None
+5522,emo,None
+5523,alternative rock,None
+5524,alternative rock,None
+5525,alternative rock,None
+5526,emo,None
+5527,emo,None
+5528,indie rock,None
+5529,alternative,None
+5530,alternative,None
+5531,alternative,None
+5532,alternative,None
+5533,pop,None
+5534,indie,None
+5535,Lo-Fi,None
+5536,fip,None
+5537,alternative,None
+5538,pop,None
+5539,lo-fi as hell,None
+5540,experimental,None
+5541,noise,None
+5542,pop,None
+5543,new wave,None
+5544,lo-fi as hell,None
+5545,Lo-Fi,None
+5546,ska,None
+5547,ska,None
+5548,emo,None
+5549,indie rock,None
+5550,math rock,None
+5551,rap,None
+5552,rap,None
+5553,rap,None
+5554,Hip-Hop,None
+5555,rap,None
+5556,rap,None
+5557,rap,None
+5558,rap,None
+5559,rap,None
+5560,classic,None
+5561,punk rock,None
+5562,indie,None
+5563,indie,None
+5564,indie,None
+5565,psychopathic,None
+5566,ambient,None
+5567,ambient,None
+5568,ambient,None
+5569,alternative rock,None
+5570,alternative rock,None
+5571,alternative rock,None
+5572,emo,None
+5573,emo,None
+5574,indie rock,None
+5575,indie rock,None
+5576,indie rock,None
+5577,indie rock,None
+5578,indie rock,None
+5579,rock,None
+5580,alternative,None
+5581,90s,None
+5582,rock,None
+5583,Hip-Hop,None
+5584,indie,None
+5585,90s,None
+5586,rnb,None
+5587,hip hop,None
+5588,90s,None
+5589,neo-psych,None
+5590,Lo-Fi,None
+5591,Lo-Fi,None
+5592,fip,None
+5593,2017 single,None
+5594,alternative,None
+5595,neo-psych,None
+5596,music,None
+5597,Lo-Fi,None
+5598,Lo-Fi,None
+5599,fip,None
+5600,2017 single,None
+5601,alternative,None
+5602,neo-psych,None
+5603,frogs,None
+5604,Why,None
+5605,psychedelic pop,None
+5606,food,None
+5607,wow,None
+5608,dont play my bassline wrong dickhead,None
+5609,experimental,None
+5610,new wave,None
+5611,noise,None
+5612,new wave,None
+5613,pop,None
+5614,new wave,None
+5615,lo-fi as hell,None
+5616,Lo-Fi,None
+5617,experimental,None
+5618,indie,None
+5619,noise,None
+5620,pop,None
+5621,noise,None
+5622,noise,None
+5623,lo-fi as hell,None
+5624,pop,None
+5625,90s,None
+5626,rap,None
+5627,rnb,None
+5628,Progressive rock,None
+5629,alternative,None
+5630,alternative,None
+5631,punk rock,None
+5632,punk rock,None
+5633,emo,None
+5634,indie,None
+5635,indie,None
+5636,indie,None
+5637,experimental,None
+5638,Lo-Fi,None
+5639,Lo-Fi,None
+5640,pop,None
+5641,lo-fi as hell,None
+5642,experimental,None
+5643,lo-fi as hell,None
+5644,Lo-Fi,None
+5645,Lo-Fi,None
+5646,noise,None
+5647,Lo-Fi,None
+5648,Lo-Fi,None
+5649,instrumental,None
+5650,Lo-Fi,None
+5651,Love,None
+5652,heben wollen,None
+5653,chill,None
+5654,instrumental,None
+5655,chillout,None
+5656,chill,None
+5657,chill,None
+5658,indie,None
+5659,Lo-Fi,None
+5660,indie,None
+5661,indie rock,None
+5662,indie rock,None
+5663,indie,None
+5664,indie,None
+5665,indie,None
+5666,indie rock,None
+5667,Lo-Fi,None
+5668,Lo-Fi,None
+5669,Lo-Fi,None
+5670,Lo-Fi,None
+5671,Lo-Fi,None
+5672,experimental,None
+5673,Lo-Fi,None
+5674,Lo-Fi,None
+5675,wow,None
+5676,experimental,None
+5677,new wave,None
+5678,noise,None
+5679,new wave,None
+5680,pop,None
+5681,new wave,None
+5682,new wave,None
+5683,lo-fi as hell,None
+5684,Lo-Fi,None
+5685,experimental,None
+5686,indie,None
+5687,Lo-Fi,None
+5688,experimental,None
+5689,Lo-Fi,None
+5690,Lo-Fi,None
+5691,alternative,None
+5692,alternative,None
+5693,Hip-Hop,None
+5694,rock,None
+5695,rock,None
+5696,rnb,None
+5697,My Playlist,None
+5698,reggae,None
+5699,rock,None
+5700,rock,None
+5701,rock,None
+5702,rnb,None
+5703,chill,None
+5704,chill,None
+5705,chill,None
+5706,rap,None
+5707,indie,None
+5708,indie,None
+5709,indie,None
+5710,Hip-Hop,None
+5711,post-hardcore,None
+5712,ska,None
+5713,ska,None
+5714,experimental,None
+5715,noise,None
+5716,lo-fi as hell,None
+5717,pop,None
+5718,fip,None
+5719,2017 single,None
+5720,hip hop,None
+5721,experimental,None
+5722,experimental,None
+5723,experimental,None
+5724,Soundtrack,None
+5725,experimental,None
+5726,experimental,None
+5727,Soundtrack,None
+5728,indie,None
+5729,ska,None
+5730,ska,None
+5731,ska,None
+5732,G-funk,None
+5733,indie,None
+5734,indie,None
+5735,indie rock,None
+5736,indie,None
+5737,indie,None
+5738,alternative rock,None
+5739,rap,None
+5740,rap,None
+5741,chillout,None
+5742,chillout,None
+5743,chillout,None
+5744,ambient,None
+5745,ambient,None
+5746,ambient,None
+5747,pop,None
+5748,pop,None
+5749,noise,None
+5750,noise,None
+5751,noise,None
+5752,pop,None
+5753,pop,None
+5754,new wave,None
+5755,noise,None
+5756,indie,None
+5757,alternative,None
+5758,alternative,None
+5759,alternative,None
+5760,alternative,None
+5761,mathcore,None
+5762,mathcore,None
+5763,mathcore,None
+5764,mathcore,None
+5765,mathcore,None
+5766,Hip-Hop,None
+5767,indie rock,None
+5768,indie,None
+5769,indie,None
+5770,indie,None
+5771,indie rock,None
+5772,indie,None
+5773,indie,None
+5774,Lo-Fi,None
+5775,indie,None
+5776,noise,None
+5777,pop,None
+5778,new wave,None
+5779,lo-fi as hell,None
+5780,alternative,None
+5781,alternative,None
+5782,fip,None
+5783,Hip-Hop,None
+5784,fip,None
+5785,rap,None
+5786,rnb,None
+5787,2017 single,None
+5788,alternative,None
+5789,ska,None
+5790,ska,None
+5791,fip,None
+5792,alternative,None
+5793,ska,None
+5794,indie,None
+5795,indie,None
+5796,Hip-Hop,None
+5797,indie,None
+5798,indie,None
+5799,indie,None
+5800,indie rock,None
+5801,indie,None
+5802,indie,None
+5803,indie,None
+5804,Hip-Hop,None
+5805,electronic,None
+5806,ambient,None
+5807,ambient,None
+5808,ambient,None
+5809,ska,None
+5810,ska,None
+5811,electronic,None
+5812,indie,None
+5813,indie rock,None
+5814,indie,None
+5815,indie,None
+5816,indie,None
+5817,indie,None
+5818,indie,None
+5819,emo,None
+5820,Lo-Fi,None
+5821,Lo-Fi,None
+5822,indie,None
+5823,jazz fusion,None
+5824,jazz fusion,None
+5825,jazz fusion,None
+5826,fip,None
+5827,funk,None
+5828,funk,None
+5829,electronic,None
+5830,jazz fusion,None
+5831,r&b,None
+5832,jazz fusion,None
+5833,jazz fusion,None
+5834,jazz fusion,None
+5835,jazz fusion,None
+5836,jazz fusion,None
+5837,electronic,None
+5838,jazz fusion,None
+5839,indie,None
+5840,indie,None
+5841,fip,None
+5842,2017 single,None
+5843,electronic,None
+5844,orange,None
+5845,electronic,None
+5846,ska,None
+5847,ska,None
+5848,ska,None
+5849,ska,None
+5850,ska,None
+5851,ska,None
+5852,ska,None
+5853,ska,None
+5854,pop,None
+5855,alternative,None
+5856,pop,None
+5857,fip,None
+5858,fip,None
+5859,synthpop,None
+5860,fip,None
+5861,fip,None
+5862,electronic,None
+5863,electronic,None
+5864,electronic,None
+5865,electronic,None
+5866,lo-fi as hell,None
+5867,downtempo,None
+5868,electronic,None
+5869,Hip-Hop,None
+5870,Hip-Hop,None
+5871,chill,None
+5872,Hip-Hop,None
+5873,jazz fusion,None
+5874,ska,None
+5875,Love,None
+5876,Hip-Hop,None
+5877,Hip-Hop,None
+5878,Hip-Hop,None
+5879,punk rock,None
+5880,punk rock,None
+5881,punk rock,None
+5882,punk rock,None
+5883,indie,None
+5884,2017 single,None
+5885,metalcore,None
+5886,metalcore,None
+5887,death metal,None
+5888,math rock,None
+5889,math rock,None
+5890,math rock,None
+5891,Progressive rock,None
+5892,Progressive rock,None
+5893,Progressive rock,None
+5894,Progressive rock,None
+5895,Progressive rock,None
+5896,rnb,None
+5897,rnb,None
+5898,rnb,None
+5899,rnb,None
+5900,psychopathic,None
+5901,psychopathic,None
+5902,psychopathic,None
+5903,psychopathic,None
+5904,psychopathic,None
+5905,Hip-Hop,None
+5906,G-funk,None
+5907,funk,None
+5908,funk,None
+5909,industrial,None
+5910,Progressive rock,None
+5911,hip hop,None
+5912,Hip-Hop,None
+5913,Hip-Hop,None
+5914,new wave,None
+5915,new wave,None
+5916,new wave,None
+5917,new wave,None
+5918,new wave,None
+5919,lo-fi as hell,None
+5920,indie,None
+5921,fip,None
+5922,2017 single,None
+5923,Lo-Fi,None
+5924,fip,None
+5925,2017 single,None
+5926,alternative,None
+5927,neo-psych,None
+5928,pop,None
+5929,metalcore,None
+5930,punk rock,None
+5931,fip,None
+5932,favorites,None
+5933,favorites,None
+5934,Hip-Hop,None
+5935,Hip-Hop,None
+5936,Hip-Hop,None
+5937,Hip-Hop,None
+5938,Hip-Hop,None
+5939,Hip-Hop,None
+5940,Hip-Hop,None
+5941,Hip-Hop,None
+5942,Hip-Hop,None
+5943,Hip-Hop,None
+5944,Hip-Hop,None
+5945,Hip-Hop,None
+5946,Hip-Hop,None
+5947,Hip-Hop,None
+5948,indie,None
+5949,ska,None
+5950,lo-fi as hell,None
+5951,lo-fi as hell,None
+5952,alternative,None
+5953,rock,None
+5954,orange,None
+5955,electronic,None
+5956,electronic,None
+5957,indie,None
+5958,indie,None
+5959,Lo-Fi,None
+5960,indie,None
+5961,indie,None
+5962,indie,None
+5963,Lo-Fi,None
+5964,emo,None
+5965,emo,None
+5966,emo,None
+5967,hip hop,None
+5968,emo,None
+5969,rock,None
+5970,rock,None
+5971,hip hop,None
+5972,Progressive rock,None
+5973,Progressive rock,None
+5974,pop,None
+5975,pop,None
+5976,pop,None
+5977,chillout,None
+5978,chillout,None
+5979,chillout,None
+5980,chillout,None
+5981,chillout,None
+5982,chillout,None
+5983,chillout,None
+5984,jazz fusion,None
+5985,jazz fusion,None
+5986,jazz fusion,None
+5987,fip,None
+5988,funk,None
+5989,funk,None
+5990,electronic,None
+5991,jazz fusion,None
+5992,r&b,None
+5993,jazz fusion,None
+5994,jazz fusion,None
+5995,jazz fusion,None
+5996,jazz fusion,None
+5997,jazz fusion,None
+5998,electronic,None
+5999,jazz fusion,None
+6000,pop,None
+6001,Hip-Hop,None
+6002,Hip-Hop,None
+6003,indie,None
+6004,Hip-Hop,None
+6005,hip hop,None
+6006,Hip-Hop,None
+6007,Hip-Hop,None
+6008,Hip-Hop,None
+6009,Hip-Hop,None
+6010,Hip-Hop,None
+6011,Hip-Hop,None
+6012,G-funk,None
+6013,indie,None
+6014,indie,None
+6015,indie,None
+6016,ska,None
+6017,emo,None
+6018,emo,None
+6019,emo,None
+6020,emo,None
+6021,emo,None
+6022,emo,None
+6023,emo,None
+6024,emo,None
+6025,emo,None
+6026,emo,None
+6027,emo,None
+6028,emo,None
+6029,emo,None
+6030,emo,None
+6031,emo,None
+6032,emo,None
+6033,emo,None
+6034,Hip-Hop,None
+6035,Hip-Hop,None
+6036,emo,None
+6037,emo,None
+6038,emo,None
+6039,emo,None
+6040,emo,None
+6041,emo,None
+6042,emo,None
+6043,emo,None
+6044,emo,None
+6045,emo,None
+6046,emo,None
+6047,emo,None
+6048,emo,None
+6049,emo,None
+6050,emo,None
+6051,emo,None
+6052,emo,None
+6053,emo,None
+6054,emo,None
+6055,emo,None
+6056,emo,None
+6057,emo,None
+6058,emo,None
+6059,emo,None
+6060,emo,None
+6061,emo,None
+6062,alternative rock,None
+6063,indie,None
+6064,indie,None
+6065,indie,None
+6066,indie rock,None
+6067,indie,None
+6068,indie,None
+6069,Lo-Fi,None
+6070,Lo-Fi,None
+6071,fip,None
+6072,ska,None
+6073,ska,None
+6074,pop,None
+6075,pop,None
+6076,alternative,None
+6077,alternative,None
+6078,alternative,None
+6079,ska,None
+6080,ska,None
+6081,ska,None
+6082,Nu Metal,None
+6083,punk rock,None
+6084,ska,None
+6085,ska,None
+6086,ska,None
+6087,indie,None
+6088,indie,None
+6089,rock,None
+6090,rock,None
+6091,pop,None
+6092,spacing-out,None
+6093,metalcore,None
+6094,hardcore,None
+6095,alternative,None
+6096,pop,None
+6097,Love,None
+6098,pop,None
+6099,pop,None
+6100,indie,None
+6101,indie,None
+6102,alternative rock,None
+6103,alternative rock,None
+6104,pop,None
+6105,Hip-Hop,None
+6106,Hip-Hop,None
+6107,hip hop,None
+6108,hip hop,None
+6109,hip hop,None
+6110,alternative,None
+6111,alternative,None
+6112,music,None
+6113,fip,None
+6114,fip,None
+6115,2017 single,None
+6116,Hip-Hop,None
+6117,Hip-Hop,None
+6118,Hip-Hop,None
+6119,alternative,None
+6120,electronic,None
+6121,electronic,None
+6122,electronic,None
+6123,alternative,None
+6124,reggae,None
+6125,punk rock,None
+6126,punk rock,None
+6127,Lo-Fi,None
+6128,experimental,None
+6129,Lo-Fi,None
+6130,Lo-Fi,None
+6131,Lo-Fi,None
+6132,2017 single,None
+6133,pop,None
+6134,indie,None
+6135,indie,None
+6136,indie,None
+6137,indie rock,None
+6138,indie,None
+6139,chillout,None
+6140,indie,None
+6141,indie,None
+6142,indie,None
+6143,chill,None
+6144,indie,None
+6145,indie rock,None
+6146,indie rock,None
+6147,indie,None
+6148,indie,None
+6149,indie,None
+6150,indie rock,None
+6151,indie,None
+6152,chillout,None
+6153,indie,None
+6154,indie,None
+6155,indie,None
+6156,chill,None
+6157,indie,None
+6158,indie rock,None
+6159,indie rock,None
+6160,indie,None
+6161,indie rock,None
+6162,indie rock,None
+6163,indie,None
+6164,indie,None
+6165,indie,None
+6166,indie rock,None
+6167,Lo-Fi,None
+6168,fip,None
+6169,2017 single,None
+6170,2017 single,None
+6171,new wave,None
+6172,pop,None
+6173,new wave,None
+6174,lo-fi as hell,None
+6175,lo-fi as hell,None
+6176,Lo-Fi,None
+6177,2017 single,None
+6178,2017 single,None
+6179,Hip-Hop,None
+6180,G-funk,None
+6181,G-funk,None
+6182,alternative rock,None
+6183,alternative rock,None
+6184,hip hop,None
+6185,hip hop,None
+6186,rock,None
+6187,rock,None
+6188,neo-psych,None
+6189,neo-psych,None
+6190,fip,None
+6191,indie,None
+6192,ska,None
+6193,Lo-Fi,None
+6194,new wave,None
+6195,pop,None
+6196,alternative,None
+6197,alternative,None
+6198,Lo-Fi,None
+6199,Lo-Fi,None
+6200,Hip-Hop,None
+6201,emo,None
+6202,emo,None
+6203,emo,None
+6204,ska,None
+6205,ska,None
+6206,ska,None
+6207,ska,None
+6208,ska,None
+6209,Hip-Hop,None
+6210,ska,None
+6211,ska,None
+6212,ska,None
+6213,indie,None
+6214,indie,None
+6215,hip hop,None
+6216,chillout,None
+6217,Progressive rock,None
+6218,Progressive rock,None
+6219,90s,None
+6220,electronic,None
+6221,electronic,None
+6222,instrumental,None
+6223,fip,None
+6224,orange,None
+6225,orange,None
+6226,Nu Metal,None
+6227,Nu Metal,None
+6228,metal,None
+6229,Nu Metal,None
+6230,metal,None
+6231,metal,None
+6232,metal,None
+6233,metal,None
+6234,experimental,None
+6235,Nu Metal,None
+6236,Hip-Hop,None
+6237,ambient,None
+6238,electronic,None
+6239,electronic,None
+6240,ambient,None
+6241,ambient,None
+6242,electronic,None
+6243,electronic,None
+6244,electronic,None
+6245,electronic,None
+6246,electronic,None
+6247,ambient,None
+6248,electronic,None
+6249,electronic,None
+6250,electronic,None
+6251,electronic,None
+6252,electronic,None
+6253,electronic,None
+6254,electronic,None
+6255,ambient,None
+6256,ambient,None
+6257,electronic,None
+6258,ambient,None
+6259,electronic,None
+6260,electronic,None
+6261,electronic,None
+6262,electronic,None
+6263,ambient,None
+6264,electronic,None
+6265,instrumental,None
+6266,prog rock,None
+6267,Lo-Fi,None
+6268,Lo-Fi,None
+6269,instrumental,None
+6270,indie,None
+6271,indie,None
+6272,experimental,None
+6273,experimental,None
+6274,Lo-Fi,None
+6275,indie,None
+6276,rock,None
+6277,indie,None
+6278,experimental,None
+6279,shoegaze,None
+6280,indie,None
+6281,shoegaze,None
+6282,indie,None
+6283,indie,None
+6284,indie,None
+6285,indie,None
+6286,indie,None
+6287,indie,None
+6288,indie,None
+6289,hip hop,None
+6290,Hip-Hop,None
+6291,hip hop,None
+6292,Hip-Hop,None
+6293,90s,None
+6294,Hip-Hop,None
+6295,hip hop,None
+6296,Hip-Hop,None
+6297,alternative rock,None
+6298,alternative rock,None
+6299,alternative rock,None
+6300,Hip-Hop,None
+6301,metalcore,None
+6302,ska,None
+6303,Hip-Hop,None
+6304,indie rock,None
+6305,electronic,None
+6306,chillout,None
+6307,ambient,None
+6308,Hip-Hop,None
+6309,Rap  Hip-Hop,None
+6310,Hip-Hop,None
+6311,Hip-Hop,None
+6312,rap,None
+6313,rap,None
+6314,ambient,None
+6315,ambient,None
+6316,instrumental,None
+6317,ambient,None
+6318,ambient,None
+6319,electronic,None
+6320,ambient,None
+6321,ambient,None
+6322,electronic,None
+6323,ambient,None
+6324,ambient,None
+6325,orange,None
+6326,chillout,None
+6327,alternative rock,None
+6328,industrial,None
+6329,industrial,None
+6330,industrial,None
+6331,Hip-Hop,None
+6332,G-funk,None
+6333,hip hop,None
+6334,ambient,None
+6335,ambient,None
+6336,electronic,None
+6337,ambient,None
+6338,ambient,None
+6339,Hip-Hop,None
+6340,Hip-Hop,None
+6341,Hip-Hop,None
+6342,rap,None
+6343,hip hop,None
+6344,Hip-Hop,None
+6345,Hip-Hop,None
+6346,Hip-Hop,None
+6347,jay-z,None
+6348,Hip-Hop,None
+6349,Hip-Hop,None
+6350,Hip-Hop,None
+6351,Hip-Hop,None
+6352,Hip-Hop,None
+6353,Hip-Hop,None
+6354,Hip-Hop,None
+6355,Hip-Hop,None
+6356,rap,None
+6357,jay-z,None
+6358,Hip-Hop,None
+6359,Hip-Hop,None
+6360,Hip-Hop,None
+6361,Hip-Hop,None
+6362,Hip-Hop,None
+6363,Hip-Hop,None
+6364,Hip-Hop,None
+6365,rap,None
+6366,Hip-Hop,None
+6367,rap,None
+6368,fip,None
+6369,indie rock,None
+6370,Hip-Hop,None
+6371,Hip-Hop,None
+6372,Hip-Hop,None
+6373,Lo-Fi,None
+6374,Lo-Fi,None
+6375,Lo-Fi,None
+6376,fip,None
+6377,alternative,None
+6378,post-hardcore,None
+6379,indie,None
+6380,post-hardcore,None
+6381,post-hardcore,None
+6382,post-hardcore,None
+6383,post-hardcore,None
+6384,hip hop,None
+6385,Lo-Fi,None
+6386,indie,None
+6387,Lo-Fi,None
+6388,take a look,None
+6389,indie,None
+6390,indie,None
+6391,rock,None
+6392,alternative,None
+6393,alternative,None
+6394,alternative,None
+6395,reggae,None
+6396,rock,None
+6397,rock,None
+6398,instrumental,None
+6399,instrumental,None
+6400,experimental,None
+6401,Hip-Hop,None
+6402,party,None
+6403,Hip-Hop,None
+6404,psychopathic,None
+6405,Hip-Hop,None
+6406,Hip-Hop,None
+6407,electronic,None
+6408,ska,None
+6409,punk rock,None
+6410,punk rock,None
+6411,punk rock,None
+6412,alternative,None
+6413,fip,None
+6414,Lo-Fi,None
+6415,indie rock,None
+6416,indie,None
+6417,indie,None
+6418,shoegaze,None
+6419,chillout,None
+6420,hip hop,None
+6421,soft music,None
+6422,hardcore,None
+6423,alternative,None
+6424,screamo,None
+6425,alternative,None
+6426,take a look,None
+6427,rap,None
+6428,experimental,None
+6429,experimental,None
+6430,experimental,None
+6431,experimental,None
+6432,experimental,None
+6433,fip,None
+6434,Hip-Hop,None
+6435,Hip-Hop,None
+6436,Hip-Hop,None
+6437,rap,None
+6438,alternative,None
+6439,indie,None
+6440,indie,None
+6441,Lo-Fi,None
+6442,Nu Metal,None
+6443,instrumental,None
+6444,fip,None
+6445,Lo-Fi,None
+6446,indie,None
+6447,alternative,None
+6448,new wave,None
+6449,ambient,None
+6450,electronic,None
+6451,instrumental,None
+6452,fip,None
+6453,screamo,None
+6454,post-hardcore,None
+6455,post-hardcore,None
+6456,post-hardcore,None
+6457,hardcore,None
+6458,live,None
+6459,indie,None
+6460,post-hardcore,None
+6461,indie,None
+6462,screamo,None
+6463,hardcore,None
+6464,hardcore,None
+6465,indie,None
+6466,hardcore,None
+6467,post-hardcore,None
+6468,hardcore,None
+6469,emo,None
+6470,Hip-Hop,None
+6471,instrumental,None
+6472,fip,None
+6473,instrumental,None
+6474,fip,None
+6475,smokey,None
+6476,smokey,None
+6477,alternative,None
+6478,fip,None
+6479,music,None
+6480,pop,None
+6481,new wave,None
+6482,lo-fi as hell,None
+6483,indie,None
+6484,Hip-Hop,None
+6485,hip hop,None
+6486,hip hop,None
+6487,Hip-Hop,None
+6488,psychopathic,None
+6489,instrumental,None
+6490,instrumental,None
+6491,instrumental,None
+6492,instrumental,None
+6493,math rock,None
+6494,industrial metal,None
+6495,industrial metal,None
+6496,punk,None
+6497,post-hardcore,None
+6498,post-hardcore,None
+6499,hardcore,None
+6500,post-hardcore,None
+6501,post-hardcore,None
+6502,Lo-Fi,None
+6503,indie,None
+6504,Lo-Fi,None
+6505,indie,None
+6506,indie,None
+6507,indie,None
+6508,Lo-Fi,None
+6509,new wave,None
+6510,fip,None
+6511,experimental,None
+6512,experimental,None
+6513,hardcore,None
+6514,take a look,None
+6515,alternative,None
+6516,metalcore,None
+6517,ska,None
+6518,ska,None
+6519,rock,None
+6520,alternative rock,None
+6521,alternative rock,None
+6522,indie,None
+6523,rock,None
+6524,Hip-Hop,None
+6525,Hip-Hop,None
+6526,Hip-Hop,None
+6527,Hip-Hop,None
+6528,experimental,None
+6529,punk rock,None
+6530,Lo-Fi,None
+6531,Lo-Fi,None
+6532,indie,None
+6533,fip,None
+6534,alternative,None
+6535,neo-psych,None
+6536,post-hardcore,None
+6537,electronic,None
+6538,ambient,None
+6539,indie,None
+6540,indie,None
+6541,rap,None
+6542,Hip-Hop,None
+6543,schrockstar,None
+6544,schrockstar,None
+6545,instrumental,None
+6546,ambient,None
+6547,instrumental,None
+6548,ambient,None
+6549,ambient,None
+6550,ambient,None
+6551,indie,None
+6552,post-rock,None
+6553,pop,None
+6554,math rock,None
+6555,math rock,None
+6556,experimental,None
+6557,post-rock,None
+6558,instrumental,None
+6559,math rock,None
+6560,instrumental,None
+6561,math rock,None
+6562,math rock,None
+6563,math rock,None
+6564,math rock,None
+6565,math rock,None
+6566,Hip-Hop,None
+6567,Hip-Hop,None
+6568,hip hop,None
+6569,Hip-Hop,None
+6570,Hip-Hop,None
+6571,Hip-Hop,None
+6572,hip hop,None
+6573,rap,None
+6574,a,None
+6575,rock,None
+6576,pop,None
+6577,new wave,None
+6578,lo-fi as hell,None
+6579,indie,None
+6580,indie,None
+6581,indie,None
+6582,indie,None
+6583,electronic,None
+6584,experimental,None
+6585,experimental,None
+6586,experimental,None
+6587,indie,None
+6588,indie,None
+6589,hip hop,None
+6590,hip hop,None
+6591,Hip-Hop,None
+6592,Hip-Hop,None
+6593,G-funk,None
+6594,fip,None
+6595,2017 single,None
+6596,alternative,None
+6597,neo-psych,None
+6598,party,None
+6599,Hip-Hop,None
+6600,Hip-Hop,None
+6601,Hip-Hop,None
+6602,Hip-Hop,None
+6603,Hip-Hop,None
+6604,Hip-Hop,None
+6605,Hip-Hop,None
+6606,Hip-Hop,None
+6607,Hip-Hop,None
+6608,rap,None
+6609,Lo-Fi,None
+6610,experimental,None
+6611,Lo-Fi,None
+6612,Lo-Fi,None
+6613,Lo-Fi,None
+6614,electronic,None
+6615,Hip-Hop,None
+6616,Hip-Hop,None
+6617,Hip-Hop,None
+6618,funk,None
+6619,ska,None
+6620,ska,None
+6621,ska,None
+6622,alternative,None
+6623,alternative,None
+6624,Hip-Hop,None
+6625,Hip-Hop,None
+6626,Hip-Hop,None
+6627,Hip-Hop,None
+6628,indie rock,None
+6629,indie rock,None
+6630,indie rock,None
+6631,indie rock,None
+6632,indie rock,None
+6633,indie,None
+6634,indie,None
+6635,indie,None
+6636,indie,None
+6637,lo-fi as hell,None
+6638,Lo-Fi,None
+6639,music,None
+6640,chillout,None
+6641,G-funk,None
+6642,music,None
+6643,rock,None
+6644,rock,None
+6645,funk,None
+6646,Hip-Hop,None
+6647,G-funk,None
+6648,experimental,None
+6649,experimental,None
+6650,ambient,None
+6651,downtempo,None
+6652,chillout,None
+6653,chillout,None
+6654,electronic,None
+6655,electronic,None
+6656,instrumental,None
+6657,ambient,None
+6658,downtempo,None
+6659,downtempo,None
+6660,electronic,None
+6661,electronic,None
+6662,instrumental,None
+6663,ambient,None
+6664,downtempo,None
+6665,music,None
+6666,Lo-Fi,None
+6667,Lo-Fi,None
+6668,fip,None
+6669,2017 single,None
+6670,music,None
+6671,Lo-Fi,None
+6672,Lo-Fi,None
+6673,fip,None
+6674,2017 single,None
+6675,alternative,None
+6676,neo-psych,None
+6677,indie,None
+6678,ambient,None
+6679,funk,None
+6680,Lo-Fi,None
+6681,indie,None
+6682,indie,None
+6683,ska,None
+6684,ska,None
+6685,ska,None
+6686,ska,None
+6687,ska,None
+6688,Hip-Hop,None
+6689,Hip-Hop,None
+6690,Hip-Hop,None
+6691,Hip-Hop,None
+6692,G-funk,None
+6693,Hip-Hop,None
+6694,weird,None
+6695,Lo-Fi,None
+6696,Lo-Fi,None
+6697,Lo-Fi,None
+6698,relax,None
+6699,Lo-Fi,None
+6700,Lo-Fi,None
+6701,noise,None
+6702,Lo-Fi,None
+6703,Lo-Fi,None
+6704,Lo-Fi,None
+6705,spacing-out,None
+6706,indie,None
+6707,indie,None
+6708,Hip-Hop,None
+6709,Hip-Hop,None
+6710,Gangsta Rap,None
+6711,alternative rock,None
+6712,Hip-Hop,None
+6713,Hip-Hop,None
+6714,G-funk,None
+6715,G-funk,None
+6716,Hip-Hop,None
+6717,Gangsta Rap,None
+6718,Lo-Fi,None
+6719,indie,None
+6720,indie,None
+6721,indie,None
+6722,indie,None
+6723,80s,None
+6724,hip hop,None
+6725,hip hop,None
+6726,hip hop,None
+6727,hip hop,None
+6728,hip hop,None
+6729,hip hop,None
+6730,hip hop,None
+6731,hip hop,None
+6732,hip hop,None
+6733,hip hop,None
+6734,hip hop,None
+6735,hip hop,None
+6736,hip hop,None
+6737,hip hop,None
+6738,hip hop,None
+6739,hip hop,None
+6740,hip hop,None
+6741,hip hop,None
+6742,rap,None
+6743,hip hop,None
+6744,rap,None
+6745,hip hop,None
+6746,hip hop,None
+6747,hip hop,None
+6748,rap,None
+6749,noise,None
+6750,noise,None
+6751,pop,None
+6752,lo-fi as hell,None
+6753,noise,None
+6754,experimental,None
+6755,rap,None
+6756,Hip-Hop,None
+6757,indie,None
+6758,indie,None
+6759,Lo-Fi,None
+6760,Lo-Fi,None
+6761,instrumental,None
+6762,indie,None
+6763,indie,None
+6764,experimental,None
+6765,experimental,None
+6766,Lo-Fi,None
+6767,indie,None
+6768,rock,None
+6769,indie,None
+6770,experimental,None
+6771,electronic,None
+6772,ambient,None
+6773,electronic,None
+6774,noise,None
+6775,electronic,None
+6776,ambient,None
+6777,electronic,None
+6778,electronic,None
+6779,ambient,None
+6780,electronic,None
+6781,electronic,None
+6782,electronic,None
+6783,ambient,None
+6784,electronic,None
+6785,ambient,None
+6786,indie,None
+6787,indie,None
+6788,indie,None
+6789,indie,None
+6790,indie,None
+6791,indie rock,None
+6792,indie,None
+6793,ska,None
+6794,ska,None
+6795,reggae,None
+6796,ska,None
+6797,ska,None
+6798,ska,None
+6799,pop,None
+6800,indie,None
+6801,indie,None
+6802,indie,None
+6803,indie,None
+6804,Lo-Fi,None
+6805,indie,None
+6806,post-hardcore,None
+6807,Hip-Hop,None
+6808,Hip-Hop,None
+6809,90s,None
+6810,G-funk,None
+6811,Hip-Hop,None
+6812,fip,None
+6813,Lo-Fi,None
+6814,Lo-Fi,None
+6815,rap,None
+6816,rap,None
+6817,Hip-Hop,None
+6818,Hip-Hop,None
+6819,Hip-Hop,None
+6820,Hip-Hop,None
+6821,Hip-Hop,None
+6822,Gangsta Rap,None
+6823,indie,None
+6824,indie,None
+6825,indie,None
+6826,funk,None
+6827,Hip-Hop,None
+6828,hip hop,None
+6829,Hip-Hop,None
+6830,Hip-Hop,None
+6831,Hip-Hop,None
+6832,Hip-Hop,None
+6833,rap,None
+6834,experimental,None
+6835,experimental,None
+6836,experimental,None
+6837,Lo-Fi,None
+6838,indie,None
+6839,ska,None
+6840,ska,None
+6841,Lo-Fi,None
+6842,fip,None
+6843,2017 single,None
+6844,indie,None
+6845,indie,None
+6846,indie,None
+6847,chillwave,None
+6848,chillwave,None
+6849,indie,None
+6850,indie,None
+6851,Lo-Fi,None
+6852,fip,None
+6853,Hip-Hop,None
+6854,Hip-Hop,None
+6855,Hip-Hop,None
+6856,Hip-Hop,None
+6857,chillwave,None
+6858,post-hardcore,None
+6859,screamo,None
+6860,post-hardcore,None
+6861,post-hardcore,None
+6862,post-hardcore,None
+6863,post-hardcore,None
+6864,hardcore,None
+6865,screamo,None
+6866,experimental,None
+6867,screamo,None
+6868,post-hardcore,None
+6869,post-hardcore,None
+6870,hardcore,None
+6871,Hip-Hop,None
+6872,Gangsta Rap,None
+6873,Gangsta Rap,None
+6874,Hip-Hop,None
+6875,indie,None
+6876,indie,None
+6877,new wave,None
+6878,lo-fi as hell,None
+6879,noise,None
+6880,2017 single,None
+6881,Lo-Fi,None
+6882,fip,None
+6883,Lo-Fi,None
+6884,christmas,None
+6885,indie,None
+6886,Lo-Fi,None
+6887,casiotones,None
+6888,Lo-Fi,None
+6889,Lo-Fi,None
+6890,Lo-Fi,None
+6891,seen live,None
+6892,Awesome,None
+6893,indie,None
+6894,indie,None
+6895,funk,None
+6896,funk,None
+6897,hip hop,None
+6898,rock,None
+6899,rock,None
+6900,rock,None
+6901,indie,None
+6902,Lo-Fi,None
+6903,indie rock,None
+6904,80s,None
+6905,rock,None
+6906,indie,None
+6907,indie,None
+6908,indie,None
+6909,indie,None
+6910,fip,None
+6911,funk,None
+6912,alternative rock,None
+6913,alternative rock,None
+6914,chillwave,None
+6915,indie,None
+6916,indie,None
+6917,punk rock,None
+6918,indie,None
+6919,indie,None
+6920,alternative,None
+6921,electronic,None
+6922,electronic,None
+6923,electronic,None
+6924,Lo-Fi,None
+6925,Lo-Fi,None
+6926,indie rock,None
+6927,90s,None
+6928,90s,None
+6929,90s,None
+6930,Hip-Hop,None
+6931,hardcore,None
+6932,hardcore,None
+6933,indie,None
+6934,pop,None
+6935,Hip-Hop,None
+6936,rap,None
+6937,goregrind,None
+6938,rap,None
+6939,goregrind,None
+6940,rap,None
+6941,psychopathic,None
+6942,psychopathic,None
+6943,psychopathic,None
+6944,ska,None
+6945,rock,None
+6946,90s,None
+6947,Lo-Fi,None
+6948,alternative,None
+6949,chill,None
+6950,chill,None
+6951,alternative,None
+6952,alternative,None
+6953,indie,None
+6954,Lo-Fi,None
+6955,indie,None
+6956,Lo-Fi,None
+6957,music,None
+6958,Lo-Fi,None
+6959,Lo-Fi,None
+6960,fip,None
+6961,2017 single,None
+6962,alternative,None
+6963,neo-psych,None
+6964,industrial,None
+6965,emo,None
+6966,emo,None
+6967,emo,None
+6968,emo,None
+6969,emo,None
+6970,emo,None
+6971,emo,None
+6972,emo,None
+6973,ska,None
+6974,ska,None
+6975,chillwave,None
+6976,fip,None
+6977,Lo-Fi,None
+6978,Lo-Fi,None
+6979,instrumental,None
+6980,indie,None
+6981,indie,None
+6982,experimental,None
+6983,experimental,None
+6984,Lo-Fi,None
+6985,indie,None
+6986,indie rock,None
+6987,indie rock,None
+6988,indie,None
+6989,indie,None
+6990,indie,None
+6991,indie rock,None
+6992,Lo-Fi,None
+6993,Lo-Fi,None
+6994,instrumental,None
+6995,indie,None
+6996,indie,None
+6997,experimental,None
+6998,experimental,None
+6999,Lo-Fi,None
+7000,indie,None
+7001,Lo-Fi,None
+7002,indie,None
+7003,rock,None
+7004,Lo-Fi,None
+7005,indie,None
+7006,rock,None
+7007,indie,None
+7008,experimental,None
+7009,Lo-Fi,None
+7010,instrumental,None
+7011,indie,None
+7012,indie,None
+7013,experimental,None
+7014,experimental,None
+7015,Lo-Fi,None
+7016,indie,None
+7017,rock,None
+7018,indie,None
+7019,experimental,None
+7020,rap,None
+7021,rnb,None
+7022,experimental,None
+7023,experimental,None
+7024,experimental,None
+7025,Lo-Fi,None
+7026,indie,None
+7027,indie,None
+7028,rock,None
+7029,indie,None
+7030,experimental,None
+7031,indie,None
+7032,indie rock,None
+7033,indie rock,None
+7034,indie,None
+7035,indie,None
+7036,indie,None
+7037,indie rock,None
+7038,noise,None
+7039,experimental,None
+7040,new wave,None
+7041,noise,None
+7042,new wave,None
+7043,pop,None
+7044,new wave,None
+7045,lo-fi as hell,None
+7046,Lo-Fi,None
+7047,experimental,None
+7048,indie,None
+7049,chillwave,None
+7050,rap,None
+7051,rap,None
+7052,Gangsta Rap,None
+7053,Gangsta Rap,None
+7054,Gangsta Rap,None
+7055,rap,None
+7056,fip,None
+7057,chillwave,None
+7058,american,None
+7059,digitalis,None
+7060,played,None
+7061,american,None
+7062,lo-fi as hell,None
+7063,2017 single,None
+7064,2017 single,None
+7065,2017 single,None
+7066,2017 single,None
+7067,electronic,None
+7068,pop,None
+7069,90s,None
+7070,indie,None
+7071,indie,None
+7072,indie,None
+7073,indie,None
+7074,metalcore,None
+7075,metalcore,None
+7076,rap,None
+7077,experimental,None
+7078,90s,None
+7079,alternative,None
+7080,Gangsta Rap,None
+7081,Gangsta Rap,None
+7082,Gangsta Rap,None
+7083,Hip-Hop,None
+7084,2017 single,None
+7085,indie,None
+7086,indie,None
+7087,indie,None
+7088,indie,None
+7089,emo,None
+7090,metalcore,None
+7091,metalcore,None
+7092,alternative,None
+7093,alternative,None
+7094,fip,None
+7095,Nu Metal,None
+7096,Nu Metal,None
+7097,Nu Metal,None
+7098,Nu Metal,None
+7099,metal,None
+7100,alternative rock,None
+7101,alternative rock,None
+7102,alternative rock,None
+7103,ska,None
+7104,ska,None
+7105,90s,None
+7106,indie,None
+7107,indie,None
+7108,indie,None
+7109,indie rock,None
+7110,indie rock,None
+7111,indie rock,None
+7112,indie rock,None
+7113,mathcore,None
+7114,mathcore,None
+7115,grindcore,None
+7116,mathcore,None
+7117,experimental,None
+7118,Hip-Hop,None
+7119,rap,None
+7120,indie,None
+7121,post-rock,None
+7122,rock,None
+7123,punk rock,None
+7124,punk rock,None
+7125,punk rock,None
+7126,punk rock,None
+7127,electronic,None
+7128,electronic,None
+7129,electronic,None
+7130,electronic,None
+7131,electronic,None
+7132,electronic,None
+7133,punk rock,None
+7134,post-hardcore,None
+7135,indie,None
+7136,shoegaze,None
+7137,shoegaze,None
+7138,electronic,None
+7139,electronic,None
+7140,alternative,None
+7141,ambient,None
+7142,electronic,None
+7143,ambient,None
+7144,indie,None
+7145,indie,None
+7146,Hip-Hop,None
+7147,electronic,None
+7148,electronic,None
+7149,industrial,None
+7150,ambient,None
+7151,ambient,None
+7152,electronic,None
+7153,ambient,None
+7154,japanski kaos predivan,None
+7155,math rock,None
+7156,Hip-Hop,None
+7157,rap,None
+7158,Hip-Hop,None
+7159,Hip-Hop,None
+7160,Hip-Hop,None
+7161,Hip-Hop,None
+7162,Gangsta Rap,None
+7163,hip hop,None
+7164,ska,None
+7165,ska,None
+7166,ska,None
+7167,ska,None
+7168,ska,None
+7169,ska,None
+7170,ska,None
+7171,ska,None
+7172,ska,None
+7173,alternative rock,None
+7174,alternative rock,None
+7175,alternative rock,None
+7176,alternative,None
+7177,alternative rock,None
+7178,new wave,None
+7179,lo-fi as hell,None
+7180,neo-psych,None
+7181,alternative,None
+7182,fip,None
+7183,orange,None
+7184,electronic,None
+7185,orange,None
+7186,ambient,None
+7187,rap,None
+7188,rap,None
+7189,rap,None
+7190,rap,None
+7191,rap,None
+7192,Hip-Hop,None
+7193,funk,None
+7194,electronic,None
+7195,indie rock,None
+7196,80s,None
+7197,fip,None
+7198,chillout,None
+7199,chillout,None
+7200,water,None
+7201,water,None
+7202,indie rock,None
+7203,Hip-Hop,None
+7204,Hip-Hop,None
+7205,Hip-Hop,None
+7206,Hip-Hop,None
+7207,Hip-Hop,None
+7208,Hip-Hop,None
+7209,rock,None
+7210,rock,None
+7211,rock,None
+7212,industrial,None
+7213,indie,None
+7214,indie,None
+7215,indie rock,None
+7216,indie,None
+7217,indie,None
+7218,indie rock,None
+7219,indie rock,None
+7220,indie,None
+7221,indie rock,None
+7222,indie,None
+7223,indie rock,None
+7224,indie rock,None
+7225,indie,None
+7226,Hip-Hop,None
+7227,90s,None
+7228,Hip-Hop,None
+7229,Nu Metal,None
+7230,hip hop,None
+7231,hip hop,None
+7232,hip hop,None
+7233,hip hop,None
+7234,downtempo,None
+7235,nu jazz,None
+7236,instrumental,None
+7237,instrumental,None
+7238,Hip-Hop,None
+7239,nu jazz,None
+7240,nu jazz,None
+7241,instrumental,None
+7242,nu jazz,None
+7243,chillout,None
+7244,chill,None
+7245,psychopathic,None
+7246,rap,None
+7247,psychopathic,None
+7248,psychopathic,None
+7249,psychopathic,None
+7250,psychopathic,None
+7251,psychopathic,None
+7252,electronic,None
+7253,orange,None
+7254,orange,None
+7255,alternative,None
+7256,fip,None
+7257,fip,None
+7258,pop,None
+7259,new wave,None
+7260,emo,None
+7261,emo,None
+7262,emo,None
+7263,emo,None
+7264,emo,None
+7265,emo,None
+7266,screamo,None
+7267,screamo,None
+7268,lo-fi as hell,None
+7269,Lo-Fi,None
+7270,Lo-Fi,None
+7271,spacing-out,None
+7272,Lo-Fi,None
+7273,water,None
+7274,90s,None
+7275,rock,None
+7276,rock,None
+7277,rock,None
+7278,alternative,None
+7279,funk,None
+7280,funk,None
+7281,good,None
+7282,jay-z,None
+7283,rap,None
+7284,alternative,None
+7285,alternative,None
+7286,alternative,None
+7287,electronic,None
+7288,spacing-out,None
+7289,electronic,None
+7290,experimental,None
+7291,experimental,None
+7292,experimental,None
+7293,experimental,None
+7294,experimental,None
+7295,post-hardcore,None
+7296,post-hardcore,None
+7297,screamo,None
+7298,screamo,None
+7299,experimental,None
+7300,experimental,None
+7301,experimental,None
+7302,electronic,None
+7303,electronic,None
+7304,electronic,None
+7305,electronic,None
+7306,electronic,None
+7307,electronic,None
+7308,electronic,None
+7309,electronic,None
+7310,ska,None
+7311,ska,None
+7312,new wave,None
+7313,lo-fi as hell,None
+7314,indie,None
+7315,indie,None
+7316,spacing-out,None
+7317,spacing-out,None
+7318,electronic,None
+7319,electronic,None
+7320,ambient,None
+7321,electronic,None
+7322,ska,None
+7323,ska,None
+7324,ska,None
+7325,electronic,None
+7326,ambient,None
+7327,ambient,None
+7328,instrumental,None
+7329,rap,None
+7330,video game music,None
+7331,video game music,None
+7332,dance,None
+7333,electronica,None
+7334,electronic,None
+7335,electronic,None
+7336,electronic,None
+7337,electronic,None
+7338,electronic,None
+7339,electronic,None
+7340,electronic,None
+7341,electronic,None
+7342,electronic,None
+7343,ambient,None
+7344,ambient,None
+7345,electronic,None
+7346,ambient,None
+7347,ambient,None
+7348,electronic,None
+7349,ambient,None
+7350,ambient,None
+7351,rnb,None
+7352,Hip-Hop,None
+7353,90s,None
+7354,90s,None
+7355,rnb,None
+7356,rnb,None
+7357,pop,None
+7358,90s,None
+7359,rnb,None
+7360,90s,None
+7361,rnb,None
+7362,Hip-Hop,None
+7363,indie,None
+7364,indie,None
+7365,indie rock,None
+7366,indie rock,None
+7367,indie,None
+7368,indie rock,None
+7369,indie,None
+7370,indie rock,None
+7371,indie rock,None
+7372,indie,None
+7373,Hip-Hop,None
+7374,ska,None
+7375,shoegaze,None
+7376,pop,None
+7377,rnb,None
+7378,rnb,None
+7379,rnb,None
+7380,rap,None
+7381,indie,None
+7382,electronic,None
+7383,ambient,None
+7384,ambient,None
+7385,pop,None
+7386,motherfuckin rabbits ejaculating sunshine,None
+7387,Awesome,None
+7388,pink,None
+7389,weird,None
+7390,Lo-Fi,None
+7391,Lo-Fi,None
+7392,Lo-Fi,None
+7393,relax,None
+7394,Lo-Fi,None
+7395,Lo-Fi,None
+7396,noise,None
+7397,Lo-Fi,None
+7398,Lo-Fi,None
+7399,Lo-Fi,None
+7400,spacing-out,None
+7401,rap,None
+7402,rap,None
+7403,rap,None
+7404,rap,None
+7405,indie,None
+7406,indie,None
+7407,indie,None
+7408,indie,None
+7409,indie rock,None
+7410,indie,None
+7411,indie,None
+7412,indie,None
+7413,indie rock,None
+7414,indie rock,None
+7415,indie,None
+7416,indie rock,None
+7417,indie,None
+7418,indie rock,None
+7419,indie rock,None
+7420,indie,None
+7421,indie,None
+7422,ska,None
+7423,Hip-Hop,None
+7424,Hip-Hop,None
+7425,rock,None
+7426,experimental,None
+7427,experimental,None
+7428,experimental,None
+7429,experimental,None
+7430,experimental,None
+7431,experimental,None
+7432,ska,None
+7433,ska,None
+7434,punk rock,None
+7435,ambient,None
+7436,ambient,None
+7437,ambient,None
+7438,ambient,None
+7439,electronic,None
+7440,ambient,None
+7441,ambient,None
+7442,ambient,None
+7443,chillout,None
+7444,ambient,None
+7445,electronic,None
+7446,ambient,None
+7447,electronic,None
+7448,ambient,None
+7449,ambient,None
+7450,orange,None
+7451,ambient,None
+7452,electronic,None
+7453,electronic,None
+7454,ambient,None
+7455,ambient,None
+7456,electronic,None
+7457,electronic,None
+7458,electronic,None
+7459,electronic,None
+7460,electronic,None
+7461,electronic,None
+7462,electronic,None
+7463,ambient,None
+7464,electronic,None
+7465,electronic,None
+7466,ambient,None
+7467,ambient,None
+7468,electronic,None
+7469,electronic,None
+7470,electronic,None
+7471,electronic,None
+7472,electronic,None
+7473,ambient,None
+7474,electronic,None
+7475,electronic,None
+7476,electronic,None
+7477,electronic,None
+7478,electronic,None
+7479,electronic,None
+7480,electronic,None
+7481,ambient,None
+7482,ambient,None
+7483,electronic,None
+7484,electronic,None
+7485,electronic,None
+7486,electronic,None
+7487,electronic,None
+7488,chillout,None
+7489,electronic,None
+7490,ambient,None
+7491,ambient,None
+7492,electronic,None
+7493,electronic,None
+7494,electronic,None
+7495,electronic,None
+7496,electronic,None
+7497,electronic,None
+7498,electronic,None
+7499,electronic,None
+7500,electronic,None
+7501,electronic,None
+7502,electronic,None
+7503,electronic,None
+7504,electronic,None
+7505,electronic,None
+7506,funk,None
+7507,rock,None
+7508,rock,None
+7509,electronic,None
+7510,electronic,None
+7511,ska,None
+7512,Hip-Hop,None
+7513,indie,None
+7514,indie,None
+7515,alternative,None
+7516,alternative,None
+7517,rock,None
+7518,alternative,None
+7519,neo-psych,None
+7520,ska,None
+7521,ska,None
+7522,ska,None
+7523,ska,None
+7524,ska,None
+7525,electronic,None
+7526,chillout,None
+7527,rock,None
+7528,Hip-Hop,None
+7529,rap,None
+7530,math rock,None
+7531,math rock,None
+7532,math rock,None
+7533,math rock,None
+7534,math rock,None
+7535,psychopathic,None
+7536,good,None
+7537,rap,None
+7538,ambient,None
+7539,Hip-Hop,None
+7540,emo,None
+7541,orange,None
+7542,Hip-Hop,None
+7543,Hip-Hop,None
+7544,ska,None
+7545,ska,None
+7546,alternative,None
+7547,alternative,None
+7548,alternative,None
+7549,alternative,None
+7550,anna of the north,None
+7551,Hip-Hop,None
+7552,Nu Metal,None
+7553,electronic,None
+7554,electronic,None
+7555,electronic,None
+7556,indie,None
+7557,instrumental,None
+7558,instrumental,None
+7559,indie,None
+7560,instrumental,None
+7561,electronic,None
+7562,instrumental,None
+7563,instrumental,None
+7564,electronic,None
+7565,electronic,None
+7566,ambient,None
+7567,chillout,None
+7568,chillout,None
+7569,electronic,None
+7570,electronic,None
+7571,instrumental,None
+7572,ambient,None
+7573,downtempo,None
+7574,electronic,None
+7575,instrumental,None
+7576,ambient,None
+7577,downtempo,None
+7578,neo-psych,None
+7579,ambient,None
+7580,downtempo,None
+7581,played,None
+7582,rock,None
+7583,electronic,None
+7584,electronic,None
+7585,electronic,None
+7586,electronic,None
+7587,ambient,None
+7588,orange,None
+7589,Progressive rock,None
+7590,Progressive rock,None
+7591,Progressive rock,None
+7592,Progressive rock,None
+7593,punk rock,None
+7594,punk rock,None
+7595,punk rock,None
+7596,punk rock,None
+7597,punk rock,None
+7598,noise,None
+7599,new wave,None
+7600,lo-fi as hell,None
+7601,alternative,None
+7602,alternative,None
+7603,fip,None
+7604,personal favourites,None
+7605,funk,None
+7606,rap,None
+7607,Hip-Hop,None
+7608,90s,None
+7609,fip,None
+7610,electronic,None
+7611,Hip-Hop,None
+7612,electronic,None
+7613,electronic,None
+7614,orange,None
+7615,orange,None
+7616,ambient,None
+7617,electronic,None
+7618,electronic,None
+7619,ambient,None
+7620,ambient,None
+7621,electronic,None
+7622,electronic,None
+7623,electronic,None
+7624,mathcore,None
+7625,experimental,None
+7626,rock,None
+7627,Hip-Hop,None
+7628,hip hop,None
+7629,Hip-Hop,None
+7630,hip hop,None
+7631,rap,None
+7632,experimental,None
+7633,rap,None
+7634,rap,None
+7635,hip hop,None
+7636,rap,None
+7637,Hip-Hop,None
+7638,indie,None
+7639,Hip-Hop,None
+7640,hip hop,None
+7641,rap,None
+7642,hip hop,None
+7643,electronic,None
+7644,electronic,None
+7645,edgy,None
+7646,edgy,None
+7647,rap,None
+7648,rap,None
+7649,rap,None
+7650,rap,None
+7651,rap,None
+7652,rap,None
+7653,2017 single,None
+7654,fip,None
+7655,alternative rock,None
+7656,new wave,None
+7657,new wave,None
+7658,Hip-Hop,None
+7659,rap,None
+7660,Hip-Hop,None
+7661,rnb,None
+7662,Hip-Hop,None
+7663,rap,None
+7664,Hip-Hop,None
+7665,Hip-Hop,None
+7666,Hip-Hop,None
+7667,rap,None
+7668,pop,None
+7669,Hip-Hop,None
+7670,90s,None
+7671,Hip-Hop,None
+7672,electronic,None
+7673,chillout,None
+7674,punk rock,None
+7675,rap,None
+7676,rap,None
+7677,rap,None
+7678,rap,None
+7679,fip,None
+7680,funk,None
+7681,funk,None
+7682,indie,None
+7683,indie rock,None
+7684,indie rock,None
+7685,Hip-Hop,None
+7686,punk rock,None
+7687,punk rock,None
+7688,punk rock,None
+7689,punk rock,None
+7690,punk rock,None
+7691,2017 single,None
+7692,2017 single,None
+7693,lo-fi as hell,None
+7694,ambient,None
+7695,electronic,None
+7696,ambient,None
+7697,electronic,None
+7698,electronic,None
+7699,electronic,None
+7700,ambient,None
+7701,ambient,None
+7702,electronic,None
+7703,ambient,None
+7704,electronic,None
+7705,chillout,None
+7706,ambient,None
+7707,ambient,None
+7708,ambient,None
+7709,electronic,None
+7710,electronic,None
+7711,instrumental,None
+7712,indie,None
+7713,indie,None
+7714,indie,None
+7715,indie,None
+7716,indie,None
+7717,indie,None
+7718,indie,None
+7719,ambient,None
+7720,punk rock,None
+7721,punk rock,None
+7722,punk rock,None
+7723,punk rock,None
+7724,fip,None
+7725,alternative,None
+7726,groovesalad,None
+7727,electronic,None
+7728,electronica,None
+7729,electronic,None
+7730,ambient,None
+7731,electronic,None
+7732,electronic,None
+7733,electronic,None
+7734,electronic,None
+7735,ambient,None
+7736,electronic,None
+7737,chillout,None
+7738,electronic,None
+7739,chillout,None
+7740,chillout,None
+7741,electronic,None
+7742,electronic,None
+7743,electronic,None
+7744,electronic,None
+7745,chillout,None
+7746,electronic,None
+7747,ambient,None
+7748,ambient,None
+7749,electronic,None
+7750,ambient,None
+7751,electronic,None
+7752,electronic,None
+7753,electronic,None
+7754,electronic,None
+7755,ambient,None
+7756,electronic,None
+7757,electronic,None
+7758,ambient,None
+7759,ambient,None
+7760,electronic,None
+7761,ambient,None
+7762,electronic,None
+7763,chillout,None
+7764,chillout,None
+7765,electronic,None
+7766,electronic,None
+7767,electronic,None
+7768,electronic,None
+7769,chillout,None
+7770,electronic,None
+7771,ambient,None
+7772,punk rock,None
+7773,punk rock,None
+7774,punk rock,None
+7775,indie,None
+7776,Hip-Hop,None
+7777,Hip-Hop,None
+7778,Hip-Hop,None
+7779,punk rock,None
+7780,post-rock,None
+7781,electronic,None
+7782,electronic,None
+7783,electronic,None
+7784,alternative,None
+7785,alternative,None
+7786,video game music,None
+7787,punk rock,None
+7788,punk rock,None
+7789,punk rock,None
+7790,punk rock,None
+7791,noise,None
+7792,pop,None
+7793,pop,None
+7794,fip,None
+7795,alternative,None
+7796,alternative,None
+7797,orange,None
+7798,orange,None
+7799,orange,None
+7800,orange,None
+7801,electronic,None
+7802,electronic,None
+7803,electronic,None
+7804,electronic,None
+7805,electronic,None
+7806,electronic,None
+7807,electronic,None
+7808,electronic,None
+7809,electronic,None
+7810,electronic,None
+7811,electronic,None
+7812,electronic,None
+7813,electronic,None
+7814,fip,None
+7815,alternative,None
+7816,alternative,None
+7817,alternative,None
+7818,heavy metal,None
+7819,80s,None
+7820,rock,None
+7821,rock,None
+7822,electronic,None
+7823,ambient,None
+7824,electronic,None
+7825,ambient,None
+7826,electronic,None
+7827,ambient,None
+7828,alternative rock,None
+7829,electronic,None
+7830,electronic,None
+7831,chillout,None
+7832,ambient,None
+7833,electronic,None
+7834,ambient,None
+7835,chillout,None
+7836,electronic,None
+7837,chillout,None
+7838,electronic,None
+7839,electronic,None
+7840,electronic,None
+7841,electronic,None
+7842,chillout,None
+7843,electronic,None
+7844,ambient,None
+7845,2017 single,None
+7846,new wave,None
+7847,lo-fi as hell,None
+7848,electronic,None
+7849,electronica,None
+7850,electronic,None
+7851,ska,None
+7852,rap,None
+7853,psychopathic,None
+7854,goregrind,None
+7855,psychopathic,None
+7856,fip,None
+7857,2017 single,None
+7858,alternative,None
+7859,90s,None
+7860,90s,None
+7861,Hip-Hop,None
+7862,prog rock,None
+7863,instrumental,None
+7864,electronic,None
+7865,pop,None
+7866,new wave,None
+7867,lo-fi as hell,None
+7868,fip,None
+7869,alternative,None
+7870,indie,None
+7871,2017 single,None
+7872,2017 single,None
+7873,fip,None
+7874,fip,None
+7875,alternative,None
+7876,punk rock,None
+7877,punk rock,None
+7878,punk rock,None
+7879,punk rock,None
+7880,punk rock,None
+7881,punk rock,None
+7882,punk rock,None
+7883,rock,None
+7884,punk rock,None
+7885,punk rock,None
+7886,punk rock,None
+7887,punk rock,None
+7888,punk rock,None
+7889,alternative,None
+7890,alternative,None
+7891,alternative,None
+7892,rap,None
+7893,edgy,None
+7894,rap,None
+7895,rap,None
+7896,rap,None
+7897,rap,None
+7898,rap,None
+7899,indie,None
+7900,indie rock,None
+7901,indie rock,None
+7902,indie rock,None
+7903,alternative rock,None
+7904,rock,None
+7905,Dance  DJ,None
+7906,alternative,None
+7907,alternative,None
+7908,orange,None
+7909,fip,None
+7910,fip,None
+7911,90s,None
+7912,Gangsta Rap,None
+7913,punk rock,None
+7914,punk rock,None
+7915,punk rock,None
+7916,punk rock,None
+7917,punk rock,None
+7918,Hip-Hop,None
+7919,rap,None
+7920,punk rock,None
+7921,alternative rock,None
+7922,alternative,None
+7923,reggae,None
+7924,emo,None
+7925,emo,None
+7926,rock,None
+7927,rap,None
+7928,rap,None
+7929,Hip-Hop,None
+7930,90s,None
+7931,Hip-Hop,None
+7932,death metal,None
+7933,death metal,None
+7934,death metal,None
+7935,instrumental,None
+7936,instrumental,None
+7937,instrumental,None
+7938,punk rock,None
+7939,rock,None
+7940,punk rock,None
+7941,punk rock,None
+7942,punk rock,None
+7943,punk rock,None
+7944,punk rock,None
+7945,punk rock,None
+7946,punk rock,None
+7947,punk rock,None
+7948,electronic,None
+7949,rock,None
+7950,rock,None
+7951,reggae,None
+7952,alternative,None
+7953,alternative rock,None
+7954,rock,None
+7955,ska,None
+7956,ska,None
+7957,industrial metal,None
+7958,industrial,None
+7959,industrial,None
+7960,industrial,None
+7961,industrial,None
+7962,Gangsta Rap,None
+7963,Hip-Hop,None
+7964,Soundtrack,None
+7965,electronic,None
+7966,electronic,None
+7967,downtempo,None
+7968,nu jazz,None
+7969,instrumental,None
+7970,instrumental,None
+7971,Hip-Hop,None
+7972,nu jazz,None
+7973,nu jazz,None
+7974,instrumental,None
+7975,nu jazz,None
+7976,chillout,None
+7977,Hip-Hop,None
+7978,chill,None
+7979,electronic,None
+7980,electronic,None
+7981,electronic,None
+7982,electronic,None
+7983,electronic,None
+7984,funk,None
+7985,funk,None
+7986,funk,None
+7987,indie,None
+7988,fip,None
+7989,alternative,None
+7990,downtempo,None
+7991,nu jazz,None
+7992,instrumental,None
+7993,instrumental,None
+7994,Hip-Hop,None
+7995,nu jazz,None
+7996,nu jazz,None
+7997,instrumental,None
+7998,nu jazz,None
+7999,chillout,None
+8000,Hip-Hop,None
+8001,chill,None
+8002,rap,None
+8003,ska,None
+8004,metalcore,None
+8005,metalcore,None
+8006,ska,None
+8007,Progressive rock,None
+8008,Progressive rock,None
+8009,Progressive rock,None
+8010,rap,None
+8011,rap,None
+8012,rap,None
+8013,rap,None
+8014,Hip-Hop,None
+8015,party,None
+8016,rap,None
+8017,Hip-Hop,None
+8018,rap,None
+8019,rap,None
+8020,rap,None
+8021,rap,None
+8022,rap,None
+8023,Hip-Hop,None
+8024,Hip-Hop,None
+8025,Hip-Hop,None
+8026,Hip-Hop,None
+8027,Hip-Hop,None
+8028,hip hop,None
+8029,metalcore,None
+8030,funk,None
+8031,electronic,None
+8032,electronic,None
+8033,electronic,None
+8034,punk rock,None
+8035,punk rock,None
+8036,punk rock,None
+8037,punk rock,None
+8038,punk rock,None
+8039,rap,None
+8040,jay-z,None
+8041,water,None
+8042,water,None
+8043,water,None
+8044,alternative,None
+8045,alternative,None
+8046,alternative,None
+8047,alternative,None
+8048,fip,None
+8049,Progressive rock,None
+8050,Progressive rock,None
+8051,indie,None
+8052,fip,None
+8053,industrial,None
+8054,industrial,None
+8055,Hip-Hop,None
+8056,Hip-Hop,None
+8057,Hip-Hop,None
+8058,Hip-Hop,None
+8059,fip,None
+8060,indie,None
+8061,ska,None
+8062,ska,None
+8063,electronic,None
+8064,electronic,None
+8065,electronic,None
+8066,indie,None
+8067,indie rock,None
+8068,indie rock,None
+8069,pop,None
+8070,post-hardcore,None
+8071,post-hardcore,None
+8072,experimental,None
+8073,hardcore,None
+8074,screamo,None
+8075,rap,None
+8076,experimental,None
+8077,alternative,None
+8078,alternative,None
+8079,ska,None
+8080,soul,None
+8081,Progressive rock,None
+8082,Progressive rock,None
+8083,experimental,None
+8084,experimental,None
+8085,Lo-Fi,None
+8086,indie,None
+8087,indie,None
+8088,experimental,None
+8089,indie,None

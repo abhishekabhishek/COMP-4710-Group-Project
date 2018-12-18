@@ -1,0 +1,4602 @@
+,genre_sequence,unique_genres
+0,rock,rock
+1,beyonce,beyonce
+2,indie,indie
+3,female vocalists,female vocalists
+4,chinese,chinese
+5,female vocalist,female vocalist
+6,pop,pop
+7,rnb,rnb
+8,pop,chinese female vocal
+9,pop,C-pop
+10,chinese female vocal,folk-rock
+11,pop,China
+12,pop,favorite songs
+13,C-pop,movie ost
+14,chinese female vocal,Soundtrack
+15,C-pop,r&b
+16,pop,Chinese Pop
+17,chinese,epic
+18,folk-rock,Jay Chou
+19,C-pop,taiwan
+20,folk-rock,fantasy
+21,pop,Hip-Hop
+22,female vocalists,Asian
+23,chinese,Asian Pop
+24,pop,mandarin
+25,chinese,H-Pop
+26,folk-rock,Favorite
+27,China,rtg
+28,favorite songs,cpop
+29,indie,aa
+30,movie ost,ht
+31,Soundtrack,eason
+32,Soundtrack,soul
+33,Soundtrack,Yoga Lin
+34,Soundtrack,piano
+35,pop,tw
+36,chinese,jacky
+37,r&b,punk rock
+38,Chinese Pop,j-pop
+39,Chinese Pop,taiwanese female vocal
+40,epic,1990
+41,epic,Love
+42,epic,70s
+43,pop,chillout
+44,chinese,Koda Kumi
+45,Jay Chou,calm
+46,taiwan,yearning
+47,fantasy,taiwanese pop
+48,fantasy,LeeHom Wang
+49,Hip-Hop,myplaylist
+50,chinese,Sentimental
+51,r&b,10-loving
+52,Chinese Pop,123
+53,pop,good
+54,fantasy,chinese rock
+55,Chinese Pop,ten now
+56,Asian,Ballad
+57,chinese,introverted
+58,r&b,Anime music
+59,female vocalists,if I were a sound I would be this
+60,pop,midnight
+61,chinese,folk
+62,pop,zhangxuan
+63,chinese,jay
+64,female vocalists,xiao
+65,Soundtrack,chankl78
+66,chinese,R
+67,Asian Pop,kvstn
+68,C-pop,1993
+69,mandarin,mandopop
+70,chinese,twins
+71,chinese,douwei
+72,H-Pop,my-bestlove
+73,Favorite,heard on Pandora
+74,pop,Grunge
+75,mandarin,-
+76,pop,Dream
+77,China,beyond
+78,rtg,anime
+79,cpop,da  len
+80,female vocalists,acoustic
+81,aa,Random
+82,pop,phil coulter
+83,ht,None
+84,female vocalists,None
+85,ht,None
+86,pop,None
+87,chinese,None
+88,chinese,None
+89,female vocalists,None
+90,ht,None
+91,pop,None
+92,chinese,None
+93,H-Pop,None
+94,pop,None
+95,mandarin,None
+96,eason,None
+97,chinese,None
+98,soul,None
+99,female vocalists,None
+100,female vocalists,None
+101,ht,None
+102,pop,None
+103,Yoga Lin,None
+104,C-pop,None
+105,female vocalists,None
+106,indie,None
+107,indie,None
+108,folk-rock,None
+109,C-pop,None
+110,C-pop,None
+111,China,None
+112,C-pop,None
+113,pop,None
+114,cpop,None
+115,female vocalists,None
+116,pop,None
+117,piano,None
+118,tw,None
+119,chinese,None
+120,C-pop,None
+121,chinese female vocal,None
+122,pop,None
+123,C-pop,None
+124,chinese,None
+125,pop,None
+126,pop,None
+127,C-pop,None
+128,chinese,None
+129,chinese,None
+130,chinese,None
+131,pop,None
+132,jacky,None
+133,China,None
+134,chinese,None
+135,Jay Chou,None
+136,pop,None
+137,punk rock,None
+138,pop,None
+139,C-pop,None
+140,pop,None
+141,rtg,None
+142,cpop,None
+143,female vocalists,None
+144,rock,None
+145,j-pop,None
+146,taiwanese female vocal,None
+147,rtg,None
+148,cpop,None
+149,female vocalists,None
+150,pop,None
+151,China,None
+152,pop,None
+153,Yoga Lin,None
+154,pop,None
+155,1990,None
+156,pop,None
+157,favorite songs,None
+158,taiwanese female vocal,None
+159,pop,None
+160,Yoga Lin,None
+161,pop,None
+162,chinese,None
+163,pop,None
+164,pop,None
+165,pop,None
+166,1990,None
+167,pop,None
+168,1990,None
+169,Love,None
+170,soul,None
+171,pop,None
+172,punk rock,None
+173,70s,None
+174,chinese,None
+175,pop,None
+176,taiwanese female vocal,None
+177,rtg,None
+178,cpop,None
+179,female vocalists,None
+180,taiwanese female vocal,None
+181,taiwanese female vocal,None
+182,pop,None
+183,Love,None
+184,soul,None
+185,pop,None
+186,China,None
+187,eason,None
+188,chinese,None
+189,chillout,None
+190,Koda Kumi,None
+191,chinese,None
+192,pop,None
+193,calm,None
+194,chinese,None
+195,pop,None
+196,yearning,None
+197,pop,None
+198,pop,None
+199,taiwanese female vocal,None
+200,rtg,None
+201,cpop,None
+202,female vocalists,None
+203,Love,None
+204,rock,None
+205,chinese,None
+206,female vocalists,None
+207,C-pop,None
+208,folk-rock,None
+209,pop,None
+210,pop,None
+211,taiwanese pop,None
+212,ht,None
+213,pop,None
+214,ht,None
+215,pop,None
+216,piano,None
+217,Asian,None
+218,rock,None
+219,chinese,None
+220,C-pop,None
+221,punk rock,None
+222,70s,None
+223,pop,None
+224,eason,None
+225,chinese,None
+226,chinese,None
+227,pop,None
+228,pop,None
+229,pop,None
+230,favorite songs,None
+231,taiwanese female vocal,None
+232,Chinese Pop,None
+233,Koda Kumi,None
+234,pop,None
+235,pop,None
+236,pop,None
+237,yearning,None
+238,pop,None
+239,C-pop,None
+240,Favorite,None
+241,Love,None
+242,Favorite,None
+243,Love,None
+244,chillout,None
+245,LeeHom Wang,None
+246,Chinese Pop,None
+247,Koda Kumi,None
+248,Asian,None
+249,chinese,None
+250,H-Pop,None
+251,Favorite,None
+252,pop,None
+253,mandarin,None
+254,eason,None
+255,chinese,None
+256,soul,None
+257,taiwan,None
+258,taiwanese female vocal,None
+259,C-pop,None
+260,chinese,None
+261,C-pop,None
+262,pop,None
+263,pop,None
+264,pop,None
+265,chinese,None
+266,H-Pop,None
+267,Favorite,None
+268,pop,None
+269,mandarin,None
+270,chinese,None
+271,chinese,None
+272,cpop,None
+273,female vocalists,None
+274,China,None
+275,Yoga Lin,None
+276,pop,None
+277,female vocalists,None
+278,ht,None
+279,Yoga Lin,None
+280,pop,None
+281,pop,None
+282,pop,None
+283,myplaylist,None
+284,pop,None
+285,pop,None
+286,pop,None
+287,chinese,None
+288,H-Pop,None
+289,Favorite,None
+290,pop,None
+291,mandarin,None
+292,eason,None
+293,chinese,None
+294,chinese,None
+295,H-Pop,None
+296,Favorite,None
+297,pop,None
+298,mandarin,None
+299,eason,None
+300,chinese,None
+301,pop,None
+302,chinese,None
+303,chinese,None
+304,Favorite,None
+305,pop,None
+306,Favorite,None
+307,pop,None
+308,mandarin,None
+309,eason,None
+310,chinese,None
+311,female vocalists,None
+312,ht,None
+313,Yoga Lin,None
+314,pop,None
+315,myplaylist,None
+316,pop,None
+317,pop,None
+318,pop,None
+319,favorite songs,None
+320,taiwanese female vocal,None
+321,tw,None
+322,piano,None
+323,pop,None
+324,female vocalists,None
+325,indie,None
+326,indie,None
+327,pop,None
+328,chillout,None
+329,LeeHom Wang,None
+330,Chinese Pop,None
+331,Koda Kumi,None
+332,chinese,None
+333,pop,None
+334,pop,None
+335,yearning,None
+336,chinese,None
+337,H-Pop,None
+338,Favorite,None
+339,pop,None
+340,mandarin,None
+341,eason,None
+342,chinese,None
+343,eason,None
+344,chinese,None
+345,pop,None
+346,female vocalists,None
+347,pop,None
+348,female vocalists,None
+349,pop,None
+350,pop,None
+351,eason,None
+352,chinese,None
+353,chinese,None
+354,H-Pop,None
+355,Favorite,None
+356,pop,None
+357,mandarin,None
+358,eason,None
+359,chinese,None
+360,China,None
+361,ht,None
+362,aa,None
+363,China,None
+364,female vocalists,None
+365,ht,None
+366,myplaylist,None
+367,pop,None
+368,pop,None
+369,pop,None
+370,favorite songs,None
+371,taiwanese female vocal,None
+372,Asian,None
+373,pop,None
+374,favorite songs,None
+375,pop,None
+376,chinese,None
+377,tw,None
+378,Jay Chou,None
+379,China,None
+380,female vocalists,None
+381,chinese,None
+382,H-Pop,None
+383,Favorite,None
+384,pop,None
+385,mandarin,None
+386,eason,None
+387,chinese,None
+388,female vocalists,None
+389,Favorite,None
+390,pop,None
+391,mandarin,None
+392,eason,None
+393,chinese,None
+394,chinese,None
+395,pop,None
+396,chinese,None
+397,China,None
+398,favorite songs,None
+399,chinese,None
+400,Asian,None
+401,chinese,None
+402,Koda Kumi,None
+403,chinese,None
+404,chinese,None
+405,calm,None
+406,chinese,None
+407,chinese,None
+408,Asian,None
+409,LeeHom Wang,None
+410,chinese,None
+411,chinese,None
+412,pop,None
+413,C-pop,None
+414,chinese,None
+415,myplaylist,None
+416,pop,None
+417,chinese,None
+418,chinese,None
+419,chinese,None
+420,H-Pop,None
+421,Favorite,None
+422,pop,None
+423,mandarin,None
+424,eason,None
+425,chinese,None
+426,eason,None
+427,chinese,None
+428,mandarin,None
+429,eason,None
+430,chinese,None
+431,pop,None
+432,Yoga Lin,None
+433,ht,None
+434,female vocalists,None
+435,eason,None
+436,chinese,None
+437,chinese,None
+438,mandarin,None
+439,eason,None
+440,chinese,None
+441,chinese,None
+442,chinese,None
+443,H-Pop,None
+444,Favorite,None
+445,pop,None
+446,eason,None
+447,chinese,None
+448,pop,None
+449,indie,None
+450,piano,None
+451,China,None
+452,Sentimental,None
+453,pop,None
+454,soul,None
+455,soul,None
+456,cpop,None
+457,female vocalists,None
+458,C-pop,None
+459,pop,None
+460,pop,None
+461,tw,None
+462,taiwan,None
+463,j-pop,None
+464,China,None
+465,chinese,None
+466,pop,None
+467,soul,None
+468,H-Pop,None
+469,Favorite,None
+470,pop,None
+471,mandarin,None
+472,eason,None
+473,chinese,None
+474,chinese,None
+475,chinese,None
+476,H-Pop,None
+477,Favorite,None
+478,pop,None
+479,mandarin,None
+480,eason,None
+481,chinese,None
+482,chinese,None
+483,chinese,None
+484,H-Pop,None
+485,Favorite,None
+486,pop,None
+487,mandarin,None
+488,eason,None
+489,chinese,None
+490,C-pop,None
+491,pop,None
+492,pop,None
+493,chinese,None
+494,mandarin,None
+495,eason,None
+496,chinese,None
+497,eason,None
+498,chinese,None
+499,chinese,None
+500,chinese,None
+501,chinese,None
+502,H-Pop,None
+503,Favorite,None
+504,pop,None
+505,mandarin,None
+506,eason,None
+507,chinese,None
+508,chinese,None
+509,chinese,None
+510,H-Pop,None
+511,Favorite,None
+512,pop,None
+513,mandarin,None
+514,eason,None
+515,chinese,None
+516,eason,None
+517,chinese,None
+518,eason,None
+519,chinese,None
+520,chinese,None
+521,chinese,None
+522,chinese,None
+523,chinese,None
+524,H-Pop,None
+525,Favorite,None
+526,pop,None
+527,mandarin,None
+528,eason,None
+529,chinese,None
+530,chinese,None
+531,chinese,None
+532,chinese,None
+533,H-Pop,None
+534,Favorite,None
+535,pop,None
+536,mandarin,None
+537,eason,None
+538,chinese,None
+539,female vocalists,None
+540,C-pop,None
+541,pop,None
+542,pop,None
+543,eason,None
+544,chinese,None
+545,chinese,None
+546,pop,None
+547,Asian,None
+548,pop,None
+549,chinese,None
+550,Chinese Pop,None
+551,chinese,None
+552,C-pop,None
+553,female vocalists,None
+554,10-loving,None
+555,rnb,None
+556,10-loving,None
+557,rock,None
+558,rock,None
+559,rock,None
+560,chinese,None
+561,indie,None
+562,piano,None
+563,chinese,None
+564,eason,None
+565,chinese,None
+566,pop,None
+567,pop,None
+568,ht,None
+569,female vocalists,None
+570,chinese,None
+571,piano,None
+572,chinese,None
+573,myplaylist,None
+574,pop,None
+575,C-pop,None
+576,chinese,None
+577,chinese,None
+578,chinese,None
+579,Koda Kumi,None
+580,chinese,None
+581,Asian,None
+582,LeeHom Wang,None
+583,chinese,None
+584,chinese,None
+585,LeeHom Wang,None
+586,chinese,None
+587,chinese,None
+588,Favorite,None
+589,Jay Chou,None
+590,chinese female vocal,None
+591,C-pop,None
+592,C-pop,None
+593,pop,None
+594,ht,None
+595,female vocalists,None
+596,eason,None
+597,chinese,None
+598,chinese,None
+599,chinese,None
+600,chinese,None
+601,H-Pop,None
+602,Favorite,None
+603,pop,None
+604,H-Pop,None
+605,Favorite,None
+606,pop,None
+607,mandarin,None
+608,eason,None
+609,Favorite,None
+610,pop,None
+611,chinese,None
+612,C-pop,None
+613,female vocalists,None
+614,chinese,None
+615,Koda Kumi,None
+616,chinese,None
+617,female vocalists,None
+618,Asian,None
+619,rtg,None
+620,123,None
+621,pop,None
+622,Love,None
+623,jacky,None
+624,calm,None
+625,chinese,None
+626,Asian,None
+627,chinese,None
+628,chinese,None
+629,chinese,None
+630,chinese,None
+631,chinese,None
+632,chinese,None
+633,rtg,None
+634,Favorite,None
+635,eason,None
+636,chinese,None
+637,chinese,None
+638,chinese,None
+639,Favorite,None
+640,eason,None
+641,chinese,None
+642,chinese,None
+643,Favorite,None
+644,eason,None
+645,chinese,None
+646,chinese,None
+647,chinese,None
+648,chinese,None
+649,Favorite,None
+650,eason,None
+651,chinese,None
+652,pop,None
+653,indie,None
+654,piano,None
+655,chinese,None
+656,eason,None
+657,chinese,None
+658,pop,None
+659,indie,None
+660,piano,None
+661,chinese,None
+662,chinese,None
+663,jacky,None
+664,good,None
+665,chinese rock,None
+666,good,None
+667,chinese rock,None
+668,eason,None
+669,chinese,None
+670,chinese,None
+671,chinese,None
+672,Favorite,None
+673,eason,None
+674,chinese,None
+675,chinese,None
+676,chinese,None
+677,Favorite,None
+678,eason,None
+679,chinese,None
+680,eason,None
+681,chinese,None
+682,chinese,None
+683,chinese female vocal,None
+684,C-pop,None
+685,chinese,None
+686,chinese,None
+687,chinese,None
+688,chinese,None
+689,piano,None
+690,pop,None
+691,C-pop,None
+692,taiwanese female vocal,None
+693,C-pop,None
+694,pop,None
+695,ht,None
+696,female vocalists,None
+697,Favorite,None
+698,Favorite,None
+699,pop,None
+700,chinese,None
+701,rock,None
+702,China,None
+703,123,None
+704,female vocalists,None
+705,Love,None
+706,Chinese Pop,None
+707,Koda Kumi,None
+708,pop,None
+709,chinese,None
+710,Love,None
+711,indie,None
+712,chinese,None
+713,chinese,None
+714,chinese,None
+715,C-pop,None
+716,C-pop,None
+717,pop,None
+718,chinese,None
+719,C-pop,None
+720,C-pop,None
+721,pop,None
+722,Favorite,None
+723,Favorite,None
+724,ten now,None
+725,taiwan,None
+726,fantasy,None
+727,fantasy,None
+728,pop,None
+729,Asian Pop,None
+730,Favorite,None
+731,Love,None
+732,LeeHom Wang,None
+733,chillout,None
+734,Chinese Pop,None
+735,Koda Kumi,None
+736,Asian,None
+737,chinese,None
+738,pop,None
+739,calm,None
+740,chinese,None
+741,pop,None
+742,yearning,None
+743,pop,None
+744,pop,None
+745,female vocalists,None
+746,pop,None
+747,pop,None
+748,female vocalists,None
+749,indie,None
+750,indie,None
+751,C-pop,None
+752,chinese female vocal,None
+753,pop,None
+754,C-pop,None
+755,chinese,None
+756,jacky,None
+757,chinese,None
+758,pop,None
+759,eason,None
+760,chinese,None
+761,chinese,None
+762,China,None
+763,China,None
+764,pop,None
+765,chinese,None
+766,indie,None
+767,indie,None
+768,good,None
+769,chinese rock,None
+770,favorite songs,None
+771,piano,None
+772,pop,None
+773,myplaylist,None
+774,pop,None
+775,pop,None
+776,favorite songs,None
+777,piano,None
+778,taiwanese pop,None
+779,chinese,None
+780,China,None
+781,123,None
+782,female vocalists,None
+783,Love,None
+784,pop,None
+785,chinese,None
+786,pop,None
+787,chillout,None
+788,pop,None
+789,cpop,None
+790,chinese,None
+791,Asian,None
+792,chinese,None
+793,cpop,None
+794,Love,None
+795,Ballad,None
+796,chinese,None
+797,chinese,None
+798,pop,None
+799,pop,None
+800,rock,None
+801,j-pop,None
+802,introverted,None
+803,China,None
+804,123,None
+805,female vocalists,None
+806,Love,None
+807,cpop,None
+808,123,None
+809,female vocalists,None
+810,Love,None
+811,1990,None
+812,pop,None
+813,pop,None
+814,favorite songs,None
+815,piano,None
+816,chinese,None
+817,chinese,None
+818,ht,None
+819,piano,None
+820,China,None
+821,chinese,None
+822,Favorite,None
+823,pop,None
+824,female vocalists,None
+825,chinese,None
+826,ht,None
+827,chinese,None
+828,Favorite,None
+829,pop,None
+830,chinese,None
+831,Favorite,None
+832,pop,None
+833,female vocalists,None
+834,chinese,None
+835,ht,None
+836,female vocalists,None
+837,pop,None
+838,pop,None
+839,chinese,None
+840,ht,None
+841,ht,None
+842,chinese,None
+843,Favorite,None
+844,pop,None
+845,jacky,None
+846,rock,None
+847,chinese,None
+848,chinese,None
+849,Jay Chou,None
+850,pop,None
+851,pop,None
+852,rock,None
+853,j-pop,None
+854,introverted,None
+855,chillout,None
+856,taiwanese female vocal,None
+857,pop,None
+858,C-pop,None
+859,Sentimental,None
+860,chinese,None
+861,chinese,None
+862,taiwanese pop,None
+863,chinese,None
+864,China,None
+865,Love,None
+866,C-pop,None
+867,Sentimental,None
+868,chinese,None
+869,chinese,None
+870,taiwanese pop,None
+871,chinese,None
+872,China,None
+873,123,None
+874,female vocalists,None
+875,Love,None
+876,pop,None
+877,pop,None
+878,pop,None
+879,favorite songs,None
+880,piano,None
+881,tw,None
+882,pop,None
+883,good,None
+884,C-pop,None
+885,Asian,None
+886,chinese,None
+887,LeeHom Wang,None
+888,chillout,None
+889,Chinese Pop,None
+890,Koda Kumi,None
+891,indie,None
+892,indie,None
+893,C-pop,None
+894,female vocalists,None
+895,indie,None
+896,C-pop,None
+897,Favorite,None
+898,Favorite,None
+899,chinese,None
+900,C-pop,None
+901,C-pop,None
+902,pop,None
+903,Favorite,None
+904,pop,None
+905,chinese,None
+906,C-pop,None
+907,C-pop,None
+908,pop,None
+909,123,None
+910,female vocalists,None
+911,Love,None
+912,chinese,None
+913,pop,None
+914,pop,None
+915,1990,None
+916,myplaylist,None
+917,pop,None
+918,pop,None
+919,favorite songs,None
+920,piano,None
+921,tw,None
+922,chinese,None
+923,C-pop,None
+924,pop,None
+925,pop,None
+926,chinese,None
+927,pop,None
+928,chinese,None
+929,China,None
+930,pop,None
+931,cpop,None
+932,LeeHom Wang,None
+933,chillout,None
+934,pop,None
+935,cpop,None
+936,chinese,None
+937,Asian,None
+938,Ballad,None
+939,chinese,None
+940,pop,None
+941,C-pop,None
+942,r&b,None
+943,cpop,None
+944,Love,None
+945,Ballad,None
+946,female vocalists,None
+947,chinese,None
+948,ht,None
+949,rock,None
+950,chinese,None
+951,Favorite,None
+952,pop,None
+953,female vocalists,None
+954,chinese,None
+955,ht,None
+956,chinese,None
+957,Favorite,None
+958,pop,None
+959,Ballad,None
+960,C-pop,None
+961,pop,None
+962,chinese,None
+963,Favorite,None
+964,pop,None
+965,Anime music,None
+966,female vocalists,None
+967,chinese,None
+968,ht,None
+969,chinese,None
+970,Favorite,None
+971,pop,None
+972,ht,None
+973,female vocalists,None
+974,chinese,None
+975,ht,None
+976,chinese,None
+977,pop,None
+978,female vocalists,None
+979,chinese,None
+980,ht,None
+981,chinese,None
+982,Favorite,None
+983,pop,None
+984,Anime music,None
+985,if I were a sound I would be this,None
+986,female vocalists,None
+987,chinese,None
+988,ht,None
+989,ht,None
+990,chinese,None
+991,Favorite,None
+992,pop,None
+993,chinese,None
+994,ht,None
+995,chinese,None
+996,Favorite,None
+997,pop,None
+998,ht,None
+999,chinese,None
+1000,Soundtrack,None
+1001,Soundtrack,None
+1002,movie ost,None
+1003,Chinese Pop,None
+1004,10-loving,None
+1005,female vocalists,None
+1006,chinese,None
+1007,ht,None
+1008,chinese,None
+1009,Favorite,None
+1010,pop,None
+1011,chinese,None
+1012,C-pop,None
+1013,pop,None
+1014,pop,None
+1015,chinese,None
+1016,pop,None
+1017,pop,None
+1018,1990,None
+1019,pop,None
+1020,C-pop,None
+1021,r&b,None
+1022,cpop,None
+1023,Love,None
+1024,Ballad,None
+1025,cpop,None
+1026,C-pop,None
+1027,Ballad,None
+1028,ht,None
+1029,female vocalists,None
+1030,pop,None
+1031,chinese,None
+1032,ht,None
+1033,chinese,None
+1034,ht,None
+1035,ht,None
+1036,chinese,None
+1037,ht,None
+1038,chinese,None
+1039,Favorite,None
+1040,pop,None
+1041,ht,None
+1042,pop,None
+1043,chinese,None
+1044,pop,None
+1045,myplaylist,None
+1046,pop,None
+1047,jacky,None
+1048,China,None
+1049,good,None
+1050,C-pop,None
+1051,C-pop,None
+1052,Koda Kumi,None
+1053,yearning,None
+1054,cpop,None
+1055,pop,None
+1056,pop,None
+1057,chinese,None
+1058,cpop,None
+1059,cpop,None
+1060,pop,None
+1061,piano,None
+1062,female vocalist,None
+1063,midnight,None
+1064,chinese,None
+1065,pop,None
+1066,pop,None
+1067,rock,None
+1068,chinese,None
+1069,China,None
+1070,pop,None
+1071,pop,None
+1072,China,None
+1073,pop,None
+1074,chinese,None
+1075,favorite songs,None
+1076,indie,None
+1077,indie,None
+1078,chinese,None
+1079,Favorite,None
+1080,chinese,None
+1081,Love,None
+1082,folk,None
+1083,chinese,None
+1084,zhangxuan,None
+1085,indie,None
+1086,chinese,None
+1087,chinese,None
+1088,chinese,None
+1089,zhangxuan,None
+1090,indie,None
+1091,chinese,None
+1092,female vocalist,None
+1093,midnight,None
+1094,chinese,None
+1095,Favorite,None
+1096,pop,None
+1097,rnb,None
+1098,10-loving,None
+1099,rnb,None
+1100,10-loving,None
+1101,rnb,None
+1102,10-loving,None
+1103,chinese,None
+1104,C-pop,None
+1105,C-pop,None
+1106,pop,None
+1107,Favorite,None
+1108,pop,None
+1109,female vocalist,None
+1110,midnight,None
+1111,folk,None
+1112,folk,None
+1113,folk,None
+1114,Favorite,None
+1115,Favorite,None
+1116,pop,None
+1117,indie,None
+1118,chinese,None
+1119,female vocalist,None
+1120,chinese,None
+1121,folk,None
+1122,folk,None
+1123,pop,None
+1124,rock,None
+1125,female vocalists,None
+1126,chinese,None
+1127,chinese,None
+1128,chinese,None
+1129,Favorite,None
+1130,chinese,None
+1131,chinese,None
+1132,chinese,None
+1133,chinese,None
+1134,chinese,None
+1135,Favorite,None
+1136,chinese,None
+1137,chinese,None
+1138,chinese,None
+1139,Favorite,None
+1140,chinese,None
+1141,chinese,None
+1142,chinese,None
+1143,Favorite,None
+1144,chinese,None
+1145,chinese,None
+1146,chinese,None
+1147,chinese,None
+1148,good,None
+1149,chinese rock,None
+1150,rtg,None
+1151,cpop,None
+1152,rock,None
+1153,rock,None
+1154,rock,None
+1155,rock,None
+1156,introverted,None
+1157,chillout,None
+1158,taiwanese female vocal,None
+1159,rtg,None
+1160,cpop,None
+1161,pop,None
+1162,chinese,None
+1163,taiwanese pop,None
+1164,chinese,None
+1165,China,None
+1166,Love,None
+1167,10-loving,None
+1168,chinese,None
+1169,chinese,None
+1170,chinese,None
+1171,pop,None
+1172,pop,None
+1173,chillout,None
+1174,taiwanese female vocal,None
+1175,rtg,None
+1176,cpop,None
+1177,Love,None
+1178,Love,None
+1179,China,None
+1180,China,None
+1181,123,None
+1182,female vocalists,None
+1183,Love,None
+1184,C-pop,None
+1185,pop,None
+1186,punk rock,None
+1187,70s,None
+1188,pop,None
+1189,pop,None
+1190,Love,None
+1191,pop,None
+1192,rock,None
+1193,j-pop,None
+1194,introverted,None
+1195,chillout,None
+1196,taiwanese female vocal,None
+1197,taiwanese pop,None
+1198,chinese,None
+1199,China,None
+1200,chinese,None
+1201,chinese,None
+1202,Favorite,None
+1203,chinese,None
+1204,chinese,None
+1205,chinese,None
+1206,Favorite,None
+1207,chinese,None
+1208,chinese,None
+1209,chinese,None
+1210,chinese,None
+1211,Favorite,None
+1212,chinese,None
+1213,chinese,None
+1214,chinese,None
+1215,Favorite,None
+1216,chinese,None
+1217,chinese,None
+1218,chinese,None
+1219,Favorite,None
+1220,chinese,None
+1221,chinese,None
+1222,chinese,None
+1223,Favorite,None
+1224,chinese,None
+1225,chinese,None
+1226,chinese,None
+1227,Favorite,None
+1228,chinese,None
+1229,chinese,None
+1230,chinese,None
+1231,Favorite,None
+1232,chinese,None
+1233,pop,None
+1234,pop,None
+1235,punk rock,None
+1236,70s,None
+1237,taiwanese female vocal,None
+1238,chinese,None
+1239,C-pop,None
+1240,pop,None
+1241,pop,None
+1242,chinese,None
+1243,pop,None
+1244,punk rock,None
+1245,70s,None
+1246,taiwanese female vocal,None
+1247,chinese,None
+1248,C-pop,None
+1249,pop,None
+1250,pop,None
+1251,pop,None
+1252,chinese,None
+1253,chinese,None
+1254,taiwanese pop,None
+1255,China,None
+1256,chinese,None
+1257,chinese,None
+1258,chinese,None
+1259,Favorite,None
+1260,chinese,None
+1261,chinese,None
+1262,chinese,None
+1263,Favorite,None
+1264,chinese,None
+1265,chinese,None
+1266,chinese,None
+1267,Favorite,None
+1268,chinese,None
+1269,chinese,None
+1270,chinese,None
+1271,C-pop,None
+1272,C-pop,None
+1273,chinese,None
+1274,chinese,None
+1275,Favorite,None
+1276,chinese,None
+1277,chinese,None
+1278,chinese,None
+1279,chinese,None
+1280,Favorite,None
+1281,chinese,None
+1282,chinese,None
+1283,chinese,None
+1284,Favorite,None
+1285,chinese,None
+1286,chinese,None
+1287,indie,None
+1288,indie,None
+1289,indie,None
+1290,indie,None
+1291,favorite songs,None
+1292,indie,None
+1293,indie,None
+1294,favorite songs,None
+1295,indie,None
+1296,indie,None
+1297,favorite songs,None
+1298,good,None
+1299,chinese rock,None
+1300,good,None
+1301,chinese rock,None
+1302,chinese rock,None
+1303,good,None
+1304,chinese rock,None
+1305,good,None
+1306,chinese rock,None
+1307,good,None
+1308,chinese rock,None
+1309,rock,None
+1310,rock,None
+1311,rock,None
+1312,rock,None
+1313,rock,None
+1314,pop,None
+1315,pop,None
+1316,chinese,None
+1317,rock,None
+1318,j-pop,None
+1319,introverted,None
+1320,chillout,None
+1321,taiwanese female vocal,None
+1322,rtg,None
+1323,cpop,None
+1324,pop,None
+1325,punk rock,None
+1326,70s,None
+1327,taiwanese female vocal,None
+1328,chinese,None
+1329,C-pop,None
+1330,pop,None
+1331,pop,None
+1332,pop,None
+1333,pop,None
+1334,chillout,None
+1335,taiwanese female vocal,None
+1336,rtg,None
+1337,cpop,None
+1338,pop,None
+1339,chinese,None
+1340,China,None
+1341,123,None
+1342,female vocalists,None
+1343,Love,None
+1344,chinese,None
+1345,pop,None
+1346,pop,None
+1347,1990,None
+1348,good,None
+1349,C-pop,None
+1350,Favorite,None
+1351,Love,None
+1352,LeeHom Wang,None
+1353,favorite songs,None
+1354,piano,None
+1355,tw,None
+1356,C-pop,None
+1357,good,None
+1358,pop,None
+1359,yearning,None
+1360,pop,None
+1361,pop,None
+1362,female vocalists,None
+1363,chinese female vocal,None
+1364,pop,None
+1365,C-pop,None
+1366,good,None
+1367,chinese rock,None
+1368,good,None
+1369,good,None
+1370,chinese rock,None
+1371,chinese rock,None
+1372,good,None
+1373,chinese rock,None
+1374,good,None
+1375,chinese rock,None
+1376,chinese,None
+1377,piano,None
+1378,tw,None
+1379,C-pop,None
+1380,pop,None
+1381,taiwanese female vocal,None
+1382,chinese,None
+1383,C-pop,None
+1384,pop,None
+1385,10-loving,None
+1386,rnb,None
+1387,10-loving,None
+1388,chinese,None
+1389,chinese,None
+1390,chinese,None
+1391,Favorite,None
+1392,chinese,None
+1393,chinese,None
+1394,chinese,None
+1395,Favorite,None
+1396,chinese,None
+1397,chinese,None
+1398,chinese,None
+1399,Favorite,None
+1400,chinese,None
+1401,chinese,None
+1402,chinese,None
+1403,Favorite,None
+1404,chinese,None
+1405,chinese,None
+1406,Favorite,None
+1407,chinese,None
+1408,chinese,None
+1409,chinese,None
+1410,Favorite,None
+1411,chinese,None
+1412,chinese,None
+1413,chinese,None
+1414,Favorite,None
+1415,chinese,None
+1416,good,None
+1417,chinese rock,None
+1418,good,None
+1419,chinese rock,None
+1420,good,None
+1421,chinese rock,None
+1422,chinese,None
+1423,rtg,None
+1424,cpop,None
+1425,pop,None
+1426,Sentimental,None
+1427,China,None
+1428,123,None
+1429,myplaylist,None
+1430,pop,None
+1431,pop,None
+1432,favorite songs,None
+1433,piano,None
+1434,piano,None
+1435,pop,None
+1436,piano,None
+1437,tw,None
+1438,C-pop,None
+1439,good,None
+1440,C-pop,None
+1441,chillout,None
+1442,Chinese Pop,None
+1443,Koda Kumi,None
+1444,Asian,None
+1445,pop,None
+1446,female vocalists,None
+1447,indie,None
+1448,pop,None
+1449,pop,None
+1450,female vocalists,None
+1451,indie,None
+1452,indie,None
+1453,C-pop,None
+1454,chinese female vocal,None
+1455,pop,None
+1456,C-pop,None
+1457,chinese,None
+1458,jacky,None
+1459,chinese,None
+1460,pop,None
+1461,China,None
+1462,pop,None
+1463,China,None
+1464,chinese,None
+1465,Jay Chou,None
+1466,pop,None
+1467,favorite songs,None
+1468,piano,None
+1469,tw,None
+1470,C-pop,None
+1471,good,None
+1472,chinese rock,None
+1473,good,None
+1474,chinese rock,None
+1475,good,None
+1476,chinese rock,None
+1477,indie,None
+1478,indie,None
+1479,chinese,None
+1480,chinese,None
+1481,chinese,None
+1482,pop,None
+1483,chinese,None
+1484,taiwanese female vocal,None
+1485,chinese,None
+1486,C-pop,None
+1487,pop,None
+1488,pop,None
+1489,China,None
+1490,female vocalists,None
+1491,Love,None
+1492,chinese,None
+1493,pop,None
+1494,pop,None
+1495,1990,None
+1496,myplaylist,None
+1497,pop,None
+1498,pop,None
+1499,favorite songs,None
+1500,piano,None
+1501,pop,None
+1502,chinese,None
+1503,taiwanese female vocal,None
+1504,j-pop,None
+1505,China,None
+1506,chinese,None
+1507,10-loving,None
+1508,rnb,None
+1509,10-loving,None
+1510,chinese,None
+1511,chinese,None
+1512,chinese,None
+1513,Favorite,None
+1514,chinese,None
+1515,chinese,None
+1516,chinese,None
+1517,Favorite,None
+1518,chinese,None
+1519,chinese,None
+1520,chinese,None
+1521,Favorite,None
+1522,chinese,None
+1523,chinese,None
+1524,chinese,None
+1525,Favorite,None
+1526,chinese,None
+1527,chinese,None
+1528,chinese,None
+1529,Favorite,None
+1530,chinese,None
+1531,chinese,None
+1532,chinese,None
+1533,Favorite,None
+1534,chinese,None
+1535,chinese,None
+1536,Favorite,None
+1537,chinese,None
+1538,chillout,None
+1539,taiwanese pop,None
+1540,chinese,None
+1541,chinese,None
+1542,chinese,None
+1543,Favorite,None
+1544,chinese,None
+1545,chinese,None
+1546,Favorite,None
+1547,chinese,None
+1548,chinese,None
+1549,chinese,None
+1550,chinese,None
+1551,Favorite,None
+1552,chinese,None
+1553,Favorite,None
+1554,chinese,None
+1555,chinese,None
+1556,chinese,None
+1557,Favorite,None
+1558,chinese,None
+1559,chinese,None
+1560,chinese rock,None
+1561,good,None
+1562,chinese rock,None
+1563,good,None
+1564,chinese rock,None
+1565,good,None
+1566,chinese rock,None
+1567,10-loving,None
+1568,rnb,None
+1569,10-loving,None
+1570,rnb,None
+1571,10-loving,None
+1572,pop,None
+1573,China,None
+1574,chinese,None
+1575,good,None
+1576,chinese rock,None
+1577,chinese,None
+1578,chinese,None
+1579,chinese,None
+1580,Favorite,None
+1581,chinese,None
+1582,chinese,None
+1583,chinese,None
+1584,Favorite,None
+1585,chinese,None
+1586,chinese,None
+1587,Favorite,None
+1588,chinese,None
+1589,chinese,None
+1590,chinese,None
+1591,Favorite,None
+1592,chinese,None
+1593,chinese,None
+1594,chinese,None
+1595,chinese,None
+1596,chinese,None
+1597,pop,None
+1598,chinese,None
+1599,r&b,None
+1600,Chinese Pop,None
+1601,epic,None
+1602,pop,None
+1603,chinese,None
+1604,Jay Chou,None
+1605,chinese,None
+1606,jay,None
+1607,chinese,None
+1608,chinese female vocal,None
+1609,ten now,None
+1610,Jay Chou,None
+1611,xiao,None
+1612,taiwanese pop,None
+1613,piano,None
+1614,chinese,None
+1615,chinese,None
+1616,chinese,None
+1617,chinese,None
+1618,chinese,None
+1619,rock,None
+1620,rock,None
+1621,chinese,None
+1622,chinese,None
+1623,indie,None
+1624,chinese,None
+1625,chinese,None
+1626,chinese,None
+1627,chinese,None
+1628,chinese,None
+1629,chinese,None
+1630,Favorite,None
+1631,chinese,None
+1632,chinese rock,None
+1633,good,None
+1634,chinese rock,None
+1635,good,None
+1636,chinese rock,None
+1637,good,None
+1638,chinese rock,None
+1639,good,None
+1640,chinese rock,None
+1641,chinese rock,None
+1642,good,None
+1643,chinese rock,None
+1644,good,None
+1645,chinese rock,None
+1646,10-loving,None
+1647,female vocalists,None
+1648,chinese,None
+1649,jacky,None
+1650,C-pop,None
+1651,female vocalists,None
+1652,chinese,None
+1653,jacky,None
+1654,C-pop,None
+1655,female vocalists,None
+1656,jacky,None
+1657,C-pop,None
+1658,female vocalists,None
+1659,chinese,None
+1660,jacky,None
+1661,C-pop,None
+1662,female vocalists,None
+1663,good,None
+1664,chinese rock,None
+1665,good,None
+1666,chinese rock,None
+1667,C-pop,None
+1668,pop,None
+1669,good,None
+1670,chinese rock,None
+1671,good,None
+1672,chinese rock,None
+1673,taiwanese female vocal,None
+1674,C-pop,None
+1675,pop,None
+1676,1990,None
+1677,pop,None
+1678,China,None
+1679,C-pop,None
+1680,chillout,None
+1681,yearning,None
+1682,Love,None
+1683,cpop,None
+1684,C-pop,None
+1685,pop,None
+1686,pop,None
+1687,pop,None
+1688,chinese,None
+1689,Chinese Pop,None
+1690,China,None
+1691,pop,None
+1692,chinese rock,None
+1693,good,None
+1694,chinese rock,None
+1695,good,None
+1696,chinese rock,None
+1697,chinese rock,None
+1698,chinese,None
+1699,Chinese Pop,None
+1700,introverted,None
+1701,pop,None
+1702,tw,None
+1703,female vocalists,None
+1704,chinese female vocal,None
+1705,pop,None
+1706,chinese,None
+1707,taiwanese female vocal,None
+1708,j-pop,None
+1709,China,None
+1710,Sentimental,None
+1711,pop,None
+1712,good,None
+1713,chinese rock,None
+1714,good,None
+1715,chinese rock,None
+1716,good,None
+1717,chinese rock,None
+1718,good,None
+1719,chinese rock,None
+1720,good,None
+1721,chinese rock,None
+1722,good,None
+1723,chinese rock,None
+1724,rock,None
+1725,rock,None
+1726,rock,None
+1727,rock,None
+1728,rock,None
+1729,rock,None
+1730,rock,None
+1731,rock,None
+1732,rock,None
+1733,rock,None
+1734,rock,None
+1735,rock,None
+1736,rock,None
+1737,rock,None
+1738,rock,None
+1739,rock,None
+1740,pop,None
+1741,pop,None
+1742,pop,None
+1743,pop,None
+1744,tw,None
+1745,chinese rock,None
+1746,pop,None
+1747,pop,None
+1748,China,None
+1749,C-pop,None
+1750,Ballad,None
+1751,Jay Chou,None
+1752,pop,None
+1753,chinese,None
+1754,jacky,None
+1755,female vocalists,None
+1756,rnb,None
+1757,10-loving,None
+1758,chinese rock,None
+1759,good,None
+1760,chinese rock,None
+1761,introverted,None
+1762,rock,None
+1763,rock,None
+1764,rock,None
+1765,rock,None
+1766,rock,None
+1767,rock,None
+1768,folk,None
+1769,chinese,None
+1770,chinese,None
+1771,rock,None
+1772,indie,None
+1773,indie,None
+1774,rnb,None
+1775,pop,None
+1776,pop,None
+1777,myplaylist,None
+1778,pop,None
+1779,pop,None
+1780,1990,None
+1781,good,None
+1782,chinese rock,None
+1783,myplaylist,None
+1784,pop,None
+1785,myplaylist,None
+1786,pop,None
+1787,pop,None
+1788,1990,None
+1789,pop,None
+1790,pop,None
+1791,pop,None
+1792,1990,None
+1793,China,None
+1794,Sentimental,None
+1795,pop,None
+1796,C-pop,None
+1797,Sentimental,None
+1798,pop,None
+1799,Ballad,None
+1800,Jay Chou,None
+1801,chinese,None
+1802,China,None
+1803,China,None
+1804,pop,None
+1805,chinese,None
+1806,jacky,None
+1807,chinese,None
+1808,pop,None
+1809,China,None
+1810,pop,None
+1811,chinese,None
+1812,jacky,None
+1813,chinese,None
+1814,pop,None
+1815,good,None
+1816,chinese rock,None
+1817,good,None
+1818,chinese rock,None
+1819,good,None
+1820,chinese rock,None
+1821,good,None
+1822,chinese rock,None
+1823,good,None
+1824,chinese rock,None
+1825,good,None
+1826,chinese rock,None
+1827,good,None
+1828,chinese rock,None
+1829,good,None
+1830,chinese rock,None
+1831,chinese rock,None
+1832,good,None
+1833,chinese rock,None
+1834,good,None
+1835,chinese rock,None
+1836,good,None
+1837,indie,None
+1838,indie,None
+1839,chinese,None
+1840,China,None
+1841,China,None
+1842,pop,None
+1843,chinese,None
+1844,jacky,None
+1845,Ballad,None
+1846,China,None
+1847,C-pop,None
+1848,Sentimental,None
+1849,pop,None
+1850,pop,None
+1851,chinese,None
+1852,pop,None
+1853,chinese,None
+1854,pop,None
+1855,jacky,None
+1856,female vocalists,None
+1857,rnb,None
+1858,10-loving,None
+1859,chinese rock,None
+1860,good,None
+1861,chinese rock,None
+1862,good,None
+1863,chinese rock,None
+1864,good,None
+1865,chinese rock,None
+1866,good,None
+1867,chinese rock,None
+1868,rock,None
+1869,rock,None
+1870,rock,None
+1871,rock,None
+1872,rock,None
+1873,rock,None
+1874,rock,None
+1875,rock,None
+1876,rock,None
+1877,rock,None
+1878,rock,None
+1879,rock,None
+1880,10-loving,None
+1881,chinese rock,None
+1882,good,None
+1883,pop,None
+1884,C-pop,None
+1885,chinese female vocal,None
+1886,C-pop,None
+1887,pop,None
+1888,female vocalists,None
+1889,rnb,None
+1890,10-loving,None
+1891,pop,None
+1892,chinese,None
+1893,Asian,None
+1894,China,None
+1895,pop,None
+1896,Favorite,None
+1897,j-pop,None
+1898,China,None
+1899,pop,None
+1900,chankl78,None
+1901,female vocalists,None
+1902,C-pop,None
+1903,R,None
+1904,taiwan,None
+1905,pop,None
+1906,kvstn,None
+1907,pop,None
+1908,C-pop,None
+1909,chinese,None
+1910,C-pop,None
+1911,female vocalists,None
+1912,C-pop,None
+1913,LeeHom Wang,None
+1914,123,None
+1915,pop,None
+1916,female vocalists,None
+1917,pop,None
+1918,chinese,None
+1919,C-pop,None
+1920,female vocalists,None
+1921,C-pop,None
+1922,LeeHom Wang,None
+1923,C-pop,None
+1924,good,None
+1925,chinese,None
+1926,C-pop,None
+1927,female vocalists,None
+1928,C-pop,None
+1929,LeeHom Wang,None
+1930,123,None
+1931,C-pop,None
+1932,LeeHom Wang,None
+1933,123,None
+1934,pop,None
+1935,female vocalists,None
+1936,tw,None
+1937,pop,None
+1938,chinese,None
+1939,pop,None
+1940,female vocalists,None
+1941,pop,None
+1942,chinese,None
+1943,good,None
+1944,chinese,None
+1945,C-pop,None
+1946,female vocalists,None
+1947,C-pop,None
+1948,LeeHom Wang,None
+1949,123,None
+1950,C-pop,None
+1951,LeeHom Wang,None
+1952,123,None
+1953,pop,None
+1954,female vocalists,None
+1955,pop,None
+1956,chinese,None
+1957,good,None
+1958,chinese,None
+1959,C-pop,None
+1960,female vocalists,None
+1961,chinese,None
+1962,C-pop,None
+1963,female vocalists,None
+1964,C-pop,None
+1965,LeeHom Wang,None
+1966,123,None
+1967,good,None
+1968,chinese,None
+1969,C-pop,None
+1970,female vocalists,None
+1971,C-pop,None
+1972,LeeHom Wang,None
+1973,123,None
+1974,pop,None
+1975,female vocalists,None
+1976,pop,None
+1977,chinese,None
+1978,good,None
+1979,chinese,None
+1980,C-pop,None
+1981,female vocalists,None
+1982,C-pop,None
+1983,LeeHom Wang,None
+1984,123,None
+1985,chinese,None
+1986,C-pop,None
+1987,female vocalists,None
+1988,C-pop,None
+1989,LeeHom Wang,None
+1990,123,None
+1991,C-pop,None
+1992,female vocalists,None
+1993,C-pop,None
+1994,female vocalists,None
+1995,C-pop,None
+1996,123,None
+1997,pop,None
+1998,good,None
+1999,chinese,None
+2000,C-pop,None
+2001,female vocalists,None
+2002,C-pop,None
+2003,LeeHom Wang,None
+2004,123,None
+2005,pop,None
+2006,123,None
+2007,chinese,None
+2008,C-pop,None
+2009,female vocalists,None
+2010,C-pop,None
+2011,female vocalists,None
+2012,C-pop,None
+2013,LeeHom Wang,None
+2014,female vocalists,None
+2015,chinese,None
+2016,C-pop,None
+2017,female vocalists,None
+2018,chinese,None
+2019,C-pop,None
+2020,female vocalists,None
+2021,chinese,None
+2022,C-pop,None
+2023,female vocalists,None
+2024,C-pop,None
+2025,chinese,None
+2026,C-pop,None
+2027,female vocalists,None
+2028,kvstn,None
+2029,pop,None
+2030,C-pop,None
+2031,C-pop,None
+2032,chinese,None
+2033,chankl78,None
+2034,female vocalists,None
+2035,C-pop,None
+2036,rock,None
+2037,rock,None
+2038,rock,None
+2039,rock,None
+2040,rock,None
+2041,rock,None
+2042,rock,None
+2043,rock,None
+2044,rock,None
+2045,rock,None
+2046,rock,None
+2047,rock,None
+2048,rock,None
+2049,rock,None
+2050,rock,None
+2051,rock,None
+2052,rock,None
+2053,rock,None
+2054,rock,None
+2055,rock,None
+2056,rock,None
+2057,rock,None
+2058,rock,None
+2059,rock,None
+2060,rock,None
+2061,rock,None
+2062,rock,None
+2063,rock,None
+2064,chinese,None
+2065,China,None
+2066,C-pop,None
+2067,C-pop,None
+2068,pop,None
+2069,pop,None
+2070,chinese,None
+2071,good,None
+2072,jacky,None
+2073,C-pop,None
+2074,chinese,None
+2075,jacky,None
+2076,C-pop,None
+2077,female vocalists,None
+2078,female vocalists,None
+2079,chinese,None
+2080,jacky,None
+2081,jacky,None
+2082,C-pop,None
+2083,female vocalists,None
+2084,chinese,None
+2085,jacky,None
+2086,C-pop,None
+2087,female vocalists,None
+2088,R,None
+2089,C-pop,None
+2090,C-pop,None
+2091,chinese,None
+2092,chinese,None
+2093,ten now,None
+2094,Yoga Lin,None
+2095,chinese,None
+2096,chinese,None
+2097,chinese,None
+2098,C-pop,None
+2099,chinese,None
+2100,chankl78,None
+2101,chillout,None
+2102,LeeHom Wang,None
+2103,Love,None
+2104,Chinese Pop,None
+2105,Koda Kumi,None
+2106,yearning,None
+2107,pop,None
+2108,tw,None
+2109,tw,None
+2110,myplaylist,None
+2111,pop,None
+2112,pop,None
+2113,pop,None
+2114,chinese,None
+2115,myplaylist,None
+2116,pop,None
+2117,pop,None
+2118,pop,None
+2119,chinese,None
+2120,favorite songs,None
+2121,ten now,None
+2122,Yoga Lin,None
+2123,China,None
+2124,1993,None
+2125,myplaylist,None
+2126,pop,None
+2127,tw,None
+2128,C-pop,None
+2129,chinese,None
+2130,C-pop,None
+2131,chinese,None
+2132,LeeHom Wang,None
+2133,Love,None
+2134,rnb,None
+2135,10-loving,None
+2136,Koda Kumi,None
+2137,C-pop,None
+2138,Yoga Lin,None
+2139,eason,None
+2140,pop,None
+2141,China,None
+2142,Love,None
+2143,pop,None
+2144,female vocalists,None
+2145,mandopop,None
+2146,Yoga Lin,None
+2147,ten now,None
+2148,pop,None
+2149,C-pop,None
+2150,rnb,None
+2151,Chinese Pop,None
+2152,Koda Kumi,None
+2153,chinese,None
+2154,taiwanese female vocal,None
+2155,eason,None
+2156,China,None
+2157,Love,None
+2158,pop,None
+2159,female vocalists,None
+2160,mandopop,None
+2161,123,None
+2162,chinese,None
+2163,ten now,None
+2164,Yoga Lin,None
+2165,chankl78,None
+2166,pop,None
+2167,Love,None
+2168,pop,None
+2169,tw,None
+2170,C-pop,None
+2171,pop,None
+2172,eason,None
+2173,cpop,None
+2174,twins,None
+2175,C-pop,None
+2176,taiwanese female vocal,None
+2177,chinese,None
+2178,pop,None
+2179,C-pop,None
+2180,pop,None
+2181,China,None
+2182,chinese,None
+2183,chinese female vocal,None
+2184,pop,None
+2185,pop,None
+2186,C-pop,None
+2187,pop,None
+2188,eason,None
+2189,rock,None
+2190,taiwanese female vocal,None
+2191,cpop,None
+2192,rtg,None
+2193,douwei,None
+2194,rtg,None
+2195,douwei,None
+2196,pop,None
+2197,R,None
+2198,R,None
+2199,R,None
+2200,R,None
+2201,female vocalists,None
+2202,C-pop,None
+2203,R,None
+2204,R,None
+2205,R,None
+2206,pop,None
+2207,pop,None
+2208,chinese,None
+2209,mandarin,None
+2210,Love,None
+2211,pop,None
+2212,female vocalists,None
+2213,mandopop,None
+2214,123,None
+2215,chinese,None
+2216,ten now,None
+2217,Yoga Lin,None
+2218,chankl78,None
+2219,chinese,None
+2220,mandopop,None
+2221,chinese,None
+2222,myplaylist,None
+2223,pop,None
+2224,pop,None
+2225,pop,None
+2226,pop,None
+2227,C-pop,None
+2228,pop,None
+2229,pop,None
+2230,pop,None
+2231,chinese,None
+2232,mandarin,None
+2233,pop,None
+2234,eason,None
+2235,chinese,None
+2236,mandarin,None
+2237,cpop,None
+2238,China,None
+2239,Love,None
+2240,pop,None
+2241,female vocalists,None
+2242,mandopop,None
+2243,123,None
+2244,chinese,None
+2245,chankl78,None
+2246,chinese female vocal,None
+2247,eason,None
+2248,eason,None
+2249,rock,None
+2250,taiwanese female vocal,None
+2251,cpop,None
+2252,rtg,None
+2253,douwei,None
+2254,chinese,None
+2255,taiwanese pop,None
+2256,chinese,None
+2257,mandarin,None
+2258,chinese,None
+2259,mandarin,None
+2260,cpop,None
+2261,China,None
+2262,1993,None
+2263,Love,None
+2264,pop,None
+2265,female vocalists,None
+2266,mandopop,None
+2267,ten now,None
+2268,Yoga Lin,None
+2269,pop,None
+2270,favorite songs,None
+2271,tw,None
+2272,tw,None
+2273,C-pop,None
+2274,ten now,None
+2275,Yoga Lin,None
+2276,chankl78,None
+2277,myplaylist,None
+2278,pop,None
+2279,pop,None
+2280,pop,None
+2281,chinese,None
+2282,favorite songs,None
+2283,C-pop,None
+2284,pop,None
+2285,pop,None
+2286,chinese,None
+2287,favorite songs,None
+2288,tw,None
+2289,tw,None
+2290,C-pop,None
+2291,good,None
+2292,chinese,None
+2293,chankl78,None
+2294,chillout,None
+2295,LeeHom Wang,None
+2296,Love,None
+2297,Chinese Pop,None
+2298,Koda Kumi,None
+2299,Asian,None
+2300,Koda Kumi,None
+2301,Koda Kumi,None
+2302,Asian,None
+2303,chinese,None
+2304,Chinese Pop,None
+2305,Koda Kumi,None
+2306,Asian,None
+2307,pop,None
+2308,pop,None
+2309,yearning,None
+2310,pop,None
+2311,chinese,None
+2312,calm,None
+2313,rnb,None
+2314,calm,None
+2315,rnb,None
+2316,10-loving,None
+2317,chinese,None
+2318,chinese,None
+2319,chinese,None
+2320,pop,None
+2321,pop,None
+2322,taiwanese female vocal,None
+2323,cpop,None
+2324,rtg,None
+2325,C-pop,None
+2326,chinese,None
+2327,taiwanese pop,None
+2328,rock,None
+2329,taiwanese female vocal,None
+2330,cpop,None
+2331,rtg,None
+2332,pop,None
+2333,eason,None
+2334,rnb,None
+2335,10-loving,None
+2336,Koda Kumi,None
+2337,Koda Kumi,None
+2338,pop,None
+2339,rock,None
+2340,rock,None
+2341,rock,None
+2342,xiao,None
+2343,taiwanese pop,None
+2344,my-bestlove,None
+2345,pop,None
+2346,taiwan,None
+2347,pop,None
+2348,kvstn,None
+2349,pop,None
+2350,C-pop,None
+2351,C-pop,None
+2352,chinese,None
+2353,rock,None
+2354,rock,None
+2355,rock,None
+2356,rock,None
+2357,rock,None
+2358,rock,None
+2359,pop,None
+2360,pop,None
+2361,1990,None
+2362,pop,None
+2363,pop,None
+2364,1990,None
+2365,pop,None
+2366,taiwanese pop,None
+2367,douwei,None
+2368,chinese rock,None
+2369,indie,None
+2370,pop,None
+2371,rock,None
+2372,China,None
+2373,pop,None
+2374,pop,None
+2375,pop,None
+2376,pop,None
+2377,chinese,None
+2378,Jay Chou,None
+2379,China,None
+2380,C-pop,None
+2381,female vocalists,None
+2382,calm,None
+2383,pop,None
+2384,pop,None
+2385,pop,None
+2386,pop,None
+2387,pop,None
+2388,chinese,None
+2389,Jay Chou,None
+2390,China,None
+2391,favorite songs,None
+2392,rock,None
+2393,rock,None
+2394,pop,None
+2395,rock,None
+2396,China,None
+2397,pop,None
+2398,pop,None
+2399,pop,None
+2400,pop,None
+2401,chinese,None
+2402,Jay Chou,None
+2403,China,None
+2404,indie,None
+2405,pop,None
+2406,eason,None
+2407,chinese female vocal,None
+2408,C-pop,None
+2409,pop,None
+2410,R,None
+2411,R,None
+2412,R,None
+2413,taiwan,None
+2414,pop,None
+2415,kvstn,None
+2416,pop,None
+2417,C-pop,None
+2418,chankl78,None
+2419,female vocalists,None
+2420,C-pop,None
+2421,R,None
+2422,taiwan,None
+2423,pop,None
+2424,kvstn,None
+2425,pop,None
+2426,C-pop,None
+2427,C-pop,None
+2428,chinese,None
+2429,chankl78,None
+2430,female vocalists,None
+2431,C-pop,None
+2432,R,None
+2433,taiwan,None
+2434,pop,None
+2435,R,None
+2436,R,None
+2437,pop,None
+2438,pop,None
+2439,taiwanese female vocal,None
+2440,10-loving,None
+2441,pop,None
+2442,pop,None
+2443,cpop,None
+2444,1993,None
+2445,R,None
+2446,R,None
+2447,R,None
+2448,R,None
+2449,R,None
+2450,R,None
+2451,R,None
+2452,R,None
+2453,R,None
+2454,rock,None
+2455,cpop,None
+2456,China,None
+2457,pop,None
+2458,eason,None
+2459,rock,None
+2460,pop,None
+2461,pop,None
+2462,pop,None
+2463,chinese,None
+2464,favorite songs,None
+2465,tw,None
+2466,tw,None
+2467,C-pop,None
+2468,rock,None
+2469,taiwanese female vocal,None
+2470,cpop,None
+2471,rtg,None
+2472,Love,None
+2473,pop,None
+2474,female vocalists,None
+2475,mandopop,None
+2476,123,None
+2477,chinese,None
+2478,ten now,None
+2479,Yoga Lin,None
+2480,chankl78,None
+2481,douwei,None
+2482,pop,None
+2483,pop,None
+2484,chinese,None
+2485,taiwanese pop,None
+2486,jacky,None
+2487,rock,None
+2488,rock,None
+2489,R,None
+2490,R,None
+2491,R,None
+2492,chankl78,None
+2493,female vocalists,None
+2494,C-pop,None
+2495,chinese,None
+2496,kvstn,None
+2497,pop,None
+2498,C-pop,None
+2499,C-pop,None
+2500,female vocalists,None
+2501,R,None
+2502,R,None
+2503,C-pop,None
+2504,R,None
+2505,R,None
+2506,R,None
+2507,C-pop,None
+2508,R,None
+2509,C-pop,None
+2510,R,None
+2511,R,None
+2512,R,None
+2513,pop,None
+2514,female vocalists,None
+2515,10-loving,None
+2516,rnb,None
+2517,calm,None
+2518,chinese,None
+2519,pop,None
+2520,pop,None
+2521,chinese,None
+2522,Asian,None
+2523,pop,None
+2524,female vocalists,None
+2525,10-loving,None
+2526,rnb,None
+2527,rock,None
+2528,rock,None
+2529,rock,None
+2530,chankl78,None
+2531,female vocalists,None
+2532,C-pop,None
+2533,R,None
+2534,R,None
+2535,R,None
+2536,chinese,None
+2537,eason,None
+2538,rtg,None
+2539,cpop,None
+2540,douwei,None
+2541,pop,None
+2542,pop,None
+2543,C-pop,None
+2544,Sentimental,None
+2545,chinese,None
+2546,taiwanese pop,None
+2547,chinese,None
+2548,mandarin,None
+2549,cpop,None
+2550,China,None
+2551,pop,None
+2552,Love,None
+2553,chinese,None
+2554,ten now,None
+2555,Yoga Lin,None
+2556,chankl78,None
+2557,chinese,None
+2558,pop,None
+2559,favorite songs,None
+2560,female vocalists,None
+2561,Asian,None
+2562,pop,None
+2563,chinese,None
+2564,good,None
+2565,chinese,None
+2566,C-pop,None
+2567,female vocalists,None
+2568,chinese,None
+2569,China,None
+2570,C-pop,None
+2571,rock,None
+2572,123,None
+2573,rock,None
+2574,chinese,None
+2575,chinese,None
+2576,chinese,None
+2577,favorite songs,None
+2578,indie,None
+2579,C-pop,None
+2580,chinese,None
+2581,chankl78,None
+2582,female vocalists,None
+2583,C-pop,None
+2584,taiwan,None
+2585,pop,None
+2586,pop,None
+2587,kvstn,None
+2588,pop,None
+2589,C-pop,None
+2590,C-pop,None
+2591,chinese,None
+2592,rock,None
+2593,heard on Pandora,None
+2594,Grunge,None
+2595,-,None
+2596,pop,None
+2597,pop,None
+2598,pop,None
+2599,pop,None
+2600,pop,None
+2601,C-pop,None
+2602,Sentimental,None
+2603,chinese,None
+2604,taiwanese pop,None
+2605,chinese,None
+2606,mandarin,None
+2607,mandarin,None
+2608,cpop,None
+2609,cpop,None
+2610,good,None
+2611,C-pop,None
+2612,chinese,None
+2613,chinese,None
+2614,chinese,None
+2615,chinese,None
+2616,chinese,None
+2617,chankl78,None
+2618,Love,None
+2619,LeeHom Wang,None
+2620,folk,None
+2621,pop,None
+2622,pop,None
+2623,pop,None
+2624,1990,None
+2625,pop,None
+2626,Dream,None
+2627,rock,None
+2628,beyond,None
+2629,rock,None
+2630,chinese rock,None
+2631,beyond,None
+2632,beyond,None
+2633,beyond,None
+2634,beyond,None
+2635,rock,None
+2636,rock,None
+2637,rock,None
+2638,pop,None
+2639,rock,None
+2640,rock,None
+2641,pop,None
+2642,rock,None
+2643,rock,None
+2644,rock,None
+2645,rock,None
+2646,rock,None
+2647,rock,None
+2648,punk rock,None
+2649,punk rock,None
+2650,punk rock,None
+2651,punk rock,None
+2652,punk rock,None
+2653,punk rock,None
+2654,punk rock,None
+2655,punk rock,None
+2656,punk rock,None
+2657,punk rock,None
+2658,punk rock,None
+2659,punk rock,None
+2660,punk rock,None
+2661,punk rock,None
+2662,punk rock,None
+2663,punk rock,None
+2664,punk rock,None
+2665,punk rock,None
+2666,chinese,None
+2667,chinese,None
+2668,pop,None
+2669,C-pop,None
+2670,chinese,None
+2671,female vocalists,None
+2672,pop,None
+2673,pop,None
+2674,chinese,None
+2675,chinese,None
+2676,female vocalists,None
+2677,pop,None
+2678,pop,None
+2679,indie,None
+2680,rock,None
+2681,rock,None
+2682,rock,None
+2683,rock,None
+2684,folk,None
+2685,C-pop,None
+2686,chinese,None
+2687,Love,None
+2688,LeeHom Wang,None
+2689,chillout,None
+2690,Chinese Pop,None
+2691,Koda Kumi,None
+2692,rnb,None
+2693,10-loving,None
+2694,Asian,None
+2695,chinese,None
+2696,pop,None
+2697,calm,None
+2698,chinese,None
+2699,pop,None
+2700,yearning,None
+2701,pop,None
+2702,rnb,None
+2703,10-loving,None
+2704,chinese,None
+2705,C-pop,None
+2706,female vocalists,None
+2707,China,None
+2708,C-pop,None
+2709,C-pop,None
+2710,LeeHom Wang,None
+2711,taiwanese female vocal,None
+2712,123,None
+2713,pop,None
+2714,female vocalists,None
+2715,Asian,None
+2716,10-loving,None
+2717,10-loving,None
+2718,10-loving,None
+2719,Asian,None
+2720,chinese,None
+2721,pop,None
+2722,calm,None
+2723,chinese,None
+2724,pop,None
+2725,yearning,None
+2726,pop,None
+2727,rnb,None
+2728,10-loving,None
+2729,female vocalists,None
+2730,yearning,None
+2731,pop,None
+2732,rnb,None
+2733,10-loving,None
+2734,female vocalists,None
+2735,indie,None
+2736,indie,None
+2737,Soundtrack,None
+2738,C-pop,None
+2739,chinese female vocal,None
+2740,C-pop,None
+2741,pop,None
+2742,C-pop,None
+2743,chinese,None
+2744,jacky,None
+2745,jacky,None
+2746,chinese,None
+2747,pop,None
+2748,rnb,None
+2749,pop,None
+2750,rnb,None
+2751,10-loving,None
+2752,rnb,None
+2753,10-loving,None
+2754,folk,None
+2755,rock,None
+2756,rock,None
+2757,rock,None
+2758,rock,None
+2759,rock,None
+2760,rock,None
+2761,rock,None
+2762,rock,None
+2763,rock,None
+2764,rock,None
+2765,rock,None
+2766,rock,None
+2767,rock,None
+2768,rock,None
+2769,rock,None
+2770,rock,None
+2771,rock,None
+2772,rock,None
+2773,rock,None
+2774,rock,None
+2775,rock,None
+2776,rock,None
+2777,rock,None
+2778,rock,None
+2779,rock,None
+2780,Love,None
+2781,LeeHom Wang,None
+2782,chillout,None
+2783,Chinese Pop,None
+2784,Koda Kumi,None
+2785,Asian,None
+2786,rnb,None
+2787,10-loving,None
+2788,indie,None
+2789,indie,None
+2790,Soundtrack,None
+2791,C-pop,None
+2792,chinese female vocal,None
+2793,C-pop,None
+2794,pop,None
+2795,C-pop,None
+2796,chinese,None
+2797,jacky,None
+2798,chinese,None
+2799,pop,None
+2800,China,None
+2801,pop,None
+2802,chinese,None
+2803,chankl78,None
+2804,Love,None
+2805,LeeHom Wang,None
+2806,chillout,None
+2807,Chinese Pop,None
+2808,Koda Kumi,None
+2809,Asian,None
+2810,chinese,None
+2811,pop,None
+2812,calm,None
+2813,chinese,None
+2814,pop,None
+2815,yearning,None
+2816,pop,None
+2817,rnb,None
+2818,10-loving,None
+2819,pop,None
+2820,rnb,None
+2821,10-loving,None
+2822,1993,None
+2823,123,None
+2824,female vocalists,None
+2825,pop,None
+2826,Love,None
+2827,chinese,None
+2828,ten now,None
+2829,Yoga Lin,None
+2830,chankl78,None
+2831,chinese,None
+2832,pop,None
+2833,beyond,None
+2834,beyond,None
+2835,rock,None
+2836,rock,None
+2837,rock,None
+2838,pop,None
+2839,rock,None
+2840,rock,None
+2841,pop,None
+2842,rock,None
+2843,rock,None
+2844,rock,None
+2845,rock,None
+2846,rock,None
+2847,rock,None
+2848,C-pop,None
+2849,C-pop,None
+2850,C-pop,None
+2851,chinese,None
+2852,chankl78,None
+2853,female vocalists,None
+2854,C-pop,None
+2855,taiwan,None
+2856,pop,None
+2857,kvstn,None
+2858,pop,None
+2859,C-pop,None
+2860,chinese,None
+2861,chankl78,None
+2862,female vocalists,None
+2863,C-pop,None
+2864,chinese,None
+2865,taiwanese pop,None
+2866,chinese,None
+2867,mandarin,None
+2868,cpop,None
+2869,China,None
+2870,introverted,None
+2871,chillout,None
+2872,pop,None
+2873,chinese,None
+2874,pop,None
+2875,eason,None
+2876,chinese,None
+2877,chinese,None
+2878,mandarin,None
+2879,pop,None
+2880,C-pop,None
+2881,Sentimental,None
+2882,mandarin,None
+2883,cpop,None
+2884,douwei,None
+2885,pop,None
+2886,pop,None
+2887,C-pop,None
+2888,Sentimental,None
+2889,chinese,None
+2890,taiwanese pop,None
+2891,chinese,None
+2892,mandarin,None
+2893,cpop,None
+2894,China,None
+2895,1993,None
+2896,123,None
+2897,female vocalists,None
+2898,pop,None
+2899,ten now,None
+2900,Yoga Lin,None
+2901,chinese,None
+2902,chinese,None
+2903,chinese,None
+2904,good,None
+2905,C-pop,None
+2906,chinese,None
+2907,chinese,None
+2908,chankl78,None
+2909,Love,None
+2910,LeeHom Wang,None
+2911,chillout,None
+2912,Chinese Pop,None
+2913,Koda Kumi,None
+2914,Asian,None
+2915,chinese,None
+2916,pop,None
+2917,calm,None
+2918,chinese,None
+2919,pop,None
+2920,yearning,None
+2921,pop,None
+2922,yearning,None
+2923,pop,None
+2924,rnb,None
+2925,10-loving,None
+2926,10-loving,None
+2927,pop,None
+2928,rnb,None
+2929,rnb,None
+2930,pop,None
+2931,chinese,None
+2932,good,None
+2933,C-pop,None
+2934,chinese,None
+2935,chankl78,None
+2936,Love,None
+2937,LeeHom Wang,None
+2938,chinese,None
+2939,pop,None
+2940,calm,None
+2941,chinese,None
+2942,pop,None
+2943,yearning,None
+2944,pop,None
+2945,rnb,None
+2946,10-loving,None
+2947,pop,None
+2948,yearning,None
+2949,pop,None
+2950,rnb,None
+2951,10-loving,None
+2952,pop,None
+2953,calm,None
+2954,chinese,None
+2955,pop,None
+2956,yearning,None
+2957,pop,None
+2958,rnb,None
+2959,10-loving,None
+2960,10-loving,None
+2961,rnb,None
+2962,10-loving,None
+2963,calm,None
+2964,chinese,None
+2965,pop,None
+2966,yearning,None
+2967,pop,None
+2968,rnb,None
+2969,rtg,None
+2970,cpop,None
+2971,douwei,None
+2972,mandarin,None
+2973,cpop,None
+2974,Chinese Pop,None
+2975,Koda Kumi,None
+2976,Asian,None
+2977,chinese,None
+2978,pop,None
+2979,calm,None
+2980,chinese,None
+2981,pop,None
+2982,yearning,None
+2983,pop,None
+2984,rnb,None
+2985,10-loving,None
+2986,rnb,None
+2987,10-loving,None
+2988,rnb,None
+2989,twins,None
+2990,taiwanese female vocal,None
+2991,C-pop,None
+2992,chinese,None
+2993,C-pop,None
+2994,pop,None
+2995,pop,None
+2996,10-loving,None
+2997,rnb,None
+2998,chinese,None
+2999,C-pop,None
+3000,pop,None
+3001,pop,None
+3002,pop,None
+3003,chinese,None
+3004,pop,None
+3005,favorite songs,None
+3006,cpop,None
+3007,China,None
+3008,123,None
+3009,female vocalists,None
+3010,pop,None
+3011,taiwanese pop,None
+3012,chinese,None
+3013,mandarin,None
+3014,cpop,None
+3015,China,None
+3016,pop,None
+3017,pop,None
+3018,chinese,None
+3019,ten now,None
+3020,Yoga Lin,None
+3021,123,None
+3022,female vocalists,None
+3023,pop,None
+3024,Love,None
+3025,chinese,None
+3026,ten now,None
+3027,China,None
+3028,chinese female vocal,None
+3029,Love,None
+3030,chinese,None
+3031,ten now,None
+3032,pop,None
+3033,chinese,None
+3034,pop,None
+3035,favorite songs,None
+3036,myplaylist,None
+3037,pop,None
+3038,pop,None
+3039,chinese,None
+3040,pop,None
+3041,favorite songs,None
+3042,tw,None
+3043,tw,None
+3044,pop,None
+3045,calm,None
+3046,chinese,None
+3047,pop,None
+3048,yearning,None
+3049,pop,None
+3050,Asian,None
+3051,chinese,None
+3052,chinese,None
+3053,jacky,None
+3054,chinese,None
+3055,indie,None
+3056,indie,None
+3057,Soundtrack,None
+3058,C-pop,None
+3059,chinese female vocal,None
+3060,C-pop,None
+3061,C-pop,None
+3062,Asian,None
+3063,calm,None
+3064,chinese,None
+3065,pop,None
+3066,yearning,None
+3067,chinese female vocal,None
+3068,C-pop,None
+3069,jacky,None
+3070,taiwanese female vocal,None
+3071,C-pop,None
+3072,chinese,None
+3073,good,None
+3074,Love,None
+3075,LeeHom Wang,None
+3076,chillout,None
+3077,Chinese Pop,None
+3078,twins,None
+3079,Koda Kumi,None
+3080,Asian,None
+3081,pop,None
+3082,yearning,None
+3083,pop,None
+3084,Asian,None
+3085,chinese,None
+3086,pop,None
+3087,calm,None
+3088,chinese,None
+3089,pop,None
+3090,yearning,None
+3091,pop,None
+3092,pop,None
+3093,female vocalists,None
+3094,indie,None
+3095,indie,None
+3096,jacky,None
+3097,C-pop,None
+3098,female vocalists,None
+3099,chinese,None
+3100,jacky,None
+3101,C-pop,None
+3102,female vocalists,None
+3103,chinese,None
+3104,jacky,None
+3105,C-pop,None
+3106,indie,None
+3107,indie,None
+3108,Soundtrack,None
+3109,C-pop,None
+3110,chinese female vocal,None
+3111,C-pop,None
+3112,pop,None
+3113,C-pop,None
+3114,chinese,None
+3115,jacky,None
+3116,jacky,None
+3117,chinese,None
+3118,pop,None
+3119,China,None
+3120,pop,None
+3121,China,None
+3122,chinese,None
+3123,mandarin,None
+3124,female vocalists,None
+3125,taiwan,None
+3126,pop,None
+3127,kvstn,None
+3128,pop,None
+3129,C-pop,None
+3130,C-pop,None
+3131,chinese,None
+3132,chankl78,None
+3133,female vocalists,None
+3134,C-pop,None
+3135,taiwan,None
+3136,pop,None
+3137,kvstn,None
+3138,pop,None
+3139,C-pop,None
+3140,chinese,None
+3141,myplaylist,None
+3142,pop,None
+3143,pop,None
+3144,chinese,None
+3145,myplaylist,None
+3146,pop,None
+3147,pop,None
+3148,chinese,None
+3149,pop,None
+3150,favorite songs,None
+3151,favorite songs,None
+3152,good,None
+3153,Koda Kumi,None
+3154,chinese,None
+3155,jacky,None
+3156,jacky,None
+3157,chinese,None
+3158,pop,None
+3159,pop,None
+3160,pop,None
+3161,rock,None
+3162,pop,None
+3163,chinese,None
+3164,pop,None
+3165,yearning,None
+3166,pop,None
+3167,pop,None
+3168,female vocalists,None
+3169,indie,None
+3170,indie,None
+3171,Soundtrack,None
+3172,C-pop,None
+3173,chinese female vocal,None
+3174,C-pop,None
+3175,pop,None
+3176,C-pop,None
+3177,chinese,None
+3178,jacky,None
+3179,jacky,None
+3180,chinese,None
+3181,pop,None
+3182,China,None
+3183,pop,None
+3184,jay,None
+3185,calm,None
+3186,chinese,None
+3187,pop,None
+3188,yearning,None
+3189,pop,None
+3190,pop,None
+3191,female vocalists,None
+3192,indie,None
+3193,indie,None
+3194,Soundtrack,None
+3195,C-pop,None
+3196,chinese female vocal,None
+3197,C-pop,None
+3198,pop,None
+3199,C-pop,None
+3200,China,None
+3201,chinese,None
+3202,mandarin,None
+3203,mandarin,None
+3204,rock,None
+3205,rock,None
+3206,rock,None
+3207,Grunge,None
+3208,Grunge,None
+3209,Grunge,None
+3210,Grunge,None
+3211,Grunge,None
+3212,Grunge,None
+3213,Grunge,None
+3214,Grunge,None
+3215,Grunge,None
+3216,Grunge,None
+3217,Grunge,None
+3218,Grunge,None
+3219,Grunge,None
+3220,Grunge,None
+3221,chinese,None
+3222,China,None
+3223,pop,None
+3224,China,None
+3225,1993,None
+3226,123,None
+3227,female vocalists,None
+3228,pop,None
+3229,Love,None
+3230,chinese,None
+3231,chinese,None
+3232,myplaylist,None
+3233,tw,None
+3234,tw,None
+3235,good,None
+3236,C-pop,None
+3237,chinese,None
+3238,chinese,None
+3239,chinese,None
+3240,chankl78,None
+3241,chinese female vocal,None
+3242,C-pop,None
+3243,pop,None
+3244,chinese,None
+3245,female vocalists,None
+3246,pop,None
+3247,pop,None
+3248,chinese,None
+3249,indie,None
+3250,indie,None
+3251,indie,None
+3252,indie,None
+3253,female vocalists,None
+3254,indie,None
+3255,indie,None
+3256,chinese,None
+3257,jacky,None
+3258,jacky,None
+3259,female vocalists,None
+3260,indie,None
+3261,indie,None
+3262,C-pop,None
+3263,C-pop,None
+3264,pop,None
+3265,C-pop,None
+3266,chinese,None
+3267,jacky,None
+3268,jacky,None
+3269,chinese,None
+3270,pop,None
+3271,China,None
+3272,pop,None
+3273,China,None
+3274,chinese,None
+3275,chinese,None
+3276,pop,None
+3277,taiwanese female vocal,None
+3278,rtg,None
+3279,cpop,None
+3280,douwei,None
+3281,pop,None
+3282,pop,None
+3283,C-pop,None
+3284,Sentimental,None
+3285,chinese,None
+3286,taiwanese pop,None
+3287,chinese,None
+3288,cpop,None
+3289,China,None
+3290,female vocalists,None
+3291,pop,None
+3292,Yoga Lin,None
+3293,ten now,None
+3294,Yoga Lin,None
+3295,chankl78,None
+3296,chinese,None
+3297,myplaylist,None
+3298,pop,None
+3299,pop,None
+3300,chinese,None
+3301,pop,None
+3302,favorite songs,None
+3303,chinese,None
+3304,pop,None
+3305,yearning,None
+3306,pop,None
+3307,indie,None
+3308,indie,None
+3309,good,None
+3310,folk,None
+3311,folk,None
+3312,twins,None
+3313,Koda Kumi,None
+3314,Asian,None
+3315,chinese,None
+3316,pop,None
+3317,calm,None
+3318,chinese,None
+3319,pop,None
+3320,yearning,None
+3321,pop,None
+3322,female vocalists,None
+3323,indie,None
+3324,indie,None
+3325,Soundtrack,None
+3326,C-pop,None
+3327,chinese female vocal,None
+3328,C-pop,None
+3329,pop,None
+3330,C-pop,None
+3331,chinese,None
+3332,jacky,None
+3333,jacky,None
+3334,chinese,None
+3335,pop,None
+3336,good,None
+3337,C-pop,None
+3338,chinese,None
+3339,chinese,None
+3340,chankl78,None
+3341,rock,None
+3342,rock,None
+3343,chinese,None
+3344,cpop,None
+3345,chinese,None
+3346,chinese,None
+3347,cpop,None
+3348,favorite songs,None
+3349,chinese,None
+3350,chinese,None
+3351,cpop,None
+3352,Yoga Lin,None
+3353,Chinese Pop,None
+3354,Koda Kumi,None
+3355,Asian,None
+3356,female vocalists,None
+3357,pop,None
+3358,calm,None
+3359,female vocalists,None
+3360,pop,None
+3361,indie,None
+3362,indie,None
+3363,Soundtrack,None
+3364,C-pop,None
+3365,jacky,None
+3366,jacky,None
+3367,chinese,None
+3368,pop,None
+3369,chinese,None
+3370,C-pop,None
+3371,chinese,None
+3372,chankl78,None
+3373,female vocalists,None
+3374,C-pop,None
+3375,taiwan,None
+3376,pop,None
+3377,kvstn,None
+3378,pop,None
+3379,C-pop,None
+3380,C-pop,None
+3381,chinese,None
+3382,C-pop,None
+3383,chinese,None
+3384,chankl78,None
+3385,female vocalists,None
+3386,C-pop,None
+3387,chinese,None
+3388,chankl78,None
+3389,female vocalists,None
+3390,chinese,None
+3391,chinese,None
+3392,taiwanese female vocal,None
+3393,chinese female vocal,None
+3394,chinese,None
+3395,chinese,None
+3396,chinese,None
+3397,C-pop,None
+3398,chinese,None
+3399,pop,None
+3400,C-pop,None
+3401,pop,None
+3402,female vocalists,None
+3403,Asian,None
+3404,pop,None
+3405,Love,None
+3406,C-pop,None
+3407,chinese,None
+3408,pop,None
+3409,pop,None
+3410,taiwanese female vocal,None
+3411,chinese,None
+3412,Soundtrack,None
+3413,anime,None
+3414,anime,None
+3415,j-pop,None
+3416,anime,None
+3417,chinese,None
+3418,pop,None
+3419,C-pop,None
+3420,chinese,None
+3421,pop,None
+3422,C-pop,None
+3423,chinese,None
+3424,female vocalists,None
+3425,pop,None
+3426,pop,None
+3427,chinese,None
+3428,Chinese Pop,None
+3429,indie,None
+3430,female vocalists,None
+3431,taiwanese pop,None
+3432,pop,None
+3433,indie,None
+3434,chinese,None
+3435,chinese,None
+3436,pop,None
+3437,C-pop,None
+3438,chinese,None
+3439,pop,None
+3440,chinese,None
+3441,indie,None
+3442,chinese,None
+3443,female vocalists,None
+3444,pop,None
+3445,pop,None
+3446,chinese,None
+3447,Chinese Pop,None
+3448,pop,None
+3449,da  len,None
+3450,indie,None
+3451,China,None
+3452,C-pop,None
+3453,taiwanese female vocal,None
+3454,123,None
+3455,pop,None
+3456,pop,None
+3457,female vocalists,None
+3458,Asian,None
+3459,pop,None
+3460,female vocalists,None
+3461,C-pop,None
+3462,C-pop,None
+3463,pop,None
+3464,indie,None
+3465,chankl78,None
+3466,indie,None
+3467,pop,None
+3468,indie,None
+3469,chinese,None
+3470,yearning,None
+3471,China,None
+3472,pop,None
+3473,favorite songs,None
+3474,jacky,None
+3475,female vocalists,None
+3476,China,None
+3477,tw,None
+3478,C-pop,None
+3479,calm,None
+3480,LeeHom Wang,None
+3481,chinese,None
+3482,pop,None
+3483,C-pop,None
+3484,pop,None
+3485,female vocalists,None
+3486,Asian,None
+3487,pop,None
+3488,Love,None
+3489,pop,None
+3490,chinese,None
+3491,Chinese Pop,None
+3492,good,None
+3493,chinese,None
+3494,chankl78,None
+3495,C-pop,None
+3496,chinese,None
+3497,myplaylist,None
+3498,China,None
+3499,C-pop,None
+3500,rock,None
+3501,chankl78,None
+3502,indie,None
+3503,pop,None
+3504,indie,None
+3505,chinese,None
+3506,yearning,None
+3507,China,None
+3508,pop,None
+3509,favorite songs,None
+3510,jacky,None
+3511,pop,None
+3512,Dream,None
+3513,beyond,None
+3514,beyond,None
+3515,rock,None
+3516,chinese rock,None
+3517,beyond,None
+3518,beyond,None
+3519,beyond,None
+3520,beyond,None
+3521,rock,None
+3522,rock,None
+3523,rock,None
+3524,pop,None
+3525,rock,None
+3526,rock,None
+3527,pop,None
+3528,rock,None
+3529,rock,None
+3530,rock,None
+3531,rock,None
+3532,rock,None
+3533,rock,None
+3534,C-pop,None
+3535,chinese,None
+3536,chankl78,None
+3537,female vocalists,None
+3538,C-pop,None
+3539,C-pop,None
+3540,pop,None
+3541,C-pop,None
+3542,C-pop,None
+3543,C-pop,None
+3544,C-pop,None
+3545,C-pop,None
+3546,chinese,None
+3547,C-pop,None
+3548,C-pop,None
+3549,female vocalists,None
+3550,Asian,None
+3551,taiwanese female vocal,None
+3552,123,None
+3553,pop,None
+3554,pop,None
+3555,female vocalists,None
+3556,Asian,None
+3557,pop,None
+3558,chinese,None
+3559,good,None
+3560,C-pop,None
+3561,C-pop,None
+3562,LeeHom Wang,None
+3563,chinese,None
+3564,chinese,None
+3565,C-pop,None
+3566,female vocalists,None
+3567,chinese,None
+3568,China,None
+3569,pop,None
+3570,pop,None
+3571,female vocalists,None
+3572,Asian,None
+3573,pop,None
+3574,chinese,None
+3575,good,None
+3576,Asian,None
+3577,kvstn,None
+3578,pop,None
+3579,C-pop,None
+3580,female vocalists,None
+3581,taiwan,None
+3582,pop,None
+3583,kvstn,None
+3584,pop,None
+3585,C-pop,None
+3586,C-pop,None
+3587,chinese,None
+3588,taiwan,None
+3589,pop,None
+3590,kvstn,None
+3591,pop,None
+3592,C-pop,None
+3593,C-pop,None
+3594,chinese,None
+3595,pop,None
+3596,C-pop,None
+3597,C-pop,None
+3598,chinese,None
+3599,Grunge,None
+3600,Grunge,None
+3601,Grunge,None
+3602,Grunge,None
+3603,Grunge,None
+3604,Grunge,None
+3605,rock,None
+3606,Grunge,None
+3607,Grunge,None
+3608,Grunge,None
+3609,Grunge,None
+3610,Grunge,None
+3611,Grunge,None
+3612,Grunge,None
+3613,Grunge,None
+3614,rock,None
+3615,rock,None
+3616,heard on Pandora,None
+3617,Grunge,None
+3618,rock,None
+3619,rock,None
+3620,Grunge,None
+3621,Grunge,None
+3622,Grunge,None
+3623,Grunge,None
+3624,rock,None
+3625,rock,None
+3626,Grunge,None
+3627,Grunge,None
+3628,Grunge,None
+3629,acoustic,None
+3630,rock,None
+3631,Grunge,None
+3632,Grunge,None
+3633,Grunge,None
+3634,Grunge,None
+3635,Grunge,None
+3636,Grunge,None
+3637,Grunge,None
+3638,Grunge,None
+3639,rock,None
+3640,Grunge,None
+3641,Grunge,None
+3642,Grunge,None
+3643,Grunge,None
+3644,Grunge,None
+3645,rock,None
+3646,Grunge,None
+3647,Grunge,None
+3648,Grunge,None
+3649,Grunge,None
+3650,Grunge,None
+3651,Grunge,None
+3652,Grunge,None
+3653,Grunge,None
+3654,rock,None
+3655,Grunge,None
+3656,Grunge,None
+3657,Grunge,None
+3658,Grunge,None
+3659,Grunge,None
+3660,Grunge,None
+3661,indie,None
+3662,chinese,None
+3663,yearning,None
+3664,China,None
+3665,favorite songs,None
+3666,cpop,None
+3667,chinese,None
+3668,chinese,None
+3669,folk,None
+3670,chinese,None
+3671,chinese,None
+3672,folk,None
+3673,Random,None
+3674,indie,None
+3675,beyond,None
+3676,beyond,None
+3677,chinese,None
+3678,China,None
+3679,Asian,None
+3680,favorite songs,None
+3681,chinese rock,None
+3682,beyond,None
+3683,beyond,None
+3684,beyond,None
+3685,beyond,None
+3686,rock,None
+3687,rock,None
+3688,pop,None
+3689,indie,None
+3690,chinese,None
+3691,yearning,None
+3692,China,None
+3693,pop,None
+3694,favorite songs,None
+3695,jacky,None
+3696,pop,None
+3697,cpop,None
+3698,chillout,None
+3699,ten now,None
+3700,pop,None
+3701,tw,None
+3702,Sentimental,None
+3703,pop,None
+3704,tw,None
+3705,C-pop,None
+3706,calm,None
+3707,LeeHom Wang,None
+3708,chinese,None
+3709,chinese,None
+3710,taiwanese female vocal,None
+3711,chinese female vocal,None
+3712,cpop,None
+3713,chinese female vocal,None
+3714,Koda Kumi,None
+3715,China,None
+3716,123,None
+3717,Love,None
+3718,chinese,None
+3719,C-pop,None
+3720,cpop,None
+3721,123,None
+3722,Love,None
+3723,chinese,None
+3724,pop,None
+3725,chinese female vocal,None
+3726,Koda Kumi,None
+3727,China,None
+3728,123,None
+3729,Love,None
+3730,chinese,None
+3731,C-pop,None
+3732,chinese,None
+3733,pop,None
+3734,Love,None
+3735,pop,None
+3736,C-pop,None
+3737,cpop,None
+3738,chillout,None
+3739,female vocalists,None
+3740,cpop,None
+3741,female vocalists,None
+3742,ten now,None
+3743,pop,None
+3744,tw,None
+3745,Sentimental,None
+3746,chinese,None
+3747,chinese,None
+3748,taiwanese female vocal,None
+3749,chinese female vocal,None
+3750,cpop,None
+3751,chinese female vocal,None
+3752,Koda Kumi,None
+3753,China,None
+3754,123,None
+3755,Love,None
+3756,chinese,None
+3757,C-pop,None
+3758,chinese,None
+3759,pop,None
+3760,pop,None
+3761,female vocalists,None
+3762,Asian,None
+3763,pop,None
+3764,female vocalists,None
+3765,Asian,None
+3766,pop,None
+3767,Love,None
+3768,pop,None
+3769,chinese,None
+3770,rock,None
+3771,rock,None
+3772,pop,None
+3773,female vocalists,None
+3774,123,None
+3775,Love,None
+3776,chinese,None
+3777,pop,None
+3778,1990,None
+3779,indie,None
+3780,indie,None
+3781,favorite songs,None
+3782,rock,None
+3783,rock,None
+3784,Grunge,None
+3785,Grunge,None
+3786,Grunge,None
+3787,Grunge,None
+3788,Grunge,None
+3789,Grunge,None
+3790,Grunge,None
+3791,rock,None
+3792,rock,None
+3793,heard on Pandora,None
+3794,Grunge,None
+3795,rock,None
+3796,rock,None
+3797,Grunge,None
+3798,Grunge,None
+3799,Grunge,None
+3800,Grunge,None
+3801,rock,None
+3802,chinese,None
+3803,chinese,None
+3804,chinese,None
+3805,rock,None
+3806,chinese,None
+3807,chinese,None
+3808,Asian,None
+3809,pop,None
+3810,pop,None
+3811,123,None
+3812,chinese,None
+3813,Love,None
+3814,chillout,None
+3815,LeeHom Wang,None
+3816,Chinese Pop,None
+3817,Koda Kumi,None
+3818,chinese,None
+3819,Chinese Pop,None
+3820,China,None
+3821,pop,None
+3822,chinese,None
+3823,pop,None
+3824,calm,None
+3825,chinese,None
+3826,pop,None
+3827,pop,None
+3828,yearning,None
+3829,indie,None
+3830,indie,None
+3831,folk-rock,None
+3832,chankl78,None
+3833,female vocalists,None
+3834,C-pop,None
+3835,C-pop,None
+3836,pop,None
+3837,C-pop,None
+3838,xiao,None
+3839,taiwanese pop,None
+3840,my-bestlove,None
+3841,pop,None
+3842,chinese,None
+3843,jacky,None
+3844,pop,None
+3845,China,None
+3846,chinese,None
+3847,C-pop,None
+3848,Chinese Pop,None
+3849,chinese,None
+3850,C-pop,None
+3851,pop,None
+3852,Chinese Pop,None
+3853,Jay Chou,None
+3854,jay,None
+3855,C-pop,None
+3856,Jay Chou,None
+3857,chinese,None
+3858,pop,None
+3859,China,None
+3860,China,None
+3861,chinese,None
+3862,jacky,None
+3863,pop,None
+3864,China,None
+3865,China,None
+3866,chinese,None
+3867,C-pop,None
+3868,Chinese Pop,None
+3869,chinese,None
+3870,C-pop,None
+3871,pop,None
+3872,Chinese Pop,None
+3873,Jay Chou,None
+3874,jay,None
+3875,C-pop,None
+3876,rock,None
+3877,rock,None
+3878,rock,None
+3879,rock,None
+3880,rock,None
+3881,rock,None
+3882,chinese,None
+3883,chinese,None
+3884,pop,None
+3885,1990,None
+3886,cpop,None
+3887,chillout,None
+3888,female vocalists,None
+3889,pop,None
+3890,indie,None
+3891,rock,None
+3892,rock,None
+3893,rock,None
+3894,rock,None
+3895,rock,None
+3896,rock,None
+3897,China,None
+3898,China,None
+3899,China,None
+3900,rock,None
+3901,pop,None
+3902,pop,None
+3903,tw,None
+3904,myplaylist,None
+3905,C-pop,None
+3906,pop,None
+3907,rock,None
+3908,Chinese Pop,None
+3909,tw,None
+3910,Love,None
+3911,chillout,None
+3912,Chinese Pop,None
+3913,taiwanese female vocal,None
+3914,1993,None
+3915,chillout,None
+3916,Koda Kumi,None
+3917,Sentimental,None
+3918,rock,None
+3919,chinese,None
+3920,rtg,None
+3921,China,None
+3922,pop,None
+3923,pop,None
+3924,ten now,None
+3925,chinese,None
+3926,Sentimental,None
+3927,chinese,None
+3928,jacky,None
+3929,jacky,None
+3930,jacky,None
+3931,rock,None
+3932,chankl78,None
+3933,chinese,None
+3934,yearning,None
+3935,yearning,None
+3936,C-pop,None
+3937,female vocalists,None
+3938,chinese,None
+3939,jacky,None
+3940,C-pop,None
+3941,C-pop,None
+3942,female vocalists,None
+3943,chinese,None
+3944,jacky,None
+3945,C-pop,None
+3946,female vocalists,None
+3947,chinese,None
+3948,jacky,None
+3949,C-pop,None
+3950,female vocalists,None
+3951,chinese,None
+3952,jacky,None
+3953,C-pop,None
+3954,female vocalists,None
+3955,chinese,None
+3956,jacky,None
+3957,C-pop,None
+3958,female vocalists,None
+3959,chinese,None
+3960,jacky,None
+3961,C-pop,None
+3962,female vocalists,None
+3963,chinese,None
+3964,jacky,None
+3965,C-pop,None
+3966,female vocalists,None
+3967,chinese,None
+3968,chinese,None
+3969,pop,None
+3970,chinese,None
+3971,chinese,None
+3972,indie,None
+3973,jacky,None
+3974,jacky,None
+3975,jacky,None
+3976,jacky,None
+3977,jacky,None
+3978,jacky,None
+3979,jacky,None
+3980,jacky,None
+3981,jacky,None
+3982,jacky,None
+3983,jacky,None
+3984,jacky,None
+3985,jacky,None
+3986,jacky,None
+3987,jacky,None
+3988,jacky,None
+3989,jacky,None
+3990,jacky,None
+3991,jacky,None
+3992,jacky,None
+3993,jacky,None
+3994,jacky,None
+3995,pop,None
+3996,Love,None
+3997,pop,None
+3998,chinese,None
+3999,C-pop,None
+4000,chinese,None
+4001,pop,None
+4002,chinese,None
+4003,pop,None
+4004,taiwanese female vocal,None
+4005,chinese,None
+4006,1993,None
+4007,pop,None
+4008,Chinese Pop,None
+4009,chankl78,None
+4010,jacky,None
+4011,China,None
+4012,C-pop,None
+4013,chankl78,None
+4014,indie,None
+4015,pop,None
+4016,indie,None
+4017,chinese,None
+4018,yearning,None
+4019,China,None
+4020,pop,None
+4021,favorite songs,None
+4022,jacky,None
+4023,indie,None
+4024,chinese,None
+4025,yearning,None
+4026,China,None
+4027,pop,None
+4028,favorite songs,None
+4029,jacky,None
+4030,pop,None
+4031,cpop,None
+4032,chillout,None
+4033,female vocalists,None
+4034,Grunge,None
+4035,Grunge,None
+4036,Grunge,None
+4037,Grunge,None
+4038,Grunge,None
+4039,Grunge,None
+4040,Grunge,None
+4041,Grunge,None
+4042,Grunge,None
+4043,Grunge,None
+4044,Grunge,None
+4045,rock,None
+4046,rock,None
+4047,rock,None
+4048,rock,None
+4049,Grunge,None
+4050,rock,None
+4051,rock,None
+4052,rock,None
+4053,Grunge,None
+4054,Grunge,None
+4055,Grunge,None
+4056,Grunge,None
+4057,Grunge,None
+4058,Grunge,None
+4059,Grunge,None
+4060,Grunge,None
+4061,Grunge,None
+4062,Grunge,None
+4063,Grunge,None
+4064,Grunge,None
+4065,Grunge,None
+4066,Grunge,None
+4067,Grunge,None
+4068,good,None
+4069,C-pop,None
+4070,female vocalists,None
+4071,chinese,None
+4072,China,None
+4073,C-pop,None
+4074,taiwanese female vocal,None
+4075,123,None
+4076,pop,None
+4077,pop,None
+4078,chinese,None
+4079,C-pop,None
+4080,taiwanese female vocal,None
+4081,123,None
+4082,pop,None
+4083,pop,None
+4084,female vocalists,None
+4085,Asian,None
+4086,pop,None
+4087,chinese,None
+4088,good,None
+4089,chinese,None
+4090,C-pop,None
+4091,female vocalists,None
+4092,chinese,None
+4093,China,None
+4094,C-pop,None
+4095,chinese,None
+4096,C-pop,None
+4097,C-pop,None
+4098,female vocalists,None
+4099,chinese,None
+4100,China,None
+4101,C-pop,None
+4102,C-pop,None
+4103,LeeHom Wang,None
+4104,C-pop,None
+4105,female vocalists,None
+4106,chinese,None
+4107,China,None
+4108,C-pop,None
+4109,chinese,None
+4110,C-pop,None
+4111,female vocalists,None
+4112,C-pop,None
+4113,C-pop,None
+4114,123,None
+4115,pop,None
+4116,chinese,None
+4117,good,None
+4118,chinese,None
+4119,C-pop,None
+4120,female vocalists,None
+4121,123,None
+4122,chinese,None
+4123,Asian,None
+4124,pop,None
+4125,chinese,None
+4126,China,None
+4127,chinese,None
+4128,jacky,None
+4129,C-pop,None
+4130,female vocalists,None
+4131,C-pop,None
+4132,female vocalists,None
+4133,chinese,None
+4134,jacky,None
+4135,C-pop,None
+4136,female vocalists,None
+4137,chinese,None
+4138,jacky,None
+4139,C-pop,None
+4140,female vocalists,None
+4141,chinese,None
+4142,jacky,None
+4143,C-pop,None
+4144,female vocalists,None
+4145,chinese,None
+4146,China,None
+4147,C-pop,None
+4148,China,None
+4149,C-pop,None
+4150,C-pop,None
+4151,LeeHom Wang,None
+4152,taiwanese female vocal,None
+4153,123,None
+4154,Grunge,None
+4155,pop,None
+4156,introverted,None
+4157,beyond,None
+4158,chinese,None
+4159,jacky,None
+4160,jacky,None
+4161,jacky,None
+4162,C-pop,None
+4163,female vocalists,None
+4164,chinese,None
+4165,jacky,None
+4166,chinese,None
+4167,C-pop,None
+4168,female vocalists,None
+4169,China,None
+4170,chinese,None
+4171,C-pop,None
+4172,chinese,None
+4173,C-pop,None
+4174,female vocalists,None
+4175,chinese,None
+4176,China,None
+4177,C-pop,None
+4178,chinese,None
+4179,good,None
+4180,China,None
+4181,pop,None
+4182,pop,None
+4183,chinese,None
+4184,indie,None
+4185,favorite songs,None
+4186,indie,None
+4187,jacky,None
+4188,C-pop,None
+4189,female vocalists,None
+4190,chinese,None
+4191,jacky,None
+4192,chinese,None
+4193,female vocalists,None
+4194,pop,None
+4195,pop,None
+4196,chinese,None
+4197,Chinese Pop,None
+4198,chinese,None
+4199,chinese,None
+4200,jacky,None
+4201,C-pop,None
+4202,female vocalists,None
+4203,chinese,None
+4204,jacky,None
+4205,C-pop,None
+4206,female vocalists,None
+4207,jacky,None
+4208,chinese,None
+4209,jacky,None
+4210,C-pop,None
+4211,female vocalists,None
+4212,jacky,None
+4213,C-pop,None
+4214,female vocalists,None
+4215,chinese,None
+4216,jacky,None
+4217,C-pop,None
+4218,female vocalists,None
+4219,China,None
+4220,jacky,None
+4221,Soundtrack,None
+4222,chankl78,None
+4223,C-pop,None
+4224,chinese,None
+4225,myplaylist,None
+4226,China,None
+4227,C-pop,None
+4228,female vocalists,None
+4229,chinese,None
+4230,jacky,None
+4231,C-pop,None
+4232,female vocalists,None
+4233,rock,None
+4234,rock,None
+4235,rock,None
+4236,myplaylist,None
+4237,favorite songs,None
+4238,China,None
+4239,chinese,None
+4240,Love,None
+4241,chinese,None
+4242,female vocalists,None
+4243,Chinese Pop,None
+4244,chinese,None
+4245,rock,None
+4246,China,None
+4247,C-pop,None
+4248,chinese,None
+4249,rock,None
+4250,rock,None
+4251,piano,None
+4252,rock,None
+4253,rock,None
+4254,rock,None
+4255,rock,None
+4256,pop,None
+4257,chinese,None
+4258,myplaylist,None
+4259,China,None
+4260,chankl78,None
+4261,rock,None
+4262,chankl78,None
+4263,indie,None
+4264,female vocalists,None
+4265,chinese,None
+4266,jacky,None
+4267,C-pop,None
+4268,female vocalists,None
+4269,C-pop,None
+4270,female vocalists,None
+4271,chinese,None
+4272,Ballad,None
+4273,pop,None
+4274,jacky,None
+4275,C-pop,None
+4276,female vocalists,None
+4277,chinese,None
+4278,chinese,None
+4279,Ballad,None
+4280,pop,None
+4281,jacky,None
+4282,C-pop,None
+4283,female vocalists,None
+4284,chinese,None
+4285,Ballad,None
+4286,pop,None
+4287,jacky,None
+4288,Ballad,None
+4289,pop,None
+4290,jacky,None
+4291,C-pop,None
+4292,female vocalists,None
+4293,chinese,None
+4294,Ballad,None
+4295,pop,None
+4296,jacky,None
+4297,female vocalists,None
+4298,Ballad,None
+4299,pop,None
+4300,jacky,None
+4301,C-pop,None
+4302,female vocalists,None
+4303,chinese,None
+4304,Ballad,None
+4305,pop,None
+4306,jacky,None
+4307,C-pop,None
+4308,female vocalists,None
+4309,chinese,None
+4310,Ballad,None
+4311,pop,None
+4312,jacky,None
+4313,C-pop,None
+4314,female vocalists,None
+4315,chinese,None
+4316,Ballad,None
+4317,pop,None
+4318,jacky,None
+4319,C-pop,None
+4320,female vocalists,None
+4321,female vocalists,None
+4322,folk,None
+4323,beyond,None
+4324,jacky,None
+4325,C-pop,None
+4326,female vocalists,None
+4327,chinese,None
+4328,Ballad,None
+4329,pop,None
+4330,jacky,None
+4331,C-pop,None
+4332,Yoga Lin,None
+4333,chinese,None
+4334,Yoga Lin,None
+4335,introverted,None
+4336,pop,None
+4337,Ballad,None
+4338,chinese,None
+4339,taiwanese pop,None
+4340,taiwanese pop,None
+4341,indie,None
+4342,indie,None
+4343,indie,None
+4344,rock,None
+4345,rock,None
+4346,rock,None
+4347,rock,None
+4348,rock,None
+4349,rock,None
+4350,Hip-Hop,None
+4351,acoustic,None
+4352,folk,None
+4353,folk,None
+4354,chillout,None
+4355,folk,None
+4356,folk,None
+4357,folk,None
+4358,folk,None
+4359,phil coulter,None
+4360,Grunge,None
+4361,Grunge,None
+4362,Grunge,None
+4363,rock,None
+4364,rock,None
+4365,C-pop,None
+4366,myplaylist,None
+4367,China,None
+4368,C-pop,None
+4369,rock,None
+4370,chankl78,None
+4371,cpop,None
+4372,folk,None
+4373,chankl78,None
+4374,female vocalists,None
+4375,female vocalists,None
+4376,chinese,None
+4377,anime,None
+4378,rock,None
+4379,rock,None
+4380,rock,None
+4381,chinese female vocal,None
+4382,pop,None
+4383,China,None
+4384,chinese,None
+4385,chinese,None
+4386,female vocalists,None
+4387,China,None
+4388,pop,None
+4389,jacky,None
+4390,China,None
+4391,favorite songs,None
+4392,good,None
+4393,China,None
+4394,1993,None
+4395,taiwanese female vocal,None
+4396,pop,None
+4397,Love,None
+4398,Asian,None
+4399,chinese,None
+4400,taiwanese female vocal,None
+4401,kvstn,None
+4402,pop,None
+4403,Yoga Lin,None
+4404,pop,None
+4405,chinese,None
+4406,rock,None
+4407,rock,None
+4408,China,None
+4409,chankl78,None
+4410,China,None
+4411,1993,None
+4412,taiwanese female vocal,None
+4413,Asian,None
+4414,C-pop,None
+4415,female vocalists,None
+4416,chinese,None
+4417,Ballad,None
+4418,pop,None
+4419,jacky,None
+4420,C-pop,None
+4421,female vocalists,None
+4422,chinese,None
+4423,Ballad,None
+4424,pop,None
+4425,jacky,None
+4426,C-pop,None
+4427,pop,None
+4428,pop,None
+4429,pop,None
+4430,pop,None
+4431,cpop,None
+4432,China,None
+4433,chillout,None
+4434,C-pop,None
+4435,tw,None
+4436,chinese,None
+4437,pop,None
+4438,da  len,None
+4439,indie,None
+4440,chinese,None
+4441,chinese,None
+4442,chinese,None
+4443,Koda Kumi,None
+4444,favorite songs,None
+4445,female vocalists,None
+4446,taiwanese pop,None
+4447,chinese,None
+4448,C-pop,None
+4449,favorite songs,None
+4450,female vocalists,None
+4451,jacky,None
+4452,C-pop,None
+4453,female vocalists,None
+4454,chinese,None
+4455,Ballad,None
+4456,pop,None
+4457,jacky,None
+4458,C-pop,None
+4459,female vocalists,None
+4460,chinese,None
+4461,Ballad,None
+4462,pop,None
+4463,jacky,None
+4464,Ballad,None
+4465,pop,None
+4466,jacky,None
+4467,pop,None
+4468,chinese,None
+4469,China,None
+4470,C-pop,None
+4471,female vocalists,None
+4472,calm,None
+4473,pop,None
+4474,123,None
+4475,favorite songs,None
+4476,indie,None
+4477,indie,None
+4478,chinese,None
+4479,pop,None
+4480,C-pop,None
+4481,female vocalists,None
+4482,good,None
+4483,favorite songs,None
+4484,rock,None
+4485,Favorite,None
+4486,rock,None
+4487,rock,None
+4488,rock,None
+4489,-,None
+4490,rock,None
+4491,rock,None
+4492,rock,None
+4493,Grunge,None
+4494,Grunge,None
+4495,Grunge,None
+4496,Grunge,None
+4497,Grunge,None
+4498,Grunge,None
+4499,Grunge,None
+4500,Grunge,None
+4501,Grunge,None
+4502,Grunge,None
+4503,Grunge,None
+4504,Grunge,None
+4505,Grunge,None
+4506,Grunge,None
+4507,Grunge,None
+4508,jacky,None
+4509,chinese,None
+4510,Ballad,None
+4511,chinese,None
+4512,Ballad,None
+4513,pop,None
+4514,jacky,None
+4515,C-pop,None
+4516,female vocalists,None
+4517,chinese,None
+4518,Ballad,None
+4519,chinese,None
+4520,Ballad,None
+4521,pop,None
+4522,female vocalists,None
+4523,chinese,None
+4524,Ballad,None
+4525,pop,None
+4526,jacky,None
+4527,C-pop,None
+4528,female vocalists,None
+4529,chinese,None
+4530,Ballad,None
+4531,pop,None
+4532,jacky,None
+4533,C-pop,None
+4534,female vocalists,None
+4535,chinese,None
+4536,Ballad,None
+4537,pop,None
+4538,jacky,None
+4539,C-pop,None
+4540,female vocalists,None
+4541,chinese,None
+4542,Ballad,None
+4543,pop,None
+4544,jacky,None
+4545,C-pop,None
+4546,female vocalists,None
+4547,pop,None
+4548,jacky,None
+4549,C-pop,None
+4550,female vocalists,None
+4551,chinese,None
+4552,Ballad,None
+4553,pop,None
+4554,jacky,None
+4555,C-pop,None
+4556,female vocalists,None
+4557,rock,None
+4558,C-pop,None
+4559,chinese,None
+4560,C-pop,None
+4561,female vocalists,None
+4562,jacky,None
+4563,C-pop,None
+4564,female vocalists,None
+4565,jacky,None
+4566,Grunge,None
+4567,rock,None
+4568,rock,None
+4569,rock,None
+4570,C-pop,None
+4571,jacky,None
+4572,C-pop,None
+4573,female vocalists,None
+4574,C-pop,None
+4575,female vocalists,None
+4576,jacky,None
+4577,C-pop,None
+4578,female vocalists,None
+4579,jacky,None
+4580,C-pop,None
+4581,C-pop,None
+4582,kvstn,None
+4583,pop,None
+4584,female vocalists,None
+4585,C-pop,None
+4586,kvstn,None
+4587,pop,None
+4588,female vocalists,None
+4589,chankl78,None
+4590,chinese,None
+4591,taiwan,None
+4592,C-pop,None
+4593,C-pop,None
+4594,pop,None
+4595,C-pop,None
+4596,kvstn,None
+4597,pop,None
+4598,female vocalists,None
+4599,taiwan,None
+4600,C-pop,None

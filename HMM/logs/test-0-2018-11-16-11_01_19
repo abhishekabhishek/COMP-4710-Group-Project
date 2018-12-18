@@ -1,0 +1,5 @@
+Dimensions of the training datafame: (123906, 3)
+Dimensions of the test datafame: (103821, 3)
+<class 'numpy.ndarray'>
+123906
+123900

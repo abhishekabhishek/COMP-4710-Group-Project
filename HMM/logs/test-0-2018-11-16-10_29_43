@@ -1,0 +1,19 @@
+Dimensions of the training datafame: (123906, 3)
+Dimensions of the test datafame: (103821, 3)
+Estimating the parameters for the model with type: <class 'hmmlearn.hmm.GaussianHMM'>
+A model has already been trained with the following parameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_viterbi_full_10_1_(-1,1).pkl
+A model has already been trained with the following parameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_viterbi_full_11_1_(-1,1).pkl
+A model has already been trained with the followingparameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_map_full_10_1_(-1,1).pkl
+A model has already been trained with the followingparameters. Loading model from path:/home/abhi/dev1/step_project_3/implementations/MMPP/HMM/models/trainedHMM/gaussian_hmm_map_full_11_1_(-1,1).pkl
+0
+GaussianHMM(algorithm='viterbi', covariance_type='full', covars_prior=0.01,
+      covars_weight=1, init_params='', means_prior=0, means_weight=0,
+      min_covar=0.001, n_components=10, n_iter=1, params='stmc',
+      random_state=<mtrand.RandomState object at 0x7f205d1a6120>,
+      startprob_prior=1.0, tol=5.0, transmat_prior=1.0, verbose=True)
+1
+GaussianHMM(algorithm='viterbi', covariance_type='full', covars_prior=0.01,
+      covars_weight=1, init_params='', means_prior=0, means_weight=0,
+      min_covar=0.001, n_components=11, n_iter=1, params='stmc',
+      random_state=<mtrand.RandomState object at 0x7f205d1a60d8>,
+      startprob_prior=1.0, tol=5.0, transmat_prior=1.0, verbose=True)

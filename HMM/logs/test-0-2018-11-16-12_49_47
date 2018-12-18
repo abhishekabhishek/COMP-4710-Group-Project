@@ -1,0 +1,9 @@
+Dimensions of the training datafame: (123906, 3)
+Dimensions of the test datafame: (103821, 3)
+Estimating the parameters for the model with type: <class 'hmmlearn.hmm.GaussianHMM'>
+Training model with parameters: GaussianHMM(algorithm='viterbi', covariance_type='tied', covars_prior=0.01,
+      covars_weight=1, init_params='', means_prior=0, means_weight=0,
+      min_covar=0.001, n_components=60, n_iter=100, params='stmc',
+      random_state=<mtrand.RandomState object at 0x7f2a5991a900>,
+      startprob_prior=1.0, tol=0.5, transmat_prior=1.0, verbose=True)
+Note : The verbose output has the following format : Column 1: Iteration, Column 2: ?, Column 3: Log probability score

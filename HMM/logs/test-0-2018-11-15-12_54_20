@@ -1,0 +1,3 @@
+Dimensions of the training datafame: (123906, 3)
+Dimensions of the test datafame: (103821, 3)
+Estimating the parameters for the model with type: <class 'hmmlearn.hmm.GaussianHMM'>
